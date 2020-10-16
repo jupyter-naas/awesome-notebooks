@@ -1,0 +1,12 @@
+# Gitlab 
+Coming Soon -
+
+Then feel free to join the movement and benefit from Naas community intelligence.
+
+🙏 How you can contribute ? 
+
+- Help us fix the broken notebooks in the "Need-a-fix folder" (if there is one)
+- Suggest new notebooks ideas with a Pull Request on this README/Notebook wishlist
+- Push new notebooks to official list by creating an issue and pushing Pull Requests 
+
+*Any questions ? Contact us on our live chat here: https://www.naas.ai/*

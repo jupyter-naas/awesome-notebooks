@@ -24,18 +24,17 @@ Any questions ? Contact us on our live chat here: https://naas.ai
 ## Folder list 
 In each folder you will find a "README.md" folder that will help you find what you need by topics.
 
-- ⭐ Notebooks Scripting Basics
 - [Banking & Treasury](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Banking%20%26%20Treasury)
 - [CRM](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CRM)
 - [Data Visualisation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation)
 - [ERP](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ERP) 
 - [FTP](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP)  
-- File parsing
-- Machine Learning
-- Market Data 
-- Project Management 
+- [File parsing](https://github.com/jupyter-naas/awesome-notebooks/tree/master/File%20parsing)
+- [Market Dataa](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Maket%20Data)
+- [Naas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas)
+- [Project Managementa](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Project%20Management)
 - [Spreadsheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Spreadsheets) 
-- World Data 
+- [World Data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Open%20Data) 
 
 
 

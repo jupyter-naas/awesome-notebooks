@@ -40,7 +40,7 @@ In each folder you will find a "README.md" folder that will help you find what y
 
 
 <br>
-*Powered by CashStory SAS (Naas mother company).* 
+**Powered by CashStory SAS (Naas mother company).**
 <br>
-*Contact us to learn more on our website chat : https://naas.ai *
+**Contact us to learn more on our website chat : https://naas.ai **
 

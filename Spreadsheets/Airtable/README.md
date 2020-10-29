@@ -1,1 +1,0 @@
-# Airtable Basic Connector (Coming soon)

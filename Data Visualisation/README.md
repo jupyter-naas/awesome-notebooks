@@ -1,20 +1,25 @@
-# 🐙 NaasDataviz Notebooks
+# 🐙 Data Visualisation
 
-In this section, we will take the most of the best data visualisation tools with our Python scripts. 
+The project management folder is here to help you get the most of the Data Visualisation tools you use.
+👉 In this folder you will find the unitary notebooks that will make the magic happend. 
 
-## Naas x Toucan Toco
-- Launch app preprocess from API 
-- Launch app release to production from API 
-- Generate PDF from all the visualisation in a small app 
-- Extract the table of content of a small app 
-- Serve a plotly visualisation in a specific story (ex: map)
+🙏 How you can contribute ? 
 
-## Naas x PowerBI
-- Refresh all your datasets (https://www.youtube.com/watch?v=wUzZChTlzdE)
-- Import data into Power BI using Python (https://www.youtube.com/watch?v=8j1fod9LKOM)
-- Export data from Power BI using Python (https://www.youtube.com/watch?v=GXa9FA3xYAU)
+- Suggest new notebooks ideas with a Github issue
+- Push new notebooks by creating a Pull Requests 
+- Fix the broken notebooks if there is one in Github
+
+*Any questions ? Contact us on our live chat here: https://naas.ai*
 
 
-## Naas x Plotly 
-- Create a Candlestick chart
-- Create ...
+## Notebook official list 
+List of current validated notebooks 
+
+- [Plotly Bubble chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+- [Plotly Candlestick](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+- [Plotly Gantt](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+- [Plotly Bar chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+- [Plotly Line chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+- [Plotly Waterfall](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+- [Plotly Waterfall Advanced](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+- [Toucan Toco Enbed](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Toucan%20Toco)

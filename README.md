@@ -10,9 +10,9 @@ Then feel free to join the movement and benefit from Naas community intelligence
 
 🙏 How you can contribute ? 
 
-- Help us fix the broken notebooks in the "Need-a-fix folder" (if there is one)
-- Suggest new notebooks ideas with a Pull Request on this README/Notebook wishlist
-- Push new notebooks to official list by creating an issue and pushing Pull Requests 
+- Suggest new notebooks ideas with a Github issue
+- Push new notebooks by creating a Pull Requests 
+- Fix the broken notebooks if there is one in Github
 
 Any questions ? Contact us on our live chat here: https://naas.ai
 
@@ -21,25 +21,72 @@ Any questions ? Contact us on our live chat here: https://naas.ai
 <br/>
 <br/>
 
-## Folder list 
-In each folder you will find a "README.md" folder that will help you find what you need by topics.
+# CRM
+- [Hubspot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CRM/Hubspot), Emails campaigns and contact management.
 
-- [Banking & Treasury](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Banking%20%26%20Treasury)
-- [CRM](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CRM)
-- [Data Visualisation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation)
-- [ERP](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ERP) 
-- [FTP](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP)  
-- [File parsing](https://github.com/jupyter-naas/awesome-notebooks/tree/master/File%20parsing)
-- [Market Dataa](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Maket%20Data)
-- [Naas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas)
-- [Project Managementa](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Project%20Management)
-- [Spreadsheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Spreadsheets) 
-- [World Data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Open%20Data) 
+# Data Visualisation
 
+- [Plotly Bubble chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+- [Plotly Candlestick](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+- [Plotly Gantt](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+- [Plotly Bar chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+- [Plotly Line chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+- [Plotly Waterfall](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+- [Plotly Waterfall Advanced](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+- [Toucan Toco Enbed](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Toucan%20Toco)
+
+# ERP
+
+- [SAP](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ERP/SAP-HANA)
+
+# File parsing
+
+- [ZIP](https://github.com/jupyter-naas/awesome-notebooks/tree/master/File%20parsing/ZIP)
+- [CSV](https://github.com/jupyter-naas/awesome-notebooks/tree/master/File%20parsing/CSV)
+
+# FTP
+
+- [FTP](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP)
+
+# Market Data
+
+- [Quandl](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Maket%20Data/Quandl)
+- [Yahoo-Finance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Maket%20Data/Yahoo-Finance)
+
+# Nass
+
+- [Notebook as API](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Notebook_as_API)
+- [Notebook Scheduler](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Scheduler)
+- [Sharable Assets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Shareable_assets)
+- [Notifications](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Notifications)
+
+# Project Management
+
+- [Trello](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Project%20Management/Trello)
+
+# Spreadsheets
+
+- [Excel 365](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Spreadsheets/Excel%20365)
+- [GSheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Spreadsheets/GSheets)
+
+# Treasury
+
+- [Neo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Treasury/Neo)
+
+# World Data
+
+- [COVID19 FR](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Open%20Data/COVID19) 
+- [GDP per capital](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Open%20Data/Economic%20Data)
+- [GDP per country](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Open%20Data/Economic%20Data)
+- [Gini inex](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Open%20Data/Economic%20Data)
+- [Most populated countries](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Open%20Data/Economic%20Data)
+- [Top 10 richest region](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Open%20Data/Economic%20Data)
+- [World GPD contributor](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Open%20Data/Economic%20Data)
+- [World population and Density](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Open%20Data/Economic%20Data)
 
 
 <br/>
-Powered by CashStory SAS (Naas mother company).
+Created by CashStory SAS (Naas mother company).
 <br/>
 Contact us to learn more on our website chat : https://naas.ai
 

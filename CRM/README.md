@@ -1,1 +1,0 @@
-Here is a description of Pipedrive API : https://developers.pipedrive.com/docs/api/v1/

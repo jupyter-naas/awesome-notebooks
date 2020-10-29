@@ -33,6 +33,12 @@ Any questions ? Contact us on our live chat here: https://naas.ai
 - [Plotly Waterfall Advanced](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
 - [Toucan Toco Enbed](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Toucan%20Toco)
 
+## Database
+
+- [Airtable](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Database/Airtable)
+- [MySQL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Database/MySQL)
+- [Snowflake](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Database/Snowflake)
+
 ## ERP
 
 - [SAP](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ERP/SAP-HANA)
@@ -45,6 +51,7 @@ Any questions ? Contact us on our live chat here: https://naas.ai
 ## FTP
 
 - [FTP](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP)
+- [FTPS](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTPS)
 
 ## Market Data
 

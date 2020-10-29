@@ -14,11 +14,6 @@ Then feel free to join the movement and benefit from Naas community intelligence
 - Push new notebooks by creating a Pull Requests 
 - Fix the broken notebooks if there is one in Github
 
-Any questions ? Contact us on our live chat here: https://naas.ai
-
-<br/>
-<br/>
-
 # CRM
 - [Hubspot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CRM/Hubspot), Emails campaigns and contact management.
 

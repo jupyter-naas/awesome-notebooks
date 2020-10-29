@@ -1,8 +1,8 @@
 # 🐙 Naas Awesome-Notebooks
-<br>
+<br/>
 An awesome list of public Jupyter Notebooks on all kinds of interesting topics, published by the Naas community.
 😎 🌎
-<br>
+<br/>
 This project is made for busy business & tech professionals that wants to take back control of their data. <br>
 Are you part of them ? 
 
@@ -14,12 +14,12 @@ Then feel free to join the movement and benefit from Naas community intelligence
 - Suggest new notebooks ideas with a Pull Request on this README/Notebook wishlist
 - Push new notebooks to official list by creating an issue and pushing Pull Requests 
 
-*Any questions ? Contact us on our live chat here: https://www.naas.ai/*
+Any questions ? Contact us on our live chat here: https://naas.ai
 
 
 
-<br>
-<br>
+<br/>
+<br/>
 
 ## Folder list 
 In each folder you will find a "README.md" folder that will help you find what you need by topics.
@@ -39,8 +39,8 @@ In each folder you will find a "README.md" folder that will help you find what y
 
 
 
-<br>
-**Powered by CashStory SAS (Naas mother company).**
-<br>
-**Contact us to learn more on our website chat : https://naas.ai **
+<br/>
+Powered by CashStory SAS (Naas mother company).
+<br/>
+Contact us to learn more on our website chat : https://naas.ai
 

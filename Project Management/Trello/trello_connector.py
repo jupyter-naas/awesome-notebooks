@@ -157,10 +157,3 @@ def main(key, token,board_id,  export=False):
     if name:
         print("Exported to : "+ name) 
     return df
-
-if __name__ == '__main__':
-    token = ""
-    key = ""
-    board_id = "VCmIpC16"
-    main(key,token,board_id)
-    

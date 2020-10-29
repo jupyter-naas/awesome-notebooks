@@ -16,8 +16,6 @@ Then feel free to join the movement and benefit from Naas community intelligence
 
 Any questions ? Contact us on our live chat here: https://naas.ai
 
-
-
 <br/>
 <br/>
 
@@ -35,45 +33,45 @@ Any questions ? Contact us on our live chat here: https://naas.ai
 - [Plotly Waterfall Advanced](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
 - [Toucan Toco Enbed](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Toucan%20Toco)
 
-# ERP
+## ERP
 
 - [SAP](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ERP/SAP-HANA)
 
-# File parsing
+## File parsing
 
 - [ZIP](https://github.com/jupyter-naas/awesome-notebooks/tree/master/File%20parsing/ZIP)
 - [CSV](https://github.com/jupyter-naas/awesome-notebooks/tree/master/File%20parsing/CSV)
 
-# FTP
+## FTP
 
 - [FTP](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP)
 
-# Market Data
+## Market Data
 
 - [Quandl](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Maket%20Data/Quandl)
 - [Yahoo-Finance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Maket%20Data/Yahoo-Finance)
 
-# Nass
+## Nass
 
 - [Notebook as API](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Notebook_as_API)
 - [Notebook Scheduler](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Scheduler)
 - [Sharable Assets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Shareable_assets)
 - [Notifications](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Notifications)
 
-# Project Management
+## Project Management
 
 - [Trello](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Project%20Management/Trello)
 
-# Spreadsheets
+## Spreadsheets
 
 - [Excel 365](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Spreadsheets/Excel%20365)
 - [GSheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Spreadsheets/GSheets)
 
-# Treasury
+## Treasury
 
 - [Neo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Treasury/Neo)
 
-# World Data
+## World Data
 
 - [COVID19 FR](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Open%20Data/COVID19) 
 - [GDP per capital](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Open%20Data/Economic%20Data)

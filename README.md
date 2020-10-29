@@ -25,7 +25,7 @@ Then feel free to join the movement and benefit from Naas community intelligence
 In each folder you will find a "README.md" folder that will help you find what you need by topics.
 
 - ⭐ Notebooks Scripting Basics
-- (Banking & Treasury)[https://github.com/jupyter-naas/awesome-notebooks/tree/master/Banking%20%26%20Treasury]
+- [Banking & Treasury](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Banking%20%26%20Treasury)
 - CRM 
 - Data Visualisation 
 - ERP 

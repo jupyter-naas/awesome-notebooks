@@ -26,7 +26,7 @@ In each folder you will find a "README.md" folder that will help you find what y
 
 - ⭐ Notebooks Scripting Basics
 - [Banking & Treasury](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Banking%20%26%20Treasury)
-- CRM 
+- [CRM](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CRM)
 - Data Visualisation 
 - ERP 
 - FTP 

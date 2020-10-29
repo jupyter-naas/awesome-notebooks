@@ -62,6 +62,12 @@ Any questions ? Contact us on our live chat here: https://naas.ai
 
 - [Trello](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Project%20Management/Trello)
 
+## Snippets
+
+- [Delete not empty folder](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Snippets)
+- [Embed webpage](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Snippets)
+
+
 ## Spreadsheets
 
 - [Excel 365](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Spreadsheets/Excel%20365)

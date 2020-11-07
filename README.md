@@ -6,7 +6,7 @@ An awesome list of public Jupyter Notebooks on all kinds of interesting topics, 
 This project is made for busy business & tech professionals that wants to take back control of their data. <br>
 Are you part of them ? 
 
-Then feel free to join the movement and benefit from Naas community intelligence.
+Then feel free to join the movement and benefit from Naas collective intelligence.
 
 🙏 How you can contribute ? 
 

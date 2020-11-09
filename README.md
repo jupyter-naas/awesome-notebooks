@@ -14,15 +14,40 @@ Then feel free to join the movement and benefit from Naas collective intelligenc
 - Push new notebooks by creating a Pull Requests 
 - Fix the broken notebooks if there is one in Github
 
+
 # Accounting 
-- Get invoices list
+
+## Quickbooks
+- [Quickbooks](): Get invoices list (Coming soon)
+
+## Wave
+- [Wave](): Get invoices list (Coming soon)
+
+
+# Automation 
+
+## IFTT
+- [IFTTT](): Trigger workflow from webhook (Coming soon)
+
+## Zapier
+- [Zapier](): Trigger workflow from webhook (Coming soon)
+
+## Integromat
+- [Integromat](): Trigger workflow from webhook (Coming soon)
+
+## Wave
+- [Quickbooks](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CRM/Hubspot): Get invoices list (Coming soon)
 
 
 # CRM
-- [Hubspot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CRM/Hubspot), Emails campaigns and contact management.
+
+## Hubspot 
+- [Hubspot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CRM/Hubspot): Emails campaigns and contact management.
+
 
 # Data Visualisation
 
+## Plotly 
 - [Plotly Bubble chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
 - [Plotly Candlestick](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
 - [Plotly Gantt](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)

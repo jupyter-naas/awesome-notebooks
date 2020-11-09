@@ -17,26 +17,15 @@ Then feel free to join the movement and benefit from Naas collective intelligenc
 
 # Accounting 
 
-## Quickbooks
 - [Quickbooks](): Get invoices list (Coming soon)
-
-## Wave
 - [Wave](): Get invoices list (Coming soon)
 
 
 # Automation 
 
-## IFTT
 - [IFTTT](): Trigger workflow from webhook (Coming soon)
-
-## Zapier
 - [Zapier](): Trigger workflow from webhook (Coming soon)
-
-## Integromat
 - [Integromat](): Trigger workflow from webhook (Coming soon)
-
-## Wave
-- [Quickbooks](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CRM/Hubspot): Get invoices list (Coming soon)
 
 
 # CRM
@@ -47,15 +36,15 @@ Then feel free to join the movement and benefit from Naas collective intelligenc
 
 # Data Visualisation
 
-## Plotly 
-- [Plotly Bubble chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
-- [Plotly Candlestick](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
-- [Plotly Gantt](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
-- [Plotly Bar chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
-- [Plotly Line chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
-- [Plotly Waterfall](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
-- [Plotly Waterfall Advanced](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
-- [Toucan Toco Enbed](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Toucan%20Toco)
+- Plotly 
+    - [Bubble chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+    - [Candlestick](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+    - [Gantt](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+    - [Barchart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+    - [Linechart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+    - [Waterfall](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+    - [Waterfall Advanced](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
+- [Toucan Toco Embed](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Toucan%20Toco)
 
 ## Database
 

@@ -1,18 +1,17 @@
-<img width="100%" alt="Naas" src="https://landen.imgix.net/jtci2pxwjczr/assets/pun9f946.png"/>
-
 # Naas Awesome-Notebooks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <br>
-An awesome list of public Jupyter Notebooks on all kinds of interesting topics, published by the Naas community.
+A curated list of awesome [Jupyter Notebooks](http://jupyter.org), Jupyter Notebooks are documents that contain live code, equations, visualizations and narrative text. 
+This list published by the Naas community, contain many topics, see below.
 <br/>
-This project is made for busy business & tech professionals that wants to take back control of data. <br>
+This project is made for busy business that wants to take back control of data. <br>
 <br/>
-Are you part of them ?
+<img width="100%" alt="Naas" src="https://landen.imgix.net/jtci2pxwjczr/assets/pun9f946.png"/>
 
-👉 Then feel free to **join the movement and benefit from Naas collective intelligence.**
+👉 Feel free to **join the movement and benefit from Naas collective intelligence.**
 
 <br>
 
-🙏 How you can contribute ? 
+## 🙏 How you can contribute ? 
 
 - Suggest and follow the [future of awesome-notebooks](https://naas.canny.io/awesome-notebooks)
 - Push awesome-notebooks by creating a Pull Requests here, on Github

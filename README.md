@@ -100,7 +100,7 @@ Are you part of them ?
 
 
 <br/>
-Created by CashStory SAS (Naas mother company).
+Maintained by CashStory SAS (Naas mother company).
 <br/>
 Contact us to learn more on our website chat : https://naas.ai
 

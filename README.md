@@ -1,4 +1,4 @@
-<img width="50%" alt="Naas" src="https://landen.imgix.net/jtci2pxwjczr/assets/pun9f946.png"/>
+<img width="100%" alt="Naas" src="https://landen.imgix.net/jtci2pxwjczr/assets/pun9f946.png"/>
 
 # 🐙 Naas Awesome-Notebooks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <br/>

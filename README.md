@@ -1,12 +1,11 @@
 <img width="100%" alt="Naas" src="https://landen.imgix.net/jtci2pxwjczr/assets/pun9f946.png"/>
 
 # Naas Awesome-Notebooks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<br/>
+<br>
 An awesome list of public Jupyter Notebooks on all kinds of interesting topics, published by the Naas community.
-😎 
 <br/>
-This project is made for busy business & tech professionals that wants to take back control of their data. <br>
-Are you part of them ? 🌎
+This project is made for busy business & tech professionals that wants to take back control of data. <br>
+Are you part of them ?
 
 👉 Then feel free to **join the movement and benefit from Naas collective intelligence.**
 
@@ -19,7 +18,7 @@ Are you part of them ? 🌎
 - Fix the broken notebooks if there is one in Github
 
 
-Follow the roadmap of future awesome-notebooks on : https://naas.canny.io/
+Follow the future awesome-notebooks on : https://naas.canny.io/
 
 
 # CRM
@@ -29,7 +28,7 @@ Follow the roadmap of future awesome-notebooks on : https://naas.canny.io/
 
 # Dataviz
 
-- [Plotly] (https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dataviz/Plotly) 
+- [Plotly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dataviz/Plotly) 
     - [Bubble chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
     - [Candlestick](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
     - [Gantt](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)

@@ -15,28 +15,17 @@ Then feel free to join the movement and benefit from Naas collective intelligenc
 - Fix the broken notebooks if there is one in Github
 
 
-# Accounting 
-
-- [Quickbooks](): Get invoices list (Coming soon)
-- [Wave](): Get invoices list (Coming soon)
-
-
-# Automation 
-
-- [IFTTT](): Trigger workflow from webhook (Coming soon)
-- [Zapier](): Trigger workflow from webhook (Coming soon)
-- [Integromat](): Trigger workflow from webhook (Coming soon)
+Follow the roadmap of future awesome-notebooks on : https://naas.canny.io/
 
 
 # CRM
 
-## Hubspot 
 - [Hubspot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CRM/Hubspot): Emails campaigns and contact management.
 
 
-# Data Visualisation
+# Dataviz
 
-- Plotly 
+- [Plotly] (https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dataviz/Plotly) 
     - [Bubble chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
     - [Candlestick](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
     - [Gantt](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
@@ -44,7 +33,6 @@ Then feel free to join the movement and benefit from Naas collective intelligenc
     - [Linechart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
     - [Waterfall](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
     - [Waterfall Advanced](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)
-- [Toucan Toco Embed](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Toucan%20Toco)
 
 ## Database
 

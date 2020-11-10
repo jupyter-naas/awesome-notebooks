@@ -13,12 +13,10 @@ Are you part of them ?
 
 🙏 How you can contribute ? 
 
-- Suggest new notebooks ideas with a Github issue
+- Suggest and Follow the future awesome-notebooks on : https://naas.canny.io/awesome-notebooks
 - Push new notebooks by creating a Pull Requests 
 - Fix the broken notebooks if there is one in Github
 
-
-Follow the future awesome-notebooks on : https://naas.canny.io/
 
 
 # CRM

@@ -5,6 +5,7 @@
 An awesome list of public Jupyter Notebooks on all kinds of interesting topics, published by the Naas community.
 <br/>
 This project is made for busy business & tech professionals that wants to take back control of data. <br>
+<br/>
 Are you part of them ?
 
 👉 Then feel free to **join the movement and benefit from Naas collective intelligence.**
@@ -14,9 +15,10 @@ Are you part of them ?
 🙏 How you can contribute ? 
 
 - Suggest and follow the [future of awesome-notebooks](https://naas.canny.io/awesome-notebooks)
-- Push awessome-notebooks by creating a Pull Requests here, on Github
-- Help us maintain awesome-notebooks on the [AI Club Slack community 😎](https://join.slack.com/t/aiclub-hq/shared_invite/zt-iqkuwq7m-zvdxYYbGLVVcIKuB2vg3pA) 
+- Push awesome-notebooks by creating a Pull Requests here, on Github
+- Join the [AI Club Slack community 😎](https://join.slack.com/t/aiclub-hq/shared_invite/zt-iqkuwq7m-zvdxYYbGLVVcIKuB2vg3pA) 
 
+When a notebook is not enought we create a business driver here : https://github.com/jupyter-naas/drivers
 <br>
 <br>
 

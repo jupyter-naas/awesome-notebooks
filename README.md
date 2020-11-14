@@ -64,7 +64,7 @@ When a notebook is not enought we create a business driver here : https://github
 - [Quandl](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Maket%20Data/Quandl)
 - [Yahoo-Finance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Maket%20Data/Yahoo-Finance)
 
-## Nass
+## Naas
 
 - [Notebook as API](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Notebook_as_API)
 - [Notebook Scheduler](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Scheduler)

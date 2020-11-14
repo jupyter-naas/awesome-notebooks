@@ -25,7 +25,7 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 
 # CRM
 
-- [Hubspot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CRM/Hubspot): Emails campaigns and contact management.
+- [Hubspot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CRM/Hubspot)
 
 
 # Dataviz

@@ -23,12 +23,12 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 <br>
 <br>
 
-# CRM
+## CRM
 
 - [Hubspot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CRM/Hubspot)
 
 
-# Dataviz
+## Dataviz
 
 - [Plotly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dataviz/Plotly) 
     - [Bubble chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data%20Visualisation/Plotly)

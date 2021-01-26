@@ -25,44 +25,44 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 
 
 ## Airtable
-* [Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Get_data.ipynb)
-* [Search data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Search_data.ipynb)
-* [Insert data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Insert_data.ipynb)
-* [Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Connect.ipynb)
-* [Delete data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Delete_data.ipynb)
+* [Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_get_data.ipynb)
+* [Search data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_search_data.ipynb)
+* [Insert data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_insert_data.ipynb)
+* [Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_connect.ipynb)
+* [Delete data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_delete_data.ipynb)
 
 ## CSV
 * [Read a csv file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CSV/Read_a_csv_file.ipynb)
 
 ## Canny
-* [canny read](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Canny/canny_read.ipynb)
-* [canny create](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Canny/canny_create.ipynb)
-* [canny github issue update](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Canny/canny_github_issue_update.ipynb)
+* [Read](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Canny/Canny_Read.ipynb)
+* [Create](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Canny/Canny_Create.ipynb)
+* [Github issue update](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Canny/Canny_Github_issue_update.ipynb)
 
 ## Data.gouv.fr
 * [COVID19 -  FR - Entrées et sorties par région pour 1 million d'hab.](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data.gouv.fr/COVID19%20-%20%20FR%20-%20Entr%C3%A9es%20et%20sorties%20par%20r%C3%A9gion%20pour%201%20million%20d%27hab..ipynb)
 
 ## Elastic Search
-* [Elastic Connect to server](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Elastic%20Search/Elastic_Connect_to_server.ipynb)
+* [Connect to server](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Elastic%20Search/Elastic%20Search_Connect_to_server.ipynb)
 
 ## Excel
-* [consolidate files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel%20consolidate%20files.ipynb)
+* [Consolidate files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel%20consolidate%20files.ipynb)
 
 ## Excel 365
 * [Access  sheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel%20365/Access%20Excel%20365%20sheet.ipynb)
 
 ## FTP
-* [sample connection](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/sample_connection.ipynb)
+* [Connect to server](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/Connect_to_server.ipynb)
 
 ## FTPS
-* [ftps](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTPS/ftps.ipynb)
+* [Send and get files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTPS/send_and_get_files.ipynb)
 
 ## Github
-* [download github](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/download_github.ipynb)
-* [git issue close](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/git_issue_close.ipynb)
-* [git peform basic actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/git_peform_basic_actions.ipynb)
-* [git issue read](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/git_issue_read.ipynb)
-* [git issue create](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/git_issue_create.ipynb)
+* [Issue close](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Issue_close.ipynb)
+* [Download url](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Download_url.ipynb)
+* [Peform basic actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Peform_basic_actions.ipynb)
+* [Issue read](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Issue_read.ipynb)
+* [Issue create](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Issue_create.ipynb)
 
 ## Gmail
 * [Mailbox schedule cleaning](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Mailbox_schedule_cleaning.ipynb)
@@ -70,7 +70,7 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Email read and clean](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Email_read_and_clean.ipynb)
 
 ## Google Search
-* [Google Perform search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Search/Google_Perform_search.ipynb)
+* [Perform search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Search/Google%20Search_Perform_search.ipynb)
 
 	### Email read and respond
 	- [Email read and response](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Email_read_and_respond/Email_read_and_response.ipynb)
@@ -80,21 +80,34 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 	- [Email send from Gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Emailing_from_Gsheet/Email_send_from_Gsheet.ipynb)
 
 ## Google Sheets
-* [Gsheet Get sheet data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Gsheet_Get_sheet_data.ipynb)
 * [Send emails from gsheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/_Send_emails_from_gsheets.ipynb)
+* [Google Sheet Get sheet data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Google%20Sheet%20Get_sheet_data.ipynb)
 
-## Hubpsot
-* [Hubspot Create user](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubpsot/Hubspot_Create_user.ipynb)
-* [Hubspot Naas driver](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubpsot/_Hubspot_Naas_driver.ipynb)
+## Google Youtube
+* [Youtube Download video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Youtube/Youtube_Download_video.ipynb)
+
+## Hubspot
+* [Get association](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_association.ipynb.ipynb)
+* [Create association](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_create_association.ipynb)
+* [Update deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_deal.ipynb)
+* [Delete deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_delete_deal.ipynb)
+* [Update contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_contact.ipynb)
+* [Delete contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_delete_contact.ipynb)
+* [Get all contacts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_all_contacts.ipynb)
+* [Get deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_deal.ipynb)
+* [Create deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_create_deal.ipynb)
+* [Create contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_create_contact.ipynb)
+* [Get contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_contact.ipynb)
+
+## LinkedIn
+* [Driver](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/_LinkedIn_driver.ipynb)
+* [Get profil](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_profil.ipynb)
+
+## Microsoft Teams
+* [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Microsoft%20Teams/Microsoft%20Teams_Send_message.ipynb)
 
 ## Microsoft Word
-* [docx to html](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Microsoft%20Word/docx_to_html.ipynb)
-
-	###  Workflows
-	- [Import Contact & Deals from Excel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubpsot/_Workflows/Import%20Contact%20%26%20Deals%20from%20Excel/Import%20Contact%20%26%20Deals%20from%20Excel.ipynb)
-
-	###  Workflows
-	- [Hubspot Connector](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubpsot/_Workflows/Workflow_Emailing_campaigns/Hubspot%20Connector.ipynb)
+* [Docx to html](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Microsoft%20Word/docx_to_html.ipynb)
 
 ## MySQL
 * [Query data in DB](https://github.com/jupyter-naas/awesome-notebooks/tree/master/MySQL/MySQL_Query_data_in_DB.ipynb)
@@ -102,9 +115,9 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 ## Naas
 * [API demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_API_demo.ipynb)
 * [Notifications demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Notifications_demo.ipynb)
-* [get help](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/get_help.ipynb)
+* [Get help](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/get_help.ipynb)
 * [SecretKeys demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_SecretKeys_demo.ipynb)
-* [set naas timezone](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/set_naas_timezone.ipynb)
+* [Set naas timezone](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/set_naas_timezone.ipynb)
 * [Doc demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Doc_demo.ipynb)
 * [Domain demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Domain_demo.ipynb)
 * [Assets demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Assets_demo.ipynb)
@@ -115,13 +128,13 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Get currencies live prices](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Neo/Get%20currencies%20live%20prices.ipynb)
 
 ## News.api
-* [sentiment news api](https://github.com/jupyter-naas/awesome-notebooks/tree/master/News.api/sentiment_news_api.ipynb)
+* [Sentiment news api](https://github.com/jupyter-naas/awesome-notebooks/tree/master/News.api/sentiment_news_api.ipynb)
 
 ## Notion
 * [Get table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_table.ipynb)
 
 ## PDF
-* [pdf to mp3](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PDF/pdf_to_mp3.ipynb)
+* [Pdf to mp3](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PDF/pdf_to_mp3.ipynb)
 
 ## Plotly
 * [Create Horizontal Bar Chart (Basic)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Horizontal%20Bar%20Chart%20%28Basic%29.ipynb)
@@ -143,10 +156,10 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Get stock data from](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Quandl/Get%20stock%20data%20from%20Quandl.ipynb)
 
 ## SAP-HANA
-* [sap-hana-connector](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SAP-HANA/sap-hana-connector.ipynb)
+* [Sap-hana-connector](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SAP-HANA/sap-hana-connector.ipynb)
 
 ## Slack
-* [slack send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Slack/slack_send_message.ipynb)
+* [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Slack/Slack_Send_message.ipynb)
 
 ## Snowflake
 * [Read Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Snowflake/Snowflake_Read_Table.ipynb)
@@ -155,10 +168,9 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Update table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Snowflake/Snowflake_Update_table.ipynb)
 
 ## Societe.com
-* [get company details](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/get_company_details.ipynb)
-
-## Teams
-* [teams send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Teams/teams_send_message.ipynb)
+* [Get verif.com](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/get_verif.com.ipynb)
+* [Get societe.ninja](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/get_societe.ninja.ipynb)
+* [Get company details](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/get_company_details.ipynb)
 
 ## Trello
 * [Connector](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Trello/Trello%20Connector.ipynb)
@@ -177,29 +189,26 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Top 10 richest regions & countries](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Bank/Top%2010%20richest%20regions%20%26%20countries.ipynb)
 
 ## XML
-* [sitemap to df](https://github.com/jupyter-naas/awesome-notebooks/tree/master/XML/sitemap_to_df.ipynb)
+* [Sitemap to dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/XML/sitemap_to_dataframe.ipynb)
 
-## Yahoo-Finance
-* [Yahoo Get stock data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo-Finance/Yahoo_Get_stock_data.ipynb)
-
-## Youtube
-* [Download video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Download_video.ipynb)
-
-	### Build a stock market brief
-	- [S01E02-stock-moving-averages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo-Finance/Build%20a%20stock%20market%20brief/S01E02-stock-moving-averages.ipynb)
-	- [S01E05-predict-the-future](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo-Finance/Build%20a%20stock%20market%20brief/S01E05-predict-the-future.ipynb)
-	- [S01E01-reminder-email](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo-Finance/Build%20a%20stock%20market%20brief/S01E01-reminder-email.ipynb)
-	- [S01E04-score-the-news](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo-Finance/Build%20a%20stock%20market%20brief/S01E04-score-the-news.ipynb)
-	- [S01E08-take-actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo-Finance/Build%20a%20stock%20market%20brief/S01E08-take-actions.ipynb)
-	- [S01E07-notebooks-as-api](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo-Finance/Build%20a%20stock%20market%20brief/S01E07-notebooks-as-api.ipynb)
-	- [controls](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo-Finance/Build%20a%20stock%20market%20brief/_controls.ipynb)
-	- [S01E06-automate-the-brief](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo-Finance/Build%20a%20stock%20market%20brief/S01E06-automate-the-brief.ipynb)
-
-	### Scrap Companies financials inside Gsheet  (Advanced)
-	- [Scrap Companies financials inside Gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo-Finance/Scrap%20Companies%20financials%20inside%20Gsheet%20%20%28Advanced%29/Scrap%20Companies%20financials%20inside%20Gsheet.ipynb)
+## Yahoo Finance
+* [Yahoo Get stock data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Yahoo%20Get_stock_data.ipynb)
 
 ## ZIP
 * [Extract files from  archive](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ZIP/Extract%20files%20from%20ZIP%20archive.ipynb)
+
+	### Build a stock market brief
+	- [S01E02-stock-moving-averages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Build%20a%20stock%20market%20brief/S01E02-stock-moving-averages.ipynb)
+	- [S01E05-predict-the-future](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Build%20a%20stock%20market%20brief/S01E05-predict-the-future.ipynb)
+	- [S01E01-reminder-email](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Build%20a%20stock%20market%20brief/S01E01-reminder-email.ipynb)
+	- [S01E04-score-the-news](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Build%20a%20stock%20market%20brief/S01E04-score-the-news.ipynb)
+	- [S01E08-take-actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Build%20a%20stock%20market%20brief/S01E08-take-actions.ipynb)
+	- [S01E07-notebooks-as-api](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Build%20a%20stock%20market%20brief/S01E07-notebooks-as-api.ipynb)
+	- [Controls](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Build%20a%20stock%20market%20brief/_controls.ipynb)
+	- [S01E06-automate-the-brief](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Build%20a%20stock%20market%20brief/S01E06-automate-the-brief.ipynb)
+
+	### Scrap Companies financials inside Gsheet  (Advanced)
+	- [Scrap Companies financials inside Gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Scrap%20Companies%20financials%20inside%20Gsheet%20%20%28Advanced%29/Scrap%20Companies%20financials%20inside%20Gsheet.ipynb)
 
 
 <br/>

@@ -69,15 +69,15 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Mailbox read](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Mailbox_read.ipynb)
 * [Email read and clean](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Email_read_and_clean.ipynb)
 
-## Google Search
-* [Perform search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Search/Google%20Search_Perform_search.ipynb)
-
 	### Email read and respond
 	- [Email read and response](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Email_read_and_respond/Email_read_and_response.ipynb)
 
 	### Emailing from Gsheet
 	- [Email send from Gsheet specific](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Emailing_from_Gsheet/Email_send_from_Gsheet_specific.ipynb)
 	- [Email send from Gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Emailing_from_Gsheet/Email_send_from_Gsheet.ipynb)
+
+## Google Search
+* [Perform search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Search/Google%20Search_Perform_search.ipynb)
 
 ## Google Sheets
 * [Send emails from gsheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/_Send_emails_from_gsheets.ipynb)
@@ -192,10 +192,7 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Sitemap to dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/XML/sitemap_to_dataframe.ipynb)
 
 ## Yahoo Finance
-* [Yahoo Get stock data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Yahoo%20Get_stock_data.ipynb)
-
-## ZIP
-* [Extract files from  archive](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ZIP/Extract%20files%20from%20ZIP%20archive.ipynb)
+* [Get stock data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Yahoo%20Finance%20Get_stock_data.ipynb)
 
 	### Build a stock market brief
 	- [S01E02-stock-moving-averages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Build%20a%20stock%20market%20brief/S01E02-stock-moving-averages.ipynb)
@@ -209,6 +206,9 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 
 	### Scrap Companies financials inside Gsheet  (Advanced)
 	- [Scrap Companies financials inside Gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Scrap%20Companies%20financials%20inside%20Gsheet%20%20%28Advanced%29/Scrap%20Companies%20financials%20inside%20Gsheet.ipynb)
+
+## ZIP
+* [Extract files from  archive](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ZIP/Extract%20files%20from%20ZIP%20archive.ipynb)
 
 
 <br/>

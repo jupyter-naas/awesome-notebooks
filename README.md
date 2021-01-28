@@ -103,6 +103,12 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Create contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_create_contact.ipynb)
 * [Get contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_contact.ipynb)
 
+## IFTTT
+* [Start workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IFTTT/start_workflow.ipynb)
+
+## Integromat
+* [Start workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Integromat/start_workflow.ipynb)
+
 ## LinkedIn
 * [Driver](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/_LinkedIn_driver.ipynb)
 * [Get profil](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_profil.ipynb)
@@ -218,6 +224,9 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 
 ## ZIP
 * [Extract files from  archive](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ZIP/Extract%20files%20from%20ZIP%20archive.ipynb)
+
+## Zappier
+* [Start workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Zappier/start_workflow.ipynb)
 
 
 <br/>

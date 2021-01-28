@@ -31,6 +31,10 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_connect.ipynb)
 * [Delete data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_delete_data.ipynb)
 
+## Bank
+* [Get transactions with plaid](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bank/get_transactions_with_plaid.ipynb)
+* [Get accounts with plaid](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bank/get_accounts_with_plaid.ipynb)
+
 ## CSV
 * [Read a csv file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CSV/Read_a_csv_file.ipynb)
 
@@ -171,6 +175,11 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Get verif.com](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/get_verif.com.ipynb)
 * [Get societe.ninja](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/get_societe.ninja.ipynb)
 * [Get company details](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/get_company_details.ipynb)
+
+## Stripe
+* [Get balances](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/get_balances.ipynb)
+* [Get customers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/get_customers.ipynb)
+* [Get charges](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/get_charges.ipynb)
 
 ## Trello
 * [Connector](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Trello/Trello%20Connector.ipynb)

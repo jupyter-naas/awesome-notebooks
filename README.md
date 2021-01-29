@@ -31,10 +31,6 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_connect.ipynb)
 * [Delete data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_delete_data.ipynb)
 
-## Bank
-* [Get transactions with plaid](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bank/get_transactions_with_plaid.ipynb)
-* [Get accounts with plaid](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bank/get_accounts_with_plaid.ipynb)
-
 ## CSV
 * [Read a csv file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CSV/Read_a_csv_file.ipynb)
 
@@ -44,6 +40,7 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Github issue update](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Canny/Canny_Github_issue_update.ipynb)
 
 ## Crypto
+* [Calc Support and Resistance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Crypto/calc_Support_and_Resistance.ipynb)
 * [Get Bitcoin prediction](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Crypto/get_Bitcoin_prediction.ipynb)
 
 ## Data.gouv.fr
@@ -109,6 +106,9 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 ## IFTTT
 * [Start workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IFTTT/start_workflow.ipynb)
 
+## Instagram
+* [Post text+image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Instagram/Instagram_Post_text%2Bimage.ipynb)
+
 ## Integromat
 * [Start workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Integromat/start_workflow.ipynb)
 
@@ -148,6 +148,10 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 
 ## PDF
 * [Pdf to mp3](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PDF/pdf_to_mp3.ipynb)
+
+## Plaid
+* [Get transactions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plaid/get_transactions.ipynb)
+* [Get accounts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plaid/get_accounts.ipynb)
 
 ## Plotly
 * [Create Horizontal Bar Chart (Basic)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Horizontal%20Bar%20Chart%20%28Basic%29.ipynb)
@@ -228,8 +232,8 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 ## ZIP
 * [Extract files from  archive](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ZIP/Extract%20files%20from%20ZIP%20archive.ipynb)
 
-## Zappier
-* [Start workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Zappier/start_workflow.ipynb)
+## Zapier
+* [Start workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Zapier/start_workflow.ipynb)
 
 
 <br/>

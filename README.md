@@ -84,11 +84,9 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Perform search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Search/Google%20Search_Perform_search.ipynb)
 
 ## Google Sheets
-* [Send emails from gsheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/_Send_emails_from_gsheets.ipynb)
-* [Google Sheet Get sheet data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Google%20Sheet%20Get_sheet_data.ipynb)
-
-## Google Youtube
-* [Youtube Download video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Youtube/Youtube_Download_video.ipynb)
+* [Send emails from Gsheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Send_emails_from_Gsheets.ipynb)
+* [Gsheets Send data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Gsheets_Send_data.ipynb)
+* [Gsheets Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Gsheets_Get_data.ipynb)
 
 ## Hubspot
 * [Get association](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_association.ipynb.ipynb)
@@ -144,7 +142,8 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Sentiment news api](https://github.com/jupyter-naas/awesome-notebooks/tree/master/News.api/sentiment_news_api.ipynb)
 
 ## Notion
-* [Get table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_table.ipynb)
+* [Extract data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Extract_data.ipynb)
+* [Send data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Send_data.ipynb)
 
 ## PDF
 * [Pdf to mp3](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PDF/pdf_to_mp3.ipynb)
@@ -228,6 +227,9 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 
 	### Scrap Companies financials inside Gsheet  (Advanced)
 	- [Scrap Companies financials inside Gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Scrap%20Companies%20financials%20inside%20Gsheet%20%20%28Advanced%29/Scrap%20Companies%20financials%20inside%20Gsheet.ipynb)
+
+## Youtube
+* [Download video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Download_video.ipynb)
 
 ## ZIP
 * [Extract files from  archive](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ZIP/Extract%20files%20from%20ZIP%20archive.ipynb)

@@ -158,19 +158,20 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 ## Neo
 * [Get currencies live prices](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Neo/Neo_Get_currencies_live_prices.ipynb)
 
-## News.api
-* [Sentiment news api](https://github.com/jupyter-naas/awesome-notebooks/tree/master/News.api/sentiment_news_api.ipynb)
+## Newsapi
+* [Run sentiment analysis](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Run_sentiment_analysis.ipynb)
+* [Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Get_data.ipynb)
 
 ## Notion
 * [Extract data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Extract_data.ipynb)
 * [Send data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Send_data.ipynb)
 
 ## PDF
-* [Pdf to mp3](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PDF/pdf_to_mp3.ipynb)
+* [Transform to MP3](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PDF/PDF_Transform_to_MP3.ipynb)
 
 ## Plaid
-* [Get transactions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plaid/get_transactions.ipynb)
-* [Get accounts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plaid/get_accounts.ipynb)
+* [Get accounts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plaid/Plaid_Get_accounts.ipynb)
+* [Get transactions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plaid/Plaid_Get_transactions.ipynb)
 
 ## Plotly
 * [Create Horizontal Bar Chart (Basic)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Horizontal%20Bar%20Chart%20%28Basic%29.ipynb)
@@ -188,11 +189,11 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Get statement detailed](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_statement_detailed.ipynb)
 
 ## Quandl
-* [Get Oil Price from](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Quandl/Get%20Oil%20Price%20from%20Quandl.ipynb)
-* [Get stock data from](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Quandl/Get%20stock%20data%20from%20Quandl.ipynb)
+* [Get data from API](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Quandl/Quandl_Get_data_from_API.ipynb)
+* [Get data from CSV](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Quandl/Quandl_Get_data_from_CSV.ipynb)
 
 ## SAP-HANA
-* [SAP Query data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SAP-HANA/SAP_Query_data.ipynb)
+* [Query data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SAP-HANA/SAP-HANA_Query_data.ipynb)
 
 ## Slack
 * [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Slack/Slack_Send_message.ipynb)
@@ -209,28 +210,33 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Get company details](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/get_company_details.ipynb)
 
 ## Stripe
-* [Get balances](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/get_balances.ipynb)
-* [Get customers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/get_customers.ipynb)
-* [Get charges](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/get_charges.ipynb)
+* [Get charges](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_charges.ipynb)
+* [Get customers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_customers.ipynb)
+* [Get balances](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_balances.ipynb)
+
+## Thinkific
+* [Get users](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Thinkific/Thinkific_Get_users.ipynb)
+* [Send users](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Thinkific/Thinkific_Send_users.ipynb)
 
 ## Trello
 * [Get board data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Trello/Trello_Get_board_data.ipynb)
 
 ## Twitter
-* [Post text+image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Post_text%2Bimage.ipynb)
+* [Post text and image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Post_text_and_image.ipynb)
+* [Schedule posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Schedule_posts.ipynb)
 
-## World Bank
-* [GDP per country & evolution (Worldmap)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Bank/GDP%20per%20country%20%26%20evolution%20%28Worldmap%29.ipynb)
-* [World GDP contributors (Waterfall)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Bank/World%20GDP%20contributors%20%28Waterfall%29.ipynb)
-* [GDP per capita & growth (Worldmap)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Bank/GDP%20per%20capita%20%26%20growth%20%28Worldmap%29.ipynb)
-* [Gini index (Worldmap)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Bank/Gini%20index%20%28Worldmap%29.ipynb)
-* [World Population & Density by continent (Bubblechart)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Bank/World%20Population%20%26%20Density%20by%20continent%20%28Bubblechart%29.ipynb)
-* [World Employment by sector](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Bank/World%20Employment%20by%20sector.ipynb)
-* [Most populated countries](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Bank/Most%20populated%20countries.ipynb)
-* [Top 10 richest regions & countries](https://github.com/jupyter-naas/awesome-notebooks/tree/master/World%20Bank/Top%2010%20richest%20regions%20%26%20countries.ipynb)
+## WorldBank
+* [World population and density](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WorldBank/WorldBank_World_population_and_density.ipynb)
+* [Most populated countries](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WorldBank/WorldBank_Most_populated_countries.ipynb)
+* [GDP per capita and growth](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WorldBank/WorldBank_GDP_per_capita_and_growth.ipynb)
+* [Gini index](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WorldBank/WorldBank_Gini_index.ipynb)
+* [GDP per country and evolution](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WorldBank/WorldBank_GDP_per_country_and_evolution.ipynb)
+* [World employment by sector](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WorldBank/WorldBank_World_employment_by_sector.ipynb)
+* [Richest countries top10](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WorldBank/WorldBank_Richest_countries_top10.ipynb)
+* [GDP contributors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WorldBank/WorldBank_GDP_contributors.ipynb)
 
 ## XML
-* [Sitemap to dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/XML/sitemap_to_dataframe.ipynb)
+* [Transform sitemap to dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/XML/XML_Transform_sitemap_to_dataframe.ipynb)
 
 ## Yahoo Finance
 * [Get stock data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Yahoo%20Finance%20Get_stock_data.ipynb)
@@ -252,10 +258,10 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Download video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Download_video.ipynb)
 
 ## ZIP
-* [Extract files from  archive](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ZIP/Extract%20files%20from%20ZIP%20archive.ipynb)
+* [Extract files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ZIP/ZIP_Extract_files.ipynb)
 
 ## Zapier
-* [Start workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Zapier/start_workflow.ipynb)
+* [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Zapier/Zapier_Trigger_workflow.ipynb)
 
 
 <br/>

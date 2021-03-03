@@ -68,12 +68,11 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 	### Excel 365
 	- [Access  sheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel%20365/Access%20Excel%20365%20sheet.ipynb)
 
-	### FTP
-	- [Connect to server](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP/FTP_Connect_to_server.ipynb)
-
-	### FTPS
-	- [Send files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTPS/FTPS_Send_files.ipynb)
-	- [Get files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTPS/FTPS_Get_files.ipynb)
+## FTP
+* [Get file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Get_file.ipynb)
+* [Send file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Send_file.ipynb)
+* [S Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTPS_Connect.ipynb)
+* [Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Connect.ipynb)
 
 ## Github
 * [Close issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Close_issue.ipynb)
@@ -139,6 +138,10 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 
 ## Microsoft Word
 * [Convert to HMTL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Microsoft%20Word/Microsoft_Word_Convert_to_HMTL.ipynb)
+
+## MongoDB
+* [Send data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/MongoDB/MongoDB_Send_data.ipynb)
+* [Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/MongoDB/MongoDB_Get_data.ipynb)
 
 ## MySQL
 * [Query database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/MySQL/MySQL_Query_database.ipynb)

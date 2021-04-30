@@ -238,6 +238,9 @@ When a notebook is not enought we create a Naas-driver here : https://github.com
 * [Richest countries top10](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WorldBank/WorldBank_Richest_countries_top10.ipynb)
 * [GDP contributors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WorldBank/WorldBank_GDP_contributors.ipynb)
 
+## Worldometer
+* [World population evolution and projections](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Worldometer/Worldometer_World_population_evolution_and_projections.ipynb)
+
 ## XML
 * [Transform sitemap to dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/XML/XML_Transform_sitemap_to_dataframe.ipynb)
 

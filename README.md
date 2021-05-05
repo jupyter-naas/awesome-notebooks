@@ -1,5 +1,5 @@
-# Naas awesome-notebooks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-This project is made for tech-savvy users that wants to save time building their data project.
+# Naas awesome-notebooks templates[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+This project is made for tech-savvy users that wants to save time building their data projects.
 <br>
  
 Benefit from the open-source collective intelligence and get access to a list of awesome [Jupyter Notebooks](https://jupyter.org) that contain live code, equations, visualizations and narrative text.<br>
@@ -36,10 +36,9 @@ Here is a tutorial video :<br><br>
 
 
 When a notebook is not enought we create a Naas-driver here : https://github.com/jupyter-naas/drivers<br>
-Contact jeremy@naas.ai if you want to contribute on the drivers.<br>
+Contact jeremy@naas.ai if you want to contribute on the drivers.
 
-## 😎 Template library
-
+<br>
 <br>
 
 ## AWS

@@ -2,14 +2,14 @@
 
 
 ## 🎱 Naas in short
-The Naas project and its hosted version naas.ai is open-source, it transforms Jupyter Notebooks in a safe production environment thanks to [micro-services](https://docs.naas.ai/)(like a scheduler) accessible in « low-code ».<br>
+The Naas project and its hosted version <a href="https://www.naas.ai/" target="_blank">naas.ai</a> is open-source, it transforms Jupyter Notebooks in a safe production environment thanks to <a href="https://docs.naas.ai/" target="_blank">micro-services</a>(like a scheduler) accessible in « low-code ».<br>
 
 The product is based on 3 elements: features, drivers and templates. 
 The **templates** enable "data geeks" to kickstart projects in minutes, the low-code **drivers** act as connectors to facilitate access to tools, and complex libraries (database, API, ML algorithm...) while the low-code **features** (scheduling, asset sharing, notifications...) enable faster iteration and deployment of outputs to end users, in a headless manner.<br>
 
 
 Naas is forever free to use with 100 credits/month.<br>
-[Create your account](https://www.naas.ai/free-forever)<br>
+<a href="https://www.naas.ai/free-forever" target="_blank">Open your account</a><br>
 *PS: If you contribute to our library of open-source notebooks templates, you can X2 your monthly credits 🏆*
 
 
@@ -17,7 +17,7 @@ Naas is forever free to use with 100 credits/month.<br>
 This project is made for tech-savvy users that wants to save time building their data projects.
 <br>
  
-Benefit from the open-source collective intelligence and get access to a list of **awesome [Jupyter Notebooks](https://jupyter.org) templates** that contain live code, equations, visualizations and narrative text, on a many different topics.<br>
+Benefit from the open-source collective intelligence and get access to a list of **awesome <a href="https://jupyter.org" target="_blank">Jupyter Notebooks</a><br>templates** that contain live code, equations, visualizations and narrative text, on a many different topics.<br>
 
 The repository is organized by source/tools.
 
@@ -30,9 +30,9 @@ There is an enormous opportunity to develop your skills and personal branding by
 
 ## 🙏 How to contribute ?
 
-✅ Vote, create or pick a topic in the [Naas templates backlog](https://naas.canny.io/requests?category=templates&sort=top)<br>
+✅ Vote, create or pick a topic in the <a href="https://naas.canny.io/requests?category=templates&sort=top" target="_blank">Naas templates backlog</a><br>
 ✅ Clone the repository in you Naas.ai account or in your local computer.<br> 
-✅ Join our Slack community: the [AI Club](https://join.slack.com/t/aiclub-hq/shared_invite/zt-iqkuwq7m-zvdxYYbGLVVcIKuB2vg3pA), introduce yourself and ask for help when stuck. <br> 
+✅ Join our Slack community: the <a href="https://join.slack.com/t/aiclub-hq/shared_invite/zt-iqkuwq7m-zvdxYYbGLVVcIKuB2vg3pA" target="_blank">AI Club</a>, introduce yourself and ask for help when stuck. <br> 
 ✅ Once you have your template ready, create a new branch and push it to Github<br> 
 ✅ Create a Pull Requests to the master branch.<br> 
 ✅ Once the PR is validated, you will receive : <br> 

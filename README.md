@@ -23,7 +23,7 @@ There is an enormous opportunity to develop your skills and personal branding by
 ✅ Once the PR is validated, you will receive : <br> 
 - 50 credits as a reward for your coding work 
 - 40 credits if you make a clear pitch video of your template
-- 10 credits if you post your work and tag Naas on social media.
+- 10 credits if you post your work and tag Naas on social media.<br>
 
 [Twitter: @naas.ai ](https://www.linkedin.com/company/naas-ai/)<br>
 [Linkedin: @JupyterNaas](https://www.linkedin.com/company/naas-ai/)<br>

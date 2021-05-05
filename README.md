@@ -1,8 +1,8 @@
-# Naas awesome-notebooks templates[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Naas awesome-notebooks templates [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 This project is made for tech-savvy users that wants to save time building their data projects.
 <br>
  
-Benefit from the open-source collective intelligence and get access to a list of awesome [Jupyter Notebooks](https://jupyter.org) that contain live code, equations, visualizations and narrative text.<br>
+Benefit from the open-source collective intelligence and get access to a list of awesome [Jupyter Notebooks](https://jupyter.org) templates that contain live code, equations, visualizations and narrative text, on a many different topics.<br>
 
 The repository is organized by source/tools.
 

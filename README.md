@@ -34,9 +34,8 @@ Here is a tutorial video :<br><br>
 [![How to contribute to Naas open-source notebook templates? 🌏😎](https://img.youtube.com/vi/tJ_JW9U7pXA/0.jpg)](https://www.youtube.com/watch?v=tJ_JW9U7pXA)
 
 
-
-When a notebook is not enought we create a Naas-driver here : https://github.com/jupyter-naas/drivers<br>
-Contact jeremy@naas.ai if you want to contribute on the drivers.
+<br>
+👇 Find below the template list:
 
 <br>
 <br>

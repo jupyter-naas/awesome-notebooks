@@ -2,11 +2,11 @@
 This project is made for tech-savvy users that wants to save time building their data projects.
 <br>
  
-Benefit from the open-source collective intelligence and get access to a list of awesome [Jupyter Notebooks](https://jupyter.org) templates that contain live code, equations, visualizations and narrative text, on a many different topics.<br>
+Benefit from the open-source collective intelligence and get access to a list of **awesome [Jupyter Notebooks](https://jupyter.org) templates** that contain live code, equations, visualizations and narrative text, on a many different topics.<br>
 
 The repository is organized by source/tools.
 
-Published by the Naas community ⭐️.
+Published by Naas community ⭐️.
 
 *An open-source software (OSS) or project, is code that is designed to be publicly accessible. 
 There is an enormous opportunity to develop your skills and personal branding by being an « Open-source contributor ».*
@@ -35,7 +35,7 @@ Here is a tutorial video :<br><br>
 
 
 <br>
-👇 Find below the template list:
+👇 Find below the templates list:
 
 <br>
 <br>

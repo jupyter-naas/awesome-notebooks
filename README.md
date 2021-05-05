@@ -4,7 +4,7 @@
 ## 🎱 Naas in short
 The Naas project and its hosted version <a href="https://www.naas.ai/" target="_blank">naas.ai</a> is open-source, it transforms Jupyter Notebooks in a safe production environment thanks to <a href="https://docs.naas.ai/" target="_blank">micro-services</a>(like a scheduler) accessible in « low-code ».<br>
 
-The product is based on 3 elements: features, drivers and templates. 
+The product is based on 3 elements: features, drivers and templates.<br>
 The **templates** enable "data geeks" to kickstart projects in minutes, the low-code **drivers** act as connectors to facilitate access to tools, and complex libraries (database, API, ML algorithm...) while the low-code **features** (scheduling, asset sharing, notifications...) enable faster iteration and deployment of outputs to end users, in a headless manner.<br>
 
 
@@ -26,10 +26,8 @@ Published by Naas community ⭐️.
 *An open-source software (OSS) or project, is code that is designed to be publicly accessible. 
 There is an enormous opportunity to develop your skills and personal branding by being an « Open-source contributor ».*
 
-<br>
 
 ## 🙏 How to contribute ?
-
 ✅ Vote, create or pick a topic in the <a href="https://naas.canny.io/requests?category=templates&sort=top" target="_blank">Naas templates backlog</a><br>
 ✅ Clone the repository in you Naas.ai account or in your local computer.<br> 
 ✅ Join our Slack community: the <a href="https://join.slack.com/t/aiclub-hq/shared_invite/zt-iqkuwq7m-zvdxYYbGLVVcIKuB2vg3pA" target="_blank">AI Club</a>, introduce yourself and ask for help when stuck. <br> 
@@ -46,7 +44,7 @@ There is an enormous opportunity to develop your skills and personal branding by
 
 
 
-Here is a tutorial video :<br><br> 
+Here is a tutorial video to show you the way:<br><br> 
 [![How to contribute to Naas open-source notebook templates? 🌏😎](https://img.youtube.com/vi/tJ_JW9U7pXA/0.jpg)](https://www.youtube.com/watch?v=tJ_JW9U7pXA)
 
 

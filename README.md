@@ -10,7 +10,7 @@ The **templates** enable "data geeks" to kickstart projects in minutes, the low-
 
 Naas is forever free to use with 100 credits/month.<br>
 <a href="https://www.naas.ai/free-forever" target="_blank">Open your account</a><br>
-*PS: If you contribute to our library of open-source notebooks templates, you can X2 your monthly credits 🏆*
+*PS: If you contribute to this library of open-source notebooks templates, you can X2 your monthly credits 🏆*
 <br>
 
 ## 😎 About the awesome-notebooks templates

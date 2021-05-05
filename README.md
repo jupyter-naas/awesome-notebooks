@@ -38,7 +38,7 @@ Here is a tutorial video :<br><br>
 When a notebook is not enought we create a Naas-driver here : https://github.com/jupyter-naas/drivers<br>
 Contact jeremy@naas.ai if you want to contribute on the drivers.
 
-<br>
+
 ## 😎 Template library
 <br>
 

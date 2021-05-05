@@ -11,7 +11,7 @@ The **templates** enable "data geeks" to kickstart projects in minutes, the low-
 Naas is forever free to use with 100 credits/month.<br>
 <a href="https://www.naas.ai/free-forever" target="_blank">Open your account</a><br>
 *PS: If you contribute to our library of open-source notebooks templates, you can X2 your monthly credits 🏆*
-
+<br>
 
 ## 😎 About the awesome-notebooks templates
 This project is made for tech-savvy users that wants to save time building their data projects.
@@ -25,6 +25,7 @@ Published by Naas community ⭐️.
 
 *An open-source software (OSS) or project, is code that is designed to be publicly accessible. 
 There is an enormous opportunity to develop your skills and personal branding by being an « Open-source contributor ».*
+<br>
 
 
 ## 🙏 How to contribute ?
@@ -47,8 +48,6 @@ There is an enormous opportunity to develop your skills and personal branding by
 Here is a tutorial video to show you the way:<br><br> 
 [![How to contribute to Naas open-source notebook templates? 🌏😎](https://img.youtube.com/vi/tJ_JW9U7pXA/0.jpg)](https://www.youtube.com/watch?v=tJ_JW9U7pXA)
 
-
-<br>
 👇 Find below the templates list:
 
 <br>

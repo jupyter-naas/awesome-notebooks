@@ -9,6 +9,7 @@ The **templates** enable "data geeks" to kickstart projects in minutes, the low-
 
 
 Naas is forever free to use with 100 credits/month.<br>
+[Create your account](https://www.naas.ai/free-forever)<br>
 *PS: If you contribute to our library of open-source notebooks templates, you can X2 your monthly credits 🏆*
 
 
@@ -41,6 +42,7 @@ There is an enormous opportunity to develop your skills and personal branding by
 
 [Twitter: @naas.ai ](https://twitter.com/JupyterNaas)<br>
 [Linkedin: @JupyterNaas](https://www.linkedin.com/company/naas-ai/)<br>
+[Youtube: @naas](https://www.youtube.com/channel/UCKKG5hzjXXU_rRdHHWQ8JHQ/videos)<br>
 
 
 

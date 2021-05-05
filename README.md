@@ -15,7 +15,7 @@ There is an enormous opportunity to develop your skills and personal branding by
 
 ## 🙏 How to contribute ?
 
-✅ Vote, create or pick a topic in the [Naas templates backlog](https://naas.canny.io/requests?category=templates&sort=top)
+✅ Vote, create or pick a topic in the [Naas templates backlog](https://naas.canny.io/requests?category=templates&sort=top)<br>
 ✅ Clone the repository in you Naas account or in your local computer.<br> 
 ✅ Join our Slack community: the [AI Club](https://join.slack.com/t/aiclub-hq/shared_invite/zt-iqkuwq7m-zvdxYYbGLVVcIKuB2vg3pA), introduce yourself and ask for help when stuck. <br> 
 ✅ Once you have your template ready, create a new branch and push it to Github<br> 
@@ -23,18 +23,24 @@ There is an enormous opportunity to develop your skills and personal branding by
 ✅ Once the PR is validated, you will receive : <br> 
 - 50 credits as a reward for your coding work 
 - 40 credits if you make a clear pitch video of your template
-- 10 credits if you post your work and tag Naas on social media (Twitter:@naas.ai/ Linkedin:@JupyterNaas)  
+- 10 credits if you post your work and tag Naas on social media.
+
+[Twitter: @naas.ai ](https://www.linkedin.com/company/naas-ai/)<br>
+[Linkedin: @JupyterNaas](https://www.linkedin.com/company/naas-ai/)<br>
 
 
-Here is a tutorial video :<br> 
+
+Here is a tutorial video :<br><br> 
 [![How to contribute to Naas open-source notebook templates? 🌏😎](https://img.youtube.com/vi/tJ_JW9U7pXA/0.jpg)](https://www.youtube.com/watch?v=tJ_JW9U7pXA)
 
 
 
-When a notebook is not enought we create a Naas-driver here : https://github.com/jupyter-naas/drivers
+When a notebook is not enought we create a Naas-driver here : https://github.com/jupyter-naas/drivers<br>
 Contact jeremy@naas.ai if you want to contribute on the drivers.
-<br>
 
+<br>
+## 😎 Template library
+<br>
 
 ## AWS
 * [Upload file to S3 bucket](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AWS/%20AWS_Upload_file_to_S3_bucket.ipynb)

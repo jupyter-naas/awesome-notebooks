@@ -145,6 +145,9 @@ Here is a tutorial video to show you the way:<br><br>
 * [Create contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_create_contact.ipynb)
 * [Get contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_contact.ipynb)
 
+## Hugging Face
+* [Ask boolean question to T5](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging%20Face/Hugging_Face_Ask_boolean_question_to_T5.ipynb)
+
 ## IFTTT
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IFTTT/IFTTT_Trigger_workflow.ipynb)
 * [Post on Twitter](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IFTTT/IFTTT_Post_on_Twitter.ipynb)

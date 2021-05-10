@@ -66,6 +66,9 @@ Here is a tutorial video to show you the way:<br><br>
 ## AlphaVantage
 * [Get fundamental data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AlphaVantage/AlphaVantage_Get_fundamental_data.ipynb)
 
+## Boursorama
+* [Get CDS](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Boursorama/Boursorama_Get_CDS.ipynb)
+
 ## Bubble
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bubble/Bubble_Trigger_workflow.ipynb)
 
@@ -178,6 +181,9 @@ Here is a tutorial video to show you the way:<br><br>
 ## MySQL
 * [Query database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/MySQL/MySQL_Query_database.ipynb)
 
+## NASA
+* [Artic sea ice](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/NASA_Artic_sea_ice.ipynb)
+
 ## Naas
 * [API demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_API_demo.ipynb)
 * [Notifications demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Notifications_demo.ipynb)
@@ -195,6 +201,8 @@ Here is a tutorial video to show you the way:<br><br>
 
 ## Newsapi
 * [Run sentiment analysis](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Run_sentiment_analysis.ipynb)
+* [Send emails briefs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Send_emails_briefs.ipynb)
+* [Untitled](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Untitled.ipynb)
 * [Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Get_data.ipynb)
 
 ## Notion

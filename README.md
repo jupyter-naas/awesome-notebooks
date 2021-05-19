@@ -155,6 +155,9 @@ Here is a tutorial video to show you the way:<br><br>
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IFTTT/IFTTT_Trigger_workflow.ipynb)
 * [Post on Twitter](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IFTTT/IFTTT_Post_on_Twitter.ipynb)
 
+## IUCN
+* [Extinct species](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IUCN/IUCN_Extinct_species.ipynb)
+
 ## Instagram
 * [Post image and caption](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Instagram/Instagram_Post_image_and_caption.ipynb)
 
@@ -165,7 +168,8 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get user information](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter/Jupyter_Get_user_information.ipynb)
 
 ## LinkedIn
-* [Get profil](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_profil.ipynb)
+* [Get profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_profile.ipynb)
+* [Get post data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_post_data.ipynb)
 * [Get last messages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_last_messages.ipynb)
 
 ## Microsoft Teams
@@ -202,7 +206,6 @@ Here is a tutorial video to show you the way:<br><br>
 ## Newsapi
 * [Run sentiment analysis](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Run_sentiment_analysis.ipynb)
 * [Send emails briefs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Send_emails_briefs.ipynb)
-* [Untitled](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Untitled.ipynb)
 * [Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Get_data.ipynb)
 
 ## Notion

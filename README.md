@@ -161,11 +161,15 @@ Here is a tutorial video to show you the way:<br><br>
 ## Integromat
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Integromat/Integromat_Trigger_workflow.ipynb)
 
+## Johns Hopkins
+* [Covid19 Active Cases](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Johns%20Hopkins/Johns_Hopkins_Covid19_Active_Cases.ipynb)
+
 ## Jupyter
 * [Get user information](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter/Jupyter_Get_user_information.ipynb)
 
 ## LinkedIn
-* [Get profil](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_profil.ipynb)
+* [Get profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_profile.ipynb)
+* [Get post data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_post_data.ipynb)
 * [Get last messages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_last_messages.ipynb)
 
 ## Microsoft Teams
@@ -202,7 +206,6 @@ Here is a tutorial video to show you the way:<br><br>
 ## Newsapi
 * [Run sentiment analysis](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Run_sentiment_analysis.ipynb)
 * [Send emails briefs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Send_emails_briefs.ipynb)
-* [Untitled](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Untitled.ipynb)
 * [Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Get_data.ipynb)
 
 ## Notion

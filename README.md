@@ -155,6 +155,9 @@ Here is a tutorial video to show you the way:<br><br>
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IFTTT/IFTTT_Trigger_workflow.ipynb)
 * [Post on Twitter](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IFTTT/IFTTT_Post_on_Twitter.ipynb)
 
+## IUCN
+* [Extinct species](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IUCN/IUCN_Extinct_species.ipynb)
+
 ## Instagram
 * [Post image and caption](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Instagram/Instagram_Post_image_and_caption.ipynb)
 

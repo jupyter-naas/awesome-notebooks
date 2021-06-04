@@ -177,6 +177,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get last messages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_last_messages.ipynb)
 * [Get post data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_post_data.ipynb)
 * [Get profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_profile.ipynb)
+* [Get posts likes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_posts_likes.ipynb)
 
 ## Microsoft Teams
 * [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Microsoft%20Teams/Microsoft%20Teams_Send_message.ipynb)
@@ -193,6 +194,13 @@ Here is a tutorial video to show you the way:<br><br>
 
 ## NASA
 * [Artic sea ice](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/NASA_Artic_sea_ice.ipynb)
+* [Global temperature](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/NASA_Global_temperature.ipynb)
+* [Sea level](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/NASA_Sea_level.ipynb)
+* [Indicate sealevel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/NASA_indicate_sealevel.ipynb)
+* [Sea-level-indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/Sea-level-indicator.ipynb)
+
+	### sea level
+	- [Sea-level-indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/sea_level/Sea-level-indicator.ipynb)
 
 ## Naas
 * [API demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_API_demo.ipynb)
@@ -281,6 +289,16 @@ Here is a tutorial video to show you the way:<br><br>
 ## Twitter
 * [Post text and image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Post_text_and_image.ipynb)
 * [Schedule posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Schedule_posts.ipynb)
+
+## WHI
+* [](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/WHI.ipynb)
+
+	### indicators
+	- [Johns Hopkins Covid19 Active Cases](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/Johns_Hopkins_Covid19_Active_Cases.ipynb)
+	- [NASA Artic sea ice](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/NASA_Artic_sea_ice.ipynb)
+	- [NASA indicate sealevel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/NASA_indicate_sealevel.ipynb)
+
+	### output
 
 ## WorldBank
 * [GDP contributors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WorldBank/WorldBank_GDP_contributors.ipynb)

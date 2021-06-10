@@ -2,7 +2,7 @@
 
 
 ## 🎱 Naas in short
-The Naas project and its hosted version <a href="https://www.naas.ai/" target="_blank">naas.ai</a> are open-source, it transforms Jupyter Notebooks in a safe production environment thanks to <a href="https://docs.naas.ai/" target="_blank">micro-services</a>(like a scheduler) accessible in « low-code ».<br>
+The Naas project and its hosted version <a href="https://www.naas.ai/" target="_blank">naas.ai</a> are open-source. Naas transforms Jupyter Notebooks in a safe production environment thanks to <a href="https://docs.naas.ai/" target="_blank">micro-services</a>(like a scheduler) accessible in « low-code ».<br>
 
 The product is based on 3 elements: features, drivers and templates.<br>
 The **templates** enable "data geeks" to kickstart projects in minutes, the low-code **drivers** act as connectors to facilitate access to tools, and complex libraries (database, API, ML algorithm...) while the low-code **features** (scheduling, asset sharing, notifications...) enable faster iteration and deployment of outputs to end users, in a headless manner.<br>

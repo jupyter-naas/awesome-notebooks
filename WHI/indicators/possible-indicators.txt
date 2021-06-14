@@ -1,0 +1,22 @@
+First stab:
+1. Sea Level rise
+2. COVID cases 
+3. CO2
+
+
+What we have:
+- COVID cases
+- Sea Level rise (per year)
+- Extinct species (per year)
+- Natural disasters (frequency per year)
+
+
+Possibilities:
+- Global temperature
+- CO2 parts per million (per year)
+- Arctic sea ice minimum 
+- World population 
+- Ice sheets
+- Meat consumption per capita 
+
+... TBC 

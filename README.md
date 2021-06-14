@@ -2,7 +2,7 @@
 
 
 ## 🎱 Naas in short
-The Naas project and its hosted version <a href="https://www.naas.ai/" target="_blank">naas.ai</a> is open-source, it transforms Jupyter Notebooks in a safe production environment thanks to <a href="https://docs.naas.ai/" target="_blank">micro-services</a>(like a scheduler) accessible in « low-code ».<br>
+The Naas project and its hosted version <a href="https://www.naas.ai/" target="_blank">naas.ai</a> are open-source. Naas transforms Jupyter Notebooks in a safe production environment thanks to <a href="https://docs.naas.ai/" target="_blank">micro-services</a>(like a scheduler) accessible in « low-code ».<br>
 
 The product is based on 3 elements: features, drivers and templates.<br>
 The **templates** enable "data geeks" to kickstart projects in minutes, the low-code **drivers** act as connectors to facilitate access to tools, and complex libraries (database, API, ML algorithm...) while the low-code **features** (scheduling, asset sharing, notifications...) enable faster iteration and deployment of outputs to end users, in a headless manner.<br>
@@ -90,6 +90,9 @@ Here is a tutorial video to show you the way:<br><br>
 ## Data.gouv.fr
 * [COVID19 -  FR - Entrées et sorties par région pour 1 million d'hab.](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data.gouv.fr/COVID19%20-%20%20FR%20-%20Entr%C3%A9es%20et%20sorties%20par%20r%C3%A9gion%20pour%201%20million%20d%27hab..ipynb)
 
+## EM-DAT
+* [Natural disasters](https://github.com/jupyter-naas/awesome-notebooks/tree/master/EM-DAT/EM-DAT_natural_disasters.ipynb)
+
 ## Elastic Search
 * [Connect to server](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Elastic%20Search/Elastic%20Search_Connect_to_server.ipynb)
 
@@ -99,6 +102,9 @@ Here is a tutorial video to show you the way:<br><br>
 
 	### Excel 365
 	- [Access  sheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel%20365/Access%20Excel%20365%20sheet.ipynb)
+
+## FAO
+* [Consumer price indice](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FAO/FAO_Consumer_price_indice.ipynb)
 
 ## FTP
 * [Get file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Get_file.ipynb)
@@ -150,10 +156,14 @@ Here is a tutorial video to show you the way:<br><br>
 
 ## Hugging Face
 * [Ask boolean question to T5](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging%20Face/Hugging_Face_Ask_boolean_question_to_T5.ipynb)
+* [Summarization using NLP](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging%20Face/Hugging_Face_Summarization_using_NLP.ipynb)
 
 ## IFTTT
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IFTTT/IFTTT_Trigger_workflow.ipynb)
 * [Post on Twitter](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IFTTT/IFTTT_Post_on_Twitter.ipynb)
+
+## IUCN
+* [Extinct species](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IUCN/IUCN_Extinct_species.ipynb)
 
 ## Instagram
 * [Post image and caption](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Instagram/Instagram_Post_image_and_caption.ipynb)
@@ -161,11 +171,16 @@ Here is a tutorial video to show you the way:<br><br>
 ## Integromat
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Integromat/Integromat_Trigger_workflow.ipynb)
 
+## Johns Hopkins
+* [Covid19 Active Cases](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Johns%20Hopkins/Johns_Hopkins_Covid19_Active_Cases.ipynb)
+
 ## Jupyter
 * [Get user information](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter/Jupyter_Get_user_information.ipynb)
 
 ## LinkedIn
-* [Get profil](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_profil.ipynb)
+* [Get posts likes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_posts_likes.ipynb)
+* [Get profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_profile.ipynb)
+* [Get post data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_post_data.ipynb)
 * [Get last messages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_last_messages.ipynb)
 
 ## Microsoft Teams
@@ -182,7 +197,14 @@ Here is a tutorial video to show you the way:<br><br>
 * [Query database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/MySQL/MySQL_Query_database.ipynb)
 
 ## NASA
+* [Global temperature](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/NASA_Global_temperature.ipynb)
+* [Sea-level-indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/Sea-level-indicator.ipynb)
+* [Sea level](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/NASA_Sea_level.ipynb)
 * [Artic sea ice](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/NASA_Artic_sea_ice.ipynb)
+* [Indicate sealevel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/NASA_indicate_sealevel.ipynb)
+
+	### sea level
+	- [Sea-level-indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/sea_level/Sea-level-indicator.ipynb)
 
 ## Naas
 * [API demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_API_demo.ipynb)
@@ -193,6 +215,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get help](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_help.ipynb)
 * [Domain demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Domain_demo.ipynb)
 * [Assets demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Assets_demo.ipynb)
+* [Emailbuilder demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Emailbuilder_demo.ipynb)
 * [Dependency demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Dependency_demo.ipynb)
 * [Scheduler demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Scheduler_demo.ipynb)
 
@@ -202,7 +225,6 @@ Here is a tutorial video to show you the way:<br><br>
 ## Newsapi
 * [Run sentiment analysis](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Run_sentiment_analysis.ipynb)
 * [Send emails briefs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Send_emails_briefs.ipynb)
-* [Untitled](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Untitled.ipynb)
 * [Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Get_data.ipynb)
 
 ## Notion
@@ -271,6 +293,16 @@ Here is a tutorial video to show you the way:<br><br>
 ## Twitter
 * [Post text and image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Post_text_and_image.ipynb)
 * [Schedule posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Schedule_posts.ipynb)
+
+## WHI
+* [](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/WHI.ipynb)
+
+	### indicators
+	- [Johns Hopkins Covid19 Active Cases](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/Johns_Hopkins_Covid19_Active_Cases.ipynb)
+	- [NASA Artic sea ice](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/NASA_Artic_sea_ice.ipynb)
+	- [NASA indicate sealevel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/NASA_indicate_sealevel.ipynb)
+
+	### output
 
 ## WorldBank
 * [World population and density](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WorldBank/WorldBank_World_population_and_density.ipynb)

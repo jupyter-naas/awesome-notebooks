@@ -181,17 +181,16 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get user information](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter/Jupyter_Get_user_information.ipynb)
 
 ## LinkedIn
-* [Get last messages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_last_messages.ipynb)
-* [Get posts likes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_posts_likes.ipynb)
-* [Get profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_profile.ipynb)
-* [Network get connections](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_network_get_connections.ipynb)
-* [Network get followers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_network_get_followers.ipynb)
-* [Profile get contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_profile_get_contact.ipynb)
-* [Profile get identity](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_profile_get_identity.ipynb)
-* [Profile get network](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_profile_get_network.ipynb)
-* [Post get likes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_post_get_likes.ipynb)
-* [Post get comments](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_post_get_comments.ipynb)
-* [Get post data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_get_post_data.ipynb)
+* [Get comments from post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_comments_from_post.ipynb)
+* [Get connections from network](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_connections_from_network.ipynb)
+* [Get contact from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_contact_from_profile.ipynb)
+* [Get followers from network](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_followers_from_network.ipynb)
+* [Get guests from event](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_guests_from_event.ipynb)
+* [Get identity from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_identity_from_profile.ipynb)
+* [Get likes from post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_likes_from_post.ipynb)
+* [Get network from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_network_from_profile.ipynb)
+* [Get stats from post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_stats_from_post.ipynb)
+* [Send message to profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_message_to_profile.ipynb)
 
 ## Microsoft Teams
 * [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Microsoft%20Teams/Microsoft%20Teams_Send_message.ipynb)
@@ -310,6 +309,7 @@ Here is a tutorial video to show you the way:<br><br>
 	### indicators
 	- [Johns Hopkins Covid19 Active Cases](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/Johns_Hopkins_Covid19_Active_Cases.ipynb)
 	- [NASA Artic sea ice](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/NASA_Artic_sea_ice.ipynb)
+	- [NASA Global temperature](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/NASA_Global_temperature.ipynb)
 	- [NASA indicate sealevel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/NASA_indicate_sealevel.ipynb)
 
 	### output

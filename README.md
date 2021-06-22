@@ -193,7 +193,9 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get network from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_network_from_profile.ipynb)
 * [Get posts stats from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_posts_stats_from_profile.ipynb)
 * [Get stats from post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_stats_from_post.ipynb)
+* [Send comments from post in gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_comments_from_post_in_gsheet.ipynb)
 * [Send invitation to profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_invitation_to_profile.ipynb)
+* [Send likes from post in gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_likes_from_post_in_gsheet.ipynb)
 * [Send message to profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_message_to_profile.ipynb)
 
 ## Microsoft Teams

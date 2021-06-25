@@ -221,6 +221,9 @@ Here is a tutorial video to show you the way:<br><br>
 	### sea level
 	- [Sea-level-indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/sea_level/Sea-level-indicator.ipynb)
 
+## NLP
+* [Naas nlp qna](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NLP/Naas_nlp_qna.ipynb)
+
 ## Naas
 * [API demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_API_demo.ipynb)
 * [Assets demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Assets_demo.ipynb)
@@ -229,6 +232,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Domain demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Domain_demo.ipynb)
 * [Emailbuilder demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Emailbuilder_demo.ipynb)
 * [Get help](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_help.ipynb)
+* [NLP Example](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_NLP_Example.ipynb)
 * [Notifications demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Notifications_demo.ipynb)
 * [Scheduler demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Scheduler_demo.ipynb)
 * [SecretKeys demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_SecretKeys_demo.ipynb)

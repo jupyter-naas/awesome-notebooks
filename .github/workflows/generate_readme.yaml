@@ -1,10 +1,8 @@
 name: Generate Readme
-
 on:
   push:
     branches:
       - master
-
 jobs:
   generate-readme:
     runs-on: ubuntu-latest

@@ -7,5 +7,7 @@ on:
 
 jobs:
   generate-readme:
-    run: "jupyter nbconvert --execute generate_readme.ipynb --inplace"
-    run: "jupyter nbconvert --clear-output --inplace generate_readme.ipynb"
+    runs-on: ubuntu-latest
+    steps:
+    - run: "jupyter nbconvert --execute generate_readme.ipynb --inplace"
+    - run: "jupyter nbconvert --clear-output --inplace generate_readme.ipynb"

@@ -7,5 +7,7 @@ jobs:
   generate-readme:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v1
+    - run: "pip install notebook"
     - run: "jupyter nbconvert --execute generate_readme.ipynb --inplace"
     - run: "jupyter nbconvert --clear-output --inplace generate_readme.ipynb"

@@ -28,7 +28,7 @@ There is an enormous opportunity to develop your skills and personal branding by
 <br>
 
 ## 🙏 How to contribute ?
-✅ Vote, create or pick a topic in the <a href="https://naas.canny.io/requests?category=templates&sort=top" target="_blank">Naas templates backlog</a><br>
+✅ Vote, create or pick a topic in Issues.
 ✅ Clone the repository in you Naas.ai account or in your local computer.<br> 
 ✅ Join our Slack community: the <a href="https://join.slack.com/t/aiclub-hq/shared_invite/zt-iqkuwq7m-zvdxYYbGLVVcIKuB2vg3pA" target="_blank">AI Club</a>, introduce yourself and ask for help when stuck. <br> 
 ✅ Once you have your template ready, create a new branch and push it to Github<br> 

@@ -13,3 +13,8 @@ jobs:
     - run: "pip install papermill"
     - run: "jupyter nbconvert --execute generate_readme.ipynb --inplace"
     - run: "jupyter nbconvert --clear-output --inplace generate_readme.ipynb"
+    - run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git commit -am "feat: generate templates button and json"
+          git push

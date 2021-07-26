@@ -52,7 +52,6 @@ Here is a tutorial video to show you the way:<br><br>
 <br>
 <br>
 
-
 ## AWS
 * [Upload file to S3 bucket](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AWS/AWS_Upload_file_to_S3_bucket.ipynb)
 
@@ -368,7 +367,6 @@ Here is a tutorial video to show you the way:<br><br>
 
 ## Zapier
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Zapier/Zapier_Trigger_workflow.ipynb)
-
 
 <br/>
 Maintained by CashStory SAS (Naas mother company).

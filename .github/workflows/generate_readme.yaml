@@ -2,7 +2,7 @@ name: Generate Readme
 on:
   push:
     branches:
-      - master
+      - ci/generate-readme
 jobs:
   generate-readme:
     runs-on: ubuntu-latest
@@ -16,5 +16,7 @@ jobs:
     - run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
+          git checkout main
+          git status
           git commit -am "feat: generate templates button and json"
           git push

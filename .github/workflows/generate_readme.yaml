@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
+      with:
+        token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
     - run: "pip install notebook"
     - run: "pip install naas_drivers"
     - run: "pip install papermill"

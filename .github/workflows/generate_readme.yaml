@@ -2,7 +2,7 @@ name: Generate Readme
 on:
   push:
     branches:
-      - ci/generate-readme
+      - master
 jobs:
   generate-readme:
     if: "!startsWith(github.event.head_commit.message, 'generateReadme:')"

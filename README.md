@@ -151,11 +151,14 @@ Here is a tutorial video to show you the way:<br><br>
 * [Delete contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_delete_contact.ipynb)
 * [Delete deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_delete_deal.ipynb)
 * [Get all contacts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_all_contacts.ipynb)
-* [Get association](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_association.ipynb.ipynb)
+* [Get all deals](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_all_deals.ipynb)
+* [Get association](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_association.ipynb)
 * [Get contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_contact.ipynb)
 * [Get deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_deal.ipynb)
 * [Update contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_contact.ipynb)
 * [Update deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_deal.ipynb)
+* [Update followers from linkedinbio](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_followers_from_linkedinbio.ipynb)
+* [Update linkedinbio from google](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_linkedinbio_from_google.ipynb)
 
 ## Hugging Face
 * [Ask boolean question to T5](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging%20Face/Hugging_Face_Ask_boolean_question_to_T5.ipynb)

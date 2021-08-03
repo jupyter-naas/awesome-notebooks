@@ -157,7 +157,8 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_deal.ipynb)
 * [Update contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_contact.ipynb)
 * [Update deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_deal.ipynb)
-* [Update followers from linkedinbio](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_followers_from_linkedinbio.ipynb)
+* [Update followers from linkedin](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_followers_from_linkedin.ipynb)
+* [Update jobtitle country industry from linkedin](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_jobtitle_country_industry_from_linkedin.ipynb)
 * [Update linkedinbio from google](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_linkedinbio_from_google.ipynb)
 
 ## Hugging Face

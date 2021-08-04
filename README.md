@@ -76,9 +76,6 @@ Here is a tutorial video to show you the way:<br><br>
 * [Calculate Support and Resistance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CCXT/CCXT_Calculate_Support_and_Resistance.ipynb)
 * [Predict Bitcoin from Binance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CCXT/CCXT_Predict_Bitcoin_from_Binance.ipynb)
 
-	### AWS
-	- [Upload file to S3 bucket](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CCXT/AWS/%20AWS_Upload_file_to_S3_bucket.ipynb)
-
 ## CSV
 * [Read a csv file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CSV/Read_a_csv_file.ipynb)
 
@@ -200,7 +197,6 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get network from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_network_from_profile.ipynb)
 * [Get posts stats from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_posts_stats_from_profile.ipynb)
 * [Get stats from post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_stats_from_post.ipynb)
-* [Save followers to any destinations](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Save_followers_to_any_destinations.ipynb)
 * [Send comments from post in gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_comments_from_post_in_gsheet.ipynb)
 * [Send invitation to profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_invitation_to_profile.ipynb)
 * [Send likes from post in gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_likes_from_post_in_gsheet.ipynb)
@@ -253,9 +249,6 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Get_data.ipynb)
 * [Run sentiment analysis](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Run_sentiment_analysis.ipynb)
 * [Send emails briefs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Send_emails_briefs.ipynb)
-
-	### Jupyter
-	- [Get user information](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Jupyter/Jupyter_Get_user_information.ipynb)
 
 ## Notion
 * [Explore API](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Explore_API.ipynb)

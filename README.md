@@ -277,6 +277,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Create Line Chart (Basic)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Line%20Chart%20%28Basic%29.ipynb)
 * [Create Waterfall chart (Advanced)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Waterfall%20chart%20%28Advanced%29.ipynb)
 * [Create Waterfall chart (Basic)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Waterfall%20chart%20%28Basic%29.ipynb)
+* [Create a World Map](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20a%20World%20Map.ipynb)
 
 ## Qonto
 * [Get flows](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_flows.ipynb)
@@ -313,6 +314,9 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get balances](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_balances.ipynb)
 * [Get charges](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_charges.ipynb)
 * [Get customers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_customers.ipynb)
+
+## Telegram
+* [Create crypto sentiment bot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Telegram/Telegram_Create_crypto_sentiment_bot.ipynb)
 
 ## Thinkific
 * [Get users](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Thinkific/Thinkific_Get_users.ipynb)

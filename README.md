@@ -155,6 +155,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get association](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_association.ipynb)
 * [Get contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_contact.ipynb)
 * [Get deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_deal.ipynb)
+* [Send sales brief](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_send_sales_brief.ipynb)
 * [Update contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_contact.ipynb)
 * [Update deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_deal.ipynb)
 * [Update followers from linkedin](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_followers_from_linkedin.ipynb)
@@ -251,6 +252,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Send emails briefs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Send_emails_briefs.ipynb)
 
 ## Notion
+* [Explore API](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Explore_API.ipynb)
 * [Extract data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Extract_data.ipynb)
 * [Send data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Send_data.ipynb)
 
@@ -276,6 +278,10 @@ Here is a tutorial video to show you the way:<br><br>
 * [Create Line Chart (Basic)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Line%20Chart%20%28Basic%29.ipynb)
 * [Create Waterfall chart (Advanced)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Waterfall%20chart%20%28Advanced%29.ipynb)
 * [Create Waterfall chart (Basic)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Waterfall%20chart%20%28Basic%29.ipynb)
+* [Create a World Map](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20a%20World%20Map.ipynb)
+
+	### Pandas
+	- [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python%20Snippets/Pandas/Pandas_Merge_Dataframes.ipynb)
 
 ## Qonto
 * [Get flows](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_flows.ipynb)
@@ -312,6 +318,9 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get balances](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_balances.ipynb)
 * [Get charges](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_charges.ipynb)
 * [Get customers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_customers.ipynb)
+
+## Telegram
+* [Create crypto sentiment bot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Telegram/Telegram_Create_crypto_sentiment_bot.ipynb)
 
 ## Thinkific
 * [Get users](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Thinkific/Thinkific_Get_users.ipynb)

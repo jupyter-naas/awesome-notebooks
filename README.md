@@ -155,6 +155,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get association](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_association.ipynb)
 * [Get contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_contact.ipynb)
 * [Get deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_get_deal.ipynb)
+* [Send sales brief](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_send_sales_brief.ipynb)
 * [Update contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_contact.ipynb)
 * [Update deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_deal.ipynb)
 * [Update followers from linkedin](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_followers_from_linkedin.ipynb)

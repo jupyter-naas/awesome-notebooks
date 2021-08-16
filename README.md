@@ -297,6 +297,9 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get data from API](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Quandl/Quandl_Get_data_from_API.ipynb)
 * [Get data from CSV](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Quandl/Quandl_Get_data_from_CSV.ipynb)
 
+## Reddit
+* [Get Hot Posts From Subreddit](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Reddit/Reddit_Get_Hot_Posts_From_Subreddit.ipynb)
+
 ## Redshift
 * [Connect with SQL Magic and IAM Credentials](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Redshift/Redshift_Connect_with_SQL_Magic_and_IAM_Credentials.ipynb)
 

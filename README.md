@@ -111,6 +111,9 @@ Here is a tutorial video to show you the way:<br><br>
 ## FAO
 * [Consumer price indice](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FAO/FAO_Consumer_price_indice.ipynb)
 
+## FEC
+* [Creer un dashboard PowerBI](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Creer_un_dashboard_PowerBI.ipynb)
+
 ## FTP
 * [S Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTPS_Connect.ipynb)
 * [Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Connect.ipynb)

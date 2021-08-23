@@ -259,8 +259,8 @@ Here is a tutorial video to show you the way:<br><br>
 ## Notion
 * [Explore API](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Explore_API.ipynb)
 * [Extract data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Extract_data.ipynb)
+* [Get page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_page.ipynb)
 * [Send data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Send_data.ipynb)
-* [Get page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/get_page.ipynb)
 
 ## OpenWeatherMap
 * [Get City Weather](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenWeatherMap/OpenWeatherMap_Get_City_Weather.ipynb)

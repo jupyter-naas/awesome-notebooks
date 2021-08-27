@@ -288,6 +288,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Create a World Map](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20a%20World%20Map.ipynb)
 
 	### Pandas
+	- [Create Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python%20Snippets/Pandas/Pandas_Create_Pivot_Table.ipynb)
 	- [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python%20Snippets/Pandas/Pandas_Merge_Dataframes.ipynb)
 
 ## Qonto

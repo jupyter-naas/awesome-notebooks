@@ -287,9 +287,9 @@ Here is a tutorial video to show you the way:<br><br>
 * [Create Waterfall chart (Basic)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Waterfall%20chart%20%28Basic%29.ipynb)
 * [Create a World Map](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20a%20World%20Map.ipynb)
 
-	### Pandas
-	- [Create Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python%20Snippets/Pandas/Pandas_Create_Pivot_Table.ipynb)
-	- [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python%20Snippets/Pandas/Pandas_Merge_Dataframes.ipynb)
+## Pandas
+- [Create Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python%20Snippets/Pandas/Pandas_Create_Pivot_Table.ipynb)
+- [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python%20Snippets/Pandas/Pandas_Merge_Dataframes.ipynb)
 
 ## Qonto
 * [Get flows](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_flows.ipynb)

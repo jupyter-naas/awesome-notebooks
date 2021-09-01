@@ -323,6 +323,9 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get societe.ninja](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/get_societe.ninja.ipynb)
 * [Get verif.com](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/get_verif.com.ipynb)
 
+## Streamlit
+* [Create prediction app](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Streamlit/Streamlit_Create_prediction_app.ipynb)
+
 ## Stripe
 * [Get balances](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_balances.ipynb)
 * [Get charges](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_charges.ipynb)

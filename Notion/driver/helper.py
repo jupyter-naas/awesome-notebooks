@@ -1,3 +1,6 @@
+import pandas as pd
+
+
 class PropertyObject:
     """An object describing by an id, type, and value of a page property."""
 
@@ -91,7 +94,7 @@ class PageObject:
     """The Page object contains the property values of a single Notion page."""
 
     def __init__(self, page_object) -> None:
-        self.properties = page_object["properties"]
+        self.raw_properties = page_object["properties"]
         self.parent = page_object["parent"]
         self.icon = page_object["icon"]
         self.cover = page_object["cover"]
@@ -102,6 +105,32 @@ class PageObject:
         self.last_edited_time = page_object["last_edited_time"]
         self.archived = page_object["archived"]
         self.url = page_object["url"]
+
+    def __getitem__(self, key):
+        raw_property = PropertyObject(self.raw_properties[key])
+        return raw_property.extract()
+
+    def __setitem__(self, key, value):
+        raw_property = PropertyObject(self.raw_properties[key])
+        return raw_property.insert(value)
+
+    @property
+    def properties(self) -> pd.Series:
+        data = {key: self[key] for key in self.raw_properties.keys()}
+        return pd.Series(data)
+
+    @property
+    def template(self) -> dict:
+        parent_object = self.parent.copy()
+        parent_object.pop("type")
+
+        return {
+            "parent": parent_object,
+            "properties": self.raw_properties,
+            "children": [],
+            "icon": self.icon,
+            "cover": self.cover,
+        }
 
 
 class BlockObject:
@@ -114,7 +143,13 @@ class BlockObject:
         self.created_time = block_object["created_time"]
         self.value = block_object[self.type]
 
-    @property
+    def get(self):
+        return {
+            "type": self.type,
+            "content": self.content(),
+            "id": self.id,
+        }
+
     def content(self):
         if self.type == "child_page":
             return self.value["title"]
@@ -123,12 +158,9 @@ class BlockObject:
             content = [rich_text["plain_text"] for rich_text in array_of_rich_text]
             return " ".join(content)
 
-    def extract(self):
-        return {
-            "type": self.type,
-            "content": self.content,
-            "id": self.id,
-        }
+
+class DatabaseObject:
+    pass
 
 
 def unstack_properties(df):

@@ -1,12 +1,13 @@
-from typing import List
+from typing import Dict, List
 import pandas as pd
 from request_notion import RequestBlock
 
 
-class PropertyObject:
+class PropertyObject(dict):
     """An object describing by an id, type, and value of a page property."""
 
     def __init__(self, property_object) -> None:
+        self.raw = property_object
         self.id = property_object["id"]
         self.type = property_object["type"]
         self.value = property_object[self.type]
@@ -64,45 +65,48 @@ class PropertyObject:
 
         if self.type == "select":
             if isinstance(value, str):
-                self.value = {"name": value}
+                self.raw[self.type] = {"name": value}
             else:
                 raise TypeError(f"{self.type} must be a string")
 
         if self.type == "multi_select":
             if isinstance(value, str):
-                self.value.clear()
-                self.value = [{"name": value}]
+                self.raw[self.type].clear()
+                self.raw[self.type] = [{"name": value}]
             elif isinstance(value, list):
-                self.value.clear()
+                self.raw[self.type].clear()
                 for elm in value:
-                    self.value.append({"name": elm})
+                    self.raw[self.type].append({"name": elm})
             else:
                 raise TypeError(f"{self.type} must be a string or a list of string")
 
         elif self.type == "number":
             if isinstance(value, int):
-                self.value = value
+                self.raw[self.type] = value
             else:
                 raise TypeError(f"{self.type} must be an integer")
 
         elif self.type in ["url", "phone_number", "email"]:
             if isinstance(value, str):
-                self.value = value
+                self.raw[self.type] = value
             else:
                 raise TypeError(f"{self.type} must be a string or a list of string")
 
 
-class PageProperties(dict):
+class PageProperties:
+    def __init__(self, properties: Dict):
+        self.raw = properties
+
     def __getitem__(self, key):
-        raw_property = PropertyObject(super().__getitem__(key))
+        raw_property = PropertyObject(self.raw[key])
         return raw_property.extract()
 
     def __setitem__(self, key, value):
-        raw_property = PropertyObject(super().__getitem__(key))
+        raw_property = PropertyObject(self.raw[key])
         return raw_property.insert(value)
 
     def get(self) -> pd.Series:
-        data = {key: self[key] for key in self.keys()}
+        data = {key: self[key] for key in self.raw.keys()}
         return pd.Series(data)
 
     def __repr__(self) -> str:
@@ -110,10 +114,9 @@ class PageProperties(dict):
 
 
 class PageObject:
-
     """The Page object contains the property values of a single Notion page."""
 
-    def __init__(self, page_object: dict) -> None:
+    def __init__(self, page_object: Dict) -> None:
         self.raw = page_object
         self.object = page_object["object"]
         self.id = page_object["id"]

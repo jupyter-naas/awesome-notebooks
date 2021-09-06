@@ -1,6 +1,4 @@
 import json
-
-import pandas as pd
 from notion_object import (
     PageObject,
     PageContent,
@@ -43,4 +41,5 @@ if __name__ == "__main__":
     PAGE_URL = "https://www.notion.so/Tom-Simon-2ccdafe28955478b8c9d70bda0044c86"
 
     page = Page(PAGE_URL, TOKEN_API)
-    page.duplicate()
+    # page.properties["Email"] = "axelito@gmail.com"
+    page.properties["Completion Time"] = 4

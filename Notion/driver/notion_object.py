@@ -1,3 +1,4 @@
+from typing import List
 import pandas as pd
 from request_notion import RequestBlock
 
@@ -91,20 +92,17 @@ class PropertyObject:
                 raise TypeError(f"{self.type} must be a string or a list of string")
 
 
-class PageProperties:
-    def __init__(self, raw_properties) -> None:
-        self.raw = raw_properties
-
+class PageProperties(dict):
     def __getitem__(self, key):
-        raw_property = PropertyObject(self.raw[key])
+        raw_property = PropertyObject(super().__getitem__(key))
         return raw_property.extract()
 
     def __setitem__(self, key, value):
-        raw_property = PropertyObject(self.raw[key])
+        raw_property = PropertyObject(super().__getitem__(key))
         return raw_property.insert(value)
 
     def get(self) -> pd.Series:
-        data = {key: self[key] for key in self.raw.keys()}
+        data = {key: self[key] for key in self.keys()}
         return pd.Series(data)
 
     def __repr__(self) -> str:
@@ -112,6 +110,7 @@ class PageProperties:
 
 
 class PageObject:
+
     """The Page object contains the property values of a single Notion page."""
 
     def __init__(self, page_object: dict) -> None:
@@ -165,7 +164,7 @@ class BlockObject:
 
 
 class PageContent:
-    def __init__(self, blocks: list) -> None:
+    def __init__(self, blocks: List[BlockObject]) -> None:
         self.raw = [BlockObject(block) for block in blocks]
 
     def __getitem__(self, index):
@@ -186,12 +185,15 @@ class PageContent:
     def __repr__(self) -> str:
         return f"{self.get()}"
 
+    def _repr_html_(self):
+        return self.get().to_html()
+
 
 class TemplateObject:
     def __init__(
         self, page_object: PageObject, content_object: PageContent, headers
     ) -> None:
-        self.page_object = page_object
+        self.page_object = page_object.raw
 
         self.parent = self.page_object["parent"].copy()
         self.parent.pop("type")

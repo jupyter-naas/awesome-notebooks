@@ -1,4 +1,6 @@
 import json
+
+import pandas as pd
 from notion_object import (
     PageObject,
     PageContent,
@@ -6,45 +8,33 @@ from notion_object import (
 )
 from request_notion import RequestPage, RequestBlock
 
-VERSION = "2021-08-16"
-
-# TODO:
-#   1. _repr_html_ -> with Page and content
-#   2. find a way to update the content of a page
-#   3. Work on the dockstring
-
-
-def connect(token_api):
-    global HEADERS
-    HEADERS = {
-        "Authorization": f"Bearer {token_api}",
-        "Notion-Version": f"{VERSION}",
-        "Content-Type": "application/json",
-    }
-
 
 class Page(PageObject):
-    def __init__(self, page_url) -> None:
+    page_url: str
+    token_api: str
+
+    def __init__(self, page_url, token_api) -> None:
+        self.token_api = token_api
         self.url = page_url
         self.id = page_url.split("-")[-1]
 
-        page_object = RequestPage(self.id, HEADERS).retreive()
+        page_object = RequestPage(self.id, token_api).retreive()
         super().__init__(page_object)
 
-        page_content = RequestBlock(self.id, HEADERS).retreive_children()
+        page_content = RequestBlock(self.id, token_api).retreive_children()
         self.content = PageContent(page_content)
 
     def update(self):
         data = json.dumps(self.raw)
-        RequestPage(self.id, HEADERS).update(data)
+        RequestPage(self.id, self.token_api).update(data)
 
     def refresh(self):
         return self.__init__(self.url)
 
     def duplicate(self):
-        template = TemplateObject(self.raw, self.content.raw, HEADERS).create()
+        template = TemplateObject(self, self.content.raw, self.token_api).create()
         new_page = json.dumps(template)
-        RequestPage(self.id, HEADERS).create(new_page)
+        RequestPage(self.id, self.token_api).create(new_page)
 
 
 if __name__ == "__main__":
@@ -52,6 +42,5 @@ if __name__ == "__main__":
     TOKEN_API = "secret_R1CrUGn8bx9itbJW0Fc9Cc0R9Lmhbnz2ayqEe0GhRPq"
     PAGE_URL = "https://www.notion.so/Tom-Simon-2ccdafe28955478b8c9d70bda0044c86"
 
-    connect(TOKEN_API)
-    page = Page(PAGE_URL)
+    page = Page(PAGE_URL, TOKEN_API)
     page.duplicate()

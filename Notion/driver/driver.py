@@ -1,9 +1,5 @@
-import requests
-import pandas as pd
 import json
 from notion_object import (
-    PropertyObject,
-    BlockObject,
     PageObject,
     PageContent,
     TemplateObject,
@@ -46,7 +42,7 @@ class Page(PageObject):
         return self.__init__(self.url)
 
     def duplicate(self):
-        template = TemplateObject(self.raw, self.content.raw).create()
+        template = TemplateObject(self.raw, self.content.raw, HEADERS).create()
         new_page = json.dumps(template)
         RequestPage(self.id, HEADERS).create(new_page)
 

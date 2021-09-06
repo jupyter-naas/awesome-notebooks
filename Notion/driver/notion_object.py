@@ -1,4 +1,5 @@
 import pandas as pd
+from request_notion import RequestBlock
 
 
 class PropertyObject:
@@ -158,6 +159,10 @@ class BlockObject:
             self.value["text"][0]["text"]["content"] = value
             self.value["text"][0]["plain_text"] = value
 
+    def retreive_children(self, headers):
+        if self.has_children:
+            self.value["children"] = RequestBlock(self.id, headers).retreive_children()
+
 
 class PageContent:
     def __init__(self, blocks: list) -> None:
@@ -183,16 +188,19 @@ class PageContent:
 
 
 class TemplateObject:
-    def __init__(self, page_object: PageObject, content_object: PageContent) -> None:
+    def __init__(
+        self, page_object: PageObject, content_object: PageContent, headers
+    ) -> None:
         self.page_object = page_object
 
         self.parent = self.page_object["parent"].copy()
         self.parent.pop("type")
 
-        self.content_object = content_object.copy()
-        self.children = [
-            block.raw for block in self.content_object  # if block.type != "child_page"
-        ]
+        self.children = []
+        for block in content_object:
+            if block.type != "child_page":
+                block.retreive_children(headers)
+                self.children.append(block.raw)
 
     def create(self):
         return {

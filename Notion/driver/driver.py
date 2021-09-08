@@ -1,45 +1,40 @@
 import json
-from notion_object import (
-    PageObject,
-    PageContent,
-    TemplateObject,
-)
-from request_notion import RequestPage, RequestBlock
+from lib.request import RequestPageProperties, RequestPage
+from lib.page import PageObject
 
 
 class Page(PageObject):
-    page_url: str
-    token_api: str
-
     def __init__(self, page_url, token_api) -> None:
         self.token_api = token_api
         self.url = page_url
         self.id = page_url.split("-")[-1]
 
-        page_object = RequestPage(self.id, token_api).retreive()
-        super().__init__(page_object)
+        self._create_page()
 
-        page_content = RequestBlock(self.id, token_api).retreive_children()
-        self.content = PageContent(page_content)
+    def _create_page(self):
+        self.raw = RequestPage(self.id, self.token_api)
+        super().__init__(**self.raw.retreive())
 
     def update(self):
-        data = json.dumps(self.raw)
-        RequestPage(self.id, self.token_api).update(data)
+        RequestPageProperties(self.id, self.token_api).update(self.raw.properties)
+        for block in self.raw.content:
+            RequestPageProperties(block["id"], self.token_api).update(block)
 
     def refresh(self):
         return self.__init__(self.url)
 
-    def duplicate(self):
-        template = TemplateObject(self, self.content.raw, self.token_api).create()
-        new_page = json.dumps(template)
-        RequestPage(self.id, self.token_api).create(new_page)
+    # def duplicate(self):
+    #     template = TemplateObject(self, self.content.raw, self.token_api).create()
+    #     new_page = json.dumps(template)
+    #     RequestPage(self.id, self.token_api).create(new_page)
 
 
 if __name__ == "__main__":
 
     TOKEN_API = "secret_R1CrUGn8bx9itbJW0Fc9Cc0R9Lmhbnz2ayqEe0GhRPq"
-    PAGE_URL = "https://www.notion.so/Tom-Simon-2ccdafe28955478b8c9d70bda0044c86"
+    PAGE_URL = "https://www.notion.so/Bitcoin-aaca5f6afecc4bbfa29c8d2e17901e18"
 
     page = Page(PAGE_URL, TOKEN_API)
     # page.properties["Email"] = "axelito@gmail.com"
-    page.properties["Completion Time"] = 4
+    # page.properties["Completion Time"] = 4
+    # page.update()

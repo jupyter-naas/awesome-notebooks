@@ -1,6 +1,5 @@
-import json
-from lib.request import RequestPageProperties, RequestPage
-from lib.page import PageObject
+from utils.request import RequestPageProperties, RequestPage
+from utils.page import PageObject
 
 
 class Page(PageObject):
@@ -9,9 +8,6 @@ class Page(PageObject):
         self.url = page_url
         self.id = page_url.split("-")[-1]
 
-        self._create_page()
-
-    def _create_page(self):
         self.raw = RequestPage(self.id, self.token_api)
         super().__init__(**self.raw.retreive())
 

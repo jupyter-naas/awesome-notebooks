@@ -1,101 +1,96 @@
-# from naas_drivers.driver import InDriver, OutDriver
-# from notion.client import NotionClient
 import pandas as pd
 import requests
 import os
-
-
-# class Notion(InDriver, OutDriver):
-#     def __init__(self):
-#         self.auth_proxy = os.getenv("NAAS_AUTH_PROXY")
-
-#     def connect(
-#         self,
-#         token: str = None,
-#         email: str = None,
-#         password: str = None,
-#     ):
-#         if token:
-#             self.client = NotionClient(token)
-#         elif email and password:
-#             self.client = NotionClient(token_v2=self.__token_v2(email, password))
-#         else:
-#             self.print_error("You should provide, token or email/pasword")
-#         self.connected = True
-#         return self
-
-#     def __token_v2(
-#         self,
-#         email: str,
-#         password: str,
-#     ):
-#         url = f"https://www.notion.so/login&filter=token_v2&email={email}&password={password}"
-#         cookie_response = requests.get(f"{self.auth_proxy}/token?url={url}")
-#         return cookie_response.json()["cookies"][0]["value"]
-
-#     def get(self, url: str):
-#         self.check_connect()
-#         page = self.client.get_block(url)
-#         return page
-
-#     def get_collection(
-#         self,
-#         url: str,
-#         raw: bool = False,
-#     ):
-#         self.check_connect()
-#         cv = self.client.get_collection_view(url)
-#         if raw:
-#             return cv
-#         else:
-#             data = [
-#                 block_row.get_all_properties() for block_row in cv.collection.get_rows()
-#             ]
-#             return pd.DataFrame(data)
         
 _VERSION = '2021-08-16'
 
 
+
+
+# def insert(self, value):
+#     if self.type == "date":
+#         if isinstance(value, list) and len(value) == 2:
+#             self.value["start"] = value[0]
+#             self.value["end"] = value[1]
+#         elif isinstance(value, str):
+#             self.value["start"] = value
+#             self.value["end"] = None
+#         else:
+#             raise TypeError(
+#                 "Date must be a '2021-08-28' or ['2021-08-28', '2021-10-28']"
+#             )
+
+#     if self.type in ["title", "rich_text"]:
+#         if isinstance(value, str):
+#             del self.value[1:]
+#             self.value[0]["plain_text"] = value
+#             self.value[0]["text"]["content"] = value
+#         else:
+#             raise TypeError(f"{self.type} must be a string")
+
+#     if self.type == "select":
+#         if isinstance(value, str):
+#             self.raw[self.type] = {"name": value}
+#         else:
+#             raise TypeError(f"{self.type} must be a string")
+
+#     if self.type == "multi_select":
+#         if isinstance(value, str):
+#             self.raw[self.type].clear()
+#             self.raw[self.type] = [{"name": value}]
+#         elif isinstance(value, list):
+#             self.raw[self.type].clear()
+#             for elm in value:
+#                 self.raw[self.type].append({"name": elm})
+#         else:
+#             raise TypeError(f"{self.type} must be a string or a list of string")
+
+#     elif self.type == "number":
+#         if isinstance(value, int):
+#             self.raw[self.type] = value
+#         else:
+#             raise TypeError(f"{self.type} must be an integer")
+
+#     elif self.type in ["url", "phone_number", "email"]:
+#         if isinstance(value, str):
+#             self.raw[self.type] = value
+#         else:
+#             raise TypeError(f"{self.type} must be a string or a list of string")
+
+
 class Notion():
     
-    def extract_text(self, dictionnary):
-        if 'name' in dictionnary:
-            return dictionnary['name']
-        elif 'plain_text' in dictionnary:
-            return dictionnary['plain_text']
+    def _extract_property(self, property_object):
+        property_type = property_object["type"]
+        property_value = property_object[property_type]
+
+        if property_value is None:
+            return None
         else:
-            return ''
+            if property_type == "date":
+                if property_value["end"]:
+                    return f'{property_value["start"]} -> {property_value["end"]}'
+                return property_value["start"]
 
-    def extract_date(self, dictionnary):
-        '''
-        For the moment we extract only the starting date of a date field
-        Example {'id': 'prop_1', 'type': 'date', 'date': {'start': '2018-03-21', 'end': None}}
-        '''
-        return dictionnary['start']
+            elif property_type in ["title", "rich_text"]:
+                texts = [text["plain_text"] for text in property_value]
+                return ",".join(texts)
 
-    def extract_data(self, element):
-        ''' 
-        input: a dictionnary of a notion property
-        Exemple: {'id': 'W#4k', 'type': 'select', 'select': {'id': 'b305bd26-****-****-****-c78e2034db8f', 'name': 'Client', 'color': 'green'}}
-        output: the string containing the information of the dict. (Client in the exemple)
-        '''
-        if type(element) is dict:
-            dict_type = element['type'] 
-            informations = element[dict_type]
+            elif property_type == "select":
+                return property_value["name"]
 
-            if type(informations) is dict:
-                if dict_type == 'date':
-                    return self.extract_date(informations)
-                else:
-                    return self.extract_text(informations)
+            elif property_type == "multi_select":
+                selections = [select["name"] for select in property_value]
+                return ", ".join(selections)
 
-            elif type(informations) is list:
-                informations = [self.extract_text(elm) for elm in informations]
-                return ','.join(informations)
-            else:
-                return informations
-        else:
-            return ''
+            elif property_type in ["number", "url", "phone_number", "email", "checkbox"]:
+                return property_value
+
+            elif property_type == "people":
+                peoples = [
+                    people.get("name") for people in property_value if people.get("name")
+                ]
+                return ", ".join(peoples)
         
     def connect(self, api_token):
         # Init thinkific attribute
@@ -105,7 +100,7 @@ class Notion():
 
         # Init end point
         self.page = Page(self.header)
-        self.datebase = Database(self.header)
+        self.database = Database(self.header)
 
         # Set connexion to active
         self.connected = True
@@ -140,15 +135,14 @@ class Database(Notion):
     def __init__(self, headers):
         Notion.__init__(self)
         self.headers = headers
-        
-    def __get_database_id(self, url):
+    
+    def _get_id(self, url):
         path = url.split('/')[-1]
         uid = path.split('?')[0]
         return uid
     
     def get(self, url):
-        # Get id from page
-        uid = self.__get_database_id(url)
+        uid = self._get_id(url)
         req_url = f'https://api.notion.com/v1/databases/{uid}/query'
         
         # Request
@@ -171,7 +165,6 @@ class Database(Notion):
             data.append(properties)
 
         df = pd.DataFrame(data)
-        df = df.applymap(self.extract_data).dropna()
+        df = df.applymap(self._extract_property)
         df.columns = df.columns.str.upper()
         return df
-

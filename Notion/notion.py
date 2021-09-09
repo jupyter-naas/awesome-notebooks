@@ -1,66 +1,11 @@
 import pandas as pd
 import requests
 import os
+from typing import Dict
         
 _VERSION = '2021-08-16'
 
-
-
-
-# def insert(self, value):
-#     if self.type == "date":
-#         if isinstance(value, list) and len(value) == 2:
-#             self.value["start"] = value[0]
-#             self.value["end"] = value[1]
-#         elif isinstance(value, str):
-#             self.value["start"] = value
-#             self.value["end"] = None
-#         else:
-#             raise TypeError(
-#                 "Date must be a '2021-08-28' or ['2021-08-28', '2021-10-28']"
-#             )
-
-#     if self.type in ["title", "rich_text"]:
-#         if isinstance(value, str):
-#             del self.value[1:]
-#             self.value[0]["plain_text"] = value
-#             self.value[0]["text"]["content"] = value
-#         else:
-#             raise TypeError(f"{self.type} must be a string")
-
-#     if self.type == "select":
-#         if isinstance(value, str):
-#             self.raw[self.type] = {"name": value}
-#         else:
-#             raise TypeError(f"{self.type} must be a string")
-
-#     if self.type == "multi_select":
-#         if isinstance(value, str):
-#             self.raw[self.type].clear()
-#             self.raw[self.type] = [{"name": value}]
-#         elif isinstance(value, list):
-#             self.raw[self.type].clear()
-#             for elm in value:
-#                 self.raw[self.type].append({"name": elm})
-#         else:
-#             raise TypeError(f"{self.type} must be a string or a list of string")
-
-#     elif self.type == "number":
-#         if isinstance(value, int):
-#             self.raw[self.type] = value
-#         else:
-#             raise TypeError(f"{self.type} must be an integer")
-
-#     elif self.type in ["url", "phone_number", "email"]:
-#         if isinstance(value, str):
-#             self.raw[self.type] = value
-#         else:
-#             raise TypeError(f"{self.type} must be a string or a list of string")
-
-
-class Notion():
-    
-    def _extract_property(self, property_object):
+def _extract_property(property_object):
         property_type = property_object["type"]
         property_value = property_object[property_type]
 
@@ -91,7 +36,8 @@ class Notion():
                     people.get("name") for people in property_value if people.get("name")
                 ]
                 return ", ".join(peoples)
-        
+
+class Notion:
     def connect(self, api_token):
         # Init thinkific attribute
         self.header = {'Authorization': f'Bearer {api_token}',
@@ -106,35 +52,124 @@ class Notion():
         self.connected = True
         return self
 
+class BlockObject(dict):
+    """A block object represents content within Notion. Blocks can be text, lists, media, and more. A page is a type of block, too!."""
 
+    def __init__(self, dictionary) -> None:
+        super().__init__(dictionary)
+        self.object = dictionary.get("object")
+        self.id = dictionary.get("id")
+        self.type = dictionary.get("type")
+        self.created_time = dictionary.get("created_time")
+        self.last_edited_time = dictionary.get("last_edited_time")
+        self.has_children = dictionary.get("has_children")
+        self.value = dictionary.get(self.type)
+
+    def extract(self) -> Dict:
+        if self.type == "unsupported":
+            return "unsupported"
+        elif self.type == "child_page":
+            return self.value["title"]
+        elif self.type in ["bookmark", "pdf", "video", "image", "embed"]:
+            return self.value["url"]
+        else:
+            array_of_rich_text = self.value["text"]
+            content = [rich_text["plain_text"] for rich_text in array_of_rich_text]
+            return " ".join(content)
+
+    def insert(self, value) -> None:
+        if self.type == "unsupported":
+            return
+        elif self.type == "child_page":
+            self.value["title"] = value
+        elif self.type in ["bookmark", "embed"]:
+            self.value["url"] = value
+        else:
+            del self.value["text"][1:]
+            self.value["text"][0]["text"]["content"] = value
+            self.value["text"][0]["plain_text"] = value
+            
+class PageProperties:
+    def __init__(self, properties: Dict):
+        self.raw = properties
+
+    def __getitem__(self, key):
+        return _extract_property(self.raw[key])
+
+    def __setitem__(self, key, value):
+        return _extract_property(self.raw[key])
+
+    def get(self) -> pd.Series:
+        data = {key: self[key] for key in self.raw.keys()}
+        return pd.Series(data)
+
+    def __repr__(self) -> str:
+        return f"{self.get()}"
+
+
+class PageContent:
+    def __init__(self, blocks) -> None:
+        self.raw = [block for block in blocks]
+
+    def __getitem__(self, index):
+        return BlockObject(self.raw[index]).extract()
+
+    def __setitem__(self, index, value):
+        return BlockObject(self.raw[index]).insert(value)
+
+    def get(self) -> pd.DataFrame:
+        result = []
+        for block in self.raw:
+            block = BlockObject(block)
+            result.append(
+                {
+                    "type": block.type,
+                    "content": block.extract(),
+                    "id": block.id,
+                }
+            )
+        return pd.DataFrame(result)
+
+    def __repr__(self) -> str:
+        return f"{self.get()}"
+
+    def _repr_html_(self):
+        return self.get().to_html()
+
+    
 class Page(Notion):
-    def __init__(self, headers):
+    def __init__(self, headers, page_url=None):
         Notion.__init__(self)
         self.headers = headers
+        if page_url:
+            self.id = page_url.split("-")[-1]
+        else:
+            self.id = None
+            
+        # Request Parent
+        url = f"https://api.notion.com/v1/pages/{self.id}"
+        res = requests.get(url, headers=self.headers) 
+        self.properties = PageProperties(res.json())
         
-#     def get_content(data):
-#         return data
+        # Request Content
+        url = f"https://api.notion.com/v1/blocks/{self.id}/children"
+        res = requests.get(url, headers=self.headers)
+        content_object = res.json().get("results")
+        if content_object:
+            self.content = PageContent(content_object)
         
-#     def get_properties(data):
-#         return data
+    def create(self, parent_id, data):
+        return "Not Implemented yet"
     
-#     def create(self, parent_id, data):
-#         data = {}
-#         return parent_id
-    
-#     def get(self, url):
-#         return url
-    
-#     def update(self, parent_id):
-#         return parent_id
-    
-#     def delete(self, url):
-#         return url
+    def delete(self, url):
+        return "Not Implemented yet"
 
+    
 class Database(Notion):
     def __init__(self, headers):
         Notion.__init__(self)
         self.headers = headers
+        
     
     def _get_id(self, url):
         path = url.split('/')[-1]
@@ -165,6 +200,9 @@ class Database(Notion):
             data.append(properties)
 
         df = pd.DataFrame(data)
-        df = df.applymap(self._extract_property)
+        df = df.applymap(_extract_property).dropna(how='all')
         df.columns = df.columns.str.upper()
         return df
+    
+    def create(self, url):
+        return "Not Implemented yet"

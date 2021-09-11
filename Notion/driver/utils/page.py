@@ -1,7 +1,5 @@
 from typing import Dict
 import pandas as pd
-from dataclasses import dataclass
-
 from .property import Property
 from .block import BlockObject
 
@@ -24,7 +22,7 @@ class PageProperties:
         return f"{self.get()}"
 
 
-class PageContent(list):
+class PageContent:
     def __init__(self, blocks) -> None:
         self.raw = [block for block in blocks]
 
@@ -52,34 +50,3 @@ class PageContent(list):
 
     def _repr_html_(self):
         return self.get().to_html()
-
-
-@dataclass
-class PageObject:
-    object: str
-    id: str
-    created_time: str
-    last_edited_time: str
-    archived: bool
-    icon: Dict
-    cover: Dict
-    properties: Dict
-    parent: Dict
-    url: str
-    content: list
-
-    def __post_init__(self):
-        self.properties = PageProperties(self.properties)
-        self.content = PageContent(self.content)
-
-
-if __name__ == "__main__":
-
-    from request import RequestPage
-
-    TOKEN_API = "secret_R1CrUGn8bx9itbJW0Fc9Cc0R9Lmhbnz2ayqEe0GhRPq"
-    PAGE_URL = "https://www.notion.so/Tom-Simon-2ccdafe28955478b8c9d70bda0044c86"
-
-    PAGE_ID = PAGE_URL.split("-")[-1]
-    page_object = RequestPage(PAGE_ID, TOKEN_API).retreive()
-    page = PageObject(**page_object)

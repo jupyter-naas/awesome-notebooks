@@ -1,42 +1,48 @@
 from typing import Dict
+from blocks import *
+
+mapping = {
+    "heading_1": Heading1,
+    "heading_2": Heading2,
+    "heading_3": Heading3,
+    "embed": Embed,
+}
 
 
-class BlockObject(dict):
+def extract_block(block_object):
     """A block object represents content within Notion. Blocks can be text, lists, media, and more. A page is a type of block, too!."""
+    block_type = block_object.get("type")
+    return mapping[block_type](block_object).get()
 
-    def __init__(self, dictionary) -> None:
-        super().__init__(dictionary)
-        self.object = dictionary.get("object")
-        self.id = dictionary.get("id")
-        self.type = dictionary.get("type")
-        self.created_time = dictionary.get("created_time")
-        self.last_edited_time = dictionary.get("last_edited_time")
-        self.has_children = dictionary.get("has_children")
-        self.value = dictionary.get(self.type)
 
-    def extract(self) -> Dict:
-        if self.type == "unsupported":
-            return "unsupported"
-        elif self.type == "child_page":
-            return self.value["title"]
-        elif self.type in ["bookmark", "pdf", "video", "image", "embed"]:
-            return self.value["url"]
-        else:
-            array_of_rich_text = self.value["text"]
-            content = [rich_text["plain_text"] for rich_text in array_of_rich_text]
-            return " ".join(content)
+def insert_block(block_object, value):
+    """A block object represents content within Notion. Blocks can be text, lists, media, and more. A page is a type of block, too!."""
+    block_type = block_object.get("type")
+    return mapping[block_type](block_object).set(value)
 
-    def insert(self, value) -> None:
-        if self.type == "unsupported":
-            return
-        elif self.type == "child_page":
-            self.value["title"] = value
-        elif self.type in ["bookmark", "embed"]:
-            self.value["url"] = value
-        else:
-            del self.value["text"][1:]
-            self.value["text"][0]["text"]["content"] = value
-            self.value["text"][0]["plain_text"] = value
+    # def extract(self) -> Dict:
+    #     if self.type == "unsupported":
+    #         return "unsupported"
+    #     elif self.type == "child_page":
+    #         return self.value["title"]
+    #     elif self.type in ["bookmark", "pdf", "video", "image", "embed"]:
+    #         return self.value["url"]
+    #     else:
+    #         array_of_rich_text = self.value["text"]
+    #         content = [rich_text["plain_text"] for rich_text in array_of_rich_text]
+    #         return " ".join(content)
+
+    # def insert(self, value) -> None:
+    #     if self.type == "unsupported":
+    #         return
+    #     elif self.type == "child_page":
+    #         self.value["title"] = value
+    #     elif self.type in ["bookmark", "embed"]:
+    #         self.value["url"] = value
+    #     else:
+    #         del self.value["text"][1:]
+    #         self.value["text"][0]["text"]["content"] = value
+    #         self.value["text"][0]["plain_text"] = value
 
 
 if __name__ == "__main__":
@@ -53,6 +59,5 @@ if __name__ == "__main__":
             ]
         },
     }
-    block = BlockObject(block_example)
-    block.insert("hello")
-    print(block.extract())
+    # block.insert("hello")
+    # print(block.extract())

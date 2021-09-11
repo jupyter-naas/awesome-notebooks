@@ -1,4 +1,3 @@
-from dataclasses import dataclass
 import requests
 from typing import Dict
 import json
@@ -10,23 +9,25 @@ def catch_error(response):
     try:
         response.raise_for_status()
     except requests.exceptions.HTTPError as err:
-        raise Exception("❌ Error:", err, response.text)
+        if response.status_code == 401:
+            raise Exception(
+                "❌ Connect to Notion with your Token: Notion.connect(YOUR_TOKEN_API)"
+            )
+        else:
+            raise Exception("❌", err, response.text)
 
 
-@dataclass
 class RequestNotionAPI:
-    id: str
-    token: str
-
-    def __post_init__(self) -> None:
-        self.headers = {
-            "Authorization": f"Bearer {self.token}",
-            "Notion-Version": f"{VERSION}",
-            "Content-Type": "application/json",
-        }
+    def __init__(self, id: str, headers: Dict) -> None:
+        self.id = id
+        self.headers = headers
 
 
-class RequestPageProperties(RequestNotionAPI):
+class RequestDatabase(RequestNotionAPI):
+    """Not implemented yet"""
+
+
+class RequestPage(RequestNotionAPI):
     URL = "https://api.notion.com/v1/pages/"
 
     def retreive(self) -> Dict:
@@ -35,18 +36,18 @@ class RequestPageProperties(RequestNotionAPI):
         catch_error(response)
         return response.json()
 
+    def create(self, data) -> None:
+        url = self.URL
+        response = requests.post(url, headers=self.headers, data=data)
+        catch_error(response)
+        print("✅ Page has been created")
+
     def update(self, data) -> None:
         url = self.URL + self.id
         data = json.dumps(data)
         response = requests.patch(url, headers=self.headers, data=data)
         catch_error(response)
         print("✨ Properties have been updated")
-
-    def create(self, data) -> None:
-        url = self.URL
-        response = requests.post(url, headers=self.headers, data=data)
-        catch_error(response)
-        print("✅ Page has been created")
 
 
 class RequestBlock(RequestNotionAPI):
@@ -59,17 +60,13 @@ class RequestBlock(RequestNotionAPI):
         catch_error(response)
         print("✅ Block has been updated")
 
-
-class RequestChildren(RequestNotionAPI):
-    URL = "https://api.notion.com/v1/blocks/"
-
-    def retreive(self) -> Dict:
+    def retreive_children(self) -> Dict:
         url = self.URL + self.id + "/children"
         response = requests.get(url, headers=self.headers)
         catch_error(response)
         return response.json()["results"]
 
-    def append(self, data):
+    def append_children(self, data):
         url = self.URL + self.id + "/children"
 
         data = {"children": [data]}
@@ -79,13 +76,8 @@ class RequestChildren(RequestNotionAPI):
         catch_error(response)
         print("✅ Block have been add to your page")
 
-
-class RequestPage(RequestNotionAPI):
-    def retreive(self) -> Dict:
-        """Retreive all the page properties & childrens."""
-        self.properties = RequestPageProperties(self.id, self.token).retreive()
-        self.content = RequestChildren(self.id, self.token).retreive()
-        return {**self.properties, "content": self.content}
-
-    def update(self, data) -> None:
-        RequestPageProperties(self.id, self.token).update(data)
+    def delete(self):
+        url = self.URL + self.id
+        response = requests.delete(url, headers=self.headers)
+        catch_error(response)
+        print("🌪 Block has been deleted")

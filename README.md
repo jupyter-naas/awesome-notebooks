@@ -56,6 +56,7 @@ Here is a tutorial video to show you the way:<br><br>
 ## .vscode
 
 ## AWS
+* [Daily biling notification to slack](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AWS/AWS_Daily_biling_notification_to_slack.ipynb)
 * [Upload file to S3 bucket](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AWS/AWS_Upload_file_to_S3_bucket.ipynb)
 
 ## Airtable

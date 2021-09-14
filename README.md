@@ -14,10 +14,10 @@ Naas is forever free to use with 100 credits/month.<br>
 <br>
 
 ## 😎 About the awesome-notebooks templates
-This project is made for tech-savvy users that wants to save time building their data projects.
+This project is made for tech-savvy users that want to save time building their data projects.
 <br>
  
-Benefit from the open-source collective intelligence and get access to a list of **awesome <a href="https://jupyter.org" target="_blank">Jupyter Notebooks</a><br>templates** that contain live code, equations, visualizations and narrative text, on a many different topics.<br>
+Benefit from the open-source collective intelligence and get access to a list of **awesome <a href="https://jupyter.org" target="_blank">Jupyter Notebooks</a><br>templates** that contain live code, equations, visualizations and narrative text, on many different topics.<br>
 
 The repository is organized by source/tools.
 

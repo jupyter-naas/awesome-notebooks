@@ -254,6 +254,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Send emails briefs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Send_emails_briefs.ipynb)
 
 ## Notion
+* [Create page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Create_page.ipynb)
 * [Explore API](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Explore_API.ipynb)
 * [Extract data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Extract_data.ipynb)
 * [Get database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_database.ipynb)
@@ -371,22 +372,6 @@ Here is a tutorial video to show you the way:<br><br>
 
 ## XML
 * [Transform sitemap to dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/XML/XML_Transform_sitemap_to_dataframe.ipynb)
-
-## Yahoo Finance
-* [Get stock data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Yahoo%20Finance%20Get_stock_data.ipynb)
-
-	### Build a stock market brief
-	- [S01E01-reminder-email](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Build%20a%20stock%20market%20brief/S01E01-reminder-email.ipynb)
-	- [S01E02-stock-moving-averages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Build%20a%20stock%20market%20brief/S01E02-stock-moving-averages.ipynb)
-	- [S01E04-score-the-news](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Build%20a%20stock%20market%20brief/S01E04-score-the-news.ipynb)
-	- [S01E05-predict-the-future](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Build%20a%20stock%20market%20brief/S01E05-predict-the-future.ipynb)
-	- [S01E06-automate-the-brief](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Build%20a%20stock%20market%20brief/S01E06-automate-the-brief.ipynb)
-	- [S01E07-notebooks-as-api](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Build%20a%20stock%20market%20brief/S01E07-notebooks-as-api.ipynb)
-	- [S01E08-take-actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Build%20a%20stock%20market%20brief/S01E08-take-actions.ipynb)
-	- [Controls](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Build%20a%20stock%20market%20brief/_controls.ipynb)
-
-	### Scrap Companies financials inside Gsheet  (Advanced)
-	- [Scrap Companies financials inside Gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Yahoo%20Finance/Scrap%20Companies%20financials%20inside%20Gsheet%20%20%28Advanced%29/Scrap%20Companies%20financials%20inside%20Gsheet.ipynb)
 
 ## Youtube
 * [Download video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Download_video.ipynb)

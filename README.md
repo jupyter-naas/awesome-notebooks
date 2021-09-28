@@ -154,6 +154,7 @@ Here is a tutorial video to show you the way:<br><br>
 ## Hubspot
 * [Create association](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_create_association.ipynb)
 * [Create contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_create_contact.ipynb)
+* [Create contacts from linkedin post likes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_create_contacts_from_linkedin_post_likes.ipynb)
 * [Create deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_create_deal.ipynb)
 * [Delete contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_delete_contact.ipynb)
 * [Delete deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_delete_deal.ipynb)

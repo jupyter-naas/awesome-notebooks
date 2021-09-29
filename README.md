@@ -346,6 +346,8 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get board data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Trello/Trello_Get_board_data.ipynb)
 
 ## Twitter
+* [Get tweets from search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_tweets_from_search.ipynb)
+* [Get user data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_user_data.ipynb)
 * [Post text and image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Post_text_and_image.ipynb)
 * [Schedule posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Schedule_posts.ipynb)
 

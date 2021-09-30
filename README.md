@@ -289,6 +289,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Create a World Map](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20a%20World%20Map.ipynb)
 
 	### Pandas
+	- [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python%20Snippets/Pandas/Looping_Over_Dataframe.ipynb)
 	- [Create Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python%20Snippets/Pandas/Pandas_Create_Pivot_Table.ipynb)
 	- [ISO Date Conversion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python%20Snippets/Pandas/Pandas_ISO_Date_Conversion.ipynb)
 	- [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python%20Snippets/Pandas/Pandas_Merge_Dataframes.ipynb)

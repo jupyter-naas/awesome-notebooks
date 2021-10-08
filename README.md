@@ -53,8 +53,6 @@ Here is a tutorial video to show you the way:<br><br>
 <br>
 
 
-## .vscode
-
 ## AWS
 * [Daily biling notification to slack](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AWS/AWS_Daily_biling_notification_to_slack.ipynb)
 * [Get files from S3 bucket](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AWS/AWS_Get_files_from_S3_bucket.ipynb)
@@ -107,8 +105,8 @@ Here is a tutorial video to show you the way:<br><br>
 * [Consolidate files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Consolidate_files.ipynb)
 * [Read file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Read_file.ipynb)
 
-	### Excel 365
-	- [Access  sheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel%20365/Access%20Excel%20365%20sheet.ipynb)
+## Excel 365
+* [Access  sheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel%20365/Access%20Excel%20365%20sheet.ipynb)
 
 ## FAO
 * [Consumer price indice](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FAO/FAO_Consumer_price_indice.ipynb)
@@ -117,6 +115,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Creer un dashboard PowerBI](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Creer_un_dashboard_PowerBI.ipynb)
 
 ## FTP
+* [Add cells in notebook](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/Add_cells_in_notebook.ipynb)
 * [S Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTPS_Connect.ipynb)
 * [Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Connect.ipynb)
 * [Get file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Get_file.ipynb)
@@ -234,9 +233,6 @@ Here is a tutorial video to show you the way:<br><br>
 * [Indicate sealevel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/NASA_indicate_sealevel.ipynb)
 * [Sea-level-indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/Sea-level-indicator.ipynb)
 
-	### sea level
-	- [Sea-level-indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/sea_level/Sea-level-indicator.ipynb)
-
 ## Naas
 * [Asset demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Asset_demo.ipynb)
 * [Dependency demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Dependency_demo.ipynb)
@@ -264,6 +260,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Explore API](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Explore_API.ipynb)
 * [Extract data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Extract_data.ipynb)
 * [Get database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_database.ipynb)
+* [Get database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_database_.ipynb)
 * [Get page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_page.ipynb)
 * [Send data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Send_data.ipynb)
 
@@ -280,7 +277,6 @@ Here is a tutorial video to show you the way:<br><br>
 ## Pandas
 * [Create Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Create_Pivot_Table.ipynb)
 * [ISO Date Conversion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_ISO_Date_Conversion.ipynb)
-* [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Looping_Over_Dataframe.ipynb)
 * [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Merge_Dataframes.ipynb)
 
 ## Plaid
@@ -299,6 +295,7 @@ Here is a tutorial video to show you the way:<br><br>
 
 ## Python
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Consolidate_Excel_files.ipynb)
+* [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Looping_Over_Dataframe.ipynb)
 
 ## Qonto
 * [Get flows](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_flows.ipynb)

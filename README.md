@@ -53,8 +53,6 @@ Here is a tutorial video to show you the way:<br><br>
 <br>
 
 
-## .vscode
-
 ## AWS
 * [Daily biling notification to slack](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AWS/AWS_Daily_biling_notification_to_slack.ipynb)
 * [Get files from S3 bucket](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AWS/AWS_Get_files_from_S3_bucket.ipynb)
@@ -174,8 +172,6 @@ Here is a tutorial video to show you the way:<br><br>
 * [Update jobtitle country industry from linkedin](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_jobtitle_country_industry_from_linkedin.ipynb)
 * [Update linkedinbio from google](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_update_linkedinbio_from_google.ipynb)
 
-	### pycache
-
 ## Hugging Face
 * [Ask boolean question to T5](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging%20Face/Hugging_Face_Ask_boolean_question_to_T5.ipynb)
 * [Naas drivers integration](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging%20Face/Hugging_Face_Naas_drivers_integration.ipynb)
@@ -268,8 +264,6 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_page.ipynb)
 * [Send data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Send_data.ipynb)
 
-	### pycache
-
 ## OpenWeatherMap
 * [Get City Weather](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenWeatherMap/OpenWeatherMap_Get_City_Weather.ipynb)
 
@@ -299,8 +293,9 @@ Here is a tutorial video to show you the way:<br><br>
 * [Create Waterfall chart (Basic)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Waterfall%20chart%20%28Basic%29.ipynb)
 * [Create a World Map](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20a%20World%20Map.ipynb)
 
-## Python Snippets
-* [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python%20Snippets/Looping_Over_Dataframe.ipynb)
+## Python
+* [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Consolidate_Excel_files.ipynb)
+* [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Looping_Over_Dataframe.ipynb)
 
 ## Qonto
 * [Get flows](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_flows.ipynb)

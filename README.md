@@ -391,6 +391,7 @@ Here is a tutorial video to show you the way:<br><br>
 
 ## Youtube
 * [Download video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Download_video.ipynb)
+* [Extract and summarize transcript](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Extract_and_summarize_transcript.ipynb)
 * [Extract transcript from video ID](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Extract_transcript_from_video_ID.ipynb)
 
 ## ZIP

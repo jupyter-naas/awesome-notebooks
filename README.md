@@ -291,6 +291,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Create Line Chart (Basic)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Line%20Chart%20%28Basic%29.ipynb)
 * [Create Waterfall chart (Advanced)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Waterfall%20chart%20%28Advanced%29.ipynb)
 * [Create Waterfall chart (Basic)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Waterfall%20chart%20%28Basic%29.ipynb)
+* [Heatmap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Heatmap.ipynb)
 * [Mapchart world](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Mapchart_world.ipynb)
 * [Vertical Barchart group](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Vertical_Barchart_group.ipynb)
 * [Vertical Barchart stack](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Vertical_Barchart_stack.ipynb)

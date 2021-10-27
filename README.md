@@ -115,7 +115,6 @@ Here is a tutorial video to show you the way:<br><br>
 * [Creer un dashboard PowerBI](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Creer_un_dashboard_PowerBI.ipynb)
 
 ## FTP
-* [Add cells in notebook](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/Add_cells_in_notebook.ipynb)
 * [S Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTPS_Connect.ipynb)
 * [Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Connect.ipynb)
 * [Get file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Get_file.ipynb)

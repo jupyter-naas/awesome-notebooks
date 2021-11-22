@@ -397,6 +397,8 @@ Here is a tutorial video to show you the way:<br><br>
 * [Transform sitemap to dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/XML/XML_Transform_sitemap_to_dataframe.ipynb)
 
 ## YahooFinance
+* [Display chart from ticker](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Display_chart_from_ticker.ipynb)
+* [Get data from ticker](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Get_data_from_ticker.ipynb)
 * [Send daily prediction to Email](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Send_daily_prediction_to_Email.ipynb)
 * [Send daily prediction to Slack](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Send_daily_prediction_to_Slack.ipynb)
 

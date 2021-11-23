@@ -101,12 +101,12 @@ Here is a tutorial video to show you the way:<br><br>
 ## Elastic Search
 * [Connect to server](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Elastic%20Search/Elastic%20Search_Connect_to_server.ipynb)
 
+## Excel 365
+* [Access  sheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel%20365/Access%20Excel%20365%20sheet.ipynb)
+
 ## Excel
 * [Consolidate files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Consolidate_files.ipynb)
 * [Read file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Read_file.ipynb)
-
-## Excel 365
-* [Access  sheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel%20365/Access%20Excel%20365%20sheet.ipynb)
 
 ## FAO
 * [Consumer price indice](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FAO/FAO_Consumer_price_indice.ipynb)
@@ -297,6 +297,8 @@ Here is a tutorial video to show you the way:<br><br>
 * [Bubblechart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Bubblechart.ipynb)
 * [Candlestick](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Candlestick.ipynb)
 * [Heatmap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Heatmap.ipynb)
+* [Linechart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Linechart.ipynb)
+* [Linechart driver](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Linechart_driver.ipynb)
 * [Mapchart world](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Mapchart_world.ipynb)
 * [Vertical Barchart group](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Vertical_Barchart_group.ipynb)
 * [Vertical Barchart stack](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Vertical_Barchart_stack.ipynb)
@@ -377,8 +379,6 @@ Here is a tutorial video to show you the way:<br><br>
 	- [NASA Artic sea ice](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/NASA_Artic_sea_ice.ipynb)
 	- [NASA Global temperature](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/NASA_Global_temperature.ipynb)
 	- [NASA indicate sealevel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/NASA_indicate_sealevel.ipynb)
-
-	### output
 
 ## WorldBank
 * [GDP contributors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WorldBank/WorldBank_GDP_contributors.ipynb)

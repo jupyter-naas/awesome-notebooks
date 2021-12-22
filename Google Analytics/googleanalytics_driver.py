@@ -81,7 +81,8 @@ class Views():
         try:
             response = self.parent.service.reports().batchGet(body=body).execute()
         except Exception as error:
-            raise error()
+            print(f'❌ An error occured while fetching data.')
+            raise e
         # JSON to Pandas DataFrame
         if format_type == "summary":
             return self.format_summary(response)

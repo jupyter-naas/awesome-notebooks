@@ -1,6 +1,5 @@
 """Google Analytics Driver."""
-import os
-from typing import List
+from datetime import datetime, timedelta
 
 import numpy as np
 import pandas as pd
@@ -14,7 +13,6 @@ class GoogleAnalytics(InDriver, OutDriver):
     """
     Google Analytics driver.
     """
-
     def __init__(self) -> None:
         self.views = Views(self)
 
@@ -25,15 +23,17 @@ class GoogleAnalytics(InDriver, OutDriver):
         self.service = build('analyticsreporting', 'v4', credentials=credentials)
         return self
     
+
 class Views():
     def __init__(self, parent) -> None:
         self.parent = parent
 
     @staticmethod
     def _get_body(view_id: str,
-                  date_ranges: List[dict],
-                  metrics: List[dict],
-                  pivots_dimensions: List[dict],
+                  start_date: str,
+                  end_date: str,
+                  metrics: str,
+                  pivots_dimensions: str,
                   dimensions: str='ga:yearMonth') -> dict:
         """
         Create the body of the request to Google Analytics Reporting API V4.
@@ -48,13 +48,44 @@ class Views():
         Returns response in JSON format.
         """
         return {'reportRequests': [{'viewId': view_id,
-                            'dateRanges': date_ranges,
-                            'metrics': metrics,
+                            'dateRanges': {"startDate": start_date, "endDate": end_date},
+                            'metrics': [{"expression": metrics}],
                             'dimensions': {"name": dimensions},
-                            "pivots": [{"dimensions": pivots_dimensions,
-                                        "metrics": metrics
+                            "pivots": [{"dimensions": {"name": pivots_dimensions},
+                                        "metrics": [{"expression": metrics}]
                                        }]
                           }]}
+
+    def get_data(self,
+                 metrics: str,
+                 pivots_dimensions: str,
+                 dimensions: str='ga:yearMonth',
+                 start_date: str=None,
+                 end_date: str=None,
+                 format_type: str="summary") -> pd.DataFrame:
+        """
+        Get data from Google Analytics Reporting API V4.
+        """
+        if format_type not in ("summary", "pivot"):
+            raise ValueError(
+                f"format_type must be either <summary> or <pivot> but is: {format_type}")
+        # Default date values
+        start_date = start_date if start_date else (
+            datetime.today() - timedelta(days=365)).strftime("%Y-%m-%d")
+        end_date = end_date if end_date else datetime.today().strftime("%Y-%m-%d")
+        # Create body
+        body = self._get_body(self.view_id, start_date, end_date,
+                              metrics, pivots_dimensions, dimensions)
+        # Fetch Data
+        try:
+            response = self.service.reports().batchGet(body=body).execute()
+        except Exception as error:
+            return error
+        if format_type == "summary":
+            return self.format_summary(response)
+        return self.format_pivot(response)
+        
+
 
     def get_unique_visitors(self, start_date: str, end_date: str) -> pd.DataFrame:
         """

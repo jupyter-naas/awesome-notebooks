@@ -57,6 +57,7 @@ class Views():
                           }]}
 
     def get_data(self,
+                 view_id: str,
                  metrics: str,
                  pivots_dimensions: str,
                  dimensions: str='ga:yearMonth',
@@ -74,56 +75,41 @@ class Views():
             datetime.today() - timedelta(days=365)).strftime("%Y-%m-%d")
         end_date = end_date if end_date else datetime.today().strftime("%Y-%m-%d")
         # Create body
-        body = self._get_body(self.view_id, start_date, end_date,
+        body = self._get_body(view_id, start_date, end_date,
                               metrics, pivots_dimensions, dimensions)
         # Fetch Data
         try:
-            response = self.service.reports().batchGet(body=body).execute()
+            response = self.parent.service.reports().batchGet(body=body).execute()
         except Exception as error:
-            return error
+            raise error()
+        # JSON to Pandas DataFrame
         if format_type == "summary":
             return self.format_summary(response)
         return self.format_pivot(response)
-        
 
-
-    def get_unique_visitors(self, start_date: str, end_date: str) -> pd.DataFrame:
+    def get_unique_visitors(self, view_id: str, start_date: str=None, end_date: str=None) -> pd.DataFrame:
         """
         Get the number of unique visitors.
         """
-        # Setup Request Parameters
-        date_ranges = {"startDate": start_date, "endDate": end_date}
-        metrics = [{"expression": "ga:users"}]
-        pivots_dimensions = [{"name": "ga:channelGrouping"}]
-        # Create body
-        body = self._get_body(self.view_id, date_ranges, metrics, pivots_dimensions)
-        # Fetch Data
-        response = self.service.reports().batchGet(body=body).execute()
-        try:
-            response.raise_for_status()
-        except Exception as e:
-            return e
+        unique_visitors = self.get_data(view_id, metrics="ga:users",
+                                        pivots_dimensions="ga:channelGrouping",
+                                        dimensions="ga:yearMonth", start_date=start_date,
+                                        end_date=end_date, format_type="summary")
         # Format Output
-        unique_visitors = self.format_summary(response)
         unique_visitors.reset_index(inplace=True)
         unique_visitors.rename(
             columns={"ga:yearMonth": "year_month", "ga:users": "unique_visitors"}, inplace=True)
         return unique_visitors
 
-    def get_bounce_rate(self, start_date: str, end_date: str) -> pd.DataFrame:
+    def get_bounce_rate(
+            self, view_id=str, start_date: str=None, end_date: str=None) -> pd.DataFrame:
         """
         Get the number of unique visitors.
         """
-        # Setup Request Parameters
-        date_ranges = {"startDate": start_date, "endDate": end_date}
-        metrics = {"expression": "ga:bounceRate"}
-        pivots_dimensions = {"name": "ga:channelGrouping"}
-        # Create body
-        body = self._get_body(self.view_id, date_ranges, metrics, pivots_dimensions)
-        # Fetch Data
-        response = self.service.reports().batchGet(body=body).execute()
-        # Format Output
-        bounce_rate = self.format_summary(response)
+        bounce_rate = self.get_data(view_id, metrics="ga:bounceRate",
+                                    pivots_dimensions="ga:channelGrouping",
+                                    dimensions="ga:yearMonth", start_date=start_date,
+                                    end_date=end_date, format_type="summary")
         bounce_rate['ga:bounceRate'] /= 100
         bounce_rate.reset_index(inplace=True)
         bounce_rate.rename(
@@ -131,22 +117,17 @@ class Views():
         return bounce_rate
 
     def get_time_landing(self,
-                         start_date: str,
-                         end_date: str,
-                         landing_path: str="/") -> pd.DataFrame:
+                         view_id: str,
+                         landing_path: str="/",
+                         start_date: str=None,
+                         end_date: str=None) -> pd.DataFrame:
         """
         Get the average time on landing page.
         """
-        # Setup Request Parameters
-        date_ranges = {"startDate": start_date, "endDate": end_date}
-        metrics = {"expression": "ga:avgTimeOnPage"}
-        pivots_dimensions = {"name": "ga:landingPagePath"}
-        # Create body
-        body = self._get_body(self.view_id, date_ranges, metrics, pivots_dimensions)
-        # Fetch Data
-        response = self.service.reports().batchGet(body=body).execute()
-        # Format Output
-        avg_time_landing = self.format_pivot(response)
+        avg_time_landing = self.get_data(view_id, metrics="ga:avgTimeOnPage",
+                                         pivots_dimensions="ga:landingPagePath",
+                                         dimensions="ga:yearMonth", start_date=start_date,
+                                         end_date=end_date, format_type="pivot")
         if landing_path in avg_time_landing.columns:
             avg_time_landing = avg_time_landing.loc[:, landing_path]
         else:
@@ -155,42 +136,33 @@ class Views():
         avg_time_landing.rename(columns={"ga:avgTimeOnPage": "avg_time_landing"}, inplace=True)
         return avg_time_landing
 
-    def get_pageview(self, start_date: str, end_date: str) -> pd.DataFrame:
+    def get_pageview(self, view_id: str, start_date: str=None, end_date: str=None) -> pd.DataFrame:
         """
         Get the views of pages.
         """
-        # Setup Request Parameters
-        date_ranges = {"startDate": start_date, "endDate": end_date}
-        metrics = {"expression": "ga:pageviews"}
-        pivots_dimensions = {"name": "ga:pagePath"}
-        dimensions = 'ga:year'
-        # Create body
-        body = self._get_body(self.view_id, date_ranges, metrics, pivots_dimensions, dimensions)
-        # Fetch Data
-        response = self.service.reports().batchGet(body=body).execute()
-        # Format output
-        pageview = self.format_pivot(response)
+        pageview = self.get_data(view_id, metrics="ga:pageviews",
+                                         pivots_dimensions="ga:pagePath",
+                                         dimensions="ga:year", start_date=start_date,
+                                         end_date=end_date, format_type="pivot")
         pageview.columns = [page[0] for page in pageview.columns]
         pageview = pageview.head(1).T
         pageview.reset_index(inplace=True)
         pageview.columns = ['pages', 'pageview']
         return pageview
 
-    def get_country(self, start_date: str, end_date: str):
-        # Setup Request Parameters
-        date_ranges = {"startDate": start_date, "endDate": end_date}
-        metrics = {"expression": "ga:sessions"}
-        pivots_dimensions = {"name": "ga:country"}
-        dimensions = 'ga:year'
-        # Create body
-        body = self._get_body(self.view_id, date_ranges, metrics, pivots_dimensions, dimensions)
-        # Fetch Data
-        response = self.service.reports().batchGet(body=body).execute()
-        country = self.format_pivot(response)
+    def get_country(self, view_id: str, metrics: str="ga:sessions",
+                    start_date: str=None, end_date: str=None):
+        """
+        Get sessions per country.
+        """
+        country = self.get_data(view_id, metrics=metrics,
+                                         pivots_dimensions="ga:country",
+                                         dimensions="ga:year", start_date=start_date,
+                                         end_date=end_date, format_type="pivot")
         country.columns = [c[0] for c in country.columns]
         country = country.T
         country.reset_index(inplace=True)
-        country.columns = ["country", "session"]
+        country.columns = ["country", metrics.split(":")[-1]]
         return country
 
     @staticmethod
@@ -238,13 +210,3 @@ class Views():
         return pd.DataFrame(data = np.array(pivot_values),
                         index = row_index_named,
                         columns = column_index).astype('float')
-
-    def format_report(self, response):
-        """
-        Format final report as a pandas DataFrame.
-        """
-        summary = self.format_summary(response)
-        pivot = self.format_pivot(response)
-        if pivot.columns.nlevels == 2:
-            summary.columns = [['']*len(summary.columns), summary.columns]
-        return pd.concat([summary, pivot], axis = 1)

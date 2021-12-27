@@ -413,7 +413,11 @@ Here is a tutorial video to show you the way:<br><br>
 ## Youtube
 * [Download video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Download_video.ipynb)
 * [Extract and summarize transcript](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Extract_and_summarize_transcript.ipynb)
-* [Extract transcript from video ID](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Extract_transcript_from_video_ID.ipynb)
+* [Extract transcript from video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Extract_transcript_from_video.ipynb)
+* [Get statistics from channel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Get_statistics_from_channel.ipynb)
+* [Get statistics from video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Get_statistics_from_video.ipynb)
+* [Get uploads from channel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Get_uploads_from_channel.ipynb)
+* [Summarize video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Summarize_video.ipynb)
 
 ## ZIP
 * [Extract files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ZIP/ZIP_Extract_files.ipynb)

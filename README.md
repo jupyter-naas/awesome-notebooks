@@ -272,6 +272,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Get database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_database.ipynb)
 * [Get users](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_users.ipynb)
 * [Push data from Gsheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Push_data_from_Gsheets.ipynb)
+* [Sent Gmail On New Item](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Sent_Gmail_On_New_Item.ipynb)
 * [Update page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_page.ipynb)
 
 ## OpenWeatherMap

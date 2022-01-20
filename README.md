@@ -137,6 +137,13 @@ Here is a tutorial video to show you the way:<br><br>
 * [Send emails from Gsheet classic](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Send_emails_from_Gsheet_classic.ipynb)
 * [Send emails from Gsheet specific](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Send_emails_from_Gsheet_specific.ipynb)
 
+## Google Analytics
+* [GoogleAnalytics Get bounce rate](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/GoogleAnalytics_Get_bounce_rate.ipynb)
+* [GoogleAnalytics Get pageview ranking](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/GoogleAnalytics_Get_pageview_ranking.ipynb)
+* [GoogleAnalytics Get stats per country](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/GoogleAnalytics_Get_stats_per_country.ipynb)
+* [GoogleAnalytics Get time on landing page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/GoogleAnalytics_Get_time_on_landing_page.ipynb)
+* [GoogleAnalytics Get unique visitors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/GoogleAnalytics_Get_unique_visitors.ipynb)
+
 ## Google Drive
 * [Download file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Drive/Google_Drive_Download_file.ipynb)
 

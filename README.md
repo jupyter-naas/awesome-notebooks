@@ -403,6 +403,9 @@ Here is a tutorial video to show you the way:<br><br>
 	- [NASA Global temperature](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/NASA_Global_temperature.ipynb)
 	- [NASA indicate sealevel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/NASA_indicate_sealevel.ipynb)
 
+## WSR
+* [John Hopkins Active covid cases worldmap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/John_Hopkins_Active_covid_cases_worldmap.ipynb)
+
 ## WorldBank
 * [GDP contributors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WorldBank/WorldBank_GDP_contributors.ipynb)
 * [GDP per capita and growth](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WorldBank/WorldBank_GDP_per_capita_and_growth.ipynb)

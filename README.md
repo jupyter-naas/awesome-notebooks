@@ -101,12 +101,12 @@ Here is a tutorial video to show you the way:<br><br>
 ## Elastic Search
 * [Connect to server](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Elastic%20Search/Elastic%20Search_Connect_to_server.ipynb)
 
+## Excel 365
+* [Access  sheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel%20365/Access%20Excel%20365%20sheet.ipynb)
+
 ## Excel
 * [Consolidate files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Consolidate_files.ipynb)
 * [Read file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Read_file.ipynb)
-
-## Excel 365
-* [Access  sheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel%20365/Access%20Excel%20365%20sheet.ipynb)
 
 ## FAO
 * [Consumer price indice](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FAO/FAO_Consumer_price_indice.ipynb)
@@ -124,6 +124,8 @@ Here is a tutorial video to show you the way:<br><br>
 * [Close issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Close_issue.ipynb)
 * [Create issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Create_issue.ipynb)
 * [Download file from url](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Download_file_from_url.ipynb)
+* [Get profiles from teams](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_profiles_from_teams.ipynb)
+* [Get starred members](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_starred_members.ipynb)
 * [Peform basic actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Peform_basic_actions.ipynb)
 * [Read issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Read_issue.ipynb)
 
@@ -134,6 +136,13 @@ Here is a tutorial video to show you the way:<br><br>
 * [Schedule mailbox cleaning](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Schedule_mailbox_cleaning.ipynb)
 * [Send emails from Gsheet classic](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Send_emails_from_Gsheet_classic.ipynb)
 * [Send emails from Gsheet specific](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Send_emails_from_Gsheet_specific.ipynb)
+
+## Google Analytics
+* [GoogleAnalytics Get bounce rate](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/GoogleAnalytics_Get_bounce_rate.ipynb)
+* [GoogleAnalytics Get pageview ranking](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/GoogleAnalytics_Get_pageview_ranking.ipynb)
+* [GoogleAnalytics Get stats per country](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/GoogleAnalytics_Get_stats_per_country.ipynb)
+* [GoogleAnalytics Get time on landing page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/GoogleAnalytics_Get_time_on_landing_page.ipynb)
+* [GoogleAnalytics Get unique visitors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/GoogleAnalytics_Get_unique_visitors.ipynb)
 
 ## Google Drive
 * [Download file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Drive/Google_Drive_Download_file.ipynb)
@@ -179,6 +188,9 @@ Here is a tutorial video to show you the way:<br><br>
 * [Post on Twitter](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IFTTT/IFTTT_Post_on_Twitter.ipynb)
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IFTTT/IFTTT_Trigger_workflow.ipynb)
 
+## IMDB
+* [Top  Movie](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IMDB/Top_IMDB_Movie.ipynb)
+
 ## IUCN
 * [Extinct species](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IUCN/IUCN_Extinct_species.ipynb)
 
@@ -212,6 +224,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Send invitation to profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_invitation_to_profile.ipynb)
 * [Send likes from post in gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_likes_from_post_in_gsheet.ipynb)
 * [Send message to profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_message_to_profile.ipynb)
+* [Linkedin Get info from company](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/Linkedin_Get_info_from_company.ipynb)
 
 ## Microsoft Teams
 * [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Microsoft%20Teams/Microsoft%20Teams_Send_message.ipynb)
@@ -233,12 +246,19 @@ Here is a tutorial video to show you the way:<br><br>
 * [Indicate sealevel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/NASA_indicate_sealevel.ipynb)
 * [Sea-level-indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/Sea-level-indicator.ipynb)
 
+## Naas Auth
+* [Bearer validate](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Auth/Naas_Auth_bearer_validate.ipynb)
+* [Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Auth/Naas_Auth_connect.ipynb)
+* [Users me](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Auth/Naas_Auth_users_me.ipynb)
+
 ## Naas
 * [Asset demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Asset_demo.ipynb)
+* [Credits Get Balance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Credits_Get_Balance.ipynb)
 * [Dependency demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Dependency_demo.ipynb)
 * [Doc demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Doc_demo.ipynb)
 * [Domain demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Domain_demo.ipynb)
 * [Emailbuilder demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Emailbuilder_demo.ipynb)
+* [Get Transactions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_Transactions.ipynb)
 * [Get help](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_help.ipynb)
 * [NLP Examples](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_NLP_Examples.ipynb)
 * [Notification demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Notification_demo.ipynb)
@@ -258,10 +278,11 @@ Here is a tutorial video to show you the way:<br><br>
 ## Notion
 * [Create page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Create_page.ipynb)
 * [Explore API](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Explore_API.ipynb)
-* [Extract data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Extract_data.ipynb)
 * [Get database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_database.ipynb)
-* [Get page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_page.ipynb)
-* [Send data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Send_data.ipynb)
+* [Get users](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_users.ipynb)
+* [Push data from Gsheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Push_data_from_Gsheets.ipynb)
+* [Sent Gmail On New Item](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Sent_Gmail_On_New_Item.ipynb)
+* [Update page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_page.ipynb)
 
 ## OpenWeatherMap
 * [Get City Weather](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenWeatherMap/OpenWeatherMap_Get_City_Weather.ipynb)
@@ -278,6 +299,9 @@ Here is a tutorial video to show you the way:<br><br>
 * [ISO Date Conversion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_ISO_Date_Conversion.ipynb)
 * [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Merge_Dataframes.ipynb)
 
+## Pipedrive
+* [Get contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pipedrive/Pipedrive_Get_contact.ipynb)
+
 ## Plaid
 * [Get accounts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plaid/Plaid_Get_accounts.ipynb)
 * [Get transactions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plaid/Plaid_Get_transactions.ipynb)
@@ -292,11 +316,15 @@ Here is a tutorial video to show you the way:<br><br>
 * [Create Waterfall chart (Basic)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Waterfall%20chart%20%28Basic%29.ipynb)
 * [Bubblechart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Bubblechart.ipynb)
 * [Candlestick](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Candlestick.ipynb)
+* [Create Linechart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Linechart.ipynb)
 * [Heatmap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Heatmap.ipynb)
 * [Mapchart world](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Mapchart_world.ipynb)
-* [Vertical Barchart group](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Vertical_Barchart_group.ipynb)
-* [Vertical Barchart stack](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Vertical_Barchart_stack.ipynb)
+* [Vertical Barchart stacked](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Vertical_Barchart_stacked.ipynb)
 * [Waterfall chart simple](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Waterfall_chart_simple.ipynb)
+
+	### Pandas
+	- [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python%20Snippets/Pandas/Looping_Over_Dataframe.ipynb)
+	- [Pandas ISO Date Conversion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python%20Snippets/Pandas/Pandas_ISO_Date_Conversion.ipynb)
 
 ## Python
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Consolidate_Excel_files.ipynb)
@@ -305,8 +333,10 @@ Here is a tutorial video to show you the way:<br><br>
 ## Qonto
 * [Get flows](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_flows.ipynb)
 * [Get positions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_positions.ipynb)
-* [Get statement aggregated by day](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_statement_aggregated_by_day.ipynb)
+* [Get statement aggregated by date](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_statement_aggregated_by_date.ipynb)
+* [Get statement barline](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_statement_barline.ipynb)
 * [Get statement detailed](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_statement_detailed.ipynb)
+* [Get statement summary](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_statement_summary.ipynb)
 * [Releve de compte augmente](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Releve_de_compte_augmente.ipynb)
 
 ## Quandl
@@ -359,6 +389,7 @@ Here is a tutorial video to show you the way:<br><br>
 
 ## Twitter
 * [Get tweets from search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_tweets_from_search.ipynb)
+* [Get tweets stats from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_tweets_stats_from_profile.ipynb)
 * [Get user data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_user_data.ipynb)
 * [Post text and image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Post_text_and_image.ipynb)
 * [Schedule posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Schedule_posts.ipynb)
@@ -372,7 +403,8 @@ Here is a tutorial video to show you the way:<br><br>
 	- [NASA Global temperature](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/NASA_Global_temperature.ipynb)
 	- [NASA indicate sealevel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/NASA_indicate_sealevel.ipynb)
 
-	### output
+## WSR
+* [John Hopkins Active covid cases worldmap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/John_Hopkins_Active_covid_cases_worldmap.ipynb)
 
 ## WorldBank
 * [GDP contributors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WorldBank/WorldBank_GDP_contributors.ipynb)
@@ -391,13 +423,19 @@ Here is a tutorial video to show you the way:<br><br>
 * [Transform sitemap to dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/XML/XML_Transform_sitemap_to_dataframe.ipynb)
 
 ## YahooFinance
+* [Display chart from ticker](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Display_chart_from_ticker.ipynb)
+* [Get data from ticker](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Get_data_from_ticker.ipynb)
 * [Send daily prediction to Email](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Send_daily_prediction_to_Email.ipynb)
 * [Send daily prediction to Slack](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Send_daily_prediction_to_Slack.ipynb)
 
 ## Youtube
 * [Download video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Download_video.ipynb)
 * [Extract and summarize transcript](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Extract_and_summarize_transcript.ipynb)
-* [Extract transcript from video ID](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Extract_transcript_from_video_ID.ipynb)
+* [Extract transcript from video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Extract_transcript_from_video.ipynb)
+* [Get statistics from channel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Get_statistics_from_channel.ipynb)
+* [Get statistics from video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Get_statistics_from_video.ipynb)
+* [Get uploads from channel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Get_uploads_from_channel.ipynb)
+* [Summarize video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Summarize_video.ipynb)
 
 ## ZIP
 * [Extract files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ZIP/ZIP_Extract_files.ipynb)

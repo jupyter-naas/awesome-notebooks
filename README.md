@@ -126,6 +126,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Download file from url](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Download_file_from_url.ipynb)
 * [Get profiles from teams](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_profiles_from_teams.ipynb)
 * [Get starred members](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_starred_members.ipynb)
+* [Get weekly commits](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_weekly_commits.ipynb)
 * [Peform basic actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Peform_basic_actions.ipynb)
 * [Read issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Read_issue.ipynb)
 

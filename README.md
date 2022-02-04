@@ -451,7 +451,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Zapier/Zapier_Trigger_workflow.ipynb)
 
 ## _Metrics_Store
-* [Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Template](https://github.com/jupyter-naas/awesome-notebooks/tree/master/_Metrics_Store/_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Template.ipynb)
+* [Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Template](https://github.com/jupyter-naas/awesome-notebooks/tree/master/_Metrics_Store/_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Template.ipynb)
 
 
 <br/>

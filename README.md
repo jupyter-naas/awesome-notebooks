@@ -125,8 +125,9 @@ Here is a tutorial video to show you the way:<br><br>
 * [Create issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Create_issue.ipynb)
 * [Download file from url](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Download_file_from_url.ipynb)
 * [Get commits ranking from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_commits_ranking_from_repository.ipynb)
+* [Get profile from user](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_profile_from_user.ipynb)
 * [Get profiles from teams](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_profiles_from_teams.ipynb)
-* [Get starred members](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_starred_members.ipynb)
+* [Get stargazers from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_stargazers_from_repository.ipynb)
 * [Get weekly commits from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_weekly_commits_from_repository.ipynb)
 * [Peform basic actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Peform_basic_actions.ipynb)
 * [Read issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Read_issue.ipynb)
@@ -451,7 +452,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Zapier/Zapier_Trigger_workflow.ipynb)
 
 ## _Metrics_Store
-* [Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Template](https://github.com/jupyter-naas/awesome-notebooks/tree/master/_Metrics_Store/_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Template.ipynb)
+* [Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Template](https://github.com/jupyter-naas/awesome-notebooks/tree/master/_Metrics_Store/_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Template.ipynb)
 
 
 <br/>

@@ -291,6 +291,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Scheduled Updates from Gsheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Scheduled_Updates_from_Gsheets.ipynb)
 * [Sent Gmail On New Item](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Sent_Gmail_On_New_Item.ipynb)
 * [Update page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_page.ipynb)
+* [Update pages from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_pages_from_database.ipynb)
 
 ## OpenWeatherMap
 * [Get City Weather](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenWeatherMap/OpenWeatherMap_Get_City_Weather.ipynb)
@@ -452,7 +453,7 @@ Here is a tutorial video to show you the way:<br><br>
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Zapier/Zapier_Trigger_workflow.ipynb)
 
 ## _Metrics_Store
-* [Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Template](https://github.com/jupyter-naas/awesome-notebooks/tree/master/_Metrics_Store/_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Template.ipynb)
+* [Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Metrics Store Template](https://github.com/jupyter-naas/awesome-notebooks/tree/master/_Metrics_Store/_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Metrics_Store_Template.ipynb)
 
 
 <br/>

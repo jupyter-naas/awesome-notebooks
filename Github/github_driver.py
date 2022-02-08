@@ -99,6 +99,55 @@ class Repositories(Github):
         return df
     
     def get_stargazers(self, url):
+        """
+        Return an dataframe object with 6 columns:
+        - login       object
+        - id          int64
+        - url         object
+        - type        object
+        - site_admin  bool
+        - starred_at  object
+
+        Parameters
+        ----------
+        repository: str:
+            Repository url from Github.
+            Example : "https://github.com/jupyter-naas/awesome-notebooks"
+        """
+        # Get organisation and repository from url
+        repository = Github.get_repository_url(url)
+        
         df = pd.DataFrame()
-        print("Success!")
+        page = 1
+        while True:
+            params = {
+                "per_page": "100",
+                "page": page,
+            }
+            url = f"https://api.github.com/repos/{repository}/stargazers?{urlencode(params, safe='(),')}"
+            new_headers = self.headers
+            res = requests.get(url, headers=new_headers.update({'Accept': 'application/vnd.github.v3.star+json'}))
+            print(new_headers)
+            try:
+                res.raise_for_status()
+            except requests.HTTPError as e:
+                raise(e)
+            print(res)
+            res_json = res.json()
+            if len(res_json) == 0:
+                break
+            for json in res_json:
+                starred_at = json.get("starred_at")
+                user = json.get("user")
+                tmp = pd.DataFrame([user])
+                tmp["starred_at"] = starred_at
+                df = pd.concat([df, tmp], axis=0)
+            page += 1
+
+        # Cleaning
+        for col in df.columns:
+            if col.endswith("_url") or col.endswith("_id"):
+                df = df.drop(col, axis=1)
+            if col.endswith("_at"):
+                df[col] = df[col].str.replace("T", " ").str.replace("Z", " ")
         return df

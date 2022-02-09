@@ -101,12 +101,12 @@ class Repositories(Github):
     def get_stargazers(self, url):
         """
         Return an dataframe object with 6 columns:
-        - login       object
-        - id          int64
-        - url         object
-        - type        object
-        - site_admin  bool
-        - starred_at  object
+        - LOGIN       object
+        - ID          int64
+        - URL         object
+        - TYPE        object
+        - SITE_ADMIN  bool
+        - STARRED_AT  object
 
         Parameters
         ----------
@@ -117,6 +117,10 @@ class Repositories(Github):
         # Get organisation and repository from url
         repository = Github.get_repository_url(url)
         
+        # Custom headers
+        headers = self.headers
+        headers['Accept'] = 'application/vnd.github.v3.star+json'
+        
         df = pd.DataFrame()
         page = 1
         while True:
@@ -125,15 +129,13 @@ class Repositories(Github):
                 "page": page,
             }
             url = f"https://api.github.com/repos/{repository}/stargazers?{urlencode(params, safe='(),')}"
-            new_headers = self.headers
-            res = requests.get(url, headers=new_headers.update({'Accept': 'application/vnd.github.v3.star+json'}))
-            print(new_headers)
+            res = requests.get(url, headers=headers)
             try:
                 res.raise_for_status()
             except requests.HTTPError as e:
                 raise(e)
-            print(res)
             res_json = res.json()
+
             if len(res_json) == 0:
                 break
             for json in res_json:
@@ -143,11 +145,12 @@ class Repositories(Github):
                 tmp["starred_at"] = starred_at
                 df = pd.concat([df, tmp], axis=0)
             page += 1
-
+    
         # Cleaning
         for col in df.columns:
             if col.endswith("_url") or col.endswith("_id"):
                 df = df.drop(col, axis=1)
             if col.endswith("_at"):
                 df[col] = df[col].str.replace("T", " ").str.replace("Z", " ")
+        df.columns = df.columns.str.upper()
         return df

@@ -233,6 +233,9 @@ Here is a tutorial video to show you the way:<br><br>
 * [Linkedin+Notion Update metrics in content calendar from posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/Linkedin%2BNotion_Update_metrics_in_content_calendar_from_posts.ipynb)
 * [Linkedin Get info from company](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/Linkedin_Get_info_from_company.ipynb)
 
+## Metrics Store
+* [Template](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Metrics%20Store/Metrics_Store_Template.ipynb)
+
 ## Microsoft Teams
 * [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Microsoft%20Teams/Microsoft%20Teams_Send_message.ipynb)
 
@@ -451,9 +454,6 @@ Here is a tutorial video to show you the way:<br><br>
 
 ## Zapier
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Zapier/Zapier_Trigger_workflow.ipynb)
-
-## _Metrics_Store
-* [Metrics Store Template](https://github.com/jupyter-naas/awesome-notebooks/tree/master/_Metrics_Store/Metrics_Store_Template.ipynb)
 
 
 <br/>

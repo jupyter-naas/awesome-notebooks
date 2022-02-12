@@ -3,7 +3,7 @@
 
 
 ## 🎱 About Naas
-<a href="https://www.naas.ai/" target="_blank">Naas.ai</a> is an open source all-in-one data platform that turns Jupyter Notebooks into data engines thanks to low-code <a href="https://docs.naas.ai/" target="_blank">micro-services</a>(like a scheduler).<br>
+<a href="https://www.naas.ai/" target="_blank">Naas.ai</a> is an open source all-in-one data platform that turns Jupyter Notebooks into data engines thanks to low-code <a href="https://docs.naas.ai/" target="_blank">micro-services</a>.<br>
 
 The product is based on 3 elements: features, drivers and templates.<br>
 - The **templates** enable anyone with minimal technical knowledge to build data engines in minutes
@@ -14,14 +14,13 @@ Naas is forever free to use with 100 credits/month.<br>
 <a href="https://www.naas.ai/free-forever" target="_blank">Open your account</a><br>
 
 
-## 😎 Naas templates
+## 😎 Naas Templates
 
-The aim of this repository is to be the largest aggregator of production ready  <a href="https://jupyter.org" target="_blank">Jupyter Notebooks</a><br> templates.
-templates**.
+The aim of this repository is to be the largest aggregator of production ready  <a href="https://jupyter.org" target="_blank">Jupyter Notebooks</a><br>
+templates.
 
 The repository is organized by source/tools.
-
-Published by Naas community ⭐️.
+Managed by Naas core-team and community ⭐️.
 
 *An open-source software (OSS) or project, is code that is designed to be publicly accessible. 
 There is an enormous opportunity to develop your skills and personal branding by being an « Open-source contributor ».*

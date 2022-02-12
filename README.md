@@ -1,19 +1,19 @@
-# Naas awesome-notebooks templates [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Naas Templates (aka awesome-notebooks) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-## 🎱 Naas in short
-The Naas project and its hosted version <a href="https://www.naas.ai/" target="_blank">naas.ai</a> is open-source, it turns Jupyter Notebooks into data engines thanks to low-code <a href="https://docs.naas.ai/" target="_blank">micro-services</a>(like a scheduler).<br>
+## 🎱 About Naas
+<a href="https://www.naas.ai/" target="_blank">Naas.ai</a> is an open source all-in-one data platform that turns Jupyter Notebooks into data engines thanks to low-code <a href="https://docs.naas.ai/" target="_blank">micro-services</a>(like a scheduler).<br>
 
 The product is based on 3 elements: features, drivers and templates.<br>
 - The **templates** enable anyone with minimal technical knowledge to build data engines in minutes
 - The low-code **drivers** act as connectors to facilitate access to tools, and complex libraries (database, API, ML algorithm...)
 - The low-code **features** (scheduling, asset sharing, notifications...) turns Notebooks into production ready data engines.<br>
 
-
 Naas is forever free to use with 100 credits/month.<br>
 <a href="https://www.naas.ai/free-forever" target="_blank">Open your account</a><br>
 
-## 😎 About the awesome-notebooks templates
+
+## 😎 Naas templates
 
 The aim of this repository is to be the largest aggregator of production ready  <a href="https://jupyter.org" target="_blank">Jupyter Notebooks</a><br> templates.
 templates**.

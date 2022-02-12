@@ -53,7 +53,7 @@ Managed by Naas core-team and community ⭐️.
 - [Linkedin: @JupyterNaas](https://www.linkedin.com/company/naas-ai/)<br>
 - [Youtube: @naas](https://www.youtube.com/channel/UCKKG5hzjXXU_rRdHHWQ8JHQ/videos)<br>
 
-
+<br>
 
 # Templates list
 

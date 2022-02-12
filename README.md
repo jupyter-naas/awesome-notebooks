@@ -3,7 +3,7 @@
 
 
 ## About Naas
-Naas is a platform that enable anyone with minimal technical knowledge in data to turn Jupyter Notebooks into powerful automation, analytical and AI engines thanks to <a href="https://docs.naas.ai/" target="_blank">low-code formulas</a>.<br>
+Naas is a data platform that enable anyone with minimal technical knowledge to turn Jupyter Notebooks into powerful automation, analytical and AI engines thanks to <a href="https://docs.naas.ai/" target="_blank">low-code formulas</a>.<br>
 
 The product is based on 3 elements: features, drivers and templates.<br>
 - The **templates** enable anyone with minimal technical knowledge to build data engines in minutes

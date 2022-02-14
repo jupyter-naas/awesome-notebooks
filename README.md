@@ -361,6 +361,12 @@ Here is a tutorial video to show you the way:<br><br>
 ## Redshift
 * [Connect with SQL Magic and IAM Credentials](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Redshift/Redshift_Connect_with_SQL_Magic_and_IAM_Credentials.ipynb)
 
+## Remotive
+* [Get categories from job](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Remotive/Remotive_Get_categories_from_job.ipynb)
+* [Get jobs from categories](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Remotive/Remotive_Get_jobs_from_categories.ipynb)
+* [Post daily jobs on slack](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Remotive/Remotive_Post_daily_jobs_on_slack.ipynb)
+* [Send jobs to gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Remotive/Remotive_Send_jobs_to_gsheet.ipynb)
+
 ## SAP-HANA
 * [Query data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SAP-HANA/SAP-HANA_Query_data.ipynb)
 

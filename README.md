@@ -441,6 +441,8 @@ Here is a tutorial video to show you the way:<br><br>
 * [Transform sitemap to dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/XML/XML_Transform_sitemap_to_dataframe.ipynb)
 
 ## YahooFinance
+* [Candlestick chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Candlestick_chart.ipynb)
+* [Cryptocurrencies heatmap correlation graph](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Cryptocurrencies_heatmap_correlation_graph.ipynb)
 * [Display chart from ticker](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Display_chart_from_ticker.ipynb)
 * [Get Stock Update](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Get_Stock_Update.ipynb)
 * [Get USDEUR data and chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Get_USDEUR_data_and_chart.ipynb)

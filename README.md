@@ -174,28 +174,28 @@ Managed by Naas core-team and community ⭐️.
 ## Healthchecks
 * [Healthcheks Perfom basic actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Healthchecks/Healthcheks_Perfom_basic_actions.ipynb)
 
-## Hubspot
-* [HubSpot Associate contact to deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Associate_contact_to_deal.ipynb)
-* [HubSpot Create contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Create_contact.ipynb)
-* [HubSpot Create contacts from linkedin post likes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Create_contacts_from_linkedin_post_likes.ipynb)
-* [HubSpot Create deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Create_deal.ipynb)
-* [HubSpot Delete contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Delete_contact.ipynb)
-* [HubSpot Delete deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Delete_deal.ipynb)
-* [HubSpot Get all contacts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Get_all_contacts.ipynb)
-* [HubSpot Get all deals](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Get_all_deals.ipynb)
-* [HubSpot Get all pipelines and dealstages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Get_all_pipelines_and_dealstages.ipynb)
-* [HubSpot Get contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Get_contact.ipynb)
-* [HubSpot Get contacts associated to deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Get_contacts_associated_to_deal.ipynb)
-* [HubSpot Get deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Get_deal.ipynb)
-* [HubSpot Get new deals created weekly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Get_new_deals_created_weekly.ipynb)
-* [HubSpot Send contacts to gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Send_contacts_to_gsheet.ipynb)
-* [HubSpot Send deals to gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Send_deals_to_gsheet.ipynb)
-* [HubSpot Send sales brief](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Send_sales_brief.ipynb)
-* [HubSpot Update contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Update_contact.ipynb)
-* [HubSpot Update deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Update_deal.ipynb)
-* [HubSpot Update followers from linkedin](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Update_followers_from_linkedin.ipynb)
-* [HubSpot Update jobtitle country industry from linkedin](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Update_jobtitle_country_industry_from_linkedin.ipynb)
-* [HubSpot Update linkedinbio from google](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/HubSpot_Update_linkedinbio_from_google.ipynb)
+## HubSpot
+* [Associate contact to deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Associate_contact_to_deal.ipynb)
+* [Create contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Create_contact.ipynb)
+* [Create contacts from linkedin post likes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Create_contacts_from_linkedin_post_likes.ipynb)
+* [Create deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Create_deal.ipynb)
+* [Delete contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Delete_contact.ipynb)
+* [Delete deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Delete_deal.ipynb)
+* [Get all contacts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_all_contacts.ipynb)
+* [Get all deals](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_all_deals.ipynb)
+* [Get all pipelines and dealstages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_all_pipelines_and_dealstages.ipynb)
+* [Get contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_contact.ipynb)
+* [Get contacts associated to deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_contacts_associated_to_deal.ipynb)
+* [Get deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_deal.ipynb)
+* [Get new deals created weekly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_new_deals_created_weekly.ipynb)
+* [Send contacts to gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Send_contacts_to_gsheet.ipynb)
+* [Send deals to gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Send_deals_to_gsheet.ipynb)
+* [Send sales brief](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Send_sales_brief.ipynb)
+* [Update contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_contact.ipynb)
+* [Update deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_deal.ipynb)
+* [Update followers from linkedin](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_followers_from_linkedin.ipynb)
+* [Update jobtitle country industry from linkedin](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_jobtitle_country_industry_from_linkedin.ipynb)
+* [Update linkedinbio from google](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_linkedinbio_from_google.ipynb)
 
 ## Hugging Face
 * [Ask boolean question to T5](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging%20Face/Hugging_Face_Ask_boolean_question_to_T5.ipynb)
@@ -224,6 +224,7 @@ Managed by Naas core-team and community ⭐️.
 * [Get user information](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter/Jupyter_Get_user_information.ipynb)
 
 ## LinkedIn
+* [+Notion Update metrics in content calendar from posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn%2BNotion_Update_metrics_in_content_calendar_from_posts.ipynb)
 * [Get comments from post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_comments_from_post.ipynb)
 * [Get connections from network](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_connections_from_network.ipynb)
 * [Get contact from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_contact_from_profile.ipynb)
@@ -243,7 +244,6 @@ Managed by Naas core-team and community ⭐️.
 * [Send invitation to profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_invitation_to_profile.ipynb)
 * [Send likes from post in gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_likes_from_post_in_gsheet.ipynb)
 * [Send message to profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_message_to_profile.ipynb)
-* [Linkedin+Notion Update metrics in content calendar from posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/Linkedin%2BNotion_Update_metrics_in_content_calendar_from_posts.ipynb)
 * [Linkedin Get info from company](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/Linkedin_Get_info_from_company.ipynb)
 
 ## Metrics Store

@@ -71,7 +71,10 @@ Managed by Naas core-team and community ⭐️.
 * [Search data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Search_data.ipynb)
 
 ## AlphaVantage
-* [Get fundamental data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AlphaVantage/AlphaVantage_Get_fundamental_data.ipynb)
+* [Get balance sheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AlphaVantage/AlphaVantage_Get_balance_sheet.ipynb)
+* [Get cashflow statement](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AlphaVantage/AlphaVantage_Get_cashflow_statement.ipynb)
+* [Get company overview](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AlphaVantage/AlphaVantage_Get_company_overview.ipynb)
+* [Get income statement](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AlphaVantage/AlphaVantage_Get_income_statement.ipynb)
 
 ## Boursorama
 * [Get CDS](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Boursorama/Boursorama_Get_CDS.ipynb)
@@ -199,9 +202,9 @@ Managed by Naas core-team and community ⭐️.
 * [Update jobtitle country industry from linkedin](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_jobtitle_country_industry_from_linkedin.ipynb)
 * [Update linkedinbio from google](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_linkedinbio_from_google.ipynb)
 
-## Hugging Face
-* [Ask boolean question to T5](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging%20Face/Hugging_Face_Ask_boolean_question_to_T5.ipynb)
-* [Naas drivers integration](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging%20Face/Hugging_Face_Naas_drivers_integration.ipynb)
+## Hugging_Face
+* [Hugging Face Ask boolean question to T5](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging_Face/Hugging_Face_Ask_boolean_question_to_T5.ipynb)
+* [Hugging Face Naas drivers integration](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging_Face/Hugging_Face_Naas_drivers_integration.ipynb)
 
 ## IFTTT
 * [Post on Twitter](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IFTTT/IFTTT_Post_on_Twitter.ipynb)

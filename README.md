@@ -84,7 +84,8 @@ Managed by Naas core-team and community ⭐️.
 * [Predict Bitcoin from Binance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CCXT/CCXT_Predict_Bitcoin_from_Binance.ipynb)
 
 ## CSV
-* [Read a csv file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CSV/Read_a_csv_file.ipynb)
+* [Read file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CSV/CSV_Read_file.ipynb)
+* [Save file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CSV/CSV_Save_file.ipynb)
 
 ## Canny
 * [Create](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Canny/Canny_Create.ipynb)
@@ -112,6 +113,7 @@ Managed by Naas core-team and community ⭐️.
 ## Excel
 * [Consolidate files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Consolidate_files.ipynb)
 * [Read file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Read_file.ipynb)
+* [Save file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Save_file.ipynb)
 
 ## FAO
 * [Consumer price indice](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FAO/FAO_Consumer_price_indice.ipynb)

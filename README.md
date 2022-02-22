@@ -64,11 +64,11 @@ Managed by Naas core-team and community ⭐️.
 * [Upload file to S3 bucket](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AWS/AWS_Upload_file_to_S3_bucket.ipynb)
 
 ## Airtable
-* [Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_connect.ipynb)
-* [Delete data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_delete_data.ipynb)
-* [Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_get_data.ipynb)
-* [Insert data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_insert_data.ipynb)
-* [Search data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_search_data.ipynb)
+* [Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Connect.ipynb)
+* [Delete data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Delete_data.ipynb)
+* [Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Get_data.ipynb)
+* [Insert data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Insert_data.ipynb)
+* [Search data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Search_data.ipynb)
 
 ## AlphaVantage
 * [Get fundamental data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AlphaVantage/AlphaVantage_Get_fundamental_data.ipynb)

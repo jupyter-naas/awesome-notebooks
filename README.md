@@ -189,6 +189,7 @@ Managed by Naas core-team and community ⭐️.
 * [Get all contacts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_all_contacts.ipynb)
 * [Get all deals](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_all_deals.ipynb)
 * [Get all pipelines and dealstages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_all_pipelines_and_dealstages.ipynb)
+* [Get closed deals weekly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_closed_deals_weekly.ipynb)
 * [Get contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_contact.ipynb)
 * [Get contacts associated to deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_contacts_associated_to_deal.ipynb)
 * [Get deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_deal.ipynb)
@@ -203,8 +204,8 @@ Managed by Naas core-team and community ⭐️.
 * [Update linkedinbio from google](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_linkedinbio_from_google.ipynb)
 
 ## Hugging_Face
-* [Hugging Face Ask boolean question to T5](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging_Face/Hugging_Face_Ask_boolean_question_to_T5.ipynb)
-* [Hugging Face Naas drivers integration](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging_Face/Hugging_Face_Naas_drivers_integration.ipynb)
+* [Hugging Face Face Ask boolean question to T5](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging_Face/Hugging_Face_Face_Ask_boolean_question_to_T5.ipynb)
+* [Hugging Face Face Naas drivers integration](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging_Face/Hugging_Face_Face_Naas_drivers_integration.ipynb)
 
 ## IFTTT
 * [Post on Twitter](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IFTTT/IFTTT_Post_on_Twitter.ipynb)

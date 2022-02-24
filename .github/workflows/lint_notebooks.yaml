@@ -1,0 +1,14 @@
+name: Lint notebooks
+on:
+  pull_request:
+    types: [opened, reopened]
+
+jobs:
+  lint-notebooks:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
+    - run: "make lint"
+

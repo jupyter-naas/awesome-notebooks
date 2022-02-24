@@ -203,9 +203,9 @@ Managed by Naas core-team and community ⭐️.
 * [Update jobtitle country industry from linkedin](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_jobtitle_country_industry_from_linkedin.ipynb)
 * [Update linkedinbio from google](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_linkedinbio_from_google.ipynb)
 
-## Hugging_Face
-* [Hugging Face Face Face Ask boolean question to T5](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging_Face/Hugging_Face_Face_Face_Ask_boolean_question_to_T5.ipynb)
-* [Hugging Face Face Face Naas drivers integration](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging_Face/Hugging_Face_Face_Face_Naas_drivers_integration.ipynb)
+## Hugging Face
+* [Ask boolean question to T5](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging%20Face/Hugging_Face_Ask_boolean_question_to_T5.ipynb)
+* [Naas drivers integration](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging%20Face/Hugging_Face_Naas_drivers_integration.ipynb)
 
 ## IFTTT
 * [Post on Twitter](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IFTTT/IFTTT_Post_on_Twitter.ipynb)

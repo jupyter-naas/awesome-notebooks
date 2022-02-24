@@ -10,5 +10,5 @@ jobs:
     - uses: actions/checkout@v2
       with:
         token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
-    - run: "make lint"
+    - run: "make interactive='' lint"
 

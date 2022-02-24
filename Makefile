@@ -1,7 +1,9 @@
+interactive=-it
+
 lint: build lint-no-build
 
 lint-no-build:
-	docker run --rm -it -v `pwd`:/data --workdir /data/.github/controls awesome-notebooks-controls /bin/bash -c "jupytext check_notebooks.ipynb --to py && python3 check_notebooks.py"
+	docker run --rm $(interactive) -v `pwd`:/data --workdir /data/.github/controls awesome-notebooks-controls /bin/bash -c "jupytext check_notebooks.ipynb --to py && python3 check_notebooks.py"
 
 build:
 	docker build .github/ -t awesome-notebooks-controls

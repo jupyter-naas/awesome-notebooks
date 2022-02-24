@@ -1,6 +1,8 @@
 interactive=-it
 image_name=awesome-notebooks-controls
 
+test: check-notebooks flakeheaven black
+
 check-notebooks: build check-notebooks-no-build
 flakeheaven: build flakeheaven-no-build
 black: build black-no-build

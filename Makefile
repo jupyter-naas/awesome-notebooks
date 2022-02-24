@@ -1,12 +1,21 @@
 interactive=-it
+image_name=awesome-notebooks-controls
 
-lint: build lint-no-build
+check-notebooks: build check-notebooks-no-build
+flakeheaven: build flakeheaven-no-build
+black: build black-no-build
 
-lint-no-build:
-	docker run --rm $(interactive) -v `pwd`:/data --workdir /data/.github/controls awesome-notebooks-controls /bin/bash -c "jupytext check_notebooks.ipynb --to py && python3 check_notebooks.py"
+check-notebooks-no-build:
+	docker run --rm $(interactive) -v `pwd`:/data --workdir /data/.github/controls $(image_name) /bin/bash -c "jupytext check_notebooks.ipynb --to py && python3 check_notebooks.py"
+
+flakeheaven-no-build:
+	docker run --rm $(interactive) -v `pwd`:/data --workdir /data/ $(image_name) /bin/bash -c "flakeheaven lint"
+
+black-no-build:
+	docker run --rm $(interactive) -v `pwd`:/data --workdir /data/ $(image_name) /bin/bash -c "black --check --ipynb **/*.ipynb"
 
 build:
-	docker build .github/ -t awesome-notebooks-controls
+	docker build .github/ -t $(image_name)
 
 dev:
 	make -j2 start-lab open-lab

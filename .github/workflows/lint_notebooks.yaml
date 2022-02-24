@@ -11,4 +11,18 @@ jobs:
       with:
         token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
     - run: "make interactive='' lint || echo 'Discarding errors for now but will be enforced at some point.'"
+  flakeheaven:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
+    - run: "make interactive='' flakeheaven || echo 'Discarding errors for now but will be enforced at some point.'"
+  black:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
+    - run: "make interactive='' black || echo 'Discarding errors for now but will be enforced at some point.'"
 

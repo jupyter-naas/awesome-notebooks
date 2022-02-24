@@ -4,13 +4,13 @@ on:
     types: [opened, reopened, edited, synchronize]
 
 jobs:
-  lint-notebooks:
+  check-notebooks:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
       with:
         token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
-    - run: "make interactive='' lint || echo 'Discarding errors for now but will be enforced at some point.'"
+    - run: "make interactive='' check-notebooks || echo 'Discarding errors for now but will be enforced at some point.'"
   flakeheaven:
     runs-on: ubuntu-latest
     steps:

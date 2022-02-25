@@ -181,6 +181,7 @@ Managed by Naas core-team and community ⭐️.
 
 ## HubSpot
 * [Associate contact to deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Associate_contact_to_deal.ipynb)
+* [Create Task](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Create_Task.ipynb)
 * [Create contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Create_contact.ipynb)
 * [Create contacts from linkedin post likes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Create_contacts_from_linkedin_post_likes.ipynb)
 * [Create deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Create_deal.ipynb)
@@ -202,6 +203,9 @@ Managed by Naas core-team and community ⭐️.
 * [Update followers from linkedin](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_followers_from_linkedin.ipynb)
 * [Update jobtitle country industry from linkedin](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_jobtitle_country_industry_from_linkedin.ipynb)
 * [Update linkedinbio from google](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_linkedinbio_from_google.ipynb)
+
+## Hubspot
+* [Create Task](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_Create_Task.ipynb)
 
 ## Hugging Face
 * [Ask boolean question to T5](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging%20Face/Hugging_Face_Ask_boolean_question_to_T5.ipynb)

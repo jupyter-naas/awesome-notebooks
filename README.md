@@ -115,6 +115,8 @@ Managed by Naas core-team and community ⭐️.
 
 ## Excel
 * [Consolidate files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Consolidate_files.ipynb)
+* [Custom sheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Custom_sheet.ipynb)
+* [Get dynamic active range](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Get_dynamic_active_range.ipynb)
 * [Read file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Read_file.ipynb)
 * [Save file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Save_file.ipynb)
 

@@ -76,6 +76,13 @@ Managed by Naas core-team and community ⭐️.
 * [Get company overview](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AlphaVantage/AlphaVantage_Get_company_overview.ipynb)
 * [Get income statement](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AlphaVantage/AlphaVantage_Get_income_statement.ipynb)
 
+## Bazimo
+* [Get export Actifs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bazimo/Bazimo_Get_export_Actifs.ipynb)
+* [Get export Baux](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bazimo/Bazimo_Get_export_Baux.ipynb)
+* [Get export Factures](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bazimo/Bazimo_Get_export_Factures.ipynb)
+* [Get export Locataires](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bazimo/Bazimo_Get_export_Locataires.ipynb)
+* [Get export Lots](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bazimo/Bazimo_Get_export_Lots.ipynb)
+
 ## Boursorama
 * [Get CDS](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Boursorama/Boursorama_Get_CDS.ipynb)
 

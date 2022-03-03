@@ -213,9 +213,6 @@ Managed by Naas core-team and community ⭐️.
 * [Update jobtitle country industry from linkedin](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_jobtitle_country_industry_from_linkedin.ipynb)
 * [Update linkedinbio from google](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_linkedinbio_from_google.ipynb)
 
-## Hubspot
-* [Create Task](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hubspot/Hubspot_Create_Task.ipynb)
-
 ## Hugging Face
 * [Ask boolean question to T5](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging%20Face/Hugging_Face_Ask_boolean_question_to_T5.ipynb)
 * [Naas drivers integration](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Hugging%20Face/Hugging_Face_Naas_drivers_integration.ipynb)
@@ -238,6 +235,9 @@ Managed by Naas core-team and community ⭐️.
 
 ## Johns Hopkins
 * [Covid19 Active Cases](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Johns%20Hopkins/Johns_Hopkins_Covid19_Active_Cases.ipynb)
+
+## Jupyter Notebooks
+* [JupyterNotebooks Add cells code](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter%20Notebooks/JupyterNotebooks_Add_cells_code.ipynb)
 
 ## Jupyter
 * [Get user information](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter/Jupyter_Get_user_information.ipynb)

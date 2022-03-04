@@ -287,8 +287,6 @@ Managed by Naas core-team and community ⭐️.
 * [Artic sea ice](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/NASA_Artic_sea_ice.ipynb)
 * [Global temperature](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/NASA_Global_temperature.ipynb)
 * [Sea level](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/NASA_Sea_level.ipynb)
-* [Indicate sealevel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/NASA_indicate_sealevel.ipynb)
-* [Sea-level-indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/NASA/Sea-level-indicator.ipynb)
 
 ## Naas Auth
 * [Bearer validate](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Auth/Naas_Auth_bearer_validate.ipynb)

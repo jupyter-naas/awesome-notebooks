@@ -237,7 +237,13 @@ Managed by Naas core-team and community ⭐️.
 * [Covid19 Active Cases](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Johns%20Hopkins/Johns_Hopkins_Covid19_Active_Cases.ipynb)
 
 ## Jupyter Notebooks
-* [JupyterNotebooks Add cells code](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter%20Notebooks/JupyterNotebooks_Add_cells_code.ipynb)
+* [Add cells in notebook json](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter%20Notebooks/Jupyter_Notebooks_Add_cells_in_notebook_json.ipynb)
+* [Count code characters](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter%20Notebooks/Jupyter_Notebooks_Count_code_characters.ipynb)
+* [Count code lines](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter%20Notebooks/Jupyter_Notebooks_Count_code_lines.ipynb)
+* [Get installs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter%20Notebooks/Jupyter_Notebooks_Get_installs.ipynb)
+* [Get libraries](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter%20Notebooks/Jupyter_Notebooks_Get_libraries.ipynb)
+* [Read file json](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter%20Notebooks/Jupyter_Notebooks_Read_file_json.ipynb)
+* [Save file ipynb](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter%20Notebooks/Jupyter_Notebooks_Save_file_ipynb.ipynb)
 
 ## Jupyter
 * [Get user information](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter/Jupyter_Get_user_information.ipynb)

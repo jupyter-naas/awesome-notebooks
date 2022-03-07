@@ -1,0 +1,6 @@
+rich==11.2.0
+pydash==5.1.0
+flakeheaven==0.11.1
+black==22.1.0
+black[jupyter]==22.1.0
+jupytext==1.13.7

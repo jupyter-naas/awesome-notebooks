@@ -11,7 +11,7 @@ update-documentation: .github/documentation/docs
 	docker run --rm $(interactive) -v `pwd`:/data --workdir /data/.github/documentation $(image_name) /bin/bash -c "jupytext documentation_update.ipynb --to py && python3 documentation_update.py"
 
 .github/documentation/docs:
-	@echo "'.github/documentation/docs' directory is not present"
+	@ git clone https://$$PERSONAL_ACCESS_TOKEN@github.com/jupyter-naas/docs.git .github/documentation/docs
 	@exit 1
 
 check-notebooks-no-build:

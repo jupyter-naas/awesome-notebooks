@@ -7,6 +7,13 @@ check-notebooks: build check-notebooks-no-build
 flakeheaven: build flakeheaven-no-build
 black: build black-no-build
 
+update-documentation: .github/documentation/docs
+	docker run --rm $(interactive) -v `pwd`:/data --workdir /data/.github/documentation $(image_name) /bin/bash -c "jupytext documentation_update.ipynb --to py && python3 documentation_update.py"
+
+.github/documentation/docs:
+	@echo "'.github/documentation/docs' directory is not present"
+	@exit 1
+
 check-notebooks-no-build:
 	docker run --rm $(interactive) -v `pwd`:/data --workdir /data/.github/controls $(image_name) /bin/bash -c "jupytext check_notebooks.ipynb --to py && python3 check_notebooks.py"
 

@@ -12,7 +12,6 @@ update-documentation: .github/documentation/docs
 
 .github/documentation/docs:
 	@ git clone https://$$PERSONAL_ACCESS_TOKEN@github.com/jupyter-naas/docs.git .github/documentation/docs
-	@exit 1
 
 check-notebooks-no-build:
 	docker run --rm $(interactive) -v `pwd`:/data --workdir /data/.github/controls $(image_name) /bin/bash -c "jupytext check_notebooks.ipynb --to py && python3 check_notebooks.py"

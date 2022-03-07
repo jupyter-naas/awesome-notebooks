@@ -235,6 +235,7 @@ Managed by Naas core-team and community ⭐️.
 
 ## Johns Hopkins
 * [Covid19 Active Cases](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Johns%20Hopkins/Johns_Hopkins_Covid19_Active_Cases.ipynb)
+* [Get Covid19 data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Johns%20Hopkins/Johns_Hopkins_Get_Covid19_data.ipynb)
 
 ## Jupyter Notebooks
 * [Add cells in notebook json](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter%20Notebooks/Jupyter_Notebooks_Add_cells_in_notebook_json.ipynb)
@@ -350,8 +351,10 @@ Managed by Naas core-team and community ⭐️.
 ## Pandas
 * [Create Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Create_Pivot_Table.ipynb)
 * [Create dataframe from dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Create_dataframe_from_dict.ipynb)
+* [Format number to string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Format_number_to_string.ipynb)
 * [ISO Date Conversion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_ISO_Date_Conversion.ipynb)
 * [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Merge_Dataframes.ipynb)
+* [Transform dataframe to dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Transform_dataframe_to_dict.ipynb)
 
 ## Pipedrive
 * [Get contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pipedrive/Pipedrive_Get_contact.ipynb)
@@ -425,9 +428,9 @@ Managed by Naas core-team and community ⭐️.
 * [Update table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Snowflake/Snowflake_Update_table.ipynb)
 
 ## Societe.com
-* [Get company details](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/get_company_details.ipynb)
-* [Get societe.ninja](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/get_societe.ninja.ipynb)
-* [Get verif.com](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/get_verif.com.ipynb)
+* [Get company details](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/Societe.com_Get_company_details.ipynb)
+* [Get societe.ninja](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/Societe.com_Get_societe.ninja.ipynb)
+* [Get verif.com](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/Societe.com_Get_verif.com.ipynb)
 
 ## Spotify
 * [Create Radar Chart to analyze Playlist](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Spotify/Spotify_Create_Radar_Chart_to_analyze_Playlist.ipynb)
@@ -458,16 +461,10 @@ Managed by Naas core-team and community ⭐️.
 * [Schedule posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Schedule_posts.ipynb)
 
 ## WHI
-* [](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/WHI.ipynb)
-
-	### indicators
-	- [Johns Hopkins Covid19 Active Cases](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/Johns_Hopkins_Covid19_Active_Cases.ipynb)
-	- [NASA Artic sea ice](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/NASA_Artic_sea_ice.ipynb)
-	- [NASA Global temperature](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/NASA_Global_temperature.ipynb)
-	- [NASA indicate sealevel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/indicators/NASA_indicate_sealevel.ipynb)
+* [Create indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/WHI_Create_indicator.ipynb)
 
 ## WSR
-* [John Hopkins Active covid cases worldmap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/John_Hopkins_Active_covid_cases_worldmap.ipynb)
+* [Get daily Covid19 active cases worldmap JHU](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WSR_Get_daily_Covid19_active_cases_worldmap_JHU.ipynb)
 
 ## WorldBank
 * [GDP contributors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WorldBank/WorldBank_GDP_contributors.ipynb)

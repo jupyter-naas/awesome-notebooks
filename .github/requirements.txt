@@ -4,3 +4,4 @@ flakeheaven==0.11.1
 black==22.1.0
 black[jupyter]==22.1.0
 jupytext==1.13.7
+nbconvert==6.4.2

@@ -3,22 +3,14 @@ on:
   push:
     branches:
       - master
+
 jobs:
-  generate-readme:
-    if: "!startsWith(github.event.head_commit.message, 'generateReadme:')"
+  check-notebooks:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
       with:
         token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
-  - name: Checkout Target Repository
-    if: ${{ steps.regex-match.outputs.match != '' }}
-    uses: actions/checkout@v2
-    with:
-      repository: naas/docs
-      path: .github/documentation/docs
-      token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} 
     - run: "make interactive='' update-documentation"
-
-
-
+      env:
+        PERSONAL_ACCESS_TOKEN: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'

@@ -272,6 +272,9 @@ Managed by Naas core-team and community ⭐️.
 * [Send message to profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_message_to_profile.ipynb)
 * [Linkedin Get info from company](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/Linkedin_Get_info_from_company.ipynb)
 
+## Matplotlib
+* [Create Waterfall chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Matplotlib/Matplotlib_Create_Waterfall_chart.ipynb)
+
 ## Metrics Store
 * [Content creation Track connections](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Metrics%20Store/Content_creation_Track_connections.ipynb)
 * [Template](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Metrics%20Store/Metrics_Store_Template.ipynb)
@@ -346,6 +349,7 @@ Managed by Naas core-team and community ⭐️.
 
 ## Pandas
 * [Create Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Create_Pivot_Table.ipynb)
+* [Create dataframe from dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Create_dataframe_from_dict.ipynb)
 * [ISO Date Conversion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_ISO_Date_Conversion.ipynb)
 * [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Merge_Dataframes.ipynb)
 
@@ -357,23 +361,24 @@ Managed by Naas core-team and community ⭐️.
 * [Get transactions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plaid/Plaid_Get_transactions.ipynb)
 
 ## Plotly
-* [Create Bubble chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Bubble%20chart.ipynb)
-* [Create Candlestick chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Candlestick%20chart.ipynb)
-* [Create Gantt chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Gantt%20chart.ipynb)
-* [Create Horizontal Bar Chart (Basic)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Horizontal%20Bar%20Chart%20%28Basic%29.ipynb)
-* [Create Line Chart (Basic)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Line%20Chart%20%28Basic%29.ipynb)
-* [Create Waterfall chart (Advanced)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Waterfall%20chart%20%28Advanced%29.ipynb)
-* [Create Waterfall chart (Basic)](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Create%20Waterfall%20chart%20%28Basic%29.ipynb)
-* [Bubblechart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Bubblechart.ipynb)
-* [Candlestick](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Candlestick.ipynb)
+* [Create Bubblechart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Bubblechart.ipynb)
+* [Create Candlestick](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Candlestick.ipynb)
+* [Create Gantt chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Gantt_chart.ipynb)
+* [Create Heatmap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Heatmap.ipynb)
+* [Create Horizontal Barchart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Horizontal_Barchart.ipynb)
+* [Create Leaderboard](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Leaderboard.ipynb)
+* [Create Leaderboard stacked](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Leaderboard_stacked.ipynb)
 * [Create Linechart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Linechart.ipynb)
-* [Heatmap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Heatmap.ipynb)
-* [Mapchart world](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Mapchart_world.ipynb)
-* [Vertical Barchart stacked](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Vertical_Barchart_stacked.ipynb)
-* [Waterfall chart simple](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Waterfall_chart_simple.ipynb)
+* [Create Mapchart world](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Mapchart_world.ipynb)
+* [Create Vertical Barchart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Vertical_Barchart.ipynb)
+* [Create Vertical Barchart group](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Vertical_Barchart_group.ipynb)
+* [Create Vertical Barchart stacked](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Vertical_Barchart_stacked.ipynb)
+* [Create Waterfall chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Waterfall_chart.ipynb)
 
 ## Python
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Consolidate_Excel_files.ipynb)
+* [Create dataframe from lists](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_dataframe_from_lists.ipynb)
+* [Create dict from lists](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_dict_from_lists.ipynb)
 * [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Looping_Over_Dataframe.ipynb)
 
 ## Qonto

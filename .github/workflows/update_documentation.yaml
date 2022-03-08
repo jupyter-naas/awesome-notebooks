@@ -5,7 +5,7 @@ on:
       - documentation-auto-update
 
 jobs:
-  check-notebooks:
+  update-documentation:
     if: "!startsWith(github.event.head_commit.message, 'generateReadme:')"
     runs-on: ubuntu-latest
     steps:

@@ -340,6 +340,7 @@ Managed by Naas core-team and community ⭐️.
 
 ## OpenWeatherMap
 * [Get City Weather](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenWeatherMap/OpenWeatherMap_Get_City_Weather.ipynb)
+* [Send daily email with predictions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenWeatherMap/OpenWeatherMap_Send_daily_email_with_predictions.ipynb)
 
 ## OwnCloud
 * [Download file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OwnCloud/OwnCloud_Download_file.ipynb)

@@ -11,10 +11,10 @@ update-documentation: build .github/documentation/docs
 	docker run --rm $(interactive) -v `pwd`:/data --workdir /data/.github/documentation $(image_name) /bin/bash -c "jupytext documentation_update.ipynb --to py && python3 documentation_update.py"
 
 push-documentation: update-documentation
-	@ cd .github/documentation/docs && git add . && git commit -m 'fix: Update templates from new awesome-notebooks activity.' && git push --set-upstream origin update-doc-test
+	@ cd .github/documentation/docs && git add . && git commit -m 'fix: Update templates from new awesome-notebooks activity.' && git push --set-upstream origin master
 
 .github/documentation/docs:
-	@ git clone https://$$PERSONAL_ACCESS_TOKEN@github.com/jupyter-naas/docs.git .github/documentation/docs && cd .github/documentation/docs && git checkout -b update-doc-test
+	@ git clone https://$$PERSONAL_ACCESS_TOKEN@github.com/jupyter-naas/docs.git .github/documentation/docs && cd .github/documentation/docs && git checkout master
 
 check-notebooks-no-build:
 	docker run --rm $(interactive) -v `pwd`:/data --workdir /data/.github/controls $(image_name) /bin/bash -c "jupytext check_notebooks.ipynb --to py && python3 check_notebooks.py"

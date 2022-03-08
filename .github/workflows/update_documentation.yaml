@@ -2,10 +2,11 @@ name: Update documentation
 on:
   push:
     branches:
-      - master
+      - update-doc-test
 
 jobs:
   check-notebooks:
+    if: "!startsWith(github.event.head_commit.message, 'generateReadme:')"
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2

@@ -2,7 +2,7 @@ name: Update documentation
 on:
   push:
     branches:
-      - update-doc-test
+      - documentation-auto-update
 
 jobs:
   check-notebooks:

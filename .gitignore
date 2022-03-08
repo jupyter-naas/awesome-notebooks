@@ -133,3 +133,7 @@ dmypy.json
 # Python cache in jupyterlab when running make dev
 .local
 .github/controls/*.py
+
+# Update documentation temporary files and folders.
+.github/documentation/docs/
+.github/documentation/documentation_update.py

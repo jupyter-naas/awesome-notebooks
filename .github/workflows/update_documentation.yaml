@@ -2,11 +2,11 @@ name: Update documentation
 on:
   push:
     branches:
-      - documentation-auto-update
+      - master
 
 jobs:
   update-documentation:
-    if: "!startsWith(github.event.head_commit.message, 'generateReadme:')"
+    if: "startsWith(github.event.head_commit.message, 'generateReadme:')"
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2

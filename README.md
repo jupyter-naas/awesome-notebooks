@@ -461,10 +461,8 @@ Managed by Naas core-team and community ⭐️.
 * [Post text and image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Post_text_and_image.ipynb)
 * [Schedule posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Schedule_posts.ipynb)
 
-## WHI
-* [Create indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WHI/WHI_Create_indicator.ipynb)
-
 ## WSR
+* [WHI Create indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WHI_Create_indicator.ipynb)
 * [Get daily Covid19 active cases worldmap JHU](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WSR_Get_daily_Covid19_active_cases_worldmap_JHU.ipynb)
 
 ## WorldBank

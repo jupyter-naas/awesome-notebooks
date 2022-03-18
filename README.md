@@ -139,22 +139,22 @@ Managed by Naas core-team and community ⭐️.
 * [Get file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Get_file.ipynb)
 * [Send file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Send_file.ipynb)
 
-## Github
-* [Close issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Close_issue.ipynb)
-* [Create issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Create_issue.ipynb)
-* [Download file from url](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Download_file_from_url.ipynb)
-* [Get active projects](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_active_projects.ipynb)
-* [Get commits ranking from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_commits_ranking_from_repository.ipynb)
-* [Get issues from repo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_issues_from_repo.ipynb)
-* [Get profile from user](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_profile_from_user.ipynb)
-* [Get profiles from teams](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_profiles_from_teams.ipynb)
-* [Get pull requests from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_pull_requests_from_repository.ipynb)
-* [Get stargazers from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_stargazers_from_repository.ipynb)
-* [Get weekly commits from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Get_weekly_commits_from_repository.ipynb)
-* [Peform basic actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Peform_basic_actions.ipynb)
-* [Read issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Read_issue.ipynb)
-* [Track notebooks created over time](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Track_notebooks_created_over_time.ipynb)
-* [Track open issues roadmap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Github/Github_Track_open_issues_roadmap.ipynb)
+## GitHub
+* [Close issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Close_issue.ipynb)
+* [Create issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_issue.ipynb)
+* [Download file from url](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Download_file_from_url.ipynb)
+* [Get active projects](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_active_projects.ipynb)
+* [Get commits ranking from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_commits_ranking_from_repository.ipynb)
+* [Get issues from repo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_issues_from_repo.ipynb)
+* [Get profile from user](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_profile_from_user.ipynb)
+* [Get profiles from teams](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_profiles_from_teams.ipynb)
+* [Get pull requests from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_pull_requests_from_repository.ipynb)
+* [Get stargazers from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_stargazers_from_repository.ipynb)
+* [Get weekly commits from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_weekly_commits_from_repository.ipynb)
+* [Peform basic actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Peform_basic_actions.ipynb)
+* [Read issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Read_issue.ipynb)
+* [Track notebooks created over time](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_notebooks_created_over_time.ipynb)
+* [Track open issues roadmap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_open_issues_roadmap.ipynb)
 
 ## Gmail
 * [Automate response from keywords in mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Automate_response_from_keywords_in_mailbox.ipynb)
@@ -288,7 +288,7 @@ Managed by Naas core-team and community ⭐️.
 * [Content creation Track connections](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Metrics%20Store/Content_creation_Track_connections.ipynb)
 
 ## Microsoft Teams
-* [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Microsoft%20Teams/Microsoft%20Teams_Send_message.ipynb)
+* [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Microsoft%20Teams/Microsoft_Teams_Send_message.ipynb)
 
 ## Microsoft Word
 * [Convert to HMTL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Microsoft%20Word/Microsoft_Word_Convert_to_HMTL.ipynb)
@@ -501,14 +501,14 @@ Managed by Naas core-team and community ⭐️.
 * [Send daily prediction to Email](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Send_daily_prediction_to_Email.ipynb)
 * [Send daily prediction to Slack](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Send_daily_prediction_to_Slack.ipynb)
 
-## Youtube
-* [Download video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Download_video.ipynb)
-* [Extract and summarize transcript](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Extract_and_summarize_transcript.ipynb)
-* [Extract transcript from video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Extract_transcript_from_video.ipynb)
-* [Get statistics from channel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Get_statistics_from_channel.ipynb)
-* [Get statistics from video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Get_statistics_from_video.ipynb)
-* [Get uploads from channel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Get_uploads_from_channel.ipynb)
-* [Summarize video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Summarize_video.ipynb)
+## YouTube
+* [Download video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YouTube/YouTube_Download_video.ipynb)
+* [Extract and summarize transcript](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YouTube/YouTube_Extract_and_summarize_transcript.ipynb)
+* [Extract transcript from video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YouTube/YouTube_Extract_transcript_from_video.ipynb)
+* [Get statistics from channel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YouTube/YouTube_Get_statistics_from_channel.ipynb)
+* [Get statistics from video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YouTube/YouTube_Get_statistics_from_video.ipynb)
+* [Get uploads from channel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YouTube/YouTube_Get_uploads_from_channel.ipynb)
+* [Summarize video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YouTube/YouTube_Summarize_video.ipynb)
 
 ## ZIP
 * [Extract files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ZIP/ZIP_Extract_files.ipynb)

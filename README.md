@@ -64,7 +64,6 @@ Managed by Naas core-team and community ⭐️.
 * [Upload file to S3 bucket](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AWS/AWS_Upload_file_to_S3_bucket.ipynb)
 
 ## Airtable
-* [Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Connect.ipynb)
 * [Delete data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Delete_data.ipynb)
 * [Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Get_data.ipynb)
 * [Insert data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Insert_data.ipynb)
@@ -87,7 +86,7 @@ Managed by Naas core-team and community ⭐️.
 * [Get CDS](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Boursorama/Boursorama_Get_CDS.ipynb)
 
 ## Bubble
-* [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bubble/Bubble_Trigger_workflow.ipynb)
+* [Send data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bubble/Bubble_Send_data.ipynb)
 
 ## CCXT
 * [Calculate Support and Resistance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/CCXT/CCXT_Calculate_Support_and_Resistance.ipynb)
@@ -114,11 +113,8 @@ Managed by Naas core-team and community ⭐️.
 ## EM-DAT
 * [Natural disasters](https://github.com/jupyter-naas/awesome-notebooks/tree/master/EM-DAT/EM-DAT_natural_disasters.ipynb)
 
-## Elastic Search
-* [Connect to server](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Elastic%20Search/Elastic%20Search_Connect_to_server.ipynb)
-
-## Excel 365
-* [Access  sheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel%20365/Access%20Excel%20365%20sheet.ipynb)
+## Elasticsearch
+* [Connect to server](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Elasticsearch/Elasticsearch_Connect_to_server.ipynb)
 
 ## Excel
 * [Consolidate files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Consolidate_files.ipynb)
@@ -136,7 +132,7 @@ Managed by Naas core-team and community ⭐️.
 ## FTP
 * [S Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTPS_Connect.ipynb)
 * [Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Connect.ipynb)
-* [Get file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Get_file.ipynb)
+* [Get filee](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Get_filee.ipynb)
 * [Send file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Send_file.ipynb)
 
 ## GitHub
@@ -175,6 +171,8 @@ Managed by Naas core-team and community ⭐️.
 * [Download file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Drive/Google_Drive_Download_file.ipynb)
 
 ## Google Search
+* [Get LinkedIn company url from name](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Search/Google_Search_Get_LinkedIn_company_url_from_name.ipynb)
+* [Get LinkedIn profile url from name](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Search/Google_Search_Get_LinkedIn_profile_url_from_name.ipynb)
 * [Perform search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Search/Google_Search_Perform_search.ipynb)
 
 ## Google Sheets
@@ -186,7 +184,7 @@ Managed by Naas core-team and community ⭐️.
 * [Create a website](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HTML/HTML_Create_a_website.ipynb)
 
 ## Healthchecks
-* [Healthcheks Perfom basic actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Healthchecks/Healthcheks_Perfom_basic_actions.ipynb)
+* [Perfom basic actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Healthchecks/Healthchecks_Perfom_basic_actions.ipynb)
 
 ## HubSpot
 * [Associate contact to deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Associate_contact_to_deal.ipynb)

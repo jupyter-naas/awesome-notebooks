@@ -178,6 +178,7 @@ Managed by Naas core-team and community ⭐️.
 ## Google Sheets
 * [Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Google_Sheets_Get_data.ipynb)
 * [Send data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Google_Sheets_Send_data.ipynb)
+* [Send data to MongoDB](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Google_Sheets_Send_data_to_MongoDB.ipynb)
 * [Send emails from sheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Google_Sheets_Send_emails_from_sheet.ipynb)
 
 ## HTML
@@ -297,6 +298,7 @@ Managed by Naas core-team and community ⭐️.
 ## MongoDB
 * [Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/MongoDB/MongoDB_Get_data.ipynb)
 * [Send data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/MongoDB/MongoDB_Send_data.ipynb)
+* [Send data to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/MongoDB/MongoDB_Send_data_to_Google_Sheets.ipynb)
 
 ## MySQL
 * [Query database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/MySQL/MySQL_Query_database.ipynb)

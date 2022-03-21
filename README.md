@@ -264,6 +264,7 @@ Managed by Naas core-team and community ⭐️.
 * [Get followers from network](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_followers_from_network.ipynb)
 * [Get guests from event](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_guests_from_event.ipynb)
 * [Get identity from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_identity_from_profile.ipynb)
+* [Get info from company](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_info_from_company.ipynb)
 * [Get likes from post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_likes_from_post.ipynb)
 * [Get messages from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_messages_from_profile.ipynb)
 * [Get network from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_network_from_profile.ipynb)
@@ -280,7 +281,6 @@ Managed by Naas core-team and community ⭐️.
 * [Send message to profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_message_to_profile.ipynb)
 * [Send posts feed to gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_posts_feed_to_gsheet.ipynb)
 * [Update metrics from posts in Notion content calendar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Update_metrics_from_posts_in_Notion_content_calendar.ipynb)
-* [Linkedin Get info from company](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/Linkedin_Get_info_from_company.ipynb)
 
 ## Matplotlib
 * [Create Waterfall chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Matplotlib/Matplotlib_Create_Waterfall_chart.ipynb)

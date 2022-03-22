@@ -132,7 +132,7 @@ Managed by Naas core-team and community ⭐️.
 ## FTP
 * [S Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTPS_Connect.ipynb)
 * [Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Connect.ipynb)
-* [Get filee](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Get_filee.ipynb)
+* [Get file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Get_file.ipynb)
 * [Send file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Send_file.ipynb)
 
 ## GitHub

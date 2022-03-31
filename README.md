@@ -324,6 +324,9 @@ Managed by Naas core-team and community ⭐️.
 * [Emailbuilder demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Emailbuilder_demo.ipynb)
 * [Get Transactions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_Transactions.ipynb)
 * [Get help](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_help.ipynb)
+* [Get number of downloads naas drivers package](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_number_of_downloads_naas_drivers_package.ipynb)
+* [Get number of downloads naas package](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_number_of_downloads_naas_package.ipynb)
+* [Get total downloads naas libraries](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_total_downloads_naas_libraries.ipynb)
 * [NLP Examples](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_NLP_Examples.ipynb)
 * [Notification demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Notification_demo.ipynb)
 * [Remove Scheduler Outputs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Remove_Scheduler_Outputs.ipynb)
@@ -392,6 +395,9 @@ Managed by Naas core-team and community ⭐️.
 * [Create Vertical Barchart group](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Vertical_Barchart_group.ipynb)
 * [Create Vertical Barchart stacked](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Vertical_Barchart_stacked.ipynb)
 * [Create Waterfall chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Waterfall_chart.ipynb)
+
+## PyPI
+* [- Get number of downloads any package](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PyPI/PyPI%20-%20Get_number_of_downloads_any_package.ipynb)
 
 ## Python
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Consolidate_Excel_files.ipynb)

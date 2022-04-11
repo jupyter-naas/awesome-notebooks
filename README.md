@@ -108,7 +108,7 @@ Managed by Naas core-team and community ⭐️.
 * [Get data from API](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Cityfalcon/Cityfalcon_Get_data_from_API.ipynb)
 
 ## D-Tale
-* [Dtale visualize csv](https://github.com/jupyter-naas/awesome-notebooks/tree/master/D-Tale/dtale_visualize_csv.ipynb)
+* [Visualize dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/D-Tale/D-Tale_Visualize_dataframe.ipynb)
 
 ## Data.gouv.fr
 * [COVID19 -  FR - Entrées et sorties par région pour 1 million d'hab.](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data.gouv.fr/COVID19%20-%20%20FR%20-%20Entr%C3%A9es%20et%20sorties%20par%20r%C3%A9gion%20pour%201%20million%20d%27hab..ipynb)

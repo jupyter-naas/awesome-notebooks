@@ -484,6 +484,9 @@ Managed by Naas core-team and community ⭐️.
 * [Get users](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Thinkific/Thinkific_Get_users.ipynb)
 * [Send users](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Thinkific/Thinkific_Send_users.ipynb)
 
+## Tiktok
+* [Generate leads from posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Tiktok/Tiktok_Generate_leads_from_posts.ipynb)
+
 ## Trello
 * [Get board data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Trello/Trello_Get_board_data.ipynb)
 
@@ -491,6 +494,7 @@ Managed by Naas core-team and community ⭐️.
 * [Send SMS](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twilio/Twilio_Send_SMS.ipynb)
 
 ## Twitter
+* [Generate leads from posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Generate_leads_from_posts.ipynb)
 * [Get tweets from search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_tweets_from_search.ipynb)
 * [Get tweets stats from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_tweets_stats_from_profile.ipynb)
 * [Get user data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_user_data.ipynb)

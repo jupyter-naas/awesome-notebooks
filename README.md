@@ -484,8 +484,8 @@ Managed by Naas core-team and community ⭐️.
 * [Get users](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Thinkific/Thinkific_Get_users.ipynb)
 * [Send users](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Thinkific/Thinkific_Send_users.ipynb)
 
-## Tiktok
-* [Generate leads from posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Tiktok/Tiktok_Generate_leads_from_posts.ipynb)
+## TikTok
+* [Generate leads from posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/TikTok/TikTok_Generate_leads_from_posts.ipynb)
 
 ## Trello
 * [Get board data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Trello/Trello_Get_board_data.ipynb)

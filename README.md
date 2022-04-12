@@ -495,7 +495,7 @@ Managed by Naas core-team and community ⭐️.
 * [Send SMS](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twilio/Twilio_Send_SMS.ipynb)
 
 ## Twitter
-* [Generate leads from posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Generate_leads_from_posts.ipynb)
+* [Get posts stats](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_posts_stats.ipynb)
 * [Get tweets from search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_tweets_from_search.ipynb)
 * [Get tweets stats from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_tweets_stats_from_profile.ipynb)
 * [Get user data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_user_data.ipynb)

@@ -388,6 +388,9 @@ Managed by Naas core-team and community ⭐️.
 * [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Merge_Dataframes.ipynb)
 * [Transform dataframe to dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Transform_dataframe_to_dict.ipynb)
 
+## Pillow
+* [Add data to image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pillow/Pillow_Add_data_to_image.ipynb)
+
 ## Pipedrive
 * [Get contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pipedrive/Pipedrive_Get_contact.ipynb)
 

@@ -461,6 +461,7 @@ Managed by Naas core-team and community ⭐️.
 * [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SendGrid/SendGrid_Send_message.ipynb)
 
 ## Slack
+* [Follow Number Of  Users In Workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Slack/Slack_Follow_Number_Of_Slack_Users_In_Workspace.ipynb)
 * [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Slack/Slack_Send_message.ipynb)
 
 ## Snowflake

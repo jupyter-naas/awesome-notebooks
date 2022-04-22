@@ -170,11 +170,16 @@ Managed by Naas core-team and community ⭐️.
 * [Send emails from Gsheet specific](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Send_emails_from_Gsheet_specific.ipynb)
 
 ## Google Analytics
+* [Follow average session duration daily](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/Google_Analytics_Follow_average_session_duration_daily.ipynb)
+* [Follow number of new visitors daily](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/Google_Analytics_Follow_number_of_new_visitors_daily.ipynb)
+* [Follow number of sessions daily](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/Google_Analytics_Follow_number_of_sessions_daily.ipynb)
+* [Follow number of visitors daily](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/Google_Analytics_Follow_number_of_visitors_daily.ipynb)
 * [Get bounce rate](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/Google_Analytics_Get_bounce_rate.ipynb)
 * [Get pageview ranking](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/Google_Analytics_Get_pageview_ranking.ipynb)
 * [Get stats per country](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/Google_Analytics_Get_stats_per_country.ipynb)
 * [Get time on landing page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/Google_Analytics_Get_time_on_landing_page.ipynb)
 * [Get unique visitors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/Google_Analytics_Get_unique_visitors.ipynb)
+* [Get unique visitors by country](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/Google_Analytics_Get_unique_visitors_by_country.ipynb)
 
 ## Google Drive
 * [Download file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Drive/Google_Drive_Download_file.ipynb)

@@ -365,6 +365,7 @@ Managed by Naas core-team and community ⭐️.
 * [Get database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_database.ipynb)
 * [Get users](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_users.ipynb)
 * [Send LinkedIn invitations from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Send_LinkedIn_invitations_from_database.ipynb)
+* [Send Slack Messages For New  Database Items](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Send_Slack_Messages_For_New_Notion_Database_Items.ipynb)
 * [Sent Gmail On New Item](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Sent_Gmail_On_New_Item.ipynb)
 * [Update page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_page.ipynb)
 * [Update pages from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_pages_from_database.ipynb)

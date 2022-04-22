@@ -110,6 +110,9 @@ Managed by Naas core-team and community ⭐️.
 ## D-Tale
 * [Visualize dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/D-Tale/D-Tale_Visualize_dataframe.ipynb)
 
+## Dask
+* [Parallelize operations on multiple csvs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dask/Dask_parallelize_operations_on_multiple_csvs.ipynb)
+
 ## Data.gouv.fr
 * [COVID19 -  FR - Entrées et sorties par région pour 1 million d'hab.](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data.gouv.fr/COVID19%20-%20%20FR%20-%20Entr%C3%A9es%20et%20sorties%20par%20r%C3%A9gion%20pour%201%20million%20d%27hab..ipynb)
 

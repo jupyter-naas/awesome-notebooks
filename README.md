@@ -474,8 +474,8 @@ Managed by Naas core-team and community ⭐️.
 * [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SendGrid/SendGrid_Send_message.ipynb)
 
 ## Slack
-* [Add New  User To Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Slack/Slack_Add_New_Slack_User_To_Google_Sheets.ipynb)
-* [Follow Number Of  Users In Workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Slack/Slack_Follow_Number_Of_Slack_Users_In_Workspace.ipynb)
+* [Add new user to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Slack/Slack_Add_new_user_to_Google_Sheets.ipynb)
+* [Follow number of users in workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Slack/Slack_Follow_number_of_users_in_workspace.ipynb)
 * [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Slack/Slack_Send_message.ipynb)
 
 ## Snowflake

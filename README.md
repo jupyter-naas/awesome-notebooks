@@ -248,6 +248,7 @@ Managed by Naas core-team and community ⭐️.
 * [Extinct species](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IUCN/IUCN_Extinct_species.ipynb)
 
 ## Instagram
+* [Get stats from posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Instagram/Instagram_Get_stats_from_posts.ipynb)
 * [Post image and caption](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Instagram/Instagram_Post_image_and_caption.ipynb)
 
 ## Integromat

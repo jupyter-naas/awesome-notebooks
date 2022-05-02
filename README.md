@@ -430,6 +430,9 @@ Managed by Naas core-team and community ⭐️.
 * [Create Vertical Barchart stacked](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Vertical_Barchart_stacked.ipynb)
 * [Create Waterfall chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Waterfall_chart.ipynb)
 
+## PostgresSQL
+* [Get data from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PostgresSQL/PostgresSQL_Get_data_from_database.ipynb)
+
 ## PyPI
 * [- Get number of downloads any package](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PyPI/PyPI%20-%20Get_number_of_downloads_any_package.ipynb)
 

@@ -198,7 +198,6 @@ Managed by Naas core-team and community ⭐️.
 * [Send data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Google_Sheets_Send_data.ipynb)
 * [Send data to MongoDB](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Google_Sheets_Send_data_to_MongoDB.ipynb)
 * [Send emails from sheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Google_Sheets_Send_emails_from_sheet.ipynb)
-* [Gsheets Send data to mongoDB](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Gsheets_Send_data_to_mongoDB.ipynb)
 
 ## HTML
 * [Create a website](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HTML/HTML_Create_a_website.ipynb)

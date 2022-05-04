@@ -117,6 +117,7 @@ Managed by Naas core-team and community ⭐️.
 
 ## Data.gouv.fr
 * [COVID19 -  FR - Entrées et sorties par région pour 1 million d'hab.](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data.gouv.fr/COVID19%20-%20%20FR%20-%20Entr%C3%A9es%20et%20sorties%20par%20r%C3%A9gion%20pour%201%20million%20d%27hab..ipynb)
+* [Récupération données légales entreprise](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data.gouv.fr/Data.gouv.fr_R%C3%A9cup%C3%A9ration_donn%C3%A9es_l%C3%A9gales_entreprise.ipynb)
 
 ## Draft Kings
 * [Get NBA Moneylines](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Draft%20Kings/Draft_Kings_Get_NBA_Moneylines.ipynb)
@@ -244,8 +245,14 @@ Managed by Naas core-team and community ⭐️.
 ## IMDB
 * [Top  Movie](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IMDB/Top_IMDB_Movie.ipynb)
 
+## INPI
+* [Download PDF recap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/INPI/INPI_Download_PDF_recap.ipynb)
+
 ## IUCN
 * [Extinct species](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IUCN/IUCN_Extinct_species.ipynb)
+
+## Insee
+* [Download PDF recap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Insee/Insee_Download_PDF_recap.ipynb)
 
 ## Instagram
 * [Get stats from posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Instagram/Instagram_Get_stats_from_posts.ipynb)
@@ -439,6 +446,7 @@ Managed by Naas core-team and community ⭐️.
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Consolidate_Excel_files.ipynb)
 * [Create dataframe from lists](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_dataframe_from_lists.ipynb)
 * [Create dict from lists](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_dict_from_lists.ipynb)
+* [Download PDF from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Download_PDF_from_URL.ipynb)
 * [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Looping_Over_Dataframe.ipynb)
 
 ## Qonto
@@ -492,7 +500,6 @@ Managed by Naas core-team and community ⭐️.
 
 ## Societe.com
 * [Get company details](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/Societe.com_Get_company_details.ipynb)
-* [Get societe.ninja](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/Societe.com_Get_societe.ninja.ipynb)
 * [Get verif.com](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/Societe.com_Get_verif.com.ipynb)
 
 ## Spotify

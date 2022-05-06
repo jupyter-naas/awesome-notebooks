@@ -163,6 +163,7 @@ Managed by Naas core-team and community ⭐️.
 * [Read issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Read_issue.ipynb)
 * [Track issues on projects](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_issues_on_projects.ipynb)
 * [Track notebooks created over time](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_notebooks_created_over_time.ipynb)
+* [Github Add New Github Issues As Page In Notion Database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/Github_Add_New_Github_Issues_As_Page_In_Notion_Database.ipynb)
 
 ## Gmail
 * [Automate response from keywords in mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Automate_response_from_keywords_in_mailbox.ipynb)

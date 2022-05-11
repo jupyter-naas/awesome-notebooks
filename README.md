@@ -318,6 +318,7 @@ Managed by Naas core-team and community ⭐️.
 * [Send message to profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_message_to_profile.ipynb)
 * [Send message to profile from post likes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_message_to_profile_from_post_likes.ipynb)
 * [Send posts feed to gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_posts_feed_to_gsheet.ipynb)
+* [Send weekly post engagement metrics by email](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_weekly_post_engagement_metrics_by_email.ipynb)
 * [Update metrics from posts in Notion content calendar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Update_metrics_from_posts_in_Notion_content_calendar.ipynb)
 * [Linkedin Follow number of content published](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/Linkedin_Follow_number_of_content_published.ipynb)
 * [Linkedin Follow total content views](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/Linkedin_Follow_total_content_views.ipynb)

@@ -591,6 +591,9 @@ Managed by Naas core-team and community ⭐️.
 ## Zapier
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Zapier/Zapier_Trigger_workflow.ipynb)
 
+## spaCy
+* [SpaCy Build a sentiment analysis model using Twitter](https://github.com/jupyter-naas/awesome-notebooks/tree/master/spaCy/SpaCy_Build_a_sentiment_analysis_model_using_Twitter.ipynb)
+
 
 <br/>
 Maintained by CashStory SAS (Naas mother company).

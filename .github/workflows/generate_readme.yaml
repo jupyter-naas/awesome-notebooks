@@ -13,7 +13,7 @@ jobs:
         token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
     - run: "pip install MarkupSafe==2.0.1"
     - run: "pip install notebook"
-    - run: "pip install naas_drivers markdown2==2.4.0"
+    - run: "pip install naas_drivers[markdown]"
     - run: "pip install papermill"
     - run: "jupyter nbconvert --execute generate_readme.ipynb --inplace"
     - run: "jupyter nbconvert --clear-output --inplace generate_readme.ipynb"

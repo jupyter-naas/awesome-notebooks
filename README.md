@@ -411,6 +411,7 @@ Managed by Naas core-team and community ⭐️.
 * [Transform to MP3](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PDF/PDF_Transform_to_MP3.ipynb)
 
 ## Pandas
+* [Convert datetime series](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Convert_datetime_series.ipynb)
 * [Create Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Create_Pivot_Table.ipynb)
 * [Create dataframe from dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Create_dataframe_from_dict.ipynb)
 * [Format number to string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Format_number_to_string.ipynb)
@@ -455,6 +456,7 @@ Managed by Naas core-team and community ⭐️.
 * [Create dict from lists](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_dict_from_lists.ipynb)
 * [Download PDF from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Download_PDF_from_URL.ipynb)
 * [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Looping_Over_Dataframe.ipynb)
+* [Using datetime library](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Using_datetime_library.ipynb)
 
 ## Qonto
 * [Get cash position trend](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_cash_position_trend.ipynb)

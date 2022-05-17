@@ -163,6 +163,7 @@ Managed by Naas core-team and community ⭐️.
 * [Get weekly commits from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_weekly_commits_from_repository.ipynb)
 * [Peform basic actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Peform_basic_actions.ipynb)
 * [Read issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Read_issue.ipynb)
+* [Remove member from team](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Remove_member_from_team.ipynb)
 * [Track issues on projects](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_issues_on_projects.ipynb)
 * [Track notebooks created over time](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_notebooks_created_over_time.ipynb)
 

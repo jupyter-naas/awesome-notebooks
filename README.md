@@ -197,6 +197,7 @@ Managed by Naas core-team and community ⭐️.
 
 ## Google Sheets
 * [Add items to Notion databases from new rows in](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Google_Sheets_Add_items_to_Notion_databases_from_new_rows_in_Google_Sheets.ipynb)
+* [Add new github member to team from spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Google_Sheets_Add_new_github_member_to_team_from_spreadsheet.ipynb)
 * [Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Google_Sheets_Get_data.ipynb)
 * [Send LinkedIn invitations from spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Google_Sheets_Send_LinkedIn_invitations_from_spreadsheet.ipynb)
 * [Send data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Google_Sheets_Send_data.ipynb)

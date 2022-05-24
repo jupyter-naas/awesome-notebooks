@@ -1,3 +1,4 @@
+name: Check that an issue is linked to this pull request.
 on:
   pull_request:
     types: [opened, edited, reopened, synchronize]
@@ -12,8 +13,7 @@ jobs:
         with:
           github-token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
           exclude-branches: "dependabot/**"
-          custom-body-comment: "Your Pull Request is not linked to an issue. Please add to the description of the pull request 'resolves #<issue number>'."
+          custom-body-comment: false
 
-      # OPTIONAL: Use the output from the `check-linked-issues` step
       - name: Get the output
         run: echo "How many linked issues? ${{ steps.check-linked-issues.outputs.linked_issues_count }}"

@@ -1,0 +1,3 @@
+name: Attach issue with PR
+on:
+  pull_request:

@@ -31,7 +31,7 @@ Managed by Naas core-team and community ⭐️.
 → Feel free to use the Issues tab to add any templates you would like to see, or contribute to.
 
 
-## How to contribute ?
+## How to contribute ? [Contributor's Guide](https://naas-official.notion.site/Code-contributor-journey-164779502e2a4ca5950d63eea7a2d39f)
 - Step 1: Open free account on <a href="https://www.naas.ai/" target="_blank">Naas.ai</a>
 - Step 2: Clone awesome-notebooks repo
 - Step 3: Change status of this Issue to “In progress” so we can know you are working on it

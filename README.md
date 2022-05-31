@@ -65,6 +65,9 @@ Managed by Naas core-team and community ⭐️.
 * [Send dataframe to S3](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AWS/AWS_Send_dataframe_to_S3.ipynb)
 * [Upload file to S3 bucket](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AWS/AWS_Upload_file_to_S3_bucket.ipynb)
 
+## Affinity
+* [Sync with Notion database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Affinity/Affinity_Sync_with_Notion_database.ipynb)
+
 ## Airtable
 * [Delete data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Delete_data.ipynb)
 * [Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Get_data.ipynb)

@@ -31,18 +31,11 @@ Managed by Naas core-team and community ⭐️.
 → Feel free to use the Issues tab to add any templates you would like to see, or contribute to.
 
 
-## How to contribute ? [Contributor's Guide](https://naas-official.notion.site/Code-contributor-journey-164779502e2a4ca5950d63eea7a2d39f)
-- Step 1: Open free account on <a href="https://www.naas.ai/" target="_blank">Naas.ai</a>
-- Step 2: Clone awesome-notebooks repo
-- Step 3: Change status of this Issue to “In progress” so we can know you are working on it
-- Step 4: Create new branch with a short name of the issue (ex: “gsheet-notion”)
-- Step 5: Create folder named with the source tool (if it does not already exist in the awesome-notebooks folder), and adapt notebook template to the current use case.
-- Step 6: Once you are happy with the result, commit to the branch
-- Step 7: Open a pull request and tag me as a reviewer with a little comment on what you have done, but most of the explanations should be in the notebook itself
-- Step 8: Change status of this Issue to “Review” so we can know a review is pending
-- Step 9: Link the PR to this issue for tracking in the backlog
-- Step 10:  Expect a feedback and merge in the next 48h-72h
+## How to contribute ?
 
+👉 Check our [Contributor's Guide](https://naas-official.notion.site/Code-contributor-journey-164779502e2a4ca5950d63eea7a2d39f) to get you started in no time.
+
+---
 
 ✅ Apply to our <a href="https://join.slack.com/t/aiclub-hq/shared_invite/zt-iqkuwq7m-zvdxYYbGLVVcIKuB2vg3pA" target="_blank">Open Source Contributor Program</a> for guidance and mentorship.
 

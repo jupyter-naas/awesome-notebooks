@@ -612,10 +612,8 @@ Managed by Naas core-team and community ⭐️.
 * [Get statistics from channel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YouTube/YouTube_Get_statistics_from_channel.ipynb)
 * [Get statistics from video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YouTube/YouTube_Get_statistics_from_video.ipynb)
 * [Get uploads from channel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YouTube/YouTube_Get_uploads_from_channel.ipynb)
+* [Send track to Spotify](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YouTube/YouTube_Send_track_to_Spotify.ipynb)
 * [Summarize video](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YouTube/YouTube_Summarize_video.ipynb)
-
-## Youtube
-* [Send track to Spotify](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Youtube/Youtube_Send_track_to_Spotify.ipynb)
 
 ## ZIP
 * [Extract files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ZIP/ZIP_Extract_files.ipynb)

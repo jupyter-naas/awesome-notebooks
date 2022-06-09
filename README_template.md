@@ -33,7 +33,7 @@ Managed by Naas core-team and community ⭐️.
 
 ## How to contribute ?
 
-👉 Check our [Contributor's Guide](https://naas-official.notion.site/Code-contributor-journey-164779502e2a4ca5950d63eea7a2d39f) to get you started in no time.
+👉 Check our [Contributor's Guide](https://naas-official.notion.site/naas-official/How-to-contribute-b2cfde03e4254091814757752521ff1b) to get you started in no time.
 
 ---
 

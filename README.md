@@ -306,6 +306,7 @@ Managed by Naas core-team and community ⭐️.
 * [Follow connections from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_connections_from_profile.ipynb)
 * [Follow number of connections monthly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_number_of_connections_monthly.ipynb)
 * [Generate leads from posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Generate_leads_from_posts.ipynb)
+* [Get age and gender from profile picture](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_age_and_gender_from_profile_picture.ipynb)
 * [Get comments from post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_comments_from_post.ipynb)
 * [Get company followers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_company_followers.ipynb)
 * [Get connections from network](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_connections_from_network.ipynb)

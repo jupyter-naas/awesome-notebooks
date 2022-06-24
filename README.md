@@ -116,6 +116,7 @@ Managed by Naas core-team and community ⭐️.
 * [Récupération données légales entreprise](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data.gouv.fr/Data.gouv.fr_R%C3%A9cup%C3%A9ration_donn%C3%A9es_l%C3%A9gales_entreprise.ipynb)
 
 ## Draft Kings
+* [Get MLB Moneylines](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Draft%20Kings/Draft_Kings_Get_MLB_Moneylines.ipynb)
 * [Get NBA Moneylines](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Draft%20Kings/Draft_Kings_Get_NBA_Moneylines.ipynb)
 
 ## EM-DAT

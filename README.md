@@ -531,6 +531,9 @@ Managed by Naas core-team and community ⭐️.
 * [Get all messages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SendGrid/SendGrid_Get_all_messages.ipynb)
 * [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SendGrid/SendGrid_Send_message.ipynb)
 
+## Sendinblue
+* [Get no of undelivered emails](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Sendinblue/Sendinblue_Get_no_of_undelivered_emails.ipynb)
+
 ## Slack
 * [Add new user to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Slack/Slack_Add_new_user_to_Google_Sheets.ipynb)
 * [Follow number of users in workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Slack/Slack_Follow_number_of_users_in_workspace.ipynb)
@@ -581,6 +584,7 @@ Managed by Naas core-team and community ⭐️.
 * [Get user data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_user_data.ipynb)
 * [Post text and image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Post_text_and_image.ipynb)
 * [Schedule posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Schedule_posts.ipynb)
+* [Send posts stats to Notion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Send_posts_stats_to_Notion.ipynb)
 
 ## Typeform
 * [Log New  Entries In Notion Databases](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Typeform/Typeform_Log_New_Typeform_Entries_In_Notion_Databases.ipynb)

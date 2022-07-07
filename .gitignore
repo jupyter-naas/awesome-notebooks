@@ -137,3 +137,4 @@ dmypy.json
 # Update documentation temporary files and folders.
 .github/documentation/docs/
 .github/documentation/documentation_update.py
+YahooFinance/STOCK_CLUSTERS.csv

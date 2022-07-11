@@ -348,6 +348,7 @@ Managed by Naas core-team and community ⭐️.
 * [Send company followers to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_company_followers_to_Google_Sheets.ipynb)
 * [Send connections from network to gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_connections_from_network_to_gsheet.ipynb)
 * [Send event invitations post engagements](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_event_invitations_post_engagements.ipynb)
+* [Send followers demographic data to a Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_followers_demographic_data_to_a_Google_Sheets_spreadsheet.ipynb)
 * [Send invitation to company followers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_invitation_to_company_followers.ipynb)
 * [Send invitation to profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_invitation_to_profile.ipynb)
 * [Send invitation to profile from post likes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_invitation_to_profile_from_post_likes.ipynb)

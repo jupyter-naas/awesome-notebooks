@@ -552,6 +552,7 @@ Managed by Naas core-team and community ⭐️.
 ## Sendinblue
 * [Get no of emails opened](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Sendinblue/Sendinblue_Get_no_of_emails_opened.ipynb)
 * [Get no of emails sent](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Sendinblue/Sendinblue_Get_no_of_emails_sent.ipynb)
+* [Get no of spam reports](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Sendinblue/Sendinblue_Get_no_of_spam_reports.ipynb)
 * [Get no of undelivered emails](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Sendinblue/Sendinblue_Get_no_of_undelivered_emails.ipynb)
 
 ## Slack

@@ -556,6 +556,11 @@ Managed by Naas core-team and community ⭐️.
 * [Get no of spam reports](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Sendinblue/Sendinblue_Get_no_of_spam_reports.ipynb)
 * [Get no of undelivered emails](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Sendinblue/Sendinblue_Get_no_of_undelivered_emails.ipynb)
 
+## SharePoint
+* [Get file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SharePoint/SharePoint_Get_file.ipynb)
+* [List folder](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SharePoint/SharePoint_List_folder.ipynb)
+* [Upload file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SharePoint/SharePoint_Upload_file.ipynb)
+
 ## Slack
 * [Add new user to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Slack/Slack_Add_new_user_to_Google_Sheets.ipynb)
 * [Follow number of users in workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Slack/Slack_Follow_number_of_users_in_workspace.ipynb)

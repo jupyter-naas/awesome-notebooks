@@ -32,17 +32,10 @@ Managed by Naas core-team and community ⭐️.
 
 
 ## How to contribute ?
-- Step 1: Open free account on <a href="https://www.naas.ai/" target="_blank">Naas.ai</a>
-- Step 2: Clone awesome-notebooks repo
-- Step 3: Change status of this Issue to “In progress” so we can know you are working on it
-- Step 4: Create new branch with a short name of the issue (ex: “gsheet-notion”)
-- Step 5: Create folder named with the source tool (if it does not already exist in the awesome-notebooks folder), and adapt notebook template to the current use case.
-- Step 6: Once you are happy with the result, commit to the branch
-- Step 7: Open a pull request and tag me as a reviewer with a little comment on what you have done, but most of the explanations should be in the notebook itself
-- Step 8: Change status of this Issue to “Review” so we can know a review is pending
-- Step 9: Link the PR to this issue for tracking in the backlog
-- Step 10:  Expect a feedback and merge in the next 48h-72h
 
+👉 Check our [Contributor's Guide](https://naas-official.notion.site/naas-official/How-to-contribute-b2cfde03e4254091814757752521ff1b) to get you started in no time.
+
+---
 
 ✅ Apply to our <a href="https://join.slack.com/t/aiclub-hq/shared_invite/zt-iqkuwq7m-zvdxYYbGLVVcIKuB2vg3pA" target="_blank">Open Source Contributor Program</a> for guidance and mentorship.
 
@@ -123,6 +116,7 @@ Managed by Naas core-team and community ⭐️.
 * [Récupération données légales entreprise](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Data.gouv.fr/Data.gouv.fr_R%C3%A9cup%C3%A9ration_donn%C3%A9es_l%C3%A9gales_entreprise.ipynb)
 
 ## Draft Kings
+* [Get MLB Moneylines](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Draft%20Kings/Draft_Kings_Get_MLB_Moneylines.ipynb)
 * [Get NBA Moneylines](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Draft%20Kings/Draft_Kings_Get_NBA_Moneylines.ipynb)
 
 ## EM-DAT
@@ -159,6 +153,7 @@ Managed by Naas core-team and community ⭐️.
 * [Get active projects](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_active_projects.ipynb)
 * [Get commits ranking from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_commits_ranking_from_repository.ipynb)
 * [Get issues from repo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_issues_from_repo.ipynb)
+* [Get most starred repos](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_most_starred_repos.ipynb)
 * [Get profile from user](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_profile_from_user.ipynb)
 * [Get profiles from teams](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_profiles_from_teams.ipynb)
 * [Get pull requests from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_pull_requests_from_repository.ipynb)
@@ -305,14 +300,32 @@ Managed by Naas core-team and community ⭐️.
 * [Get user terminal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter/Jupyter_Get_user_terminal.ipynb)
 * [Restart server](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter/Jupyter_Restart_server.ipynb)
 
+## LeFigaro
+* [House Price analysis](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LeFigaro/LeFigaro_House_Price_analysis.ipynb)
+
 ## LinkedIn
 * [Accept all invitations and send first message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Accept_all_invitations_and_send_first_message.ipynb)
 * [Accept invitation received](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Accept_invitation_received.ipynb)
+* [Extract content world cloud](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Extract_content_world_cloud.ipynb)
 * [Follow company followers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_company_followers.ipynb)
+* [Follow connections from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_connections_from_profile.ipynb)
+* [Follow content comments monthly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_content_comments_monthly.ipynb)
+* [Follow content comments weekly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_content_comments_weekly.ipynb)
+* [Follow content engagements monthly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_content_engagements_monthly.ipynb)
+* [Follow content engagements weekly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_content_engagements_weekly.ipynb)
+* [Follow content frequency](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_content_frequency.ipynb)
+* [Follow content likes monthly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_content_likes_monthly.ipynb)
+* [Follow content likes weekly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_content_likes_weekly.ipynb)
+* [Follow content published monthly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_content_published_monthly.ipynb)
+* [Follow content published weekly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_content_published_weekly.ipynb)
+* [Follow content views monthly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_content_views_monthly.ipynb)
+* [Follow content views weekly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_content_views_weekly.ipynb)
 * [Follow number of connections monthly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_number_of_connections_monthly.ipynb)
 * [Generate leads from posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Generate_leads_from_posts.ipynb)
+* [Get age and gender from profile picture](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_age_and_gender_from_profile_picture.ipynb)
 * [Get comments from post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_comments_from_post.ipynb)
 * [Get company followers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_company_followers.ipynb)
+* [Get company posts stats](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_company_posts_stats.ipynb)
 * [Get connections from network](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_connections_from_network.ipynb)
 * [Get contact from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_contact_from_profile.ipynb)
 * [Get conversations](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_conversations.ipynb)
@@ -326,25 +339,29 @@ Managed by Naas core-team and community ⭐️.
 * [Get messages from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_messages_from_profile.ipynb)
 * [Get network from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_network_from_profile.ipynb)
 * [Get polls from post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_polls_from_post.ipynb)
-* [Get posts stats from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_posts_stats_from_profile.ipynb)
+* [Get profile posts stats](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_profile_posts_stats.ipynb)
 * [Get resume from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_resume_from_profile.ipynb)
+* [Get sentiment emotion irony offensiveness from comments](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_sentiment_emotion_irony_offensiveness_from_comments.ipynb)
 * [Get stats from post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_stats_from_post.ipynb)
 * [Ignore invitation received](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Ignore_invitation_received.ipynb)
 * [Send comments from post to gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_comments_from_post_to_gsheet.ipynb)
 * [Send company followers to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_company_followers_to_Google_Sheets.ipynb)
 * [Send connections from network to gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_connections_from_network_to_gsheet.ipynb)
+* [Send event invitations post engagements](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_event_invitations_post_engagements.ipynb)
+* [Send followers demographic data to a Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_followers_demographic_data_to_a_Google_Sheets_spreadsheet.ipynb)
 * [Send invitation to company followers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_invitation_to_company_followers.ipynb)
 * [Send invitation to profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_invitation_to_profile.ipynb)
 * [Send invitation to profile from post likes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_invitation_to_profile_from_post_likes.ipynb)
+* [Send invitations to post commenters](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_invitations_to_post_commenters.ipynb)
 * [Send likes from post to gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_likes_from_post_to_gsheet.ipynb)
+* [Send message to new connections](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_message_to_new_connections.ipynb)
 * [Send message to profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_message_to_profile.ipynb)
 * [Send message to profile from post likes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_message_to_profile_from_post_likes.ipynb)
 * [Send posts feed to gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_posts_feed_to_gsheet.ipynb)
 * [Send profile followers by email](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_profile_followers_by_email.ipynb)
 * [Send weekly post engagement metrics by email](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_weekly_post_engagement_metrics_by_email.ipynb)
+* [Update metrics from company posts in Notion content calendar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Update_metrics_from_company_posts_in_Notion_content_calendar.ipynb)
 * [Update metrics from posts in Notion content calendar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Update_metrics_from_posts_in_Notion_content_calendar.ipynb)
-* [Linkedin Follow number of content published](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/Linkedin_Follow_number_of_content_published.ipynb)
-* [Linkedin Follow total content views](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/Linkedin_Follow_total_content_views.ipynb)
 
 ## Matplotlib
 * [Create Waterfall chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Matplotlib/Matplotlib_Create_Waterfall_chart.ipynb)
@@ -409,14 +426,21 @@ Managed by Naas core-team and community ⭐️.
 * [Send emails briefs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Send_emails_briefs.ipynb)
 
 ## Notion
+* [Add cover image to page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_cover_image_to_page.ipynb)
+* [Add icon image to page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_icon_image_to_page.ipynb)
+* [Add image to page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_image_to_page.ipynb)
 * [Add new github member to team from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_new_github_member_to_team_from_database.ipynb)
 * [Add paragraph with link in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_paragraph_with_link_in_page.ipynb)
 * [Automate transcript generation from recording link in page property](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Automate_transcript_generation_from_recording_link_in_page_property.ipynb)
 * [Create page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Create_page.ipynb)
+* [Delete blocks from page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Delete_blocks_from_page.ipynb)
+* [Delete page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Delete_page.ipynb)
 * [Duplicate page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Duplicate_page.ipynb)
 * [Explore API](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Explore_API.ipynb)
 * [Generate Google Sheets rows for new items in  database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Generate_Google_Sheets_rows_for_new_items_in_Notion_database.ipynb)
+* [Get blocks from page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_blocks_from_page.ipynb)
 * [Get database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_database.ipynb)
+* [Get page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_page.ipynb)
 * [Get users](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Get_users.ipynb)
 * [Send LinkedIn invitations from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Send_LinkedIn_invitations_from_database.ipynb)
 * [Send Slack Messages For New  Database Items](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Send_Slack_Messages_For_New_Notion_Database_Items.ipynb)
@@ -473,6 +497,10 @@ Managed by Naas core-team and community ⭐️.
 ## PostgresSQL
 * [Get data from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PostgresSQL/PostgresSQL_Get_data_from_database.ipynb)
 
+## PyCaret
+* [Automl classification](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PyCaret/PyCaret_automl_classification.ipynb)
+* [Automl regression](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PyCaret/PyCaret_automl_regression.ipynb)
+
 ## PyPI
 * [- Get number of downloads any package](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PyPI/PyPI%20-%20Get_number_of_downloads_any_package.ipynb)
 
@@ -521,6 +549,17 @@ Managed by Naas core-team and community ⭐️.
 ## SendGrid
 * [Get all messages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SendGrid/SendGrid_Get_all_messages.ipynb)
 * [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SendGrid/SendGrid_Send_message.ipynb)
+
+## Sendinblue
+* [Get no of emails opened](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Sendinblue/Sendinblue_Get_no_of_emails_opened.ipynb)
+* [Get no of emails sent](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Sendinblue/Sendinblue_Get_no_of_emails_sent.ipynb)
+* [Get no of spam reports](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Sendinblue/Sendinblue_Get_no_of_spam_reports.ipynb)
+* [Get no of undelivered emails](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Sendinblue/Sendinblue_Get_no_of_undelivered_emails.ipynb)
+
+## SharePoint
+* [Get file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SharePoint/SharePoint_Get_file.ipynb)
+* [List folder](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SharePoint/SharePoint_List_folder.ipynb)
+* [Upload file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SharePoint/SharePoint_Upload_file.ipynb)
 
 ## Slack
 * [Add new user to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Slack/Slack_Add_new_user_to_Google_Sheets.ipynb)
@@ -572,6 +611,13 @@ Managed by Naas core-team and community ⭐️.
 * [Get user data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_user_data.ipynb)
 * [Post text and image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Post_text_and_image.ipynb)
 * [Schedule posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Schedule_posts.ipynb)
+* [Send posts stats to Notion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Send_posts_stats_to_Notion.ipynb)
+
+## Typeform
+* [Log New  Entries In Notion Databases](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Typeform/Typeform_Log_New_Typeform_Entries_In_Notion_Databases.ipynb)
+
+## US Bureau of Labor Statistics
+* [Follow CPI](https://github.com/jupyter-naas/awesome-notebooks/tree/master/US%20Bureau%20of%20Labor%20Statistics/US_Bureau_of_Labor_Statistics_Follow_CPI.ipynb)
 
 ## WSR
 * [WHI Create indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WHI_Create_indicator.ipynb)
@@ -598,6 +644,7 @@ Managed by Naas core-team and community ⭐️.
 * [Candlestick chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Candlestick_chart.ipynb)
 * [Cryptocurrencies heatmap correlation graph](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Cryptocurrencies_heatmap_correlation_graph.ipynb)
 * [Display chart from ticker](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Display_chart_from_ticker.ipynb)
+* [Find the stock with closest performance using KNN](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Find_the_stock_with_closest_performance_using_KNN.ipynb)
 * [Get Stock Update](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Get_Stock_Update.ipynb)
 * [Get USDEUR data and chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Get_USDEUR_data_and_chart.ipynb)
 * [Get data from ticker](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Get_data_from_ticker.ipynb)

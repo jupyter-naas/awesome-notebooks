@@ -512,6 +512,9 @@ Managed by Naas core-team and community ⭐️.
 * [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Looping_Over_Dataframe.ipynb)
 * [Using datetime library](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Using_datetime_library.ipynb)
 
+## Pyvis
+* [Create a network visualization](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pyvis/Pyvis_Create_a_network_visualization.ipynb)
+
 ## Qonto
 * [Get cash position trend](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_cash_position_trend.ipynb)
 * [Get organizations](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_organizations.ipynb)

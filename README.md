@@ -108,6 +108,9 @@ Managed by Naas core-team and community ⭐️.
 ## D-Tale
 * [Visualize dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/D-Tale/D-Tale_Visualize_dataframe.ipynb)
 
+## Dash
+* [Deploy app in Naas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Deploy_app_in_Naas.ipynb)
+
 ## Dask
 * [Parallelize operations on multiple csvs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dask/Dask_parallelize_operations_on_multiple_csvs.ipynb)
 
@@ -300,6 +303,9 @@ Managed by Naas core-team and community ⭐️.
 * [Get user terminal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter/Jupyter_Get_user_terminal.ipynb)
 * [Restart server](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter/Jupyter_Restart_server.ipynb)
 
+## LeFigaro
+* [House Price analysis](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LeFigaro/LeFigaro_House_Price_analysis.ipynb)
+
 ## LinkedIn
 * [Accept all invitations and send first message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Accept_all_invitations_and_send_first_message.ipynb)
 * [Accept invitation received](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Accept_invitation_received.ipynb)
@@ -345,6 +351,7 @@ Managed by Naas core-team and community ⭐️.
 * [Send company followers to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_company_followers_to_Google_Sheets.ipynb)
 * [Send connections from network to gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_connections_from_network_to_gsheet.ipynb)
 * [Send event invitations post engagements](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_event_invitations_post_engagements.ipynb)
+* [Send followers demographic data to a Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_followers_demographic_data_to_a_Google_Sheets_spreadsheet.ipynb)
 * [Send invitation to company followers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_invitation_to_company_followers.ipynb)
 * [Send invitation to profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_invitation_to_profile.ipynb)
 * [Send invitation to profile from post likes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_invitation_to_profile_from_post_likes.ipynb)
@@ -393,10 +400,12 @@ Managed by Naas core-team and community ⭐️.
 * [Asset demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Asset_demo.ipynb)
 * [Automate GitHub Auth](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Automate_GitHub_Auth.ipynb)
 * [Configure Github with ssh](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Configure_Github_with_ssh.ipynb)
+* [Content Engine Configuration](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Content_Engine_Configuration.ipynb)
 * [Credits Get Balance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Credits_Get_Balance.ipynb)
 * [Dependency demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Dependency_demo.ipynb)
 * [Doc demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Doc_demo.ipynb)
 * [Domain demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Domain_demo.ipynb)
+* [Download Content Engine](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Download_Content_Engine.ipynb)
 * [Emailbuilder demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Emailbuilder_demo.ipynb)
 * [Get Transactions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_Transactions.ipynb)
 * [Get help](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_help.ipynb)
@@ -424,6 +433,7 @@ Managed by Naas core-team and community ⭐️.
 ## Notion
 * [Add cover image to page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_cover_image_to_page.ipynb)
 * [Add icon image to page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_icon_image_to_page.ipynb)
+* [Add image to page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_image_to_page.ipynb)
 * [Add new github member to team from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_new_github_member_to_team_from_database.ipynb)
 * [Add paragraph with link in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_paragraph_with_link_in_page.ipynb)
 * [Automate transcript generation from recording link in page property](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Automate_transcript_generation_from_recording_link_in_page_property.ipynb)
@@ -507,6 +517,9 @@ Managed by Naas core-team and community ⭐️.
 * [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Looping_Over_Dataframe.ipynb)
 * [Using datetime library](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Using_datetime_library.ipynb)
 
+## Pyvis
+* [Create a network visualization](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pyvis/Pyvis_Create_a_network_visualization.ipynb)
+
 ## Qonto
 * [Get cash position trend](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_cash_position_trend.ipynb)
 * [Get organizations](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Qonto/Qonto_Get_organizations.ipynb)
@@ -546,7 +559,15 @@ Managed by Naas core-team and community ⭐️.
 * [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SendGrid/SendGrid_Send_message.ipynb)
 
 ## Sendinblue
+* [Get no of emails opened](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Sendinblue/Sendinblue_Get_no_of_emails_opened.ipynb)
+* [Get no of emails sent](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Sendinblue/Sendinblue_Get_no_of_emails_sent.ipynb)
+* [Get no of spam reports](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Sendinblue/Sendinblue_Get_no_of_spam_reports.ipynb)
 * [Get no of undelivered emails](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Sendinblue/Sendinblue_Get_no_of_undelivered_emails.ipynb)
+
+## SharePoint
+* [Get file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SharePoint/SharePoint_Get_file.ipynb)
+* [List folder](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SharePoint/SharePoint_List_folder.ipynb)
+* [Upload file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SharePoint/SharePoint_Upload_file.ipynb)
 
 ## Slack
 * [Add new user to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Slack/Slack_Add_new_user_to_Google_Sheets.ipynb)
@@ -602,6 +623,9 @@ Managed by Naas core-team and community ⭐️.
 
 ## Typeform
 * [Log New  Entries In Notion Databases](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Typeform/Typeform_Log_New_Typeform_Entries_In_Notion_Databases.ipynb)
+
+## US Bureau of Labor Statistics
+* [Follow CPI](https://github.com/jupyter-naas/awesome-notebooks/tree/master/US%20Bureau%20of%20Labor%20Statistics/US_Bureau_of_Labor_Statistics_Follow_CPI.ipynb)
 
 ## WSR
 * [WHI Create indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WHI_Create_indicator.ipynb)

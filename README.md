@@ -269,6 +269,11 @@ Managed by Naas core-team and community ⭐️.
 ## INPI
 * [Download PDF recap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/INPI/INPI_Download_PDF_recap.ipynb)
 
+## IPyWidgets
+* [Create button](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IPyWidgets/IPyWidgets_Create_button.ipynb)
+* [Create input text and submit button](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IPyWidgets/IPyWidgets_Create_input_text_and_submit_button.ipynb)
+* [Setup naas secret](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IPyWidgets/IPyWidgets_Setup_naas_secret.ipynb)
+
 ## IUCN
 * [Extinct species](https://github.com/jupyter-naas/awesome-notebooks/tree/master/IUCN/IUCN_Extinct_species.ipynb)
 
@@ -281,10 +286,6 @@ Managed by Naas core-team and community ⭐️.
 
 ## Integromat
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Integromat/Integromat_Trigger_workflow.ipynb)
-
-## Ipywidgets
-* [Create button](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Ipywidgets/Ipywidgets_Create_button.ipynb)
-* [Create input text and submit button](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Ipywidgets/Ipywidgets_Create_input_text_and_submit_button.ipynb)
 
 ## Johns Hopkins
 * [Covid19 Active Cases](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Johns%20Hopkins/Johns_Hopkins_Covid19_Active_Cases.ipynb)

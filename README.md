@@ -283,7 +283,7 @@ Managed by Naas core-team and community ⭐️.
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Integromat/Integromat_Trigger_workflow.ipynb)
 
 ## Ipywidgets
-* [Setup naas secret](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Ipywidgets/Ipywidgets_Setup_naas_secret.ipynb)
+* [Create button](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Ipywidgets/Ipywidgets_Create_button.ipynb)
 
 ## Johns Hopkins
 * [Covid19 Active Cases](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Johns%20Hopkins/Johns_Hopkins_Covid19_Active_Cases.ipynb)

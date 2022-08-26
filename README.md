@@ -586,10 +586,10 @@ Managed by Naas core-team and community ⭐️.
 * [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Slack/Slack_Send_message.ipynb)
 
 ## Snowflake
-* [Create table from csv](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Snowflake/Snowflake_Create_table_from_csv.ipynb)
-* [Delete table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Snowflake/Snowflake_Delete_table.ipynb)
-* [Read Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Snowflake/Snowflake_Read_Table.ipynb)
-* [Update table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Snowflake/Snowflake_Update_table.ipynb)
+* [Basics and data querying](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Snowflake/Snowflake_Basics_and_data_querying.ipynb)
+* [Ingest csv data from local stage](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Snowflake/Snowflake_Ingest_csv_data_from_local_stage.ipynb)
+* [Ingest data from AWS external stages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Snowflake/Snowflake_Ingest_data_from_AWS_external_stages.ipynb)
+* [Ingest json data from local stage](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Snowflake/Snowflake_Ingest_json_data_from_local_stage.ipynb)
 
 ## Societe.com
 * [Get company details](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Societe.com/Societe.com_Get_company_details.ipynb)

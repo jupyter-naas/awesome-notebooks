@@ -1,6 +1,5 @@
 import argparse
 import logging
-import warnings
 
 import requests
 
@@ -32,7 +31,7 @@ class OuraRing:
             logging.info("Response Code: %s", response.status_code)
             logging.info("Oura account associated with email: %s", user_email)
         else:
-            warnings.warn(
+            raise Exception(
                 f"Response Code: {response.status_code} - {response.reason}"
                 )
 

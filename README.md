@@ -115,6 +115,7 @@ Managed by Naas core-team and community ⭐️.
 * [Create Navbar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar.ipynb)
 * [Create Navbar board](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar_Dashboard.ipynb)
 * [Deploy app in Naas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Deploy_app_in_Naas.ipynb)
+* [LinkedIn posts metrics dashboard](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_LinkedIn_posts_metrics_dashboard.ipynb)
 
 ## Dask
 * [Parallelize operations on multiple csvs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dask/Dask_parallelize_operations_on_multiple_csvs.ipynb)
@@ -319,6 +320,7 @@ Managed by Naas core-team and community ⭐️.
 ## LinkedIn
 * [Accept all invitations and send first message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Accept_all_invitations_and_send_first_message.ipynb)
 * [Accept invitation received](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Accept_invitation_received.ipynb)
+* [Create posts metrics dashboard](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Create_posts_metrics_dashboard.ipynb)
 * [Extract content world cloud](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Extract_content_world_cloud.ipynb)
 * [Follow company followers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_company_followers.ipynb)
 * [Follow connections from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_connections_from_profile.ipynb)

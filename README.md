@@ -485,6 +485,7 @@ Managed by Naas core-team and community ⭐️.
 * [Format number to string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Format_number_to_string.ipynb)
 * [ISO Date Conversion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_ISO_Date_Conversion.ipynb)
 * [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Merge_Dataframes.ipynb)
+* [Pivot rows to columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Pivot_rows_to_columns.ipynb)
 * [Transform dataframe to dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Transform_dataframe_to_dict.ipynb)
 
 ## Pillow

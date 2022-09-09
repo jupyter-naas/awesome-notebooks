@@ -83,6 +83,10 @@ Managed by Naas core-team and community ⭐️.
 * [Get export Locataires](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bazimo/Bazimo_Get_export_Locataires.ipynb)
 * [Get export Lots](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bazimo/Bazimo_Get_export_Lots.ipynb)
 
+## BigQuery
+* [Create table from csv](https://github.com/jupyter-naas/awesome-notebooks/tree/master/BigQuery/BigQuery_Create_table_from_csv.ipynb)
+* [Read Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/BigQuery/BigQuery_Read_Table.ipynb)
+
 ## Boursorama
 * [Get CDS](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Boursorama/Boursorama_Get_CDS.ipynb)
 

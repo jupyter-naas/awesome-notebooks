@@ -160,6 +160,10 @@ Managed by Naas core-team and community ⭐️.
 * [Get file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Get_file.ipynb)
 * [Send file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Send_file.ipynb)
 
+## Faker
+* [Anonymize Address from dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Faker/Faker_Anonymize_Address_from_dataframe.ipynb)
+* [Anonymize Personal Names from dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Faker/Faker_Anonymize_Personal_Names_from_dataframe.ipynb)
+
 ## GitHub
 * [Add new issues as page in Notion database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Add_new_issues_as_page_in_Notion_database.ipynb)
 * [Add new member to team](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Add_new_member_to_team.ipynb)

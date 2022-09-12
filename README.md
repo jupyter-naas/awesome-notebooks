@@ -422,6 +422,10 @@ Managed by Naas core-team and community ⭐️.
 * [Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Auth/Naas_Auth_connect.ipynb)
 * [Users me](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Auth/Naas_Auth_users_me.ipynb)
 
+## Naas Dashboard
+* [Financial Consolidation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Dashboard/Naas_Dashboard_Financial_Consolidation.ipynb)
+* [Social Media KPIs ScoreCard](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Dashboard/Naas_Dashboard_Social_Media_KPIs_ScoreCard.ipynb)
+
 ## Naas
 * [Asset demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Asset_demo.ipynb)
 * [Automate GitHub Auth](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Automate_GitHub_Auth.ipynb)

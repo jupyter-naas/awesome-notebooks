@@ -429,6 +429,7 @@ Managed by Naas core-team and community ⭐️.
 
 ## Naas Dashboard
 * [Financial Consolidation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Dashboard/Naas_Dashboard_Financial_Consolidation.ipynb)
+* [Revenue Cogs by Segment](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Dashboard/Naas_Dashboard_Revenue_Cogs_by_Segment.ipynb)
 * [Social Media KPIs ScoreCard](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Dashboard/Naas_Dashboard_Social_Media_KPIs_ScoreCard.ipynb)
 
 ## Naas

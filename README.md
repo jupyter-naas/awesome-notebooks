@@ -326,6 +326,9 @@ Managed by Naas core-team and community ⭐️.
 * [Get user terminal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter/Jupyter_Get_user_terminal.ipynb)
 * [Restart server](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter/Jupyter_Restart_server.ipynb)
 
+## Knative
+* [Create command file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Knative/Knative_Create_command_file.ipynb)
+
 ## LeFigaro
 * [House Price analysis](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LeFigaro/LeFigaro_House_Price_analysis.ipynb)
 

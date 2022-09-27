@@ -663,6 +663,9 @@ Managed by Naas core-team and community ⭐️.
 ## US Bureau of Labor Statistics
 * [Follow CPI](https://github.com/jupyter-naas/awesome-notebooks/tree/master/US%20Bureau%20of%20Labor%20Statistics/US_Bureau_of_Labor_Statistics_Follow_CPI.ipynb)
 
+## Vizzu
+* [Create interactive data story](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_interactive_data_story.ipynb)
+
 ## WSR
 * [WHI Create indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WHI_Create_indicator.ipynb)
 * [Get daily Covid19 active cases trend JHU](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WSR_Get_daily_Covid19_active_cases_trend_JHU.ipynb)

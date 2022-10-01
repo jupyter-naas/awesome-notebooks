@@ -43,7 +43,7 @@ To ensure the quality of the templates, we have defined a framework. Each notebo
 ### Step by step process:
 
 - **Step 1**: Find or propose an issue you want to work on
-  - The Backlog of the [Community Roadmap](https://github.com/orgs/jupyter-naas/projects/4) is where we put all the priorities
+  - The Backlog of the [Product Roadmap](https://github.com/orgs/jupyter-naas/projects/10/views/2) is where we put all the priorities
   - The [Issues](https://github.com/jupyter-naas/awesome-notebooks/issues) section is where we gather all the needs 
 - **Step 2**: Prepare the issue before you start working on it
   - Make sure the description is clear
@@ -54,7 +54,7 @@ To ensure the quality of the templates, we have defined a framework. Each notebo
 - **Step 4**: Create folder named with the source tool (if it's not already created)
 - **Step 5**: Copy/Paste template.ipynb at the root of the folder inside the folder you are working on, and start working on your notebook
 - **Step 6**: Once you are happy with the result, commit to the branch
-- **Step 7**: Open a Pull Request and add a member of the core team as Reviewer ([Florent](https://github.com/FlorentLvr),[Maxime](https://github.com/Dr0p42) or [Jeremy](https://github.com/jravenel))
+- **Step 7**: Open a Pull Request and add a member of the core team as Reviewer ([Florent](https://github.com/FlorentLvr), [Maxime](https://github.com/Dr0p42) or [Jeremy](https://github.com/jravenel))
 - **Step 8**: Change status of this Issue to “Review” in Projects section and comment the Pull Request with a brief on what you have done
 - **Step 9**: Expect a feedback and merge in the next 48h-72h
 - **Step 10**: Once merged, promote your work on LinkedIn, Twitter and other social media channels! (Optional, but people need to know you are awesome 😉)

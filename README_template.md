@@ -2,7 +2,7 @@
 (aka the "awesome-notebooks") 
 
 
-## What is Naas?
+## What is Naas ?
 
 Naas is an all-in-one data platform that enable anyone with minimal technical knowledge to turn <a href="https://jupyter.org" target="_blank">Jupyter Notebooks</a> into powerful automation, analytical and AI data products thanks to <a href="https://docs.naas.ai/" target="_blank">low-code formulas</a> and microservices.<br>
 
@@ -17,7 +17,7 @@ Naas Cloud is free to use with 100 credits/month.<br>
 [>> More information](https://docs.naas.ai/)
 
 
-## What is the objective of this repository?
+## What is the objective of this repository ?
 
 The objective of this repository is to create the largest catalog of production-ready Jupyter Notebooks templates. With those templates it becomes eassy to create data products (analytical dashboards, automation/AI engines and more). Check out the [data-product-template](https://github.com/jupyter-naas/data-product-template) repository to learn more.<br>
 The repository is organized by source/tools for easy discovery. You can also use our ["Google-like" search](http://search.live.kn.naas.ai/) to find templates by keywords<br>

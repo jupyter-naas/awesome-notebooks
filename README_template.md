@@ -3,14 +3,14 @@
 
 
 ## About Naas
-Naas is a data platform that enable anyone with minimal technical knowledge to turn  <a href="https://jupyter.org" target="_blank">Jupyter Notebooks</a> into powerful automation, analytical and AI engines thanks to <a href="https://docs.naas.ai/" target="_blank">low-code formulas</a>.<br>
+Naas is an all-in-one data platform that enable anyone with minimal technical knowledge to turn <a href="https://jupyter.org" target="_blank">Jupyter Notebooks</a> into powerful automation, analytical and AI data products thanks to <a href="https://docs.naas.ai/" target="_blank">low-code formulas</a> and microservices.<br>
 
-The platform is based on 3 elements:<br>
+The platform is based on 3 layers:<br>
 - The **templates** enable anyone to use data engines on all kind of subjects in minutes.
 - The low-code **drivers** act as connectors to facilitate access to tools, and complex libraries (database, API, ML algorithm...)
-- The low-code **features** (scheduling, asset sharing, notifications...) turns Notebooks into production ready data engines.<br>
+- The low-code **features** (scheduling, asset sharing, notifications...) turns Notebooks into production engines.<br>
 
-Naas is forever free to use with 100 credits/month.<br>
+Naas Cloud is free to use with 100 credits/month.<br>
 <a href="https://www.naas.ai/free-forever" target="_blank">Open your account</a><br>
 
 
@@ -36,15 +36,14 @@ Managed by Naas core-team and community ⭐️.
 👉 Check our [Contributor's Guide](https://naas-official.notion.site/naas-official/How-to-contribute-b2cfde03e4254091814757752521ff1b) to get you started in no time.
 
 ---
+✅ Join our <a href="https://join.slack.com/t/naas-club/shared_invite/zt-1970s5rie-dXXkigAdEJYc~LPdQIEaLA" target="_blank">Slack Community</a> to present yourself, ask questions, learn about our latest news.
 
-✅ Apply to our <a href="https://join.slack.com/t/aiclub-hq/shared_invite/zt-iqkuwq7m-zvdxYYbGLVVcIKuB2vg3pA" target="_blank">Open Source Contributor Program</a> for guidance and mentorship.
+✅ Apply to our <a href="https://form.typeform.com/to/jdls9qZf?" target="_blank">Open Source Contributor Program</a> for guidance and mentorship.
 
-✅ Join our <a href="https://join.slack.com/t/aiclub-hq/shared_invite/zt-iqkuwq7m-zvdxYYbGLVVcIKuB2vg3pA" target="_blank">Slack Community</a> to present yourself, ask questions, learn about our latest news.
-
-✅ Follow us on social medias:
-- [Twitter: @naas.ai ](https://twitter.com/JupyterNaas)<br>
-- [Linkedin: @JupyterNaas](https://www.linkedin.com/company/naas-ai/)<br>
-- [Youtube: @naas](https://www.youtube.com/channel/UCKKG5hzjXXU_rRdHHWQ8JHQ/videos)<br>
+✅ Follow us on social media:
+- [Twitter](https://twitter.com/JupyterNaas)<br>
+- [LinkedIn](https://www.linkedin.com/company/naas-ai/)<br>
+- [Youtube](https://www.youtube.com/channel/UCKKG5hzjXXU_rRdHHWQ8JHQ/videos)<br>
 
 <br>
 
@@ -52,8 +51,6 @@ Managed by Naas core-team and community ⭐️.
 
 [[DYNAMIC_LIST]]
 
-<br/>
-Maintained by CashStory SAS (Naas mother company).
-<br/>
-Contact us to learn more on our website chat : https://naas.ai
 
+<br/>
+Contact us on support@naas.ai if you need any help or join our [Slack community](https://join.slack.com/t/naas-club/shared_invite/zt-1970s5rie-dXXkigAdEJYc~LPdQIEaLA)

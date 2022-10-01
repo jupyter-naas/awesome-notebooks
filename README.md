@@ -19,7 +19,7 @@ Naas Cloud is free to use with 100 credits/month.<br>
 
 ## What is the objective of this repository ?
 
-The objective of this repository is to create the largest catalog of production-ready Jupyter Notebooks templates. With those templates it becomes eassy to create data products (analytical dashboards, automation/AI engines and more). Check out the [data-product-template](https://github.com/jupyter-naas/data-product-template) repository to learn more.<br>
+The objective of this repository is to create the largest catalog of production-ready Jupyter Notebooks templates. With those templates, it becomes easy to create data products (analytical dashboards, automation/AI engines and more). Check out the [data-product-template](https://github.com/jupyter-naas/data-product-template) repository to learn more.<br>
 The repository is organized by source/tools for easy discovery. You can also use our ["Google-like" search](http://search.live.kn.naas.ai/) to find templates by keywords<br>
 
 To ensure the quality of the templates, we have defined a framework. Each notebook shall be organized with the following sections:  

@@ -37,7 +37,7 @@ To ensure the quality of the templates, we have defined a framework. Each notebo
 
 ### Pre-requisites:
 - Open free account on [Naas Cloud](https://www.naas.ai/free-forever) so we can test the templates in a similar environment 
-- Register to the [Contributor Program] so we can add you to team of contributors in the Naas GitHub organization 
+- Register to the [Contributor Program](https://form.typeform.com/to/jdls9qZf?typeform-source=www.naas.ai) so we can add you to team of contributors in the Naas GitHub organization 
 - Join our [Slack Community](https://join.slack.com/t/naas-club/shared_invite/zt-1970s5rie-dXXkigAdEJYc~LPdQIEaLA) so you can present yourself and #chat with us
 
 ### Step by step process:
@@ -70,7 +70,7 @@ We are committed to sharing templates on our social media platforms, you can sup
 
 <br>
 
-# Templates list
+## Templates list
 
 [[DYNAMIC_LIST]]
 

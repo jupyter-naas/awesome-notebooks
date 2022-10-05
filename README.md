@@ -520,6 +520,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Upload file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OwnCloud/OwnCloud_Upload_file.ipynb)
 
 ## PDF
+* [Merge Multipe s](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PDF/PDF_Merge_Multipe_PDFs.ipynb)
 * [Transform to MP3](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PDF/PDF_Transform_to_MP3.ipynb)
 
 ## Pandas

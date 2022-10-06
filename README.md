@@ -513,6 +513,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## OpenWeatherMap
 * [Get City Weather](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenWeatherMap/OpenWeatherMap_Get_City_Weather.ipynb)
+* [Get City temperature weather-type wind-speed](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenWeatherMap/OpenWeatherMap_Get_City_temperature_weather-type_wind-speed.ipynb)
 * [Send daily email with predictions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenWeatherMap/OpenWeatherMap_Send_daily_email_with_predictions.ipynb)
 
 ## OwnCloud

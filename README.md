@@ -24,13 +24,13 @@ The repository is organized by source/tools for easy discovery. You can also use
 
 To ensure the quality of the templates, we have defined a framework. Each notebook shall be organized with the following sections:  
 - **Naas logo**
-- **# Title**: "Tool - Action of the notebook", as h1 (an "Open in Naas" button will be automatically added by the CI/CD when a notebook is merged to the master branch)
+- **Title**: "Tool - Action of the notebook", as h1 (an "Open in Naas" button will be automatically added by the CI/CD when a notebook is merged to the master branch)
 - **Tags**: hastags of the topics the notebook is about, as text
 - **Author**: name and social profile link of the author(s), as text
 - **Description**: a one-liner explaining the benefits of the notebooks for the user, as text
-- **## Input**: list of all the variables, credentials, that needs to be setup, as h2
-- **## Model**: list the functions applied to the data, as h2
-- **## Output**: list the assets to be used by the user and its distribution channels if any, as h2
+- **Input**: list of all the variables, credentials, that needs to be setup, as h2
+- **Model**: list the functions applied to the data, as h2
+- **Output**: list the assets to be used by the user and its distribution channels if any, as h2
 
 
 ## How to contribute ?
@@ -38,7 +38,7 @@ To ensure the quality of the templates, we have defined a framework. Each notebo
 ### Pre-requisites:
 - Open free account on [Naas Cloud](https://www.naas.ai/free-forever) so we can test the templates in a similar environment 
 - Register to the [Contributor Program](https://form.typeform.com/to/jdls9qZf?typeform-source=www.naas.ai) so we can add you to team of contributors in the Naas GitHub organization 
-- Join our [Slack Community](https://join.slack.com/t/naas-club/shared_invite/zt-1970s5rie-dXXkigAdEJYc~LPdQIEaLA) so you can present yourself and #chat with us
+- Join our [Slack Community](https://join.slack.com/t/naas-club/shared_invite/zt-1970s5rie-dXXkigAdEJYc~LPdQIEaLA) so you can present yourself and chat with us
 
 ### Step by step process:
 

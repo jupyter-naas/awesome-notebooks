@@ -536,6 +536,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Pillow
 * [Add data to image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pillow/Pillow_Add_data_to_image.ipynb)
+* [Generate A Certificate Template](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pillow/Pillow_Generate_A_Certificate_Template.ipynb)
 
 ## Pipedrive
 * [Get contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pipedrive/Pipedrive_Get_contact.ipynb)

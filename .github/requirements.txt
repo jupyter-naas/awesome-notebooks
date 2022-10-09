@@ -5,3 +5,4 @@ black==22.1.0
 black[jupyter]==22.1.0
 jupytext==1.13.7
 nbconvert==7.1.0
+wget==3.2

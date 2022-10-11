@@ -672,6 +672,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Telegram
 * [Create crypto sentiment bot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Telegram/Telegram_Create_crypto_sentiment_bot.ipynb)
 
+## Text
+* [Reformat  Without Spaces](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Text/Text_Reformat_Text_Without_Spaces.ipynb)
+
 ## Thinkific
 * [Get users](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Thinkific/Thinkific_Get_users.ipynb)
 * [Send users](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Thinkific/Thinkific_Send_users.ipynb)

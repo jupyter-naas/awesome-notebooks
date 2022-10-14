@@ -22,7 +22,7 @@ jobs:
       - name: Make request to get details
         uses: satak/webrequest-action@master
         id: webhook
-        # replace url with your organization's name if needed
+        
         with:
           url: https://api.github.com/users/jupyter-naas
           method: GET

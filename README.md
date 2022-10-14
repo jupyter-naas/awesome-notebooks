@@ -585,6 +585,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create dict from lists](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_dict_from_lists.ipynb)
 * [Download Image from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Download_Image_from_URL.ipynb)
 * [Download PDF from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Download_PDF_from_URL.ipynb)
+* [Find Phone Number in string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Find_Phone_Number_in_string.ipynb)
 * [Locate Addresses](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Locate_Addresses.ipynb)
 * [Locate Coordinates](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Locate_Coordinates.ipynb)
 * [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Looping_Over_Dataframe.ipynb)

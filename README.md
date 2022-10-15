@@ -206,6 +206,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Peform basic actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Peform_basic_actions.ipynb)
 * [Read issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Read_issue.ipynb)
 * [Remove member from team](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Remove_member_from_team.ipynb)
+* [Send weekly newsletter based on issue PR activity](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Send_weekly_newsletter_based_on_issue_PR_activity.ipynb)
 * [Track issues on projects](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_issues_on_projects.ipynb)
 * [Track notebooks created over time](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_notebooks_created_over_time.ipynb)
 * [Github Create Repo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/Github_Create_Repo.ipynb)

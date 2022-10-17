@@ -351,6 +351,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get user terminal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter/Jupyter_Get_user_terminal.ipynb)
 * [Restart server](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter/Jupyter_Restart_server.ipynb)
 
+## Kaggle
+* [Download Data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Kaggle/Kaggle_Download_Data.ipynb)
+
 ## Knative
 * [Create command file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Knative/Knative_Create_command_file.ipynb)
 

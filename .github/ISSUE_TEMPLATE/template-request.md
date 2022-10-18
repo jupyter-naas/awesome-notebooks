@@ -4,7 +4,7 @@ about: Suggest a Notebook template idea
 title: 'Tool - Action of the notebook '
 labels: ''
 assignees: ''
-project: 'Product Roadmap'
+projects: 'Product Roadmap'
 
 ---
 

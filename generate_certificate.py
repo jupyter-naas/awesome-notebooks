@@ -100,13 +100,9 @@ def write_content(certificate_path: str, default_font_path: str,
     
     draw.text((220,1050), repo_url+ '/issues/' + issue_id, font= default_font,fill="black")
     
-    # saves the image in png format with file name as contributor name
-    image_path = ".github/Contributor_certificates"
-    
-    if not os.path.exists(image_path):
-        os.mkdir(image_path)
-        
-    img.save(f"{image_path}/{contributor_name}.png")
+    # save image with contributor name in the working path
+    img.save(f"{contributor_name}.png")
+
     
 
 # {

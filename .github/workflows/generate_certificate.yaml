@@ -10,7 +10,7 @@ jobs:
   generate_certificate:
     if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
-        steps:
+    steps:
       - name: Checkout
         uses: actions/checkout@v2.3.4
 

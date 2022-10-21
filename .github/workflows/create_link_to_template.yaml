@@ -1,0 +1,66 @@
+name: Create a link to template on master
+on:
+  pull_request:
+    types:
+      - closed
+    branches:
+      - master
+
+jobs:
+  Add_template_link:
+    if: github.event.pull_request.merged == true 
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Create Output folder
+        run: | 
+            mkdir -p output/
+
+      - name: Get file changes in commit
+        id: files
+        uses: jitterbit/get-changed-files@v1
+        continue-on-error: true
+
+      - name: Check .ipynb file existence
+        run: |
+          for changed_file in ${{ steps.files.outputs.added_modified }}; do
+            
+            echo "File: ${changed_file}."
+            if [[ "${changed_file}" == *".ipynb"* ]]; then
+
+              echo ".ipynb file found"
+              echo "The template is now available on the master branch on this link: 
+              https://github.com/${{ github.event.pull_request.head.repo.full_name }}/blob/master/${changed_file}
+              " > output/comment.md
+            else
+              echo "Not an .ipynb file."
+            fi
+          done
+        
+      - name: Check comment.md existence
+        id: check_files
+        uses: andstor/file-existence-action@v1
+        with:
+          files: "output/comment.md"
+
+      - name: Upload comment.md as artifact
+        if: steps.check_files.outputs.files_exists == 'true'
+        uses: actions/upload-artifact@v1
+        with:
+          name: results
+          path: output
+
+      - name: Download comment.md as artifact
+        if: steps.check_files.outputs.files_exists == 'true'
+        uses: actions/download-artifact@v1
+        with:
+          name: results
+
+      - name: comment PR
+        if: steps.check_files.outputs.files_exists == 'true'
+        uses: machine-learning-apps/pr-comment@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          path: results/comment.md
+        

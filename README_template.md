@@ -68,7 +68,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 - [LinkedIn](https://www.linkedin.com/company/naas-ai/) for more elaborated posts and articles<br>
 - [Youtube](https://www.youtube.com/channel/UCKKG5hzjXXU_rRdHHWQ8JHQ/videos) for demos and tutorials<br>
 
-<br>
+# Template analytics
+
+![Templates_monthly](https://public.naas.ai/bWV0cmljcy00MG5hYXMtMkVhaQ==/asset/09d0bd9ed8ac2479a2a4f05e60c74d101d140ffdfacd9b0ac7bbb4e53966.png)
 
 # Templates list
 

@@ -2,51 +2,75 @@
 (aka the "awesome-notebooks") 
 
 
-## About Naas
-Naas is a data platform that enable anyone with minimal technical knowledge to turn  <a href="https://jupyter.org" target="_blank">Jupyter Notebooks</a> into powerful automation, analytical and AI engines thanks to <a href="https://docs.naas.ai/" target="_blank">low-code formulas</a>.<br>
+## What is Naas ?
 
-The platform is based on 3 elements:<br>
-- The **templates** enable anyone to use data engines on all kind of subjects in minutes.
-- The low-code **drivers** act as connectors to facilitate access to tools, and complex libraries (database, API, ML algorithm...)
-- The low-code **features** (scheduling, asset sharing, notifications...) turns Notebooks into production ready data engines.<br>
+Naas is an all-in-one data platform that enable anyone with minimal technical knowledge to turn <a href="https://jupyter.org" target="_blank">Jupyter Notebooks</a> into powerful automation, analytical and AI data products thanks to <a href="https://docs.naas.ai/" target="_blank">low-code formulas</a> and microservices.<br>
 
-Naas is forever free to use with 100 credits/month.<br>
+The platform is based on 3 low-code layers:<br>
+- **😎 Templates**: enable anyone to use data engines on all kind of subjects in minutes.
+- **🏎 Drivers**: connectors to facilitate access to tools, and complex libraries (database, API, ML algorithm...)
+- **🪐 Features**: production microservices on top of Jupyter like scheduling, asset sharing, notifications and more.<br>
+
+Naas Cloud is free to use with 100 credits/month.<br>
 <a href="https://www.naas.ai/free-forever" target="_blank">Open your account</a><br>
 
+[>> More information](https://docs.naas.ai/)
 
-## Naas Templates
-The aim of this repository is to be the largest aggregator of production ready Jupyter Notebooks templates.
-To do so, we have defined a framework that enable easy understanding and scaling of Notebooks: 
-Each notebook is organized with the following msections:  
-- Title: "Tool - Action of the notebook"
-- Description: a one-liner explaining the benefits of the notebooks for the user 
-- Tags: hastags of the topics the notebook is about
-- Input: list of all the variables, credentials, that needs to be setup 
-- Model: list the functions applied to the data 
-- Output: list the assets to be used by the user and its distribution channels if any.
 
-The repository is organized by source/tools.
-Managed by Naas core-team and community ⭐️.
+## What is the objective of this repository ?
 
-→ Feel free to use the Issues tab to add any templates you would like to see, or contribute to.
+The objective of this repository is to create the largest catalog of production-ready Jupyter Notebooks templates. With those templates, it becomes easy to create data products (analytical dashboards, automation/AI engines and more). Check out the [data-product-template](https://github.com/jupyter-naas/data-product-template) repository to learn more.<br>
+The repository is organized by source/tools for easy discovery. You can also use our ["Google-like" search](http://search.live.kn.naas.ai/) to find templates by keywords<br>
+
+To ensure the quality of the templates, we have defined a framework. Each notebook shall be organized with the following sections:  
+- **Naas logo**
+- **# Title**: "Tool - Action of the notebook", as h1 (an "Open in Naas" button will be automatically added by the CI/CD when a notebook is merged to the master branch)
+- **Tags**: hastags of the topics the notebook is about, as text
+- **Author**: name and social profile link of the author(s), as text
+- **Description**: a one-liner explaining the benefits of the notebooks for the user, as text
+- **## Input**: list of all the variables, credentials, that needs to be setup, as h2
+- **## Model**: list the functions applied to the data, as h2
+- **## Output**: list the assets to be used by the user and its distribution channels if any, as h2
 
 
 ## How to contribute ?
 
-👉 Check our [Contributor's Guide](https://naas-official.notion.site/naas-official/How-to-contribute-b2cfde03e4254091814757752521ff1b) to get you started in no time.
+### Pre-requisites:
+- Open free account on [Naas Cloud](https://www.naas.ai/free-forever) so we can test the templates in a similar environment 
+- Register to the [Contributor Program](https://form.typeform.com/to/jdls9qZf?typeform-source=www.naas.ai) so we can add you to team of contributors in the Naas GitHub organization 
+- Join our [Slack Community](https://join.slack.com/t/naas-club/shared_invite/zt-1970s5rie-dXXkigAdEJYc~LPdQIEaLA) so you can present yourself and #chat with us
 
----
+### Step by step process:
 
-✅ Apply to our <a href="https://join.slack.com/t/aiclub-hq/shared_invite/zt-iqkuwq7m-zvdxYYbGLVVcIKuB2vg3pA" target="_blank">Open Source Contributor Program</a> for guidance and mentorship.
+- **Step 1**: Find or propose an issue you want to work on
+  - The Backlog of the [Product Roadmap](https://github.com/orgs/jupyter-naas/projects/10) is where we put all the priorities
+  - The [Issues](https://github.com/jupyter-naas/awesome-notebooks/issues) section is where we gather all the needs 
+- **Step 2**: Prepare the issue before you start working on it
+  - Make sure the description is clear
+  - Tag yourself in Assignees section
+  - Change the status to 'In Progress' in Projects section/Community Roadmap
+  - Create a branch in Development section 
+- **Step 3**: Clone the awesome-notebooks repository on your Naas Cloud account and switch to the branch you created
+- **Step 4**: Create folder named with the source tool (if it's not already created)
+- **Step 5**: Copy/Paste template.ipynb at the root of the folder inside the folder you are working on, and start working on your notebook
+- **Step 6**: Once you are happy with the result, commit to the branch by using Git extension or command line (make sure you use a GitHub personal access token and not password, otherwise it wont work)
+- **Step 7**: Open a Pull Request and add a member of the core team as Reviewer ([Florent](https://github.com/FlorentLvr),[Maxime](https://github.com/Dr0p42) or [Jeremy](https://github.com/jravenel))
+- **Step 8**: Change status of this Issue to “Review” in Projects section and comment the Pull Request with a brief on what you have done
+- **Step 9**: Expect a feedback and merge in the next 48h-72h
+- **Step 10**: Once merged, promote your work on LinkedIn, Twitter and other social media channels! (Optional, but people need to know you are awesome 😉)
 
-✅ Join our <a href="https://join.slack.com/t/aiclub-hq/shared_invite/zt-iqkuwq7m-zvdxYYbGLVVcIKuB2vg3pA" target="_blank">Slack Community</a> to present yourself, ask questions, learn about our latest news.
+[>> More information](https://docs.naas.ai/contributing-to-naas)
 
-✅ Follow us on social medias:
-- [Twitter: @naas.ai ](https://twitter.com/JupyterNaas)<br>
-- [Linkedin: @JupyterNaas](https://www.linkedin.com/company/naas-ai/)<br>
-- [Youtube: @naas](https://www.youtube.com/channel/UCKKG5hzjXXU_rRdHHWQ8JHQ/videos)<br>
 
-<br>
+## Support on social media
+We are committed to sharing templates and giving shout outs to the contributors on our social media platforms, you can support us on:
+- [Twitter](https://twitter.com/JupyterNaas) for fast updates<br>
+- [LinkedIn](https://www.linkedin.com/company/naas-ai/) for more elaborated posts and articles<br>
+- [Youtube](https://www.youtube.com/channel/UCKKG5hzjXXU_rRdHHWQ8JHQ/videos) for demos and tutorials<br>
+
+# Template analytics
+
+![Templates_monthly](https://public.naas.ai/bWV0cmljcy00MG5hYXMtMkVhaQ==/asset/09d0bd9ed8ac2479a2a4f05e60c74d101d140ffdfacd9b0ac7bbb4e53966.png)
 
 # Templates list
 
@@ -57,6 +81,9 @@ Managed by Naas core-team and community ⭐️.
 * [Read dataframe from S3](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AWS/AWS_Read_dataframe_from_S3.ipynb)
 * [Send dataframe to S3](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AWS/AWS_Send_dataframe_to_S3.ipynb)
 * [Upload file to S3 bucket](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AWS/AWS_Upload_file_to_S3_bucket.ipynb)
+
+## AbstractAPI
+* [Abstractapi Get IP Geolocation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AbstractAPI/Abstractapi_Get_IP_Geolocation.ipynb)
 
 ## Affinity
 * [Sync with Notion database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Affinity/Affinity_Sync_with_Notion_database.ipynb)
@@ -79,6 +106,10 @@ Managed by Naas core-team and community ⭐️.
 * [Get export Factures](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bazimo/Bazimo_Get_export_Factures.ipynb)
 * [Get export Locataires](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bazimo/Bazimo_Get_export_Locataires.ipynb)
 * [Get export Lots](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bazimo/Bazimo_Get_export_Lots.ipynb)
+
+## BigQuery
+* [Create table from csv](https://github.com/jupyter-naas/awesome-notebooks/tree/master/BigQuery/BigQuery_Create_table_from_csv.ipynb)
+* [Read Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/BigQuery/BigQuery_Read_Table.ipynb)
 
 ## Boursorama
 * [Get CDS](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Boursorama/Boursorama_Get_CDS.ipynb)
@@ -114,7 +145,10 @@ Managed by Naas core-team and community ⭐️.
 * [Create Dropdown with multiples output callbacks](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Dropdown_with_multiples_output_callbacks.ipynb)
 * [Create Navbar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar.ipynb)
 * [Create Navbar board](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar_Dashboard.ipynb)
+* [Create Navbar Search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar_Search.ipynb)
 * [Deploy app in Naas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Deploy_app_in_Naas.ipynb)
+* [LinkedIn posts metrics dashboard](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_LinkedIn_posts_metrics_dashboard.ipynb)
+* [Plotly Dynamic Link](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Plotly_Dynamic_Link.ipynb)
 
 ## Dask
 * [Parallelize operations on multiple csvs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dask/Dask_parallelize_operations_on_multiple_csvs.ipynb)
@@ -152,11 +186,16 @@ Managed by Naas core-team and community ⭐️.
 * [Get file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Get_file.ipynb)
 * [Send file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Send_file.ipynb)
 
+## Faker
+* [Anonymize Address from dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Faker/Faker_Anonymize_Address_from_dataframe.ipynb)
+* [Anonymize Personal Names from dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Faker/Faker_Anonymize_Personal_Names_from_dataframe.ipynb)
+
 ## GitHub
 * [Add new issues as page in Notion database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Add_new_issues_as_page_in_Notion_database.ipynb)
 * [Add new member to team](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Add_new_member_to_team.ipynb)
 * [Close issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Close_issue.ipynb)
 * [Create issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_issue.ipynb)
+* [Create repository on personal account](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_repository_on_personal_account.ipynb)
 * [Download file from url](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Download_file_from_url.ipynb)
 * [Get active projects](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_active_projects.ipynb)
 * [Get commits ranking from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_commits_ranking_from_repository.ipynb)
@@ -172,6 +211,7 @@ Managed by Naas core-team and community ⭐️.
 * [Remove member from team](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Remove_member_from_team.ipynb)
 * [Track issues on projects](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_issues_on_projects.ipynb)
 * [Track notebooks created over time](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_notebooks_created_over_time.ipynb)
+* [Github Create Repo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/Github_Create_Repo.ipynb)
 
 ## Gmail
 * [Automate response from keywords in mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Automate_response_from_keywords_in_mailbox.ipynb)
@@ -230,6 +270,7 @@ Managed by Naas core-team and community ⭐️.
 * [Associate contact to deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Associate_contact_to_deal.ipynb)
 * [Create Task](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Create_Task.ipynb)
 * [Create contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Create_contact.ipynb)
+* [Create contact from LinkedIn profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Create_contact_from_LinkedIn_profile.ipynb)
 * [Create contacts from linkedin post likes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Create_contacts_from_linkedin_post_likes.ipynb)
 * [Create deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Create_deal.ipynb)
 * [Create note](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Create_note.ipynb)
@@ -313,12 +354,19 @@ Managed by Naas core-team and community ⭐️.
 * [Get user terminal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter/Jupyter_Get_user_terminal.ipynb)
 * [Restart server](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter/Jupyter_Restart_server.ipynb)
 
+## Kaggle
+* [Download Data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Kaggle/Kaggle_Download_Data.ipynb)
+
+## Knative
+* [Create command file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Knative/Knative_Create_command_file.ipynb)
+
 ## LeFigaro
 * [House Price analysis](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LeFigaro/LeFigaro_House_Price_analysis.ipynb)
 
 ## LinkedIn
 * [Accept all invitations and send first message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Accept_all_invitations_and_send_first_message.ipynb)
 * [Accept invitation received](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Accept_invitation_received.ipynb)
+* [Create posts metrics dashboard](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Create_posts_metrics_dashboard.ipynb)
 * [Extract content world cloud](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Extract_content_world_cloud.ipynb)
 * [Follow company followers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_company_followers.ipynb)
 * [Follow connections from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Follow_connections_from_profile.ipynb)
@@ -355,6 +403,7 @@ Managed by Naas core-team and community ⭐️.
 * [Get network from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_network_from_profile.ipynb)
 * [Get polls from post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_polls_from_post.ipynb)
 * [Get posts engagements](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_posts_engagements.ipynb)
+* [Get profile information](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_profile_information.ipynb)
 * [Get profile posts stats](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_profile_posts_stats.ipynb)
 * [Get resume from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_resume_from_profile.ipynb)
 * [Get sentiment emotion irony offensiveness from comments](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Get_sentiment_emotion_irony_offensiveness_from_comments.ipynb)
@@ -378,6 +427,7 @@ Managed by Naas core-team and community ⭐️.
 * [Send weekly post engagement metrics by email](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Send_weekly_post_engagement_metrics_by_email.ipynb)
 * [Update metrics from company posts in Notion content calendar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Update_metrics_from_company_posts_in_Notion_content_calendar.ipynb)
 * [Update metrics from posts in Notion content calendar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Update_metrics_from_posts_in_Notion_content_calendar.ipynb)
+* [Withdraw pending profile invitations](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LinkedIn/LinkedIn_Withdraw_pending_profile_invitations.ipynb)
 
 ## Matplotlib
 * [Create Waterfall chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Matplotlib/Matplotlib_Create_Waterfall_chart.ipynb)
@@ -409,6 +459,11 @@ Managed by Naas core-team and community ⭐️.
 * [Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Auth/Naas_Auth_connect.ipynb)
 * [Users me](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Auth/Naas_Auth_users_me.ipynb)
 
+## Naas Dashboard
+* [Financial Consolidation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Dashboard/Naas_Dashboard_Financial_Consolidation.ipynb)
+* [Revenue Cogs by Segment](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Dashboard/Naas_Dashboard_Revenue_Cogs_by_Segment.ipynb)
+* [Social Media KPIs ScoreCard](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Dashboard/Naas_Dashboard_Social_Media_KPIs_ScoreCard.ipynb)
+
 ## Naas
 * [Asset demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Asset_demo.ipynb)
 * [Automate GitHub Auth](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Automate_GitHub_Auth.ipynb)
@@ -416,7 +471,6 @@ Managed by Naas core-team and community ⭐️.
 * [Credits Get Balance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Credits_Get_Balance.ipynb)
 * [Dependency demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Dependency_demo.ipynb)
 * [Doc demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Doc_demo.ipynb)
-* [Domain demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Domain_demo.ipynb)
 * [Download Content Engine](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Download_Content_Engine.ipynb)
 * [Emailbuilder demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Emailbuilder_demo.ipynb)
 * [Get Transactions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_Transactions.ipynb)
@@ -467,6 +521,7 @@ Managed by Naas core-team and community ⭐️.
 
 ## OpenWeatherMap
 * [Get City Weather](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenWeatherMap/OpenWeatherMap_Get_City_Weather.ipynb)
+* [Get City temperature weather-type wind-speed](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenWeatherMap/OpenWeatherMap_Get_City_temperature_weather-type_wind-speed.ipynb)
 * [Send daily email with predictions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenWeatherMap/OpenWeatherMap_Send_daily_email_with_predictions.ipynb)
 
 ## OwnCloud
@@ -474,6 +529,8 @@ Managed by Naas core-team and community ⭐️.
 * [Upload file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OwnCloud/OwnCloud_Upload_file.ipynb)
 
 ## PDF
+* [Extract Text from](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PDF/PDF_Extract_Text_from_PDF.ipynb)
+* [Merge multiple  documents](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PDF/PDF_Merge_multiple_PDF_documents.ipynb)
 * [Transform to MP3](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PDF/PDF_Transform_to_MP3.ipynb)
 
 ## Pandas
@@ -483,10 +540,12 @@ Managed by Naas core-team and community ⭐️.
 * [Format number to string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Format_number_to_string.ipynb)
 * [ISO Date Conversion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_ISO_Date_Conversion.ipynb)
 * [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Merge_Dataframes.ipynb)
+* [Pivot rows to columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Pivot_rows_to_columns.ipynb)
 * [Transform dataframe to dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Transform_dataframe_to_dict.ipynb)
 
 ## Pillow
 * [Add data to image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pillow/Pillow_Add_data_to_image.ipynb)
+* [Generate A Certificate Template](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pillow/Pillow_Generate_A_Certificate_Template.ipynb)
 
 ## Pipedrive
 * [Get contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pipedrive/Pipedrive_Get_contact.ipynb)
@@ -514,6 +573,13 @@ Managed by Naas core-team and community ⭐️.
 ## PostgresSQL
 * [Get data from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PostgresSQL/PostgresSQL_Get_data_from_database.ipynb)
 
+## PowerPoint
+* [Add Slide With Image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PowerPoint/PowerPoint_Add_Slide_With_Image.ipynb)
+* [Add Slide With Textbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PowerPoint/PowerPoint_Add_Slide_With_Textbox.ipynb)
+* [Add Slide With Title Subtitle](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PowerPoint/PowerPoint_Add_Slide_With_Title_Subtitle.ipynb)
+* [Create Presentation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PowerPoint/PowerPoint_Create_Presentation.ipynb)
+* [Set portrait format](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PowerPoint/PowerPoint_Set_portrait_format.ipynb)
+
 ## PyCaret
 * [Automl classification](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PyCaret/PyCaret_automl_classification.ipynb)
 * [Automl regression](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PyCaret/PyCaret_automl_regression.ipynb)
@@ -523,10 +589,20 @@ Managed by Naas core-team and community ⭐️.
 
 ## Python
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Consolidate_Excel_files.ipynb)
+* [Convert CSV to Excel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_CSV_to_Excel.ipynb)
+* [Copy files and subdir from directory to another directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Copy_files_and_subdir_from_directory_to_another_directory.ipynb.ipynb)
 * [Create dataframe from lists](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_dataframe_from_lists.ipynb)
 * [Create dict from lists](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_dict_from_lists.ipynb)
+* [Download Image from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Download_Image_from_URL.ipynb)
 * [Download PDF from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Download_PDF_from_URL.ipynb)
+* [Find Phone Number in string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Find_Phone_Number_in_string.ipynb)
+* [Get Word Definition and Translation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_Word_Definition_and_Translation.ipynb)
+* [Get all files from directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_all_files_from_directory.ipynb)
+* [Locate Addresses](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Locate_Addresses.ipynb)
+* [Locate Coordinates](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Locate_Coordinates.ipynb)
 * [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Looping_Over_Dataframe.ipynb)
+* [Match pattern with regular expressions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Match_pattern_with_regular_expressions.ipynb)
+* [Rename file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Rename_file.ipynb)
 * [Using datetime library](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Using_datetime_library.ipynb)
 
 ## Pyvis
@@ -610,6 +686,9 @@ Managed by Naas core-team and community ⭐️.
 ## Telegram
 * [Create crypto sentiment bot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Telegram/Telegram_Create_crypto_sentiment_bot.ipynb)
 
+## Text
+* [Reformat  Without Spaces](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Text/Text_Reformat_Text_Without_Spaces.ipynb)
+
 ## Thinkific
 * [Get users](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Thinkific/Thinkific_Get_users.ipynb)
 * [Send users](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Thinkific/Thinkific_Send_users.ipynb)
@@ -622,6 +701,7 @@ Managed by Naas core-team and community ⭐️.
 * [Get board data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Trello/Trello_Get_board_data.ipynb)
 
 ## Twilio
+* [Make Call](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twilio/Twilio_Make_Call.ipynb)
 * [Send SMS](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twilio/Twilio_Send_SMS.ipynb)
 
 ## Twitter
@@ -638,6 +718,9 @@ Managed by Naas core-team and community ⭐️.
 
 ## US Bureau of Labor Statistics
 * [Follow CPI](https://github.com/jupyter-naas/awesome-notebooks/tree/master/US%20Bureau%20of%20Labor%20Statistics/US_Bureau_of_Labor_Statistics_Follow_CPI.ipynb)
+
+## Vizzu
+* [Create interactive data story](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_interactive_data_story.ipynb)
 
 ## WSR
 * [WHI Create indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WHI_Create_indicator.ipynb)
@@ -693,8 +776,6 @@ Managed by Naas core-team and community ⭐️.
 * [SpaCy Build a sentiment analysis model using Twitter](https://github.com/jupyter-naas/awesome-notebooks/tree/master/spaCy/SpaCy_Build_a_sentiment_analysis_model_using_Twitter.ipynb)
 
 
-<br/>
-Maintained by CashStory SAS (Naas mother company).
-<br/>
-Contact us to learn more on our website chat : https://naas.ai
 
+<br/>
+Contact us on support@naas.ai if you need any help or join our [Slack community](https://join.slack.com/t/naas-club/shared_invite/zt-1970s5rie-dXXkigAdEJYc~LPdQIEaLA)

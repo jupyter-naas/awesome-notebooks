@@ -577,6 +577,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Add Slide With Image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PowerPoint/PowerPoint_Add_Slide_With_Image.ipynb)
 * [Add Slide With Textbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PowerPoint/PowerPoint_Add_Slide_With_Textbox.ipynb)
 * [Add Slide With Title Subtitle](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PowerPoint/PowerPoint_Add_Slide_With_Title_Subtitle.ipynb)
+* [Add title + line in presentation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PowerPoint/PowerPoint_Add_title_%2B_line_in_presentation.ipynb)
 * [Create Presentation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PowerPoint/PowerPoint_Create_Presentation.ipynb)
 * [Set portrait format](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PowerPoint/PowerPoint_Set_portrait_format.ipynb)
 

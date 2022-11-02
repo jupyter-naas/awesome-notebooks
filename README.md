@@ -744,6 +744,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Worldometer
 * [World population evolution and projections](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Worldometer/Worldometer_World_population_evolution_and_projections.ipynb)
 
+## XGBoost
+* [Binary classification example with hyper-parameters optimization](https://github.com/jupyter-naas/awesome-notebooks/tree/master/XGBoost/XGBoost_Binary_classification_example_with_hyper-parameters_optimization.ipynb)
+
 ## XML
 * [Transform sitemap to dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/XML/XML_Transform_sitemap_to_dataframe.ipynb)
 

@@ -756,6 +756,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Cryptocurrencies heatmap correlation graph](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Cryptocurrencies_heatmap_correlation_graph.ipynb)
 * [Display chart from ticker](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Display_chart_from_ticker.ipynb)
 * [Find the stock with closest performance using KNN](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Find_the_stock_with_closest_performance_using_KNN.ipynb)
+* [Get Brent Crude Oil trend and predictions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Get_Brent_Crude_Oil_trend_and_predictions.ipynb)
 * [Get Stock Update](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Get_Stock_Update.ipynb)
 * [Get USDEUR data and chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Get_USDEUR_data_and_chart.ipynb)
 * [Get data from ticker](https://github.com/jupyter-naas/awesome-notebooks/tree/master/YahooFinance/YahooFinance_Get_data_from_ticker.ipynb)

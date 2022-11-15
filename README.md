@@ -609,6 +609,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Locate Coordinates](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Locate_Coordinates.ipynb)
 * [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Looping_Over_Dataframe.ipynb)
 * [Match pattern with regular expressions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Match_pattern_with_regular_expressions.ipynb)
+* [Organize Directories based on file types](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Organize_Directories_based_on_file_types.ipynb)
 * [Rename file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Rename_file.ipynb)
 * [Using datetime library](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Using_datetime_library.ipynb)
 

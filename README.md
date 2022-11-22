@@ -152,6 +152,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Deploy app in Naas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Deploy_app_in_Naas.ipynb)
 * [LinkedIn posts metrics dashboard](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_LinkedIn_posts_metrics_dashboard.ipynb)
 * [Plotly Dynamic Link](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Plotly_Dynamic_Link.ipynb)
+* [Upload mutiples CSV Excel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Upload_mutiples_CSV_Excel.ipynb)
 
 ## Dask
 * [Parallelize operations on multiple csvs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dask/Dask_parallelize_operations_on_multiple_csvs.ipynb)

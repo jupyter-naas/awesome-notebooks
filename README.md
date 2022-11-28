@@ -544,6 +544,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create dataframe from dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Create_dataframe_from_dict.ipynb)
 * [Format number to string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Format_number_to_string.ipynb)
 * [ISO Date Conversion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_ISO_Date_Conversion.ipynb)
+* [Keep Columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Keep_Columns.ipynb)
 * [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Merge_Dataframes.ipynb)
 * [Pivot rows to columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Pivot_rows_to_columns.ipynb)
 * [Transform dataframe to dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Transform_dataframe_to_dict.ipynb)

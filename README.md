@@ -216,6 +216,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Track issues on projects](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_issues_on_projects.ipynb)
 * [Track notebooks created over time](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_notebooks_created_over_time.ipynb)
 * [Github Create Repo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/Github_Create_Repo.ipynb)
+* [Github Create newsletter based on repository activity](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/Github_Create_newsletter_based_on_repository_activity.ipynb)
 
 ## Gmail
 * [Automate response from keywords in mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Automate_response_from_keywords_in_mailbox.ipynb)

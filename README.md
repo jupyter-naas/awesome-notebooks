@@ -547,6 +547,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Drop First column](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Drop_First_column.ipynb)
 * [Fill emtpy values](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Fill_emtpy_values.ipynb)
 * [Format number to string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Format_number_to_string.ipynb)
+* [Groupby and Aggregate](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Groupby_and_Aggregate.ipynb)
 * [ISO Date Conversion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_ISO_Date_Conversion.ipynb)
 * [Keep Columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Keep_Columns.ipynb)
 * [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Merge_Dataframes.ipynb)

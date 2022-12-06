@@ -608,6 +608,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Convert CSV to Excel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_CSV_to_Excel.ipynb)
 * [Convert PNG Images To JPG](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_PNG_Images_To_JPG.ipynb)
 * [Copy files and subdir from directory to another directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Copy_files_and_subdir_from_directory_to_another_directory.ipynb.ipynb)
+* [Create Strong Random Password](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_Strong_Random_Password.ipynb)
 * [Create dataframe from lists](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_dataframe_from_lists.ipynb)
 * [Create dict from lists](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_dict_from_lists.ipynb)
 * [Create directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_directory.ipynb)

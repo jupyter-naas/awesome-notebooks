@@ -152,6 +152,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Deploy app in Naas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Deploy_app_in_Naas.ipynb)
 * [LinkedIn posts metrics dashboard](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_LinkedIn_posts_metrics_dashboard.ipynb)
 * [Plotly Dynamic Link](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Plotly_Dynamic_Link.ipynb)
+* [Upload mutiples CSV Excel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Upload_mutiples_CSV_Excel.ipynb)
 
 ## Dask
 * [Parallelize operations on multiple csvs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dask/Dask_parallelize_operations_on_multiple_csvs.ipynb)
@@ -196,6 +197,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## GitHub
 * [Add new issues as page in Notion database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Add_new_issues_as_page_in_Notion_database.ipynb)
 * [Add new member to team](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Add_new_member_to_team.ipynb)
+* [Clone repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Clone_repository.ipynb)
 * [Close issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Close_issue.ipynb)
 * [Create issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_issue.ipynb)
 * [Create repository on personal account](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_repository_on_personal_account.ipynb)
@@ -215,6 +217,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Track issues on projects](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_issues_on_projects.ipynb)
 * [Track notebooks created over time](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_notebooks_created_over_time.ipynb)
 * [Github Create Repo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/Github_Create_Repo.ipynb)
+* [Github Create newsletter based on repository activity](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/Github_Create_newsletter_based_on_repository_activity.ipynb)
 
 ## Gmail
 * [Automate response from keywords in mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Automate_response_from_keywords_in_mailbox.ipynb)
@@ -285,17 +288,17 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get all contacts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_all_contacts.ipynb)
 * [Get all deals](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_all_deals.ipynb)
 * [Get all pipelines and dealstages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_all_pipelines_and_dealstages.ipynb)
-* [Get closed deals weekly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_closed_deals_weekly.ipynb)
 * [Get contact from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_contact_from_URL.ipynb)
 * [Get contact from email](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_contact_from_email.ipynb)
 * [Get contact from id](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_contact_from_id.ipynb)
 * [Get contacts associated to deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_contacts_associated_to_deal.ipynb)
 * [Get deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_deal.ipynb)
-* [Get new deals created weekly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_new_deals_created_weekly.ipynb)
 * [Get notes from contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Get_notes_from_contact.ipynb)
 * [Send LinkedIn invitations from contacts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Send_LinkedIn_invitations_from_contacts.ipynb)
+* [Send closed deals weekly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Send_closed_deals_weekly.ipynb)
 * [Send contacts to gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Send_contacts_to_gsheet.ipynb)
 * [Send deals to gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Send_deals_to_gsheet.ipynb)
+* [Send new deals created weekly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Send_new_deals_created_weekly.ipynb)
 * [Send sales brief](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Send_sales_brief.ipynb)
 * [Update Task](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_Task.ipynb)
 * [Update contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_contact.ipynb)
@@ -538,17 +541,26 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Transform to MP3](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PDF/PDF_Transform_to_MP3.ipynb)
 
 ## Pandas
+* [Check Columns type](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Check_Columns_type.ipynb)
 * [Convert datetime series](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Convert_datetime_series.ipynb)
 * [Create Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Create_Pivot_Table.ipynb)
 * [Create dataframe from dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Create_dataframe_from_dict.ipynb)
+* [Drop Columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Drop_Columns.ipynb)
+* [Drop First column](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Drop_First_column.ipynb)
+* [Fill emtpy values](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Fill_emtpy_values.ipynb)
 * [Format number to string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Format_number_to_string.ipynb)
+* [Groupby and Aggregate](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Groupby_and_Aggregate.ipynb)
 * [ISO Date Conversion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_ISO_Date_Conversion.ipynb)
+* [Keep Columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Keep_Columns.ipynb)
 * [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Merge_Dataframes.ipynb)
 * [Pivot rows to columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Pivot_rows_to_columns.ipynb)
+* [Rename Columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Rename_Columns.ipynb)
 * [Transform dataframe to dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Transform_dataframe_to_dict.ipynb)
 
 ## Pillow
 * [Add data to image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pillow/Pillow_Add_data_to_image.ipynb)
+* [Create indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pillow/Pillow_Create_indicator.ipynb)
+* [Create new image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pillow/Pillow_Create_new_image.ipynb)
 * [Generate A Certificate Template](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pillow/Pillow_Generate_A_Certificate_Template.ipynb)
 
 ## Pipedrive
@@ -595,9 +607,12 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Python
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Consolidate_Excel_files.ipynb)
 * [Convert CSV to Excel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_CSV_to_Excel.ipynb)
+* [Convert PNG Images To JPG](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_PNG_Images_To_JPG.ipynb)
 * [Copy files and subdir from directory to another directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Copy_files_and_subdir_from_directory_to_another_directory.ipynb.ipynb)
+* [Create Strong Random Password](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_Strong_Random_Password.ipynb)
 * [Create dataframe from lists](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_dataframe_from_lists.ipynb)
 * [Create dict from lists](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_dict_from_lists.ipynb)
+* [Create directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_directory.ipynb)
 * [Download Image from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Download_Image_from_URL.ipynb)
 * [Download PDF from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Download_PDF_from_URL.ipynb)
 * [Find Phone Number in string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Find_Phone_Number_in_string.ipynb)
@@ -607,6 +622,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Locate Coordinates](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Locate_Coordinates.ipynb)
 * [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Looping_Over_Dataframe.ipynb)
 * [Match pattern with regular expressions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Match_pattern_with_regular_expressions.ipynb)
+* [Organize Directories based on file types](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Organize_Directories_based_on_file_types.ipynb)
 * [Rename file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Rename_file.ipynb)
 * [Using datetime library](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Using_datetime_library.ipynb)
 

@@ -1,0 +1,285 @@
+[
+    {
+        "label": "bigquery",
+        "importPath": "google.cloud",
+        "description": "google.cloud",
+        "isExtraImport": true,
+        "detail": "google.cloud",
+        "documentation": {}
+    },
+    {
+        "label": "service_account",
+        "importPath": "google.oauth2",
+        "description": "google.oauth2",
+        "isExtraImport": true,
+        "detail": "google.oauth2",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "Elasticsearch",
+        "importPath": "elasticsearch",
+        "description": "elasticsearch",
+        "isExtraImport": true,
+        "detail": "elasticsearch",
+        "documentation": {}
+    },
+    {
+        "label": "ImproperlyConfigured",
+        "importPath": "elasticsearch",
+        "description": "elasticsearch",
+        "isExtraImport": true,
+        "detail": "elasticsearch",
+        "documentation": {}
+    },
+    {
+        "label": "TransportError",
+        "importPath": "elasticsearch",
+        "description": "elasticsearch",
+        "isExtraImport": true,
+        "detail": "elasticsearch",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "BigQueryConnector",
+        "kind": 6,
+        "importPath": "BigQuery.bigqueryconnector",
+        "description": "BigQuery.bigqueryconnector",
+        "peekOfCode": "class BigQueryConnector:\n    def __init__(self, service_account_file, project_id):\n        self.service_account_file = service_account_file\n        self.project_id = project_id\n        self.connection = self.get_connection()\n    @property\n    def _logger(self):\n        return logging.getLogger(__name__)\n    def get_connection(self):\n        try:",
+        "detail": "BigQuery.bigqueryconnector",
+        "documentation": {}
+    },
+    {
+        "label": "ElasticsearchConnector",
+        "kind": 6,
+        "importPath": "Elasticsearch.elasticsearchconnector",
+        "description": "Elasticsearch.elasticsearchconnector",
+        "peekOfCode": "class ElasticsearchConnector:\n\tdef __init__(self,credobject=None):\n\t\t\"\"\"\n\t\t\tDescription:\n\t\t\t\t\t\tAccepts elasticsearch connection parameters and connects to elasticsearch cloud \n\t\t\"\"\"\n\t\t#Parameter check\n\t\ttry:\n\t\t\tassert credobject is not None,\"Found credentials object empty\"\n\t\texcept AssertionError:",
+        "detail": "Elasticsearch.elasticsearchconnector",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tcredentials",
+        "kind": 5,
+        "importPath": "Elasticsearch.elasticsearchconnector",
+        "description": "Elasticsearch.elasticsearchconnector",
+        "peekOfCode": "\t\t\t\tcredentials = json.load(f)\n\t\texcept OSError:\n\t\t\tprint(\"Unable to open file. Invalid path.\")\n\t\t\treturn\n\t\texcept TypeError:\n\t\t\tcredentials = credobject\n\t\t#Initializing parameters\n\t\tself.user = credentials.get('user',None) \n\t\tself.password = credentials.get('password',None)\n\t\tself.endpoint = credentials.get('endpoint',None)",
+        "detail": "Elasticsearch.elasticsearchconnector",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tcredentials",
+        "kind": 5,
+        "importPath": "Elasticsearch.elasticsearchconnector",
+        "description": "Elasticsearch.elasticsearchconnector",
+        "peekOfCode": "\t\t\tcredentials = credobject\n\t\t#Initializing parameters\n\t\tself.user = credentials.get('user',None) \n\t\tself.password = credentials.get('password',None)\n\t\tself.endpoint = credentials.get('endpoint',None)\n\t\tself.port = credentials.get('port',None)\n\t\tself.protocol = credentials.get('protocol',None)\n\t\tself.connection = self.get_connection()\n\tdef get_connection(self):\n\t\tprint(\"Establishing connection to Elasticsearch\")",
+        "detail": "Elasticsearch.elasticsearchconnector",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.user",
+        "kind": 5,
+        "importPath": "Elasticsearch.elasticsearchconnector",
+        "description": "Elasticsearch.elasticsearchconnector",
+        "peekOfCode": "\t\tself.user = credentials.get('user',None) \n\t\tself.password = credentials.get('password',None)\n\t\tself.endpoint = credentials.get('endpoint',None)\n\t\tself.port = credentials.get('port',None)\n\t\tself.protocol = credentials.get('protocol',None)\n\t\tself.connection = self.get_connection()\n\tdef get_connection(self):\n\t\tprint(\"Establishing connection to Elasticsearch\")\n\t\ttry:\n\t\t\tes = Elasticsearch([self.endpoint],http_auth=(self.user,self.password),scheme=self.protocol,port=self.port)",
+        "detail": "Elasticsearch.elasticsearchconnector",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.password",
+        "kind": 5,
+        "importPath": "Elasticsearch.elasticsearchconnector",
+        "description": "Elasticsearch.elasticsearchconnector",
+        "peekOfCode": "\t\tself.password = credentials.get('password',None)\n\t\tself.endpoint = credentials.get('endpoint',None)\n\t\tself.port = credentials.get('port',None)\n\t\tself.protocol = credentials.get('protocol',None)\n\t\tself.connection = self.get_connection()\n\tdef get_connection(self):\n\t\tprint(\"Establishing connection to Elasticsearch\")\n\t\ttry:\n\t\t\tes = Elasticsearch([self.endpoint],http_auth=(self.user,self.password),scheme=self.protocol,port=self.port)\n\t\t\tprint(\"Connection established\")",
+        "detail": "Elasticsearch.elasticsearchconnector",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.endpoint",
+        "kind": 5,
+        "importPath": "Elasticsearch.elasticsearchconnector",
+        "description": "Elasticsearch.elasticsearchconnector",
+        "peekOfCode": "\t\tself.endpoint = credentials.get('endpoint',None)\n\t\tself.port = credentials.get('port',None)\n\t\tself.protocol = credentials.get('protocol',None)\n\t\tself.connection = self.get_connection()\n\tdef get_connection(self):\n\t\tprint(\"Establishing connection to Elasticsearch\")\n\t\ttry:\n\t\t\tes = Elasticsearch([self.endpoint],http_auth=(self.user,self.password),scheme=self.protocol,port=self.port)\n\t\t\tprint(\"Connection established\")\n\t\t\treturn es",
+        "detail": "Elasticsearch.elasticsearchconnector",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.port",
+        "kind": 5,
+        "importPath": "Elasticsearch.elasticsearchconnector",
+        "description": "Elasticsearch.elasticsearchconnector",
+        "peekOfCode": "\t\tself.port = credentials.get('port',None)\n\t\tself.protocol = credentials.get('protocol',None)\n\t\tself.connection = self.get_connection()\n\tdef get_connection(self):\n\t\tprint(\"Establishing connection to Elasticsearch\")\n\t\ttry:\n\t\t\tes = Elasticsearch([self.endpoint],http_auth=(self.user,self.password),scheme=self.protocol,port=self.port)\n\t\t\tprint(\"Connection established\")\n\t\t\treturn es\n\t\texcept ImproperlyConfigured as e:",
+        "detail": "Elasticsearch.elasticsearchconnector",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.protocol",
+        "kind": 5,
+        "importPath": "Elasticsearch.elasticsearchconnector",
+        "description": "Elasticsearch.elasticsearchconnector",
+        "peekOfCode": "\t\tself.protocol = credentials.get('protocol',None)\n\t\tself.connection = self.get_connection()\n\tdef get_connection(self):\n\t\tprint(\"Establishing connection to Elasticsearch\")\n\t\ttry:\n\t\t\tes = Elasticsearch([self.endpoint],http_auth=(self.user,self.password),scheme=self.protocol,port=self.port)\n\t\t\tprint(\"Connection established\")\n\t\t\treturn es\n\t\texcept ImproperlyConfigured as e:\n\t\t\tprint(\"Unable to connect to Elasticsearch server : Invalid credentials\")",
+        "detail": "Elasticsearch.elasticsearchconnector",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.connection",
+        "kind": 5,
+        "importPath": "Elasticsearch.elasticsearchconnector",
+        "description": "Elasticsearch.elasticsearchconnector",
+        "peekOfCode": "\t\tself.connection = self.get_connection()\n\tdef get_connection(self):\n\t\tprint(\"Establishing connection to Elasticsearch\")\n\t\ttry:\n\t\t\tes = Elasticsearch([self.endpoint],http_auth=(self.user,self.password),scheme=self.protocol,port=self.port)\n\t\t\tprint(\"Connection established\")\n\t\t\treturn es\n\t\texcept ImproperlyConfigured as e:\n\t\t\tprint(\"Unable to connect to Elasticsearch server : Invalid credentials\")\n\tdef save_data(self,parameters,data):",
+        "detail": "Elasticsearch.elasticsearchconnector",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tes",
+        "kind": 5,
+        "importPath": "Elasticsearch.elasticsearchconnector",
+        "description": "Elasticsearch.elasticsearchconnector",
+        "peekOfCode": "\t\t\tes = Elasticsearch([self.endpoint],http_auth=(self.user,self.password),scheme=self.protocol,port=self.port)\n\t\t\tprint(\"Connection established\")\n\t\t\treturn es\n\t\texcept ImproperlyConfigured as e:\n\t\t\tprint(\"Unable to connect to Elasticsearch server : Invalid credentials\")\n\tdef save_data(self,parameters,data):\n\t\tprint(\"Saving data to Elasticsearch\")\n\t\ttry:\n\t\t\tresultset = self.connection.index(index=parameters.get('index',None),doc_type=parameters.get('type',None),body=data)\n\t\t\treturn resultset",
+        "detail": "Elasticsearch.elasticsearchconnector",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tresultset",
+        "kind": 5,
+        "importPath": "Elasticsearch.elasticsearchconnector",
+        "description": "Elasticsearch.elasticsearchconnector",
+        "peekOfCode": "\t\t\tresultset = self.connection.index(index=parameters.get('index',None),doc_type=parameters.get('type',None),body=data)\n\t\t\treturn resultset\n\t\texcept TransportError as e:\n\t\t\tprint(\"Unable to save data to elasticsearch. Please check your connection credentials\")\n\tdef search_data(self,parameters,query,search_type='search'):\n\t\t# import pdb;pdb.set_trace()\n\t\tprint(\"Fetching data from Elasticsearch server\")\n\t\tif(search_type == 'search'):\n\t\t\ttry:\n\t\t\t\tresultset = self.connection.search(index=parameters.get('index',None), body=query[0])",
+        "detail": "Elasticsearch.elasticsearchconnector",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tresultset",
+        "kind": 5,
+        "importPath": "Elasticsearch.elasticsearchconnector",
+        "description": "Elasticsearch.elasticsearchconnector",
+        "peekOfCode": "\t\t\t\tresultset = self.connection.search(index=parameters.get('index',None), body=query[0])\n\t\t\t\treturn resultset\n\t\t\texcept TransportError as e:\n\t\t\t\tprint(\"Unable to search data. Please check your query and try again\")\n\t\t\texcept AttributeError as e:\n\t\t\t\tprint(\"Please connect to Elasticsearch server and try again\")\n\t\telif(search_type == 'msearch'):\n\t\t\tresponse = []\n\t\t\ttry:\n\t\t\t\tfor each in query:",
+        "detail": "Elasticsearch.elasticsearchconnector",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tresponse",
+        "kind": 5,
+        "importPath": "Elasticsearch.elasticsearchconnector",
+        "description": "Elasticsearch.elasticsearchconnector",
+        "peekOfCode": "\t\t\tresponse = []\n\t\t\ttry:\n\t\t\t\tfor each in query:\n\t\t\t\t\treq_head = {'index': parameters.get('index',None), 'type': parameters.get('type',None)}\n\t\t\t\t\treq_body = each\n\t\t\t\t\tresponse.append(self.connection.msearch(body = [req_head,req_body]))\n\t\t\t\treturn response\n\t\t\texcept TransportError as e:\n\t\t\t\tprint(\"Unable to search data. Please check your query and try again\")\n\t\t\texcept AttributeError as e:",
+        "detail": "Elasticsearch.elasticsearchconnector",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\t\treq_head",
+        "kind": 5,
+        "importPath": "Elasticsearch.elasticsearchconnector",
+        "description": "Elasticsearch.elasticsearchconnector",
+        "peekOfCode": "\t\t\t\t\treq_head = {'index': parameters.get('index',None), 'type': parameters.get('type',None)}\n\t\t\t\t\treq_body = each\n\t\t\t\t\tresponse.append(self.connection.msearch(body = [req_head,req_body]))\n\t\t\t\treturn response\n\t\t\texcept TransportError as e:\n\t\t\t\tprint(\"Unable to search data. Please check your query and try again\")\n\t\t\texcept AttributeError as e:\n\t\t\t\tprint(\"Please connect to Elasticsearch server and try again\")\n\t\telse:\n\t\t\tprint(\"Invalid Search type : Use 'search' or 'msearch' as valid search types\")",
+        "detail": "Elasticsearch.elasticsearchconnector",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\t\treq_body",
+        "kind": 5,
+        "importPath": "Elasticsearch.elasticsearchconnector",
+        "description": "Elasticsearch.elasticsearchconnector",
+        "peekOfCode": "\t\t\t\t\treq_body = each\n\t\t\t\t\tresponse.append(self.connection.msearch(body = [req_head,req_body]))\n\t\t\t\treturn response\n\t\t\texcept TransportError as e:\n\t\t\t\tprint(\"Unable to search data. Please check your query and try again\")\n\t\t\texcept AttributeError as e:\n\t\t\t\tprint(\"Please connect to Elasticsearch server and try again\")\n\t\telse:\n\t\t\tprint(\"Invalid Search type : Use 'search' or 'msearch' as valid search types\")",
+        "detail": "Elasticsearch.elasticsearchconnector",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\t\tresponse.append(self.connection.msearch(body",
+        "kind": 5,
+        "importPath": "Elasticsearch.elasticsearchconnector",
+        "description": "Elasticsearch.elasticsearchconnector",
+        "peekOfCode": "\t\t\t\t\tresponse.append(self.connection.msearch(body = [req_head,req_body]))\n\t\t\t\treturn response\n\t\t\texcept TransportError as e:\n\t\t\t\tprint(\"Unable to search data. Please check your query and try again\")\n\t\t\texcept AttributeError as e:\n\t\t\t\tprint(\"Please connect to Elasticsearch server and try again\")\n\t\telse:\n\t\t\tprint(\"Invalid Search type : Use 'search' or 'msearch' as valid search types\")",
+        "detail": "Elasticsearch.elasticsearchconnector",
+        "documentation": {}
+    },
+    {
+        "label": "TrelloAPIError",
+        "kind": 6,
+        "importPath": "Trello.trello_connector",
+        "description": "Trello.trello_connector",
+        "peekOfCode": "class TrelloAPIError(Exception):\n    pass\nclass TrelloConnector():\n    def __init__(self, key_id,token, board_id):\n        self.board_id  = board_id\n        self.token = token\n        self.key_id = key_id\n    def get_board(self, path, **custom_params):\n        url = '{API_URL}/{path}'.format(API_URL=API_URL,path=path)\n        try:",
+        "detail": "Trello.trello_connector",
+        "documentation": {}
+    },
+    {
+        "label": "TrelloConnector",
+        "kind": 6,
+        "importPath": "Trello.trello_connector",
+        "description": "Trello.trello_connector",
+        "peekOfCode": "class TrelloConnector():\n    def __init__(self, key_id,token, board_id):\n        self.board_id  = board_id\n        self.token = token\n        self.key_id = key_id\n    def get_board(self, path, **custom_params):\n        url = '{API_URL}/{path}'.format(API_URL=API_URL,path=path)\n        try:\n            result = requests.get(\n                url, params={'key': self.key_id, 'token': self.token, **custom_params}",
+        "detail": "Trello.trello_connector",
+        "documentation": {}
+    },
+    {
+        "label": "list_function_handler",
+        "kind": 2,
+        "importPath": "Trello.trello_connector",
+        "description": "Trello.trello_connector",
+        "peekOfCode": "def list_function_handler(card_custom_field, custom_field):\n    list_of_options = {x['id']: x for x in custom_field['options']}\n    option = list_of_options[card_custom_field['idValue']]\n    return option['value']['text']\nCUSTOM_FIELD_GET_VALUE = {\n    # How we retrieve the value given a custom field type\n    'number': lambda card_custom_field, _: float(card_custom_field['value']['number']),\n    'text': lambda card_custom_field, _: card_custom_field['value']['text'],\n    'date': lambda card_custom_field, _: (card_custom_field['value']['date']),\n    'checkbox': lambda card_custom_field, _: card_custom_field['value']['checked'] == 'true',",
+        "detail": "Trello.trello_connector",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Trello.trello_connector",
+        "description": "Trello.trello_connector",
+        "peekOfCode": "def main(key, token,board_id,  export=False):\n    data = [\"name\",\"url\",\"list\",\"labels\",\"members\",\"custom_fields\"]\n    obj = TrelloConnector(key, token,board_id)\n    try:\n        df = obj.retrieve_data(data)\n    except TrelloAPIError:\n        print(\"failed to connect to trello. please check token, key and board id\")\n        return False\n    name = \"\"\n    if export == \"csv\":",
+        "detail": "Trello.trello_connector",
+        "documentation": {}
+    },
+    {
+        "label": "CUSTOM_FIELD_GET_VALUE",
+        "kind": 5,
+        "importPath": "Trello.trello_connector",
+        "description": "Trello.trello_connector",
+        "peekOfCode": "CUSTOM_FIELD_GET_VALUE = {\n    # How we retrieve the value given a custom field type\n    'number': lambda card_custom_field, _: float(card_custom_field['value']['number']),\n    'text': lambda card_custom_field, _: card_custom_field['value']['text'],\n    'date': lambda card_custom_field, _: (card_custom_field['value']['date']),\n    'checkbox': lambda card_custom_field, _: card_custom_field['value']['checked'] == 'true',\n    'list': list_function_handler,\n}\nAPI_URL = 'https://api.trello.com/1/boards'\nclass TrelloAPIError(Exception):",
+        "detail": "Trello.trello_connector",
+        "documentation": {}
+    },
+    {
+        "label": "API_URL",
+        "kind": 5,
+        "importPath": "Trello.trello_connector",
+        "description": "Trello.trello_connector",
+        "peekOfCode": "API_URL = 'https://api.trello.com/1/boards'\nclass TrelloAPIError(Exception):\n    pass\nclass TrelloConnector():\n    def __init__(self, key_id,token, board_id):\n        self.board_id  = board_id\n        self.token = token\n        self.key_id = key_id\n    def get_board(self, path, **custom_params):\n        url = '{API_URL}/{path}'.format(API_URL=API_URL,path=path)",
+        "detail": "Trello.trello_connector",
+        "documentation": {}
+    }
+]

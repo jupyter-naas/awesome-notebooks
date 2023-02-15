@@ -15,7 +15,7 @@ jobs:
       with:
         token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
     - run: "pip install MarkupSafe==2.0.1"
-    - run: "pip install numpy==1.21.0"
+    - run: "pip install numpy==1.19.5"
     - run: "pip install notebook"
     - run: "pip install naas_drivers[markdown]"
     - run: "pip install papermill"

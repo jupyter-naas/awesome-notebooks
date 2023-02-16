@@ -1,6 +1,7 @@
 # Naas Templates [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 (aka the "awesome-notebooks") 
 
+
 ## What is Naas ?
 
 Naas is an all-in-one data platform that enable anyone with minimal technical knowledge to turn <a href="https://jupyter.org" target="_blank">Jupyter Notebooks</a> into powerful automation, analytical and AI data products thanks to <a href="https://docs.naas.ai/" target="_blank">low-code formulas</a> and microservices.<br>

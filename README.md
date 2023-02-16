@@ -88,6 +88,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Affinity
 * [Sync with Notion database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Affinity/Affinity_Sync_with_Notion_database.ipynb)
 
+## Agicap
+* [List companies](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Agicap/Agicap_List_companies.ipynb)
+
 ## Airtable
 * [Delete data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Delete_data.ipynb)
 * [Get data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Airtable/Airtable_Get_data.ipynb)
@@ -99,6 +102,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get cashflow statement](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AlphaVantage/AlphaVantage_Get_cashflow_statement.ipynb)
 * [Get company overview](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AlphaVantage/AlphaVantage_Get_company_overview.ipynb)
 * [Get income statement](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AlphaVantage/AlphaVantage_Get_income_statement.ipynb)
+
+## Azure Blob Storage
+* [Upload files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Azure%20Blob%20Storage/Azure_Blob_Storage_Upload_files.ipynb)
 
 ## Bazimo
 * [Get export Actifs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bazimo/Bazimo_Get_export_Actifs.ipynb)
@@ -172,8 +178,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Connect to server](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Elasticsearch/Elasticsearch_Connect_to_server.ipynb)
 
 ## Excel
+* [Apply Custom Styles](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Apply_Custom_Styles.ipynb)
 * [Consolidate files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Consolidate_files.ipynb)
-* [Custom sheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Custom_sheet.ipynb)
 * [Get dynamic active range](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Get_dynamic_active_range.ipynb)
 * [Read file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Read_file.ipynb)
 * [Save file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Save_file.ipynb)
@@ -183,6 +189,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## FEC
 * [Creer un dashboard PowerBI](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Creer_un_dashboard_PowerBI.ipynb)
+* [Visualiser Bilan Treemap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Visualiser_Bilan_Treemap.ipynb)
+* [Visualiser Comparer Ventes Line Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Visualiser_Comparer_Ventes_Line_Chart.ipynb)
+* [Visualiser Trésorerie Barline Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Visualiser_Tr%C3%A9sorerie_Barline_Chart.ipynb)
 
 ## FTP
 * [S Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTPS_Connect.ipynb)
@@ -202,7 +211,10 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_issue.ipynb)
 * [Create repository on personal account](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_repository_on_personal_account.ipynb)
 * [Download file from url](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Download_file_from_url.ipynb)
+* [Get Traffic Clones on repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_Traffic_Clones_on_repository.ipynb)
+* [Get Traffic Views on repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_Traffic_Views_on_repository.ipynb)
 * [Get active projects](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_active_projects.ipynb)
+* [Get commits from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_commits_from_repository.ipynb)
 * [Get commits ranking from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_commits_ranking_from_repository.ipynb)
 * [Get issues from repo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_issues_from_repo.ipynb)
 * [Get most starred repos](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_most_starred_repos.ipynb)
@@ -475,6 +487,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Asset demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Asset_demo.ipynb)
 * [Automate GitHub Auth](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Automate_GitHub_Auth.ipynb)
 * [Configure Github with ssh](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Configure_Github_with_ssh.ipynb)
+* [Create Kernel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Create_Kernel.ipynb)
+* [Create Pipeline](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Create_Pipeline.ipynb)
 * [Credits Get Balance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Credits_Get_Balance.ipynb)
 * [Dependency demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Dependency_demo.ipynb)
 * [Doc demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Doc_demo.ipynb)
@@ -485,8 +499,10 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get number of downloads naas drivers package](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_number_of_downloads_naas_drivers_package.ipynb)
 * [Get number of downloads naas package](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_number_of_downloads_naas_package.ipynb)
 * [Get total downloads naas libraries](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_total_downloads_naas_libraries.ipynb)
+* [Manage Pipeline Errors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Manage_Pipeline_Errors.ipynb)
 * [NLP Examples](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_NLP_Examples.ipynb)
 * [Notification demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Notification_demo.ipynb)
+* [Remove Pipeline Executions Outputs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Remove_Pipeline_Executions_Outputs.ipynb)
 * [Remove Scheduler Outputs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Remove_Scheduler_Outputs.ipynb)
 * [Reset Instance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Reset_Instance.ipynb)
 * [Scheduler demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Scheduler_demo.ipynb)
@@ -511,6 +527,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Add paragraph with link in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_paragraph_with_link_in_page.ipynb)
 * [Automate transcript generation from recording link in page property](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Automate_transcript_generation_from_recording_link_in_page_property.ipynb)
 * [Create page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Create_page.ipynb)
+* [Delete all pages from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Delete_all_pages_from_database.ipynb)
 * [Delete blocks from page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Delete_blocks_from_page.ipynb)
 * [Delete page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Delete_page.ipynb)
 * [Duplicate page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Duplicate_page.ipynb)
@@ -525,6 +542,13 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Sent Gmail On New Item](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Sent_Gmail_On_New_Item.ipynb)
 * [Update page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_page.ipynb)
 * [Update pages from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_pages_from_database.ipynb)
+
+## OpenAI
+* [Create Completion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Create_Completion.ipynb)
+* [Generate language translations](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_language_translations.ipynb)
+
+## OpenBB
+* [Create an  kernel on Naas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenBB/OpenBB_Create_an_OpenBB_kernel_on_Naas.ipynb)
 
 ## OpenPIV
 * [Openpiv-python-template](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenPIV/openpiv-python-template.ipynb)
@@ -549,16 +573,25 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Create_Pivot_Table.ipynb)
 * [Create dataframe from dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Create_dataframe_from_dict.ipynb)
 * [Drop Columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Drop_Columns.ipynb)
+* [Drop Columns By Index](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Drop_Columns_By_Index.ipynb)
+* [Drop Duplicate Columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Drop_Duplicate_Columns.ipynb)
 * [Drop First column](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Drop_First_column.ipynb)
 * [Fill emtpy values](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Fill_emtpy_values.ipynb)
 * [Format number to string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Format_number_to_string.ipynb)
 * [Groupby and Aggregate](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Groupby_and_Aggregate.ipynb)
 * [ISO Date Conversion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_ISO_Date_Conversion.ipynb)
 * [Keep Columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Keep_Columns.ipynb)
+* [Map column with values in dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Map_column_with_values_in_dict.ipynb)
 * [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Merge_Dataframes.ipynb)
 * [Pivot rows to columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Pivot_rows_to_columns.ipynb)
 * [Rename Columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Rename_Columns.ipynb)
 * [Transform dataframe to dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Transform_dataframe_to_dict.ipynb)
+
+## Pandasql
+* [Query CSV Using SQL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandasql/Pandasql_Query_CSV_Using_SQL.ipynb)
+
+## Panel
+* [Create a  kernel on Naas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Panel/Panel_Create_a_Panel_kernel_on_Naas.ipynb)
 
 ## Pillow
 * [Add data to image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pillow/Pillow_Add_data_to_image.ipynb)
@@ -574,6 +607,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get transactions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plaid/Plaid_Get_transactions.ipynb)
 
 ## Plotly
+* [Create Balance Sheet Treemaps](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Balance_Sheet_Treemaps.ipynb)
 * [Create Barline chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Barline_chart.ipynb)
 * [Create Bubblechart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Bubblechart.ipynb)
 * [Create Candlestick](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Candlestick.ipynb)
@@ -584,6 +618,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Leaderboard stacked](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Leaderboard_stacked.ipynb)
 * [Create Linechart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Linechart.ipynb)
 * [Create Mapchart world](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Mapchart_world.ipynb)
+* [Create Treemaps with plotly.express](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Treemaps_with_plotly.express.ipynb)
+* [Create Treemaps with plotly.graph objects](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Treemaps_with_plotly.graph_objects.ipynb)
 * [Create Vertical Barchart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Vertical_Barchart.ipynb)
 * [Create Vertical Barchart group](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Vertical_Barchart_group.ipynb)
 * [Create Vertical Barchart stacked](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Vertical_Barchart_stacked.ipynb)
@@ -610,6 +646,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Python
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Consolidate_Excel_files.ipynb)
 * [Convert CSV to Excel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_CSV_to_Excel.ipynb)
+* [Convert Datetime with Timezone to ISO 8601 date string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_Datetime_with_Timezone_to_ISO_8601_date_string.ipynb)
 * [Convert PNG Images To JPG](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_PNG_Images_To_JPG.ipynb)
 * [Copy files and subdir from directory to another directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Copy_files_and_subdir_from_directory_to_another_directory.ipynb.ipynb)
 * [Create Strong Random Password](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_Strong_Random_Password.ipynb)
@@ -618,6 +655,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_directory.ipynb)
 * [Download Image from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Download_Image_from_URL.ipynb)
 * [Download PDF from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Download_PDF_from_URL.ipynb)
+* [Explore Dataset with Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Explore_Dataset_with_Pivot_Table.ipynb)
 * [Find Phone Number in string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Find_Phone_Number_in_string.ipynb)
 * [Get Word Definition and Translation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_Word_Definition_and_Translation.ipynb)
 * [Get all files from directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_all_files_from_directory.ipynb)
@@ -627,6 +665,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Match pattern with regular expressions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Match_pattern_with_regular_expressions.ipynb)
 * [Organize Directories based on file types](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Organize_Directories_based_on_file_types.ipynb)
 * [Rename file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Rename_file.ipynb)
+* [Replace value in text in a specific paragraph](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Replace_value_in_text_in_a_specific_paragraph.ipynb)
 * [Using datetime library](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Using_datetime_library.ipynb)
 
 ## Pyvis
@@ -665,6 +704,13 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## SAP-HANA
 * [Query data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SAP-HANA/SAP-HANA_Query_data.ipynb)
+
+## SQLite
+* [Create Database file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SQLite/SQLite_Create_Database_file.ipynb)
+* [Create Table in Database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SQLite/SQLite_Create_Table_in_Database.ipynb)
+* [Insert data in Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SQLite/SQLite_Insert_data_in_Table.ipynb)
+* [List Tables in Database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SQLite/SQLite_List_Tables_in_Database.ipynb)
+* [Read data in Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SQLite/SQLite_Read_data_in_Table.ipynb)
 
 ## SendGrid
 * [Get all messages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SendGrid/SendGrid_Get_all_messages.ipynb)
@@ -729,11 +775,14 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send SMS](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twilio/Twilio_Send_SMS.ipynb)
 
 ## Twitter
+* [Add member to list](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Add_member_to_list.ipynb)
+* [Get members of list](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_members_of%20list.ipynb)
 * [Get posts stats](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_posts_stats.ipynb)
 * [Get tweets from search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_tweets_from_search.ipynb)
 * [Get tweets stats from profile](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_tweets_stats_from_profile.ipynb)
 * [Get user data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_user_data.ipynb)
 * [Post text and image](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Post_text_and_image.ipynb)
+* [Remove member from list](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Remove_member_from_list.ipynb)
 * [Schedule posts](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Schedule_posts.ipynb)
 * [Send posts stats to Notion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Send_posts_stats_to_Notion.ipynb)
 
@@ -809,5 +858,4 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 
 <br/>
-
 Contact us on support@naas.ai if you need any help or join our [Slack community](https://join.slack.com/t/naas-club/shared_invite/zt-1970s5rie-dXXkigAdEJYc~LPdQIEaLA)

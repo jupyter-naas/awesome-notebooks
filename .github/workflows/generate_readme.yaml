@@ -9,9 +9,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
       with:
         token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
     - run: "pip install MarkupSafe==2.0.1"
+    - run: "pip install numpy==1.19.5"
     - run: "pip install notebook"
     - run: "pip install naas_drivers[markdown]"
     - run: "pip install papermill"

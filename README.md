@@ -113,6 +113,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get export Locataires](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bazimo/Bazimo_Get_export_Locataires.ipynb)
 * [Get export Lots](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bazimo/Bazimo_Get_export_Lots.ipynb)
 
+## BeautifulSoup
+* [Scrape emails from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/BeautifulSoup/BeautifulSoup_Scrape_emails_from_URL.ipynb)
+
 ## BigQuery
 * [Create table from csv](https://github.com/jupyter-naas/awesome-notebooks/tree/master/BigQuery/BigQuery_Create_table_from_csv.ipynb)
 * [Read Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/BigQuery/BigQuery_Read_Table.ipynb)

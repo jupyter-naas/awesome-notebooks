@@ -716,6 +716,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [List Tables in Database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SQLite/SQLite_List_Tables_in_Database.ipynb)
 * [Read data in Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SQLite/SQLite_Read_data_in_Table.ipynb)
 
+## SWIFT
+* [Create MT940 XML file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SWIFT/SWIFT_Create_MT940_XML_file.ipynb)
+
 ## SendGrid
 * [Get all messages](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SendGrid/SendGrid_Get_all_messages.ipynb)
 * [Send message](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SendGrid/SendGrid_Send_message.ipynb)

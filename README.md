@@ -120,6 +120,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create table from csv](https://github.com/jupyter-naas/awesome-notebooks/tree/master/BigQuery/BigQuery_Create_table_from_csv.ipynb)
 * [Read Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/BigQuery/BigQuery_Read_Table.ipynb)
 
+## Bitly
+* [Create Links](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bitly/Bitly_Create_Links.ipynb)
+
 ## Boursorama
 * [Get CDS](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Boursorama/Boursorama_Get_CDS.ipynb)
 

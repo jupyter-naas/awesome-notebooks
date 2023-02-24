@@ -225,6 +225,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get active projects](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_active_projects.ipynb)
 * [Get commits from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_commits_from_repository.ipynb)
 * [Get commits ranking from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_commits_ranking_from_repository.ipynb)
+* [Get files added on Pull Request Merged](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_files_added_on_Pull_Request_Merged.ipynb)
 * [Get issues from repo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_issues_from_repo.ipynb)
 * [Get most starred repos](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_most_starred_repos.ipynb)
 * [Get profile from user](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_profile_from_user.ipynb)

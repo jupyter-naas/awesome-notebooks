@@ -775,6 +775,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get charges](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_charges.ipynb)
 * [Get customers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_customers.ipynb)
 
+## Supabase
+* [Email Auth](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Supabase/Supabase_Email_Auth.ipynb)
+
 ## Telegram
 * [Create crypto sentiment bot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Telegram/Telegram_Create_crypto_sentiment_bot.ipynb)
 

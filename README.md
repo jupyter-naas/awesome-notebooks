@@ -553,6 +553,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## OpenAI
 * [Create Completion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Create_Completion.ipynb)
 * [Generate language translations](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_language_translations.ipynb)
+* [Write a blog post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Write_a_blog_post.ipynb)
+* [Write a social media post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Write_a_social_media_post.ipynb)
 
 ## OpenBB
 * [Create an  kernel on Naas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenBB/OpenBB_Create_an_OpenBB_kernel_on_Naas.ipynb)

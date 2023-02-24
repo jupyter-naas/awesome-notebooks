@@ -122,6 +122,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Bitly
 * [Create Links](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bitly/Bitly_Create_Links.ipynb)
+* [Retrieve Bitlink](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bitly/Bitly_Retrieve_Bitlink.ipynb)
 
 ## Boursorama
 * [Get CDS](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Boursorama/Boursorama_Get_CDS.ipynb)

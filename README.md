@@ -82,8 +82,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send dataframe to S3](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AWS/AWS_Send_dataframe_to_S3.ipynb)
 * [Upload file to S3 bucket](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AWS/AWS_Upload_file_to_S3_bucket.ipynb)
 
-## AbstractAPI
-* [Abstractapi Get IP Geolocation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/AbstractAPI/Abstractapi_Get_IP_Geolocation.ipynb)
+## Abstract API
+* [Check Email Validation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Abstract%20API/Abstract_API_Check_Email_Validation.ipynb)
+* [Get IP Geolocation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Abstract%20API/Abstract_API_Get_IP_Geolocation.ipynb)
 
 ## Affinity
 * [Sync with Notion database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Affinity/Affinity_Sync_with_Notion_database.ipynb)

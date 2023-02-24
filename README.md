@@ -551,6 +551,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Update pages from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_pages_from_database.ipynb)
 
 ## OpenAI
+* [Brainstorm ideas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Brainstorm_ideas.ipynb)
 * [Create Completion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Create_Completion.ipynb)
 * [Generate language translations](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_language_translations.ipynb)
 * [Write a blog post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Write_a_blog_post.ipynb)

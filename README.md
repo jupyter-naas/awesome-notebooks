@@ -557,6 +557,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Write a blog post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Write_a_blog_post.ipynb)
 * [Write a press release](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Write_a_press_release.ipynb)
 * [Write a social media post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Write_a_social_media_post.ipynb)
+* [Write an outline](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Write_an_outline.ipynb)
 
 ## OpenBB
 * [Create an  kernel on Naas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenBB/OpenBB_Create_an_OpenBB_kernel_on_Naas.ipynb)

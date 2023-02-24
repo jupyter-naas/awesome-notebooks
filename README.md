@@ -217,6 +217,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Clone repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Clone_repository.ipynb)
 * [Close issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Close_issue.ipynb)
 * [Create issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_issue.ipynb)
+* [Create leaderboard of contributors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_leaderboard_of_contributors.ipynb)
 * [Create repository on personal account](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_repository_on_personal_account.ipynb)
 * [Download file from url](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Download_file_from_url.ipynb)
 * [Get Closed PR by repo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_Closed_PR_by_repo.ipynb)

@@ -767,6 +767,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Spotify
 * [Create Radar Chart to analyze Playlist](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Spotify/Spotify_Create_Radar_Chart_to_analyze_Playlist.ipynb)
 
+## Stabilty AI
+* [Generate Image from text](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stabilty%20AI/Stabilty_AI_Generate_Image_from_text.ipynb)
+
 ## Streamlit
 * [Create prediction app](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Streamlit/Streamlit_Create_prediction_app.ipynb)
 

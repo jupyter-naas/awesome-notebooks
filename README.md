@@ -125,6 +125,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Links](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bitly/Bitly_Create_Links.ipynb)
 * [Delete a Bitlink](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bitly/Bitly_Delete_a_Bitlink.ipynb)
 * [Get Clicks for a Bitlink](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bitly/Bitly_Get_Clicks_for_a_Bitlink.ipynb)
+* [Get Metrics for a Bitlink by City](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bitly/Bitly_Get_Metrics_for_a_Bitlink_by_City.ipynb)
 * [Get Metrics for a Bitlink by Country](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bitly/Bitly_Get_Metrics_for_a_Bitlink_by_Country.ipynb)
 * [Get Metrics for a Bitlink by Devices](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bitly/Bitly_Get_Metrics_for_a_Bitlink_by_Devices.ipynb)
 * [Get Metrics for a Bitlink by Referrers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bitly/Bitly_Get_Metrics_for_a_Bitlink_by_Referrers.ipynb)

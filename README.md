@@ -667,6 +667,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Convert Datetime with Timezone to ISO 8601 date string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_Datetime_with_Timezone_to_ISO_8601_date_string.ipynb)
 * [Convert PNG Images To JPG](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_PNG_Images_To_JPG.ipynb)
 * [Copy files and subdir from directory to another directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Copy_files_and_subdir_from_directory_to_another_directory.ipynb.ipynb)
+* [Create Email Combination with Firstname Lastname Domain address](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_Email_Combination_with_Firstname_Lastname_Domain_address.ipynb)
 * [Create Strong Random Password](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_Strong_Random_Password.ipynb)
 * [Create dataframe from lists](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_dataframe_from_lists.ipynb)
 * [Create dict from lists](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_dict_from_lists.ipynb)

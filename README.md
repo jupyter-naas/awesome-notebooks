@@ -899,6 +899,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## ZeroBounce
 * [Validate Single Email](https://github.com/jupyter-naas/awesome-notebooks/tree/master/ZeroBounce/ZeroBounce_Validate_Single_Email.ipynb)
 
+## gTTS
+* [Save Text to Speech to MP3](https://github.com/jupyter-naas/awesome-notebooks/tree/master/gTTS/gTTS_Save_Text_to_Speech_to_MP3.ipynb)
+
 ## spaCy
 * [SpaCy Build a sentiment analysis model using Twitter](https://github.com/jupyter-naas/awesome-notebooks/tree/master/spaCy/SpaCy_Build_a_sentiment_analysis_model_using_Twitter.ipynb)
 

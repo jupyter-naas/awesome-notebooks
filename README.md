@@ -839,6 +839,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Vizzu
 * [Create interactive data story](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_interactive_data_story.ipynb)
 
+## WAQI
+* [Get Daily Air Quality Data for a city](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WAQI/WAQI_Get_Daily_Air_Quality_Data_for_a_city.ipynb)
+
 ## WSR
 * [WHI Create indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WHI_Create_indicator.ipynb)
 * [Get daily Covid19 active cases trend JHU](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WSR_Get_daily_Covid19_active_cases_trend_JHU.ipynb)

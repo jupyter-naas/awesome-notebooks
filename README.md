@@ -234,6 +234,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get Closed PR by repo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_Closed_PR_by_repo.ipynb)
 * [Get Traffic Clones on repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_Traffic_Clones_on_repository.ipynb)
 * [Get Traffic Views on repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_Traffic_Views_on_repository.ipynb)
+* [Get a repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_a_repository.ipynb)
 * [Get active projects](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_active_projects.ipynb)
 * [Get commits from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_commits_from_repository.ipynb)
 * [Get commits ranking from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_commits_ranking_from_repository.ipynb)

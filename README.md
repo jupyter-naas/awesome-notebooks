@@ -161,6 +161,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Cloud Mercato
 * [Compare VM pricing](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Cloud%20Mercato/Cloud_Mercato_Compare_VM_pricing.ipynb)
 
+## Creditsafe
+* [Get Company Credit Report](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Creditsafe/Creditsafe_Get_Company_Credit_Report.ipynb)
+
 ## D-Tale
 * [Visualize dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/D-Tale/D-Tale_Visualize_dataframe.ipynb)
 

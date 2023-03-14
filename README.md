@@ -680,6 +680,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Automl classification](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PyCaret/PyCaret_automl_classification.ipynb)
 * [Automl regression](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PyCaret/PyCaret_automl_regression.ipynb)
 
+## PyGWalker
+* [Analyze Pandas dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PyGWalker/PyGWalker_Analyze_Pandas_dataframe.ipynb)
+
 ## PyPI
 * [- Get number of downloads any package](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PyPI/PyPI%20-%20Get_number_of_downloads_any_package.ipynb)
 

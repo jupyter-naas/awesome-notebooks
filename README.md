@@ -829,6 +829,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get board data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Trello/Trello_Get_board_data.ipynb)
 
 ## Twilio
+* [Add SMS to Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twilio/Twilio_Add_SMS_to_Google_Sheets_spreadsheet.ipynb)
 * [Make Call](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twilio/Twilio_Make_Call.ipynb)
 * [Send SMS](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twilio/Twilio_Send_SMS.ipynb)
 

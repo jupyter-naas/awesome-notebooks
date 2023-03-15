@@ -561,6 +561,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Add paragraph with link in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_paragraph_with_link_in_page.ipynb)
 * [Automate transcript generation from recording link in page property](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Automate_transcript_generation_from_recording_link_in_page_property.ipynb)
 * [Create page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Create_page.ipynb)
+* [Create pages in database from dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Create_pages_in_database_from_dataframe.ipynb)
 * [Delete all pages from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Delete_all_pages_from_database.ipynb)
 * [Delete blocks from page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Delete_blocks_from_page.ipynb)
 * [Delete page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Delete_page.ipynb)

@@ -523,6 +523,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Kernel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Create_Kernel.ipynb)
 * [Create Pipeline](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Create_Pipeline.ipynb)
 * [Credits Get Balance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Credits_Get_Balance.ipynb)
+* [Delete Scheduler](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Delete_Scheduler.ipynb)
 * [Dependency demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Dependency_demo.ipynb)
 * [Doc demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Doc_demo.ipynb)
 * [Download Content Engine](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Download_Content_Engine.ipynb)

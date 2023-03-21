@@ -63,7 +63,7 @@ To ensure the quality of the templates, we have defined a framework. Each notebo
 
 
 ## Support us
-We are committed to sharing templates and giving shout outs to the contributors on our social media platforms, folllow us on:
+We are committed to sharing templates and giving shout outs to the contributors on our social media platforms, follow us on:
 - [Twitter](https://twitter.com/JupyterNaas) for fast updates<br>
 - [LinkedIn](https://www.linkedin.com/company/naas-ai/) for more elaborated posts and articles<br>
 - [Youtube](https://www.youtube.com/channel/UCKKG5hzjXXU_rRdHHWQ8JHQ/videos) for demos and tutorials<br>

@@ -63,13 +63,15 @@ To ensure the quality of the templates, we have defined a framework. Each notebo
 
 
 ## Support us
+
+<p>We are a community of Notebook and data lovers from all over the world</p>
+
+[![awesome-notebooks contributors](https://contrib.rocks/image?repo=jupyter-naas/awesome-notebooks)](https://github.com/jupyter-naas/awesome-notebooks/graphs/contributors)
+
 We are committed to sharing templates and giving shout outs to the contributors on our social media platforms, follow us on:
 - [Twitter](https://twitter.com/JupyterNaas) for fast updates<br>
 - [LinkedIn](https://www.linkedin.com/company/naas-ai/) for more elaborated posts and articles<br>
 - [Youtube](https://www.youtube.com/channel/UCKKG5hzjXXU_rRdHHWQ8JHQ/videos) for demos and tutorials<br>
-
-<p><b>We are a community of Notebook and data lovers from all over the world</b></p>
-<a href = "https://github.com/jupyter-naas/awesome-notebooks/graphs/contributors"><img src = "https://contrib.rocks/image?repo=jupyter-naas/awesome-notebooks"/</a>
 
 # Template analytics
 

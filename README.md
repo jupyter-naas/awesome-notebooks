@@ -517,6 +517,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Social Media KPIs ScoreCard](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Dashboard/Naas_Dashboard_Social_Media_KPIs_ScoreCard.ipynb)
 
 ## Naas
+* [Add Asset](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Add_Asset.ipynb)
 * [Add Scheduler](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Add_Scheduler.ipynb)
 * [Asset demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Asset_demo.ipynb)
 * [Automate GitHub Auth](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Automate_GitHub_Auth.ipynb)
@@ -524,6 +525,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Kernel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Create_Kernel.ipynb)
 * [Create Pipeline](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Create_Pipeline.ipynb)
 * [Credits Get Balance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Credits_Get_Balance.ipynb)
+* [Delete Asset](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Delete_Asset.ipynb)
 * [Delete Scheduler](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Delete_Scheduler.ipynb)
 * [Dependency demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Dependency_demo.ipynb)
 * [Doc demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Doc_demo.ipynb)
@@ -534,6 +536,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get number of downloads naas drivers package](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_number_of_downloads_naas_drivers_package.ipynb)
 * [Get number of downloads naas package](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_number_of_downloads_naas_package.ipynb)
 * [Get total downloads naas libraries](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_total_downloads_naas_libraries.ipynb)
+* [List Assets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_List_Assets.ipynb)
 * [Manage Pipeline Errors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Manage_Pipeline_Errors.ipynb)
 * [NLP Examples](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_NLP_Examples.ipynb)
 * [Notification demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Notification_demo.ipynb)

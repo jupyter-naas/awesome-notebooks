@@ -768,6 +768,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## SAP-HANA
 * [Query data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SAP-HANA/SAP-HANA_Query_data.ipynb)
 
+## SEON
+* [Get email info](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SEON/SEON_Get_email_info.ipynb)
+
 ## SQLite
 * [Create Database file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SQLite/SQLite_Create_Database_file.ipynb)
 * [Create Table in Database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/SQLite/SQLite_Create_Table_in_Database.ipynb)

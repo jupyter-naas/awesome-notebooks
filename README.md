@@ -664,6 +664,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Balance Sheet Treemaps](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Balance_Sheet_Treemaps.ipynb)
 * [Create Barline chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Barline_chart.ipynb)
 * [Create Bubblechart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Bubblechart.ipynb)
+* [Create Bubblemap by City](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Bubblemap_by_City.ipynb)
 * [Create Candlestick](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Candlestick.ipynb)
 * [Create Gantt chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Gantt_chart.ipynb)
 * [Create Heatmap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Heatmap.ipynb)

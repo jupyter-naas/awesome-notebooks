@@ -200,6 +200,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Apply Custom Styles](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Apply_Custom_Styles.ipynb)
 * [Consolidate files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Consolidate_files.ipynb)
 * [Get dynamic active range](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Get_dynamic_active_range.ipynb)
+* [List sheets in workbook](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_List_sheets_in_workbook.ipynb)
 * [Read file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Read_file.ipynb)
 * [Save file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Excel/Excel_Save_file.ipynb)
 

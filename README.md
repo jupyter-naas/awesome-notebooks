@@ -234,6 +234,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create newsletter based on repository activity](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_newsletter_based_on_repository_activity.ipynb)
 * [Create pull request](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_pull_request.ipynb)
 * [Create repository on personal account](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_repository_on_personal_account.ipynb)
+* [Download Excel file from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Download_Excel_file_from_URL.ipynb)
 * [Download file from url](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Download_file_from_url.ipynb)
 * [Follow stargazers trend](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Follow_stargazers_trend.ipynb)
 * [Get Traffic Clones on repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_Traffic_Clones_on_repository.ipynb)

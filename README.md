@@ -888,6 +888,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get daily Covid19 active cases trend JHU](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WSR_Get_daily_Covid19_active_cases_trend_JHU.ipynb)
 * [Get daily Covid19 active cases worldmap JHU](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WSR_Get_daily_Covid19_active_cases_worldmap_JHU.ipynb)
 
+## Wikipedia
+* [List largest cities in the world](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Wikipedia/Wikipedia_List_largest_cities_in_the_world.ipynb)
+
 ## WindsorAI
 * [Create Dash app to query AP](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WindsorAI/WindsorAI_Create_Dash_app_to_query_AP.ipynb)
 

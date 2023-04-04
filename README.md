@@ -887,7 +887,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Waterfall Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_Waterfall_Chart.ipynb)
 
 ## WAQI
-* [Get Daily Air Quality Data for a city](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WAQI/WAQI_Get_Daily_Air_Quality_Data_for_a_city.ipynb)
+* [Display AQI on worldmap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WAQI/WAQI_Display_AQI_on_worldmap.ipynb)
+* [Get daily air quality data by coordinates](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WAQI/WAQI_Get_daily_air_quality_data_by_coordinates.ipynb)
+* [Get daily air quality data for a city](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WAQI/WAQI_Get_daily_air_quality_data_for_a_city.ipynb)
+* [Get stations by coordinates](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WAQI/WAQI_Get_stations_by_coordinates.ipynb)
+* [Search station by name](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WAQI/WAQI_Search_station_by_name.ipynb)
 
 ## WSR
 * [WHI Create indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WHI_Create_indicator.ipynb)

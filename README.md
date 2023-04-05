@@ -135,6 +135,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Boursorama
 * [Get CDS](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Boursorama/Boursorama_Get_CDS.ipynb)
+* [Get EURIBOR 3 MOIS](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Boursorama/Boursorama_Get_EURIBOR_3_MOIS.ipynb)
 
 ## Bubble
 * [Send data](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bubble/Bubble_Send_data.ipynb)

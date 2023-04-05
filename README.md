@@ -158,6 +158,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Cityfalcon
 * [Get data from API](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Cityfalcon/Cityfalcon_Get_data_from_API.ipynb)
 
+## Clockify
+* [Get all my workspaces](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_all_my_workspaces.ipynb)
+
 ## Cloud Mercato
 * [Compare VM pricing](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Cloud%20Mercato/Cloud_Mercato_Compare_VM_pricing.ipynb)
 

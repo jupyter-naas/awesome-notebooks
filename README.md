@@ -217,6 +217,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Visualiser Comparer Ventes Line Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Visualiser_Comparer_Ventes_Line_Chart.ipynb)
 * [Visualiser Trésorerie Barline Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Visualiser_Tr%C3%A9sorerie_Barline_Chart.ipynb)
 
+## FED
+* [Visualize Inflation Rate](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FED/FED_Visualize_Inflation_Rate.ipynb)
+
 ## FTP
 * [S Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTPS_Connect.ipynb)
 * [Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTP_Connect.ipynb)

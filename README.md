@@ -651,6 +651,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Pandasql
 * [Query CSV Using SQL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandasql/Pandasql_Query_CSV_Using_SQL.ipynb)
 * [Query Excel Using SQL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandasql/Pandasql_Query_Excel_Using_SQL.ipynb)
+* [Query Parquet Using SQL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandasql/Pandasql_Query_Parquet_Using_SQL.ipynb)
 
 ## Panel
 * [Create a  kernel on Naas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Panel/Panel_Create_a_Panel_kernel_on_Naas.ipynb)

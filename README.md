@@ -692,6 +692,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Vertical Barchart stacked](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Vertical_Barchart_stacked.ipynb)
 * [Create Waterfall chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Waterfall_chart.ipynb)
 
+## Polars
+* [Read CSV](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Polars/Polars_Read_CSV.ipynb)
+
 ## PostgresSQL
 * [Get data from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PostgresSQL/PostgresSQL_Get_data_from_database.ipynb)
 

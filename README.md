@@ -300,6 +300,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get unique visitors by country](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/Google_Analytics_Get_unique_visitors_by_country.ipynb)
 * [Send visitors traffic graph and trends prediction to Slack channel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/Google_Analytics_Send_visitors_traffic_graph_and_trends_prediction_to_Slack_channel.ipynb)
 
+## Google Calendar
+* [Get calendar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Calendar/Google_Calendar_Get_calendar.ipynb)
+
 ## Google Drive
 * [Download file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Drive/Google_Drive_Download_file.ipynb)
 

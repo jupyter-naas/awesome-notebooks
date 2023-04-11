@@ -605,6 +605,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Completion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Create_Completion.ipynb)
 * [Generate Dialogue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_Dialogue.ipynb)
 * [Generate Q&A](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_Q%26A.ipynb)
+* [Generate README for GitHub repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_README_for_GitHub_repository.ipynb)
 * [Generate Text to Speech](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_Text_to_Speech.ipynb)
 * [Generate language translations](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_language_translations.ipynb)
 * [Generate text based prediction](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_text_based_prediction.ipynb)

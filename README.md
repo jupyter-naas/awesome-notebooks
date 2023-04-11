@@ -302,6 +302,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Google Calendar
 * [Get calendar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Calendar/Google_Calendar_Get_calendar.ipynb)
+* [List calendars](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Calendar/Google_Calendar_List_calendars.ipynb)
+* [List events from calendar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Calendar/Google_Calendar_List_events_from_calendar.ipynb)
 
 ## Google Drive
 * [Download file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Drive/Google_Drive_Download_file.ipynb)

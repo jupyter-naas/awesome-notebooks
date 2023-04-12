@@ -563,6 +563,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Scheduler demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Scheduler_demo.ipynb)
 * [Secret demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Secret_demo.ipynb)
 * [Set timezone](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Set_timezone.ipynb)
+* [Start data product](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Start_data_product.ipynb)
 * [Use SSH tunnel to reach network protected resources](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Use_SSH_tunnel_to_reach_network_protected_resources.ipynb)
 * [Webhook demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Webhook_demo.ipynb)
 

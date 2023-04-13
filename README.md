@@ -161,6 +161,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Clockify
 * [Get all my workspaces](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_all_my_workspaces.ipynb)
+* [Get all projects on workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_all_projects_on_workspace.ipynb)
 
 ## Cloud Mercato
 * [Compare VM pricing](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Cloud%20Mercato/Cloud_Mercato_Compare_VM_pricing.ipynb)
@@ -216,6 +217,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Visualiser Bilan Treemap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Visualiser_Bilan_Treemap.ipynb)
 * [Visualiser Comparer Ventes Line Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Visualiser_Comparer_Ventes_Line_Chart.ipynb)
 * [Visualiser Trésorerie Barline Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Visualiser_Tr%C3%A9sorerie_Barline_Chart.ipynb)
+
+## FED
+* [Visualize Inflation Rate](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FED/FED_Visualize_Inflation_Rate.ipynb)
 
 ## FTP
 * [S Connect](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FTP/FTPS_Connect.ipynb)
@@ -296,6 +300,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get unique visitors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/Google_Analytics_Get_unique_visitors.ipynb)
 * [Get unique visitors by country](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/Google_Analytics_Get_unique_visitors_by_country.ipynb)
 * [Send visitors traffic graph and trends prediction to Slack channel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/Google_Analytics_Send_visitors_traffic_graph_and_trends_prediction_to_Slack_channel.ipynb)
+
+## Google Calendar
+* [Get calendar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Calendar/Google_Calendar_Get_calendar.ipynb)
+* [List calendars](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Calendar/Google_Calendar_List_calendars.ipynb)
+* [List events from calendar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Calendar/Google_Calendar_List_events_from_calendar.ipynb)
 
 ## Google Drive
 * [Download file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Drive/Google_Drive_Download_file.ipynb)
@@ -554,6 +563,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Scheduler demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Scheduler_demo.ipynb)
 * [Secret demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Secret_demo.ipynb)
 * [Set timezone](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Set_timezone.ipynb)
+* [Start data product](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Start_data_product.ipynb)
 * [Use SSH tunnel to reach network protected resources](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Use_SSH_tunnel_to_reach_network_protected_resources.ipynb)
 * [Webhook demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Webhook_demo.ipynb)
 
@@ -596,6 +606,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Completion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Create_Completion.ipynb)
 * [Generate Dialogue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_Dialogue.ipynb)
 * [Generate Q&A](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_Q%26A.ipynb)
+* [Generate README for GitHub repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_README_for_GitHub_repository.ipynb)
 * [Generate Text to Speech](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_Text_to_Speech.ipynb)
 * [Generate language translations](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_language_translations.ipynb)
 * [Generate text based prediction](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_text_based_prediction.ipynb)
@@ -650,6 +661,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Pandasql
 * [Query CSV Using SQL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandasql/Pandasql_Query_CSV_Using_SQL.ipynb)
+* [Query Excel Using SQL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandasql/Pandasql_Query_Excel_Using_SQL.ipynb)
+* [Query Parquet Using SQL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandasql/Pandasql_Query_Parquet_Using_SQL.ipynb)
 
 ## Panel
 * [Create a  kernel on Naas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Panel/Panel_Create_a_Panel_kernel_on_Naas.ipynb)
@@ -686,6 +699,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Vertical Barchart group](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Vertical_Barchart_group.ipynb)
 * [Create Vertical Barchart stacked](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Vertical_Barchart_stacked.ipynb)
 * [Create Waterfall chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Plotly/Plotly_Create_Waterfall_chart.ipynb)
+
+## Polars
+* [Read CSV](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Polars/Polars_Read_CSV.ipynb)
 
 ## PostgresSQL
 * [Get data from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PostgresSQL/PostgresSQL_Get_data_from_database.ipynb)
@@ -741,6 +757,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Organize Directories based on file types](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Organize_Directories_based_on_file_types.ipynb)
 * [Read json file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Read_json_file.ipynb)
 * [Read pickle file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Read_pickle_file.ipynb)
+* [Remove file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Remove_file.ipynb)
 * [Rename file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Rename_file.ipynb)
 * [Replace value in text in a specific paragraph](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Replace_value_in_text_in_a_specific_paragraph.ipynb)
 * [Save dict to pickle](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Save_dict_to_pickle.ipynb)

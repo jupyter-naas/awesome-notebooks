@@ -597,7 +597,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send LinkedIn invitations from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Send_LinkedIn_invitations_from_database.ipynb)
 * [Send Slack Messages For New  Database Items](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Send_Slack_Messages_For_New_Notion_Database_Items.ipynb)
 * [Sent Gmail On New Item](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Sent_Gmail_On_New_Item.ipynb)
-* [Update Database with LinkedIn Company Info](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_Database_with_LinkedIn_Company_Info.ipynb)
+* [Update database with LinkedIn company info](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_database_with_LinkedIn_company_info.ipynb)
+* [Update database with LinkedIn profile info](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_database_with_LinkedIn_profile_info.ipynb)
 * [Update page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_page.ipynb)
 * [Update pages from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_pages_from_database.ipynb)
 

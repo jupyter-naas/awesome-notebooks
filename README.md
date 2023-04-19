@@ -265,6 +265,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [List organization repositories](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_List_organization_repositories.ipynb)
 * [List pending team invitations](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_List_pending_team_invitations.ipynb)
 * [List stargazers from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_List_stargazers_from_repository.ipynb)
+* [List team members](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_List_team_members.ipynb)
 * [Peform basic actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Peform_basic_actions.ipynb)
 * [Read issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Read_issue.ipynb)
 * [Remove member from team](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Remove_member_from_team.ipynb)

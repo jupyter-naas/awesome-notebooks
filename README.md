@@ -325,6 +325,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send data to MongoDB](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Google_Sheets_Send_data_to_MongoDB.ipynb)
 * [Send emails from sheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Google_Sheets_Send_emails_from_sheet.ipynb)
 
+## Google Slides
+* [Create a blank presentation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Slides/Google_Slides_Create_a_blank_presentation.ipynb)
+
 ## HTML
 * [Create a website](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HTML/HTML_Create_a_website.ipynb)
 

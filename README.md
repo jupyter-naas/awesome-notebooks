@@ -326,6 +326,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send emails from sheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Sheets/Google_Sheets_Send_emails_from_sheet.ipynb)
 
 ## Google Slides
+* [Create a Slide](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Slides/Google_Slides_Create_a_Slide.ipynb)
 * [Create a blank presentation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Slides/Google_Slides_Create_a_blank_presentation.ipynb)
 
 ## HTML

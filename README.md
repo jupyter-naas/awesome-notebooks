@@ -609,6 +609,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Update database with LinkedIn company info](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_database_with_LinkedIn_company_info.ipynb)
 * [Update database with LinkedIn profile info](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_database_with_LinkedIn_profile_info.ipynb)
 * [Update page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_page.ipynb)
+* [Update page relation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_page_relation.ipynb)
 * [Update pages from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_pages_from_database.ipynb)
 
 ## OpenAI

@@ -331,6 +331,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create a blank presentation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Slides/Google_Slides_Create_a_blank_presentation.ipynb)
 * [Duplicate slide](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Slides/Google_Slides_Duplicate_slide.ipynb)
 * [List slides in presentation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Slides/Google_Slides_List_slides_in_presentation.ipynb)
+* [Replace text within a shape](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Slides/Google_Slides_Replace_text_within_a_shape.ipynb)
 
 ## HTML
 * [Create a website](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HTML/HTML_Create_a_website.ipynb)

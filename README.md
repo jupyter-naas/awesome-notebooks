@@ -918,6 +918,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Follow CPI](https://github.com/jupyter-naas/awesome-notebooks/tree/master/US%20Bureau%20of%20Labor%20Statistics/US_Bureau_of_Labor_Statistics_Follow_CPI.ipynb)
 
 ## Vizzu
+* [Create Animated Bar Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_Animated_Bar_Chart.ipynb)
 * [Create Column Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_Column_Chart.ipynb)
 * [Create Grouped Column Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_Grouped_Column_Chart.ipynb)
 * [Create Line Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_Line_Chart.ipynb)

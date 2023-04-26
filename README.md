@@ -414,6 +414,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Jupyter Notebooks
 * [Add cells in notebook json](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter%20Notebooks/Jupyter_Notebooks_Add_cells_in_notebook_json.ipynb)
 * [Add tags in cells](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter%20Notebooks/Jupyter_Notebooks_Add_tags_in_cells.ipynb)
+* [Apply black on notebook file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter%20Notebooks/Jupyter_Notebooks_Apply_black_on_notebook_file.ipynb)
 * [Count code characters](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter%20Notebooks/Jupyter_Notebooks_Count_code_characters.ipynb)
 * [Count code lines](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter%20Notebooks/Jupyter_Notebooks_Count_code_lines.ipynb)
 * [Get installs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Jupyter%20Notebooks/Jupyter_Notebooks_Get_installs.ipynb)

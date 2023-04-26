@@ -234,6 +234,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## GitHub
 * [Add new issues as page in Notion database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Add_new_issues_as_page_in_Notion_database.ipynb)
 * [Add new member to team](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Add_new_member_to_team.ipynb)
+* [Add or update team membership for a user](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Add_or_update_team_membership_for_a_user.ipynb)
 * [Clone repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Clone_repository.ipynb)
 * [Close issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Close_issue.ipynb)
 * [Create Repo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_Repo.ipynb)

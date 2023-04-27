@@ -90,6 +90,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Sync with Notion database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Affinity/Affinity_Sync_with_Notion_database.ipynb)
 
 ## Agicap
+* [Export treasury plan](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Agicap/Agicap_Export_treasury_plan.ipynb)
+* [Export treasury plan by account](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Agicap/Agicap_Export_treasury_plan_by_account.ipynb)
 * [List companies](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Agicap/Agicap_List_companies.ipynb)
 
 ## Airtable

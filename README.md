@@ -552,6 +552,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Naas
 * [Add Asset](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Add_Asset.ipynb)
 * [Add Scheduler](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Add_Scheduler.ipynb)
+* [Add Secret](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Add_Secret.ipynb)
 * [Add Webhook](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Add_Webhook.ipynb)
 * [Asset demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Asset_demo.ipynb)
 * [Automate GitHub Auth](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Automate_GitHub_Auth.ipynb)
@@ -561,6 +562,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Credits Get Balance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Credits_Get_Balance.ipynb)
 * [Delete Asset](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Delete_Asset.ipynb)
 * [Delete Scheduler](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Delete_Scheduler.ipynb)
+* [Delete Secret](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Delete_Secret.ipynb)
 * [Delete Webhook](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Delete_Webhook.ipynb)
 * [Dependency demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Dependency_demo.ipynb)
 * [Doc demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Doc_demo.ipynb)
@@ -572,6 +574,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get number of downloads naas package](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_number_of_downloads_naas_package.ipynb)
 * [Get total downloads naas libraries](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_total_downloads_naas_libraries.ipynb)
 * [List Assets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_List_Assets.ipynb)
+* [List Secrets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_List_Secrets.ipynb)
 * [List Webhooks](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_List_Webhooks.ipynb)
 * [Manage Pipeline Errors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Manage_Pipeline_Errors.ipynb)
 * [NLP Examples](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_NLP_Examples.ipynb)

@@ -600,9 +600,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Notion
 * [Add cover image to page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_cover_image_to_page.ipynb)
 * [Add icon image to page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_icon_image_to_page.ipynb)
-* [Add image to page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_image_to_page.ipynb)
 * [Add new github member to team from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_new_github_member_to_team_from_database.ipynb)
 * [Add paragraph with link in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_paragraph_with_link_in_page.ipynb)
+* [Add to do list in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_to_do_list_in_page.ipynb)
 * [Automate transcript generation from recording link in page property](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Automate_transcript_generation_from_recording_link_in_page_property.ipynb)
 * [Create page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Create_page.ipynb)
 * [Create pages in database from dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Create_pages_in_database_from_dataframe.ipynb)
@@ -625,6 +625,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Update page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_page.ipynb)
 * [Update page relation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_page_relation.ipynb)
 * [Update pages from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Update_pages_from_database.ipynb)
+* [Upload PDF in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Upload_PDF_in_page.ipynb)
+* [Upload image in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Upload_image_in_page.ipynb)
+* [Upload video in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Upload_video_in_page.ipynb)
 
 ## OpenAI
 * [Brainstorm ideas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Brainstorm_ideas.ipynb)

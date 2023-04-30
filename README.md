@@ -598,9 +598,14 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send emails briefs](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Newsapi/Newsapi_Send_emails_briefs.ipynb)
 
 ## Notion
+* [Add bulleted list in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_bulleted_list_in_page.ipynb)
+* [Add code block in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_code_block_in_page.ipynb)
 * [Add cover image to page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_cover_image_to_page.ipynb)
+* [Add equation in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_equation_in_page.ipynb)
+* [Add heading in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_heading_in_page.ipynb)
 * [Add icon image to page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_icon_image_to_page.ipynb)
 * [Add new github member to team from database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_new_github_member_to_team_from_database.ipynb)
+* [Add numbered list in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_numbered_list_in_page.ipynb)
 * [Add paragraph with link in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_paragraph_with_link_in_page.ipynb)
 * [Add to do list in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Add_to_do_list_in_page.ipynb)
 * [Automate transcript generation from recording link in page property](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Automate_transcript_generation_from_recording_link_in_page_property.ipynb)

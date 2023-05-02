@@ -117,6 +117,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get export Lots](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Bazimo/Bazimo_Get_export_Lots.ipynb)
 
 ## BeautifulSoup
+* [List social network links from website](https://github.com/jupyter-naas/awesome-notebooks/tree/master/BeautifulSoup/BeautifulSoup_List_social_network_links_from_website.ipynb)
 * [Scrape emails from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/BeautifulSoup/BeautifulSoup_Scrape_emails_from_URL.ipynb)
 
 ## BigQuery

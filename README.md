@@ -778,6 +778,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Delete entire directory tree](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Delete_entire_directory_tree.ipynb)
 * [Download Image from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Download_Image_from_URL.ipynb)
 * [Download PDF from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Download_PDF_from_URL.ipynb)
+* [Download ZIP from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Download_ZIP_from_URL.ipynb)
 * [Explore Dataset with Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Explore_Dataset_with_Pivot_Table.ipynb)
 * [Find Phone Number in string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Find_Phone_Number_in_string.ipynb)
 * [Flatten nested dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Flatten_nested_dict.ipynb)

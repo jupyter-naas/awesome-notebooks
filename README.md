@@ -239,6 +239,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Add new member to team](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Add_new_member_to_team.ipynb)
 * [Add or update team membership for a user](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Add_or_update_team_membership_for_a_user.ipynb)
 * [Clone repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Clone_repository.ipynb)
+* [Clone repository and switch branch](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Clone_repository_and_switch_branch.ipynb)
 * [Close issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Close_issue.ipynb)
 * [Create Repo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_Repo.ipynb)
 * [Create issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_issue.ipynb)

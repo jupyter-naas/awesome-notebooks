@@ -692,7 +692,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Merge_Dataframes.ipynb)
 * [Pivot rows to columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Pivot_rows_to_columns.ipynb)
 * [Rename Columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Rename_Columns.ipynb)
-* [Transform dataframe to dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Transform_dataframe_to_dict.ipynb)
+* [Transform DataFrame to json file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Transform_DataFrame_to_json_file.ipynb)
+* [Transform Dataframe to dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Transform_Dataframe_to_dict.ipynb)
 
 ## Pandasql
 * [Query CSV Using SQL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandasql/Pandasql_Query_CSV_Using_SQL.ipynb)

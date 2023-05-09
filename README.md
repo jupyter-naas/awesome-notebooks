@@ -761,6 +761,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [- Get number of downloads any package](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PyPI/PyPI%20-%20Get_number_of_downloads_any_package.ipynb)
 
 ## Python
+* [Access environment variable](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Access_environment_variable.ipynb)
+* [Add new environment variable](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Add_new_environment_variable.ipynb)
 * [Check email validity](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Check_email_validity.ipynb)
 * [Clean your download folder](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Clean_your_download_folder.ipynb)
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Consolidate_Excel_files.ipynb)
@@ -784,6 +786,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Find Phone Number in string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Find_Phone_Number_in_string.ipynb)
 * [Flatten nested dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Flatten_nested_dict.ipynb)
 * [Get Word Definition and Translation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_Word_Definition_and_Translation.ipynb)
+* [Get access of environment variables](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_access_of_environment_variables.ipynb)
 * [Get all files from directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_all_files_from_directory.ipynb)
 * [Get coordinates from address](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_coordinates_from_address.ipynb)
 * [Get last file modified from directy](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_last_file_modified_from_directy.ipynb)

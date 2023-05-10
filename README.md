@@ -374,6 +374,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send deals to gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Send_deals_to_gsheet.ipynb)
 * [Send new deals created weekly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Send_new_deals_created_weekly.ipynb)
 * [Send sales brief](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Send_sales_brief.ipynb)
+* [Send sales pipeline to Notion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Send_sales_pipeline_to_Notion.ipynb)
 * [Update Task](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_Task.ipynb)
 * [Update contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_contact.ipynb)
 * [Update deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_deal.ipynb)

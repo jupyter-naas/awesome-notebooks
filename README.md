@@ -374,6 +374,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send deals to gsheet](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Send_deals_to_gsheet.ipynb)
 * [Send new deals created weekly](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Send_new_deals_created_weekly.ipynb)
 * [Send sales brief](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Send_sales_brief.ipynb)
+* [Send sales pipeline to Notion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Send_sales_pipeline_to_Notion.ipynb)
 * [Update Task](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_Task.ipynb)
 * [Update contact](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_contact.ipynb)
 * [Update deal](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HubSpot/HubSpot_Update_deal.ipynb)
@@ -947,6 +948,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Vizzu
 * [Create Animated Bar Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_Animated_Bar_Chart.ipynb)
+* [Create Animated Pie Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_Animated_Pie_Chart.ipynb)
 * [Create Column Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_Column_Chart.ipynb)
 * [Create Grouped Column Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_Grouped_Column_Chart.ipynb)
 * [Create Line Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_Line_Chart.ipynb)

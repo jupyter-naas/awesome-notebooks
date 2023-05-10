@@ -947,6 +947,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Vizzu
 * [Create Animated Bar Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_Animated_Bar_Chart.ipynb)
+* [Create Animated Pie Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_Animated_Pie_Chart.ipynb)
 * [Create Column Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_Column_Chart.ipynb)
 * [Create Grouped Column Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_Grouped_Column_Chart.ipynb)
 * [Create Line Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Vizzu/Vizzu_Create_Line_Chart.ipynb)

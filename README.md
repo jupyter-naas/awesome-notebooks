@@ -289,6 +289,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get seen emails](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Get_seen_emails.ipynb)
 * [Get unseen emails](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Get_unseen_emails.ipynb)
 * [Read mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Read_mailbox.ipynb)
+* [Send email](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Send_email.ipynb)
 * [Update email flag](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Update_email_flag.ipynb)
 
 ## Google Analytics

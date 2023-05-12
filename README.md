@@ -284,10 +284,12 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Gmail
 * [Automate response from keywords in mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Automate_response_from_keywords_in_mailbox.ipynb)
 * [Clean mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Clean_mailbox.ipynb)
+* [Delete email from mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Delete_email_from_mailbox.ipynb)
+* [Get emails stats by sender](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Get_emails_stats_by_sender.ipynb)
+* [Get seen emails](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Get_seen_emails.ipynb)
+* [Get unseen emails](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Get_unseen_emails.ipynb)
 * [Read mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Read_mailbox.ipynb)
-* [Schedule mailbox cleaning](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Schedule_mailbox_cleaning.ipynb)
-* [Send emails from Gsheet classic](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Send_emails_from_Gsheet_classic.ipynb)
-* [Send emails from Gsheet specific](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Send_emails_from_Gsheet_specific.ipynb)
+* [Update email flag](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Update_email_flag.ipynb)
 
 ## Google Analytics
 * [Follow average session duration daily](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/Google_Analytics_Follow_average_session_duration_daily.ipynb)
@@ -588,6 +590,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Reset Instance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Reset_Instance.ipynb)
 * [Scheduler demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Scheduler_demo.ipynb)
 * [Secret demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Secret_demo.ipynb)
+* [Send notifications from Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Send_notifications_from_Google_Sheets.ipynb)
 * [Set timezone](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Set_timezone.ipynb)
 * [Start data product](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Start_data_product.ipynb)
 * [Use SSH tunnel to reach network protected resources](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Use_SSH_tunnel_to_reach_network_protected_resources.ipynb)

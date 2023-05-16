@@ -163,6 +163,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get data from API](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Cityfalcon/Cityfalcon_Get_data_from_API.ipynb)
 
 ## Clockify
+* [Find all users on workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Find_all_users_on_workspace.ipynb)
 * [Get all my workspaces](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_all_my_workspaces.ipynb)
 * [Get all projects on workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_all_projects_on_workspace.ipynb)
 * [Remove user from workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Remove_user_from_workspace.ipynb)

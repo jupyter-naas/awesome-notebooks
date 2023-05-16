@@ -171,6 +171,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get all my workspaces](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_all_my_workspaces.ipynb)
 * [Get all projects on workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_all_projects_on_workspace.ipynb)
 * [Get client by ID](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_client_by_ID.ipynb)
+* [Get time entries for a user on workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_time_entries_for_a_user_on_workspace.ipynb)
 * [Remove user from workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Remove_user_from_workspace.ipynb)
 * [Update client](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Update_client.ipynb)
 

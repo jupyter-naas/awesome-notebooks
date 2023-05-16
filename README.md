@@ -165,6 +165,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Clockify
 * [Get all my workspaces](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_all_my_workspaces.ipynb)
 * [Get all projects on workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_all_projects_on_workspace.ipynb)
+* [Remove user from workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Remove_user_from_workspace.ipynb)
 
 ## Cloud Mercato
 * [Compare VM pricing](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Cloud%20Mercato/Cloud_Mercato_Compare_VM_pricing.ipynb)

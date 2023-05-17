@@ -164,16 +164,20 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Clockify
 * [Add a new client](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Add_a_new_client.ipynb)
+* [Add a new project](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Add_a_new_project.ipynb)
 * [Delete client](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Delete_client.ipynb)
+* [Delete project](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Delete_project.ipynb)
 * [Find all users on workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Find_all_users_on_workspace.ipynb)
 * [Find clients on workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Find_clients_on_workspace.ipynb)
 * [Find tasks on project](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Find_tasks_on_project.ipynb)
 * [Get all my workspaces](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_all_my_workspaces.ipynb)
 * [Get all projects on workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_all_projects_on_workspace.ipynb)
 * [Get client by ID](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_client_by_ID.ipynb)
+* [Get project by ID](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_project_by_ID.ipynb)
 * [Get time entries for a user on workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_time_entries_for_a_user_on_workspace.ipynb)
 * [Remove user from workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Remove_user_from_workspace.ipynb)
 * [Update client](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Update_client.ipynb)
+* [Update project](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Update_project.ipynb)
 
 ## Cloud Mercato
 * [Compare VM pricing](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Cloud%20Mercato/Cloud_Mercato_Compare_VM_pricing.ipynb)

@@ -915,10 +915,13 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create prediction app](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Streamlit/Streamlit_Create_prediction_app.ipynb)
 
 ## Stripe
+* [Create a customer](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Create_a_customer.ipynb)
+* [Delete a customer](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Delete_a_customer.ipynb)
 * [Get balances](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_balances.ipynb)
 * [Get charges](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_charges.ipynb)
-* [Get customers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_customers.ipynb)
 * [List all customers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_List_all_customers.ipynb)
+* [Retrieve a customer](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Retrieve_a_customer.ipynb)
+* [Update a customer](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Update_a_customer.ipynb)
 
 ## Supabase
 * [Email Auth](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Supabase/Supabase_Email_Auth.ipynb)

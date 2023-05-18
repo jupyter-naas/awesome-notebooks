@@ -297,6 +297,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Gmail
 * [Automate response from keywords in mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Automate_response_from_keywords_in_mailbox.ipynb)
 * [Clean mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Clean_mailbox.ipynb)
+* [Create GitHub issue on specific email](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Create_GitHub_issue_on_specific_email.ipynb)
 * [Delete email from mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Delete_email_from_mailbox.ipynb)
 * [Get emails stats by sender](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Get_emails_stats_by_sender.ipynb)
 * [Get seen emails](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Get_seen_emails.ipynb)

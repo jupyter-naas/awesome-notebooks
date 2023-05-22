@@ -784,6 +784,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Python
 * [Access environment variable](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Access_environment_variable.ipynb)
 * [Add new environment variable](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Add_new_environment_variable.ipynb)
+* [Calculate relative time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Calculate_relative_time_delta_between_two_dates.ipynb)
+* [Calculate time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Calculate_time_delta_between_two_dates.ipynb)
 * [Check email validity](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Check_email_validity.ipynb)
 * [Clean your download folder](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Clean_your_download_folder.ipynb)
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Consolidate_Excel_files.ipynb)
@@ -792,7 +794,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Convert PNG Images To JPG](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_PNG_Images_To_JPG.ipynb)
 * [Convert URL to string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_URL_to_string.ipynb)
 * [Convert audiofile from wav to mp3](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_audiofile_from_wav_to_mp3.ipynb)
+* [Convert relative time delta to months](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_relative_time_delta_to_months.ipynb)
 * [Convert string to URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_string_to_URL.ipynb)
+* [Convert time delta to months](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_time_delta_to_months.ipynb)
 * [Copy files and subdir from directory to another directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Copy_files_and_subdir_from_directory_to_another_directory.ipynb.ipynb)
 * [Create Email Combination with Firstname Lastname Domain address](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_Email_Combination_with_Firstname_Lastname_Domain_address.ipynb)
 * [Create Strong Random Password](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_Strong_Random_Password.ipynb)

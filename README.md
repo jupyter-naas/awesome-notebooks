@@ -956,6 +956,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Twitter
 * [Add member to list](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Add_member_to_list.ipynb)
+* [Get followers list](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_followers_list.ipynb)
 * [Get members of list](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_members_of%20list.ipynb)
 * [Get posts stats](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_posts_stats.ipynb)
 * [Get tweets from search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_tweets_from_search.ipynb)

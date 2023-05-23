@@ -86,6 +86,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Check Email Validation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Abstract%20API/Abstract_API_Check_Email_Validation.ipynb)
 * [Get IP Geolocation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Abstract%20API/Abstract_API_Get_IP_Geolocation.ipynb)
 
+## Advertools
+* [Analyze website content using XML sitemap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Advertools/Advertools_Analyze_website_content_using_XML_sitemap.ipynb)
+
 ## Affinity
 * [Sync with Notion database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Affinity/Affinity_Sync_with_Notion_database.ipynb)
 

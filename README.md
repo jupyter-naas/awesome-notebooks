@@ -788,6 +788,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Calculate time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Calculate_time_delta_between_two_dates.ipynb)
 * [Check email validity](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Check_email_validity.ipynb)
 * [Clean your download folder](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Clean_your_download_folder.ipynb)
+* [Compress images](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Compress_images.ipynb)
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Consolidate_Excel_files.ipynb)
 * [Convert CSV to Excel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_CSV_to_Excel.ipynb)
 * [Convert Datetime with Timezone to ISO 8601 date string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_Datetime_with_Timezone_to_ISO_8601_date_string.ipynb)

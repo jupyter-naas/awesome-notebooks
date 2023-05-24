@@ -198,6 +198,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Navbar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar.ipynb)
 * [Create Navbar board](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar_Dashboard.ipynb)
 * [Create Navbar Search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar_Search.ipynb)
+* [Create conditional formatting on HTML element](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_conditional_formatting_on_HTML_element.ipynb)
+* [Create conditional formatting on number value](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_conditional_formatting_on_number_value.ipynb)
 * [Deploy app in Naas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Deploy_app_in_Naas.ipynb)
 * [LinkedIn posts metrics dashboard](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_LinkedIn_posts_metrics_dashboard.ipynb)
 * [Plotly Dynamic Link](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Plotly_Dynamic_Link.ipynb)

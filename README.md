@@ -235,6 +235,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## FEC
 * [Creer un dashboard PowerBI](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Creer_un_dashboard_PowerBI.ipynb)
+* [Lecture des fichiers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Lecture_des_fichiers.ipynb)
 * [Visualiser Bilan Treemap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Visualiser_Bilan_Treemap.ipynb)
 * [Visualiser Charges Horizontal Barchart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Visualiser_Charges_Horizontal_Barchart.ipynb)
 * [Visualiser Comparer Ventes Line Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Visualiser_Comparer_Ventes_Line_Chart.ipynb)

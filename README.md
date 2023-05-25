@@ -254,6 +254,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Anonymize Address from dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Faker/Faker_Anonymize_Address_from_dataframe.ipynb)
 * [Anonymize Personal Names from dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Faker/Faker_Anonymize_Personal_Names_from_dataframe.ipynb)
 
+## Formant
+* [Query Device Network](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Formant/Formant_Query_Device_Network.ipynb)
+
 ## GitHub
 * [Add new issues as page in Notion database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Add_new_issues_as_page_in_Notion_database.ipynb)
 * [Add new member to team](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Add_new_member_to_team.ipynb)

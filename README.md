@@ -303,9 +303,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Read issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Read_issue.ipynb)
 * [Remove member from team](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Remove_member_from_team.ipynb)
 * [Remove team membership for a user](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Remove_team_membership_for_a_user.ipynb)
+* [Reopen issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Reopen_issue.ipynb)
 * [Send stargazers to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Send_stargazers_to_Google_Sheets.ipynb)
 * [Track issues on projects](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_issues_on_projects.ipynb)
 * [Track notebooks created over time](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_notebooks_created_over_time.ipynb)
+* [Update issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Update_issue.ipynb)
 
 ## Gmail
 * [Automate response from keywords in mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Automate_response_from_keywords_in_mailbox.ipynb)

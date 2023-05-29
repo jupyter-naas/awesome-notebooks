@@ -86,6 +86,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Check Email Validation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Abstract%20API/Abstract_API_Check_Email_Validation.ipynb)
 * [Get IP Geolocation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Abstract%20API/Abstract_API_Get_IP_Geolocation.ipynb)
 
+## Advertools
+* [Analyze website content using XML sitemap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Advertools/Advertools_Analyze_website_content_using_XML_sitemap.ipynb)
+
 ## Affinity
 * [Sync with Notion database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Affinity/Affinity_Sync_with_Notion_database.ipynb)
 
@@ -163,8 +166,21 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get data from API](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Cityfalcon/Cityfalcon_Get_data_from_API.ipynb)
 
 ## Clockify
+* [Add a new client](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Add_a_new_client.ipynb)
+* [Add a new project](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Add_a_new_project.ipynb)
+* [Delete client](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Delete_client.ipynb)
+* [Delete project](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Delete_project.ipynb)
+* [Find all users on workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Find_all_users_on_workspace.ipynb)
+* [Find clients on workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Find_clients_on_workspace.ipynb)
+* [Find tasks on project](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Find_tasks_on_project.ipynb)
 * [Get all my workspaces](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_all_my_workspaces.ipynb)
 * [Get all projects on workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_all_projects_on_workspace.ipynb)
+* [Get client by ID](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_client_by_ID.ipynb)
+* [Get project by ID](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_project_by_ID.ipynb)
+* [Get time entries for a user on workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Get_time_entries_for_a_user_on_workspace.ipynb)
+* [Remove user from workspace](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Remove_user_from_workspace.ipynb)
+* [Update client](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Update_client.ipynb)
+* [Update project](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Clockify/Clockify_Update_project.ipynb)
 
 ## Cloud Mercato
 * [Compare VM pricing](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Cloud%20Mercato/Cloud_Mercato_Compare_VM_pricing.ipynb)
@@ -182,6 +198,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Navbar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar.ipynb)
 * [Create Navbar board](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar_Dashboard.ipynb)
 * [Create Navbar Search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar_Search.ipynb)
+* [Create conditional formatting on HTML element](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_conditional_formatting_on_HTML_element.ipynb)
+* [Create conditional formatting on number value](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_conditional_formatting_on_number_value.ipynb)
 * [Deploy app in Naas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Deploy_app_in_Naas.ipynb)
 * [LinkedIn posts metrics dashboard](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_LinkedIn_posts_metrics_dashboard.ipynb)
 * [Plotly Dynamic Link](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Plotly_Dynamic_Link.ipynb)
@@ -217,7 +235,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## FEC
 * [Creer un dashboard PowerBI](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Creer_un_dashboard_PowerBI.ipynb)
+* [Lecture des fichiers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Lecture_des_fichiers.ipynb)
 * [Visualiser Bilan Treemap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Visualiser_Bilan_Treemap.ipynb)
+* [Visualiser Charges Horizontal Barchart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Visualiser_Charges_Horizontal_Barchart.ipynb)
 * [Visualiser Comparer Ventes Line Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Visualiser_Comparer_Ventes_Line_Chart.ipynb)
 * [Visualiser Trésorerie Barline Chart](https://github.com/jupyter-naas/awesome-notebooks/tree/master/FEC/FEC_Visualiser_Tr%C3%A9sorerie_Barline_Chart.ipynb)
 
@@ -234,6 +254,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Anonymize Address from dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Faker/Faker_Anonymize_Address_from_dataframe.ipynb)
 * [Anonymize Personal Names from dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Faker/Faker_Anonymize_Personal_Names_from_dataframe.ipynb)
 
+## Formant
+* [Query Device Network](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Formant/Formant_Query_Device_Network.ipynb)
+
 ## GitHub
 * [Add new issues as page in Notion database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Add_new_issues_as_page_in_Notion_database.ipynb)
 * [Add new member to team](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Add_new_member_to_team.ipynb)
@@ -242,11 +265,13 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Clone repository and switch branch](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Clone_repository_and_switch_branch.ipynb)
 * [Close issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Close_issue.ipynb)
 * [Create Repo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_Repo.ipynb)
+* [Create an issue comment](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_an_issue_comment.ipynb)
 * [Create issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_issue.ipynb)
 * [Create leaderboard of contributors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_leaderboard_of_contributors.ipynb)
 * [Create newsletter based on repository activity](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_newsletter_based_on_repository_activity.ipynb)
 * [Create pull request](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_pull_request.ipynb)
 * [Create repository on personal account](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Create_repository_on_personal_account.ipynb)
+* [Delete an issue comment](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Delete_an_issue_comment.ipynb)
 * [Download Excel file from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Download_Excel_file_from_URL.ipynb)
 * [Download file from url](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Download_file_from_url.ipynb)
 * [Download repository from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Download_repository_from_URL.ipynb)
@@ -268,6 +293,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get weekly commits from repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Get_weekly_commits_from_repository.ipynb)
 * [List all pull requests](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_List_all_pull_requests.ipynb)
 * [List closed pull requests](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_List_closed_pull_requests.ipynb)
+* [List issue comments](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_List_issue_comments.ipynb)
 * [List open pull requests](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_List_open_pull_requests.ipynb)
 * [List organization repositories](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_List_organization_repositories.ipynb)
 * [List pending team invitations](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_List_pending_team_invitations.ipynb)
@@ -277,17 +303,24 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Read issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Read_issue.ipynb)
 * [Remove member from team](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Remove_member_from_team.ipynb)
 * [Remove team membership for a user](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Remove_team_membership_for_a_user.ipynb)
+* [Reopen issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Reopen_issue.ipynb)
 * [Send stargazers to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Send_stargazers_to_Google_Sheets.ipynb)
 * [Track issues on projects](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_issues_on_projects.ipynb)
 * [Track notebooks created over time](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Track_notebooks_created_over_time.ipynb)
+* [Update issue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/GitHub/GitHub_Update_issue.ipynb)
 
 ## Gmail
 * [Automate response from keywords in mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Automate_response_from_keywords_in_mailbox.ipynb)
 * [Clean mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Clean_mailbox.ipynb)
+* [Create GitHub issue on specific email](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Create_GitHub_issue_on_specific_email.ipynb)
+* [Create draft email](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Create_draft_email.ipynb)
+* [Delete email from mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Delete_email_from_mailbox.ipynb)
+* [Get emails stats by sender](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Get_emails_stats_by_sender.ipynb)
+* [Get seen emails](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Get_seen_emails.ipynb)
+* [Get unseen emails](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Get_unseen_emails.ipynb)
 * [Read mailbox](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Read_mailbox.ipynb)
-* [Schedule mailbox cleaning](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Schedule_mailbox_cleaning.ipynb)
-* [Send emails from Gsheet classic](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Send_emails_from_Gsheet_classic.ipynb)
-* [Send emails from Gsheet specific](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Send_emails_from_Gsheet_specific.ipynb)
+* [Send email](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Send_email.ipynb)
+* [Update email flag](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Gmail/Gmail_Update_email_flag.ipynb)
 
 ## Google Analytics
 * [Follow average session duration daily](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Google%20Analytics/Google_Analytics_Follow_average_session_duration_daily.ipynb)
@@ -553,10 +586,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Social Media KPIs ScoreCard](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas%20Dashboard/Naas_Dashboard_Social_Media_KPIs_ScoreCard.ipynb)
 
 ## Naas
-* [Add Asset](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Add_Asset.ipynb)
-* [Add Scheduler](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Add_Scheduler.ipynb)
-* [Add Secret](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Add_Secret.ipynb)
-* [Add Webhook](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Add_Webhook.ipynb)
+* [Add or Update Asset](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Add_or_Update_Asset.ipynb)
+* [Add or Update Dependency](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Add_or_Update_Dependency.ipynb)
+* [Add or Update Scheduler](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Add_or_Update_Scheduler.ipynb)
+* [Add or Update Secret](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Add_or_Update_Secret.ipynb)
+* [Add or Update Webhook](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Add_or_Update_Webhook.ipynb)
 * [Asset demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Asset_demo.ipynb)
 * [Automate GitHub Auth](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Automate_GitHub_Auth.ipynb)
 * [Configure Github with ssh](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Configure_Github_with_ssh.ipynb)
@@ -564,6 +598,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Pipeline](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Create_Pipeline.ipynb)
 * [Credits Get Balance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Credits_Get_Balance.ipynb)
 * [Delete Asset](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Delete_Asset.ipynb)
+* [Delete Dependency](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Delete_Dependency.ipynb)
 * [Delete Scheduler](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Delete_Scheduler.ipynb)
 * [Delete Secret](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Delete_Secret.ipynb)
 * [Delete Webhook](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Delete_Webhook.ipynb)
@@ -578,6 +613,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get number of downloads naas package](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_number_of_downloads_naas_package.ipynb)
 * [Get total downloads naas libraries](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_total_downloads_naas_libraries.ipynb)
 * [List Assets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_List_Assets.ipynb)
+* [List Dependencies](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_List_Dependencies.ipynb)
 * [List Secrets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_List_Secrets.ipynb)
 * [List Webhooks](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_List_Webhooks.ipynb)
 * [Manage Pipeline Errors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Manage_Pipeline_Errors.ipynb)
@@ -588,6 +624,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Reset Instance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Reset_Instance.ipynb)
 * [Scheduler demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Scheduler_demo.ipynb)
 * [Secret demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Secret_demo.ipynb)
+* [Send notifications from Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Send_notifications_from_Google_Sheets.ipynb)
 * [Set timezone](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Set_timezone.ipynb)
 * [Start data product](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Start_data_product.ipynb)
 * [Use SSH tunnel to reach network protected resources](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Use_SSH_tunnel_to_reach_network_protected_resources.ipynb)
@@ -648,6 +685,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Generate language translations](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_language_translations.ipynb)
 * [Generate text based prediction](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_text_based_prediction.ipynb)
 * [Generate text replacements](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_text_replacements.ipynb)
+* [Generate text summaries](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_text_summaries.ipynb)
 * [Write a blog post](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Write_a_blog_post.ipynb)
 * [Write a job description](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Write_a_job_description.ipynb)
 * [Write a press release](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Write_a_press_release.ipynb)
@@ -765,15 +803,20 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Python
 * [Access environment variable](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Access_environment_variable.ipynb)
 * [Add new environment variable](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Add_new_environment_variable.ipynb)
+* [Calculate relative time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Calculate_relative_time_delta_between_two_dates.ipynb)
+* [Calculate time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Calculate_time_delta_between_two_dates.ipynb)
 * [Check email validity](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Check_email_validity.ipynb)
 * [Clean your download folder](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Clean_your_download_folder.ipynb)
+* [Compress images](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Compress_images.ipynb)
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Consolidate_Excel_files.ipynb)
 * [Convert CSV to Excel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_CSV_to_Excel.ipynb)
 * [Convert Datetime with Timezone to ISO 8601 date string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_Datetime_with_Timezone_to_ISO_8601_date_string.ipynb)
 * [Convert PNG Images To JPG](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_PNG_Images_To_JPG.ipynb)
 * [Convert URL to string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_URL_to_string.ipynb)
 * [Convert audiofile from wav to mp3](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_audiofile_from_wav_to_mp3.ipynb)
+* [Convert relative time delta to months](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_relative_time_delta_to_months.ipynb)
 * [Convert string to URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_string_to_URL.ipynb)
+* [Convert time delta to months](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Convert_time_delta_to_months.ipynb)
 * [Copy files and subdir from directory to another directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Copy_files_and_subdir_from_directory_to_another_directory.ipynb.ipynb)
 * [Create Email Combination with Firstname Lastname Domain address](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_Email_Combination_with_Firstname_Lastname_Domain_address.ipynb)
 * [Create Strong Random Password](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_Strong_Random_Password.ipynb)
@@ -898,10 +941,13 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create prediction app](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Streamlit/Streamlit_Create_prediction_app.ipynb)
 
 ## Stripe
+* [Create a customer](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Create_a_customer.ipynb)
+* [Delete a customer](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Delete_a_customer.ipynb)
 * [Get balances](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_balances.ipynb)
 * [Get charges](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_charges.ipynb)
-* [Get customers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Get_customers.ipynb)
 * [List all customers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_List_all_customers.ipynb)
+* [Retrieve a customer](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Retrieve_a_customer.ipynb)
+* [Update a customer](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stripe/Stripe_Update_a_customer.ipynb)
 
 ## Supabase
 * [Email Auth](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Supabase/Supabase_Email_Auth.ipynb)
@@ -930,6 +976,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Twitter
 * [Add member to list](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Add_member_to_list.ipynb)
+* [Get followers list](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_followers_list.ipynb)
 * [Get members of list](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_members_of%20list.ipynb)
 * [Get posts stats](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_posts_stats.ipynb)
 * [Get tweets from search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Twitter/Twitter_Get_tweets_from_search.ipynb)

@@ -88,6 +88,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Advertools
 * [Analyze website content using XML sitemap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Advertools/Advertools_Analyze_website_content_using_XML_sitemap.ipynb)
+* [Audit robots txt and xml sitemap issues](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Advertools/Advertools_Audit_robots_txt_and_xml_sitemap_issues.ipynb)
 
 ## Affinity
 * [Sync with Notion database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Affinity/Affinity_Sync_with_Notion_database.ipynb)

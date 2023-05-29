@@ -195,6 +195,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Datatable With Dropdown](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Datatable_With_Dropdown.ipynb)
 * [Create Dropdown Callback](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Dropdown_Callback.ipynb)
 * [Create Dropdown with multiples output callbacks](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Dropdown_with_multiples_output_callbacks.ipynb)
+* [Create Interactive Plot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Interactive_Plot.ipynb)
 * [Create Navbar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar.ipynb)
 * [Create Navbar board](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar_Dashboard.ipynb)
 * [Create Navbar Search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar_Search.ipynb)

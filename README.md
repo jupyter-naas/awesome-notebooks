@@ -678,6 +678,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Upload video in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Upload_video_in_page.ipynb)
 
 ## OpenAI
+* [Act as a chef](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Act_as_a_chef.ipynb)
 * [Brainstorm ideas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Brainstorm_ideas.ipynb)
 * [Create Completion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Create_Completion.ipynb)
 * [Generate Dialogue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_Dialogue.ipynb)

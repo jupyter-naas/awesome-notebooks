@@ -88,6 +88,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Advertools
 * [Analyze website content using XML sitemap](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Advertools/Advertools_Analyze_website_content_using_XML_sitemap.ipynb)
+* [Audit robots txt and xml sitemap issues](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Advertools/Advertools_Audit_robots_txt_and_xml_sitemap_issues.ipynb)
 
 ## Affinity
 * [Sync with Notion database](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Affinity/Affinity_Sync_with_Notion_database.ipynb)
@@ -195,6 +196,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Datatable With Dropdown](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Datatable_With_Dropdown.ipynb)
 * [Create Dropdown Callback](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Dropdown_Callback.ipynb)
 * [Create Dropdown with multiples output callbacks](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Dropdown_with_multiples_output_callbacks.ipynb)
+* [Create Interactive Plot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Interactive_Plot.ipynb)
 * [Create Navbar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar.ipynb)
 * [Create Navbar board](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar_Dashboard.ipynb)
 * [Create Navbar Search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar_Search.ipynb)
@@ -676,6 +678,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Upload video in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Upload_video_in_page.ipynb)
 
 ## OpenAI
+* [Act as a chef](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Act_as_a_chef.ipynb)
 * [Brainstorm ideas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Brainstorm_ideas.ipynb)
 * [Create Completion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Create_Completion.ipynb)
 * [Generate Dialogue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_Dialogue.ipynb)

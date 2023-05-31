@@ -682,6 +682,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Brainstorm ideas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Brainstorm_ideas.ipynb)
 * [Create Completion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Create_Completion.ipynb)
 * [Create chat completion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Create_chat_completion.ipynb)
+* [Create chat conversation with](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Create_chat_conversation_with_OpenAI.ipynb)
 * [Generate Dialogue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_Dialogue.ipynb)
 * [Generate Q&A](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_Q%26A.ipynb)
 * [Generate README for GitHub repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_README_for_GitHub_repository.ipynb)

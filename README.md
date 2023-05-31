@@ -839,6 +839,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get coordinates from address](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_coordinates_from_address.ipynb)
 * [Get last file modified from directy](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_last_file_modified_from_directy.ipynb)
 * [Get next occurrences of a cron job](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_next_occurrences_of_a_cron_job.ipynb)
+* [List specific files from directory and subdirectories](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_List_specific_files_from_directory_and_subdirectories.ipynb)
 * [Locate address on map](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Locate_address_on_map.ipynb)
 * [Locate city on map](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Locate_city_on_map.ipynb)
 * [Locate coordinates](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Locate_coordinates.ipynb)

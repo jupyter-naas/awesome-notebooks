@@ -1018,6 +1018,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get daily Covid19 active cases trend JHU](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WSR_Get_daily_Covid19_active_cases_trend_JHU.ipynb)
 * [Get daily Covid19 active cases worldmap JHU](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WSR_Get_daily_Covid19_active_cases_worldmap_JHU.ipynb)
 
+## WhatsApp
+* [Transform chat txt to dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WhatsApp/WhatsApp_Transform_chat_txt_to_dataframe.ipynb)
+
 ## Wikipedia
 * [List largest cities in the world](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Wikipedia/Wikipedia_List_largest_cities_in_the_world.ipynb)
 

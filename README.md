@@ -682,7 +682,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Brainstorm ideas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Brainstorm_ideas.ipynb)
 * [Create Completion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Create_Completion.ipynb)
 * [Create chat completion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Create_chat_completion.ipynb)
-* [Create chat conversation with](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Create_chat_conversation_with_OpenAI.ipynb)
+* [Create chatbot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Create_chatbot.ipynb)
 * [Generate Dialogue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_Dialogue.ipynb)
 * [Generate Q&A](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_Q%26A.ipynb)
 * [Generate README for GitHub repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_README_for_GitHub_repository.ipynb)
@@ -1021,6 +1021,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get daily Covid19 active cases worldmap JHU](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WSR_Get_daily_Covid19_active_cases_worldmap_JHU.ipynb)
 
 ## WhatsApp
+* [Create heatmap of activities](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WhatsApp/WhatsApp_Create_heatmap_of_activities.ipynb)
 * [Transform chat txt to dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WhatsApp/WhatsApp_Transform_chat_txt_to_dataframe.ipynb)
 
 ## Wikipedia

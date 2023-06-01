@@ -478,6 +478,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Knative
 * [Create command file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Knative/Knative_Create_command_file.ipynb)
 
+## LangChain
+* [Pandas Dataframe Agent](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LangChain/LangChain_Pandas_Dataframe_Agent.ipynb)
+
 ## LeFigaro
 * [House Price analysis](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LeFigaro/LeFigaro_House_Price_analysis.ipynb)
 

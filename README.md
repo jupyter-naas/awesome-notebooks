@@ -200,6 +200,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Navbar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar.ipynb)
 * [Create Navbar board](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar_Dashboard.ipynb)
 * [Create Navbar Search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar_Search.ipynb)
+* [Create button to refresh page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_button_to_refresh_page.ipynb)
 * [Create conditional formatting on HTML element](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_conditional_formatting_on_HTML_element.ipynb)
 * [Create conditional formatting on number value](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_conditional_formatting_on_number_value.ipynb)
 * [Create loading button](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_loading_button.ipynb)

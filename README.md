@@ -636,6 +636,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Reset Instance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Reset_Instance.ipynb)
 * [Scheduler demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Scheduler_demo.ipynb)
 * [Secret demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Secret_demo.ipynb)
+* [Send Asset image to Notion page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Send_Asset_image_to_Notion_page.ipynb)
 * [Send notifications from Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Send_notifications_from_Google_Sheets.ipynb)
 * [Set timezone](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Set_timezone.ipynb)
 * [Start data product](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Start_data_product.ipynb)

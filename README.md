@@ -193,6 +193,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Visualize dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/D-Tale/D-Tale_Visualize_dataframe.ipynb)
 
 ## Dash
+* [Add a customisable sidebar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Add_a_customisable_sidebar.ipynb)
 * [Create Datatable With Dropdown](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Datatable_With_Dropdown.ipynb)
 * [Create Dropdown Callback](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Dropdown_Callback.ipynb)
 * [Create Dropdown with multiples output callbacks](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Dropdown_with_multiples_output_callbacks.ipynb)
@@ -200,8 +201,12 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Navbar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar.ipynb)
 * [Create Navbar board](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar_Dashboard.ipynb)
 * [Create Navbar Search](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Navbar_Search.ipynb)
+* [Create button to refresh page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_button_to_refresh_page.ipynb)
 * [Create conditional formatting on HTML element](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_conditional_formatting_on_HTML_element.ipynb)
 * [Create conditional formatting on number value](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_conditional_formatting_on_number_value.ipynb)
+* [Create download button](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_download_button.ipynb)
+* [Create loading button](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_loading_button.ipynb)
+* [Create spinner button](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_spinner_button.ipynb)
 * [Deploy app in Naas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Deploy_app_in_Naas.ipynb)
 * [LinkedIn posts metrics dashboard](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_LinkedIn_posts_metrics_dashboard.ipynb)
 * [Plotly Dynamic Link](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Plotly_Dynamic_Link.ipynb)
@@ -478,6 +483,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Knative
 * [Create command file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Knative/Knative_Create_command_file.ipynb)
 
+## LangChain
+* [Pandas Dataframe Agent](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LangChain/LangChain_Pandas_Dataframe_Agent.ipynb)
+
 ## LeFigaro
 * [House Price analysis](https://github.com/jupyter-naas/awesome-notebooks/tree/master/LeFigaro/LeFigaro_House_Price_analysis.ipynb)
 
@@ -616,6 +624,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get total downloads naas libraries](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Get_total_downloads_naas_libraries.ipynb)
 * [List Assets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_List_Assets.ipynb)
 * [List Dependencies](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_List_Dependencies.ipynb)
+* [List Schedulers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_List_Schedulers.ipynb)
+* [List Schedulers with all executions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_List_Schedulers_with_all_executions.ipynb)
+* [List Schedulers with last execution](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_List_Schedulers_with_last_execution.ipynb)
 * [List Secrets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_List_Secrets.ipynb)
 * [List Webhooks](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_List_Webhooks.ipynb)
 * [Manage Pipeline Errors](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Manage_Pipeline_Errors.ipynb)
@@ -626,6 +637,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Reset Instance](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Reset_Instance.ipynb)
 * [Scheduler demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Scheduler_demo.ipynb)
 * [Secret demo](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Secret_demo.ipynb)
+* [Send Asset image to Notion page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Send_Asset_image_to_Notion_page.ipynb)
 * [Send notifications from Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Send_notifications_from_Google_Sheets.ipynb)
 * [Set timezone](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Set_timezone.ipynb)
 * [Start data product](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Naas/Naas_Start_data_product.ipynb)
@@ -678,8 +690,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Upload video in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Upload_video_in_page.ipynb)
 
 ## OpenAI
+* [Act as a chef](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Act_as_a_chef.ipynb)
 * [Brainstorm ideas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Brainstorm_ideas.ipynb)
 * [Create Completion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Create_Completion.ipynb)
+* [Create chat completion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Create_chat_completion.ipynb)
+* [Create chatbot](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Create_chatbot.ipynb)
 * [Generate Dialogue](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_Dialogue.ipynb)
 * [Generate Q&A](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_Q%26A.ipynb)
 * [Generate README for GitHub repository](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Generate_README_for_GitHub_repository.ipynb)
@@ -718,22 +733,28 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Check Columns type](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Check_Columns_type.ipynb)
 * [Convert datetime series](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Convert_datetime_series.ipynb)
 * [Create Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Create_Pivot_Table.ipynb)
+* [Create conditional column enrichment using DataFrame.loc](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Create_conditional_column_enrichment_using_DataFrame.loc.ipynb)
 * [Create dataframe from dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Create_dataframe_from_dict.ipynb)
-* [Drop Columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Drop_Columns.ipynb)
 * [Drop Columns By Index](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Drop_Columns_By_Index.ipynb)
-* [Drop Duplicate Columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Drop_Duplicate_Columns.ipynb)
 * [Drop First column](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Drop_First_column.ipynb)
+* [Drop columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Drop_columns.ipynb)
+* [Drop duplicates](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Drop_duplicates.ipynb)
+* [Enforce data types to columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Enforce_data_types_to_columns.ipynb)
 * [Fill emtpy values](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Fill_emtpy_values.ipynb)
 * [Filter DataFrame](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Filter_DataFrame.ipynb)
 * [Flatten MultiIndex Columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Flatten_MultiIndex_Columns.ipynb)
 * [Format number to string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Format_number_to_string.ipynb)
 * [Groupby and Aggregate](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Groupby_and_Aggregate.ipynb)
 * [ISO Date Conversion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_ISO_Date_Conversion.ipynb)
-* [Keep Columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Keep_Columns.ipynb)
+* [Insert column](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Insert_column.ipynb)
+* [Keep columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Keep_columns.ipynb)
 * [Map column with values in dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Map_column_with_values_in_dict.ipynb)
 * [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Merge_Dataframes.ipynb)
 * [Pivot rows to columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Pivot_rows_to_columns.ipynb)
-* [Rename Columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Rename_Columns.ipynb)
+* [Read CSV](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Read_CSV.ipynb)
+* [Read Excel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Read_Excel.ipynb)
+* [Rename columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Rename_columns.ipynb)
+* [Save dataframe to CSV](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Save_dataframe_to_CSV.ipynb)
 * [Transform DataFrame to json file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Transform_DataFrame_to_json_file.ipynb)
 * [Transform Dataframe to dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Transform_Dataframe_to_dict.ipynb)
 
@@ -838,6 +859,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get coordinates from address](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_coordinates_from_address.ipynb)
 * [Get last file modified from directy](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_last_file_modified_from_directy.ipynb)
 * [Get next occurrences of a cron job](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_next_occurrences_of_a_cron_job.ipynb)
+* [List specific files from directory and subdirectories](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_List_specific_files_from_directory_and_subdirectories.ipynb)
 * [Locate address on map](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Locate_address_on_map.ipynb)
 * [Locate city on map](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Locate_city_on_map.ipynb)
 * [Locate coordinates](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Locate_coordinates.ipynb)
@@ -1015,6 +1037,10 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [WHI Create indicator](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WHI_Create_indicator.ipynb)
 * [Get daily Covid19 active cases trend JHU](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WSR_Get_daily_Covid19_active_cases_trend_JHU.ipynb)
 * [Get daily Covid19 active cases worldmap JHU](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WSR/WSR_Get_daily_Covid19_active_cases_worldmap_JHU.ipynb)
+
+## WhatsApp
+* [Create heatmap of activities](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WhatsApp/WhatsApp_Create_heatmap_of_activities.ipynb)
+* [Transform chat txt to dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/WhatsApp/WhatsApp_Transform_chat_txt_to_dataframe.ipynb)
 
 ## Wikipedia
 * [List largest cities in the world](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Wikipedia/Wikipedia_List_largest_cities_in_the_world.ipynb)

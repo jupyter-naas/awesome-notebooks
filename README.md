@@ -193,6 +193,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Visualize dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/D-Tale/D-Tale_Visualize_dataframe.ipynb)
 
 ## Dash
+* [Add a customisable sidebar](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Add_a_customisable_sidebar.ipynb)
 * [Create Datatable With Dropdown](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Datatable_With_Dropdown.ipynb)
 * [Create Dropdown Callback](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Dropdown_Callback.ipynb)
 * [Create Dropdown with multiples output callbacks](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Dash/Dash_Create_Dropdown_with_multiples_output_callbacks.ipynb)

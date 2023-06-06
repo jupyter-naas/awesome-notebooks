@@ -689,6 +689,15 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Upload image in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Upload_image_in_page.ipynb)
 * [Upload video in page](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Notion/Notion_Upload_video_in_page.ipynb)
 
+## OS
+* [Access environment variable](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Access_environment_variable.ipynb)
+* [Add new environment variable](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Add_new_environment_variable.ipynb)
+* [Create directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Create_directory.ipynb)
+* [Get access of environment variables](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Get_access_of_environment_variables.ipynb)
+* [Get current working directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Get_current_working_directory.ipynb)
+* [Remove file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Remove_file.ipynb)
+* [Rename file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Rename_file.ipynb)
+
 ## OpenAI
 * [Act as a chef](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Act_as_a_chef.ipynb)
 * [Brainstorm ideas](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OpenAI/OpenAI_Brainstorm_ideas.ipynb)
@@ -747,7 +756,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Groupby and Aggregate](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Groupby_and_Aggregate.ipynb)
 * [ISO Date Conversion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_ISO_Date_Conversion.ipynb)
 * [Insert column](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Insert_column.ipynb)
+* [Iterate over DataFrame rows](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Iterate_over_DataFrame_rows.ipynb)
 * [Keep columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Keep_columns.ipynb)
+* [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Looping_Over_Dataframe.ipynb)
 * [Map column with values in dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Map_column_with_values_in_dict.ipynb)
 * [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Merge_Dataframes.ipynb)
 * [Pivot rows to columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Pivot_rows_to_columns.ipynb)
@@ -824,11 +835,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [- Get number of downloads any package](https://github.com/jupyter-naas/awesome-notebooks/tree/master/PyPI/PyPI%20-%20Get_number_of_downloads_any_package.ipynb)
 
 ## Python
-* [Access environment variable](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Access_environment_variable.ipynb)
-* [Add new environment variable](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Add_new_environment_variable.ipynb)
 * [Calculate relative time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Calculate_relative_time_delta_between_two_dates.ipynb)
 * [Calculate time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Calculate_time_delta_between_two_dates.ipynb)
-* [Check email validity](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Check_email_validity.ipynb)
 * [Clean your download folder](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Clean_your_download_folder.ipynb)
 * [Compress images](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Compress_images.ipynb)
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Consolidate_Excel_files.ipynb)
@@ -845,7 +853,6 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Strong Random Password](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_Strong_Random_Password.ipynb)
 * [Create dataframe from lists](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_dataframe_from_lists.ipynb)
 * [Create dict from lists](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_dict_from_lists.ipynb)
-* [Create directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Create_directory.ipynb)
 * [Delete entire directory tree](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Delete_entire_directory_tree.ipynb)
 * [Download Image from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Download_Image_from_URL.ipynb)
 * [Download PDF from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Download_PDF_from_URL.ipynb)
@@ -854,7 +861,6 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Find Phone Number in string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Find_Phone_Number_in_string.ipynb)
 * [Flatten nested dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Flatten_nested_dict.ipynb)
 * [Get Word Definition and Translation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_Word_Definition_and_Translation.ipynb)
-* [Get access of environment variables](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_access_of_environment_variables.ipynb)
 * [Get all files from directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_all_files_from_directory.ipynb)
 * [Get coordinates from address](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_coordinates_from_address.ipynb)
 * [Get last file modified from directy](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_last_file_modified_from_directy.ipynb)
@@ -864,16 +870,13 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Locate city on map](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Locate_city_on_map.ipynb)
 * [Locate coordinates](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Locate_coordinates.ipynb)
 * [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Looping_Over_Dataframe.ipynb)
-* [Match pattern with regular expressions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Match_pattern_with_regular_expressions.ipynb)
 * [Organize Directories based on file types](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Organize_Directories_based_on_file_types.ipynb)
 * [Read json file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Read_json_file.ipynb)
 * [Read pickle file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Read_pickle_file.ipynb)
-* [Remove file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Remove_file.ipynb)
-* [Rename file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Rename_file.ipynb)
-* [Replace value in text in a specific paragraph](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Replace_value_in_text_in_a_specific_paragraph.ipynb)
 * [Save dict to pickle](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Save_dict_to_pickle.ipynb)
 * [Save json file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Save_json_file.ipynb)
 * [Using datetime library](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Using_datetime_library.ipynb)
+* [Validate email and phone numbers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Validate_email_and_phone_numbers.ipynb)
 
 ## Pyvis
 * [Create a network visualization](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pyvis/Pyvis_Create_a_network_visualization.ipynb)
@@ -898,6 +901,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Redshift
 * [Connect with SQL Magic and IAM Credentials](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Redshift/Redshift_Connect_with_SQL_Magic_and_IAM_Credentials.ipynb)
+
+## RegEx
+* [Check email validity](https://github.com/jupyter-naas/awesome-notebooks/tree/master/RegEx/RegEx_Check_email_validity.ipynb)
+* [Match pattern](https://github.com/jupyter-naas/awesome-notebooks/tree/master/RegEx/RegEx_Match_pattern.ipynb)
+* [Replace value in text in a specific paragraph](https://github.com/jupyter-naas/awesome-notebooks/tree/master/RegEx/RegEx_Replace_value_in_text_in_a_specific_paragraph.ipynb)
 
 ## Remoteok
 * [Get jobs from categories](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Remoteok/Remoteok_Get_jobs_from_categories.ipynb)

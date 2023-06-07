@@ -740,6 +740,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Pandas
 * [Check Columns type](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Check_Columns_type.ipynb)
+* [Concatenate dataframes](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Concatenate_dataframes.ipynb)
 * [Convert datetime series](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Convert_datetime_series.ipynb)
 * [Create Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Create_Pivot_Table.ipynb)
 * [Create conditional column enrichment using DataFrame.loc](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Create_conditional_column_enrichment_using_DataFrame.loc.ipynb)

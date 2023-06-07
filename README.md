@@ -970,6 +970,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Stabilty AI
 * [Generate Image from text](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stabilty%20AI/Stabilty_AI_Generate_Image_from_text.ipynb)
 
+## Stable Diffusion
+* [Generate image from text](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Stable%20Diffusion/Stable_Diffusion_Generate_image_from_text.ipynb)
+
 ## Streamlit
 * [Create prediction app](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Streamlit/Streamlit_Create_prediction_app.ipynb)
 

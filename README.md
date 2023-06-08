@@ -692,6 +692,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## OS
 * [Access environment variable](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Access_environment_variable.ipynb)
 * [Add new environment variable](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Add_new_environment_variable.ipynb)
+* [Check path exist](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Check_path_exist.ipynb)
 * [Create directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Create_directory.ipynb)
 * [Get access of environment variables](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Get_access_of_environment_variables.ipynb)
 * [Get current working directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Get_current_working_directory.ipynb)

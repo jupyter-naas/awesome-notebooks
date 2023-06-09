@@ -880,6 +880,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Read pickle file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Read_pickle_file.ipynb)
 * [Save dict to pickle](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Save_dict_to_pickle.ipynb)
 * [Save json file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Save_json_file.ipynb)
+* [Split string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Split_string.ipynb)
 * [Using datetime library](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Using_datetime_library.ipynb)
 * [Validate email and phone numbers](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Validate_email_and_phone_numbers.ipynb)
 

@@ -759,6 +759,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [ISO Date Conversion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_ISO_Date_Conversion.ipynb)
 * [Insert column](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Insert_column.ipynb)
 * [Iterate over DataFrame rows](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Iterate_over_DataFrame_rows.ipynb)
+* [Iterate over DataFrame rows as namedtuples](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Iterate_over_DataFrame_rows_as_namedtuples.ipynb)
 * [Keep columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Keep_columns.ipynb)
 * [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Looping_Over_Dataframe.ipynb)
 * [Map column with values in dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Map_column_with_values_in_dict.ipynb)
@@ -768,6 +769,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Read Excel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Read_Excel.ipynb)
 * [Rename columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Rename_columns.ipynb)
 * [Save dataframe to CSV](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Save_dataframe_to_CSV.ipynb)
+* [Save dataframe to Excel](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Save_dataframe_to_Excel.ipynb)
 * [Transform DataFrame to json file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Transform_DataFrame_to_json_file.ipynb)
 * [Transform Dataframe to dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Transform_Dataframe_to_dict.ipynb)
 

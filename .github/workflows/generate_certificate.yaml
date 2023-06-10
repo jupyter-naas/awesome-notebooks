@@ -33,7 +33,7 @@ jobs:
 
       - name: Create Temporary Output folder
         run: | 
-            mkdir -p
+            mkdir -p output/
 
       - name: Get the modfied file names
         id: files

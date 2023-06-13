@@ -383,6 +383,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## HTML
 * [Create a website](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HTML/HTML_Create_a_website.ipynb)
 
+## Harvest
+* [List all time entries](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Harvest/Harvest_List_all_time_entries.ipynb)
+
 ## Healthchecks
 * [Perfom basic actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Healthchecks/Healthchecks_Perfom_basic_actions.ipynb)
 
@@ -696,6 +699,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Create_directory.ipynb)
 * [Get access of environment variables](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Get_access_of_environment_variables.ipynb)
 * [Get current working directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Get_current_working_directory.ipynb)
+* [List entries in directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_List_entries_in_directory.ipynb)
 * [Remove file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Remove_file.ipynb)
 * [Rename file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/OS/OS_Rename_file.ipynb)
 
@@ -756,6 +760,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Filter DataFrame](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Filter_DataFrame.ipynb)
 * [Flatten MultiIndex Columns](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Flatten_MultiIndex_Columns.ipynb)
 * [Format number to string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Format_number_to_string.ipynb)
+* [Get n smallest](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Get_n_smallest.ipynb)
 * [Groupby and Aggregate](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Groupby_and_Aggregate.ipynb)
 * [ISO Date Conversion](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_ISO_Date_Conversion.ipynb)
 * [Insert column](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Pandas/Pandas_Insert_column.ipynb)
@@ -863,7 +868,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Download PDF from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Download_PDF_from_URL.ipynb)
 * [Download ZIP from URL](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Download_ZIP_from_URL.ipynb)
 * [Explore Dataset with Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Explore_Dataset_with_Pivot_Table.ipynb)
+* [Extract characters from string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Extract_characters_from_string.ipynb)
 * [Find Phone Number in string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Find_Phone_Number_in_string.ipynb)
+* [Find differences between stings](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Find_differences_between_stings.ipynb)
 * [Flatten nested dict](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Flatten_nested_dict.ipynb)
 * [Get Word Definition and Translation](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_Word_Definition_and_Translation.ipynb)
 * [Get all files from directory](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Get_all_files_from_directory.ipynb)

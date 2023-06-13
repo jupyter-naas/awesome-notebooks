@@ -383,6 +383,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## HTML
 * [Create a website](https://github.com/jupyter-naas/awesome-notebooks/tree/master/HTML/HTML_Create_a_website.ipynb)
 
+## Harvest
+* [List all time entries](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Harvest/Harvest_List_all_time_entries.ipynb)
+
 ## Healthchecks
 * [Perfom basic actions](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Healthchecks/Healthchecks_Perfom_basic_actions.ipynb)
 

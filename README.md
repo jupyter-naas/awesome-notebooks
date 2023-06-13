@@ -879,6 +879,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Organize Directories based on file types](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Organize_Directories_based_on_file_types.ipynb)
 * [Read json file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Read_json_file.ipynb)
 * [Read pickle file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Read_pickle_file.ipynb)
+* [Remove all spaces on string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Remove_all_spaces_on_string.ipynb)
 * [Save dict to pickle](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Save_dict_to_pickle.ipynb)
 * [Save json file](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Save_json_file.ipynb)
 * [Split string](https://github.com/jupyter-naas/awesome-notebooks/tree/master/Python/Python_Split_string.ipynb)

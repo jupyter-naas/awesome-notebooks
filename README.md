@@ -219,6 +219,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [COVID19 -  FR - Entrées et sorties par région pour 1 million d'hab.](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Data.gouv.fr/COVID19%20-%20%20FR%20-%20Entr%C3%A9es%20et%20sorties%20par%20r%C3%A9gion%20pour%201%20million%20d%27hab..ipynb)
 * [Récupération données légales entreprise](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Data.gouv.fr/Data.gouv.fr_R%C3%A9cup%C3%A9ration_donn%C3%A9es_l%C3%A9gales_entreprise.ipynb)
 
+## Deepl
+* [Translated string to txt](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Deepl/Deepl_Translated_string_to_txt.ipynb)
+
 ## Draft Kings
 * [Get MLB Moneylines](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Draft%20Kings/Draft_Kings_Get_MLB_Moneylines.ipynb)
 * [Get NBA Moneylines](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Draft%20Kings/Draft_Kings_Get_NBA_Moneylines.ipynb)

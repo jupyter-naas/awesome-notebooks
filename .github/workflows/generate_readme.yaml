@@ -23,6 +23,7 @@ jobs:
     - run: "pip install naas_drivers[markdown]"
     - run: "pip install papermill"
     - run: "pip install Markdown==3.3.7"
+    - run: "pip install algoliasearch==3.0.0"
     - run: "jupyter nbconvert --execute generate_readme.ipynb --inplace"
     - run: "jupyter nbconvert --clear-output --inplace generate_readme.ipynb"
     - run: "jupyter nbconvert --execute .github/push_templates_to_algolia.ipynb --inplace"

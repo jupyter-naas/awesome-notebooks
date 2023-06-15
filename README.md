@@ -104,6 +104,14 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Insert data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Airtable/Airtable_Insert_data.ipynb)
 * [Search data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Airtable/Airtable_Search_data.ipynb)
 
+## Algolia
+* [Add or Replace all attributes in existing records](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Algolia/Algolia_Add_or_Replace_all_attributes_in_existing_records.ipynb)
+* [Add or Replace all attributes in a single record](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Algolia/Algolia_Add_or_Replace_all_attributes_in_single_record.ipynb)
+* [Delete multiples objects](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Algolia/Algolia_Delete_multiples_objects.ipynb)
+* [Delete a single object](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Algolia/Algolia_Delete_single_object.ipynb)
+* [Get all records from an index](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Algolia/Algolia_Get_all_records_from_an_index.ipynb)
+* [List indices](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Algolia/Algolia_List%20indices.ipynb)
+
 ## AlphaVantage
 * [Get balance sheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AlphaVantage/AlphaVantage_Get_balance_sheet.ipynb)
 * [Get cashflow statement](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AlphaVantage/AlphaVantage_Get_cashflow_statement.ipynb)
@@ -897,7 +905,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Explore Dataset with Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Explore_Dataset_with_Pivot_Table.ipynb)
 * [Extract characters from string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Extract_characters_from_string.ipynb)
 * [Find Phone Number in string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Find_Phone_Number_in_string.ipynb)
-* [Find differences between stings](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Find_differences_between_stings.ipynb)
+* [Find differences between strings](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Find_differences_between_strings.ipynb)
 * [Flatten nested dict](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Flatten_nested_dict.ipynb)
 * [Get Word Definition and Translation](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Get_Word_Definition_and_Translation.ipynb)
 * [Get all files from directory](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Get_all_files_from_directory.ipynb)

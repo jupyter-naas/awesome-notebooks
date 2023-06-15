@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - 1934-naas-push-templatesjson-to-algolia-on-merge
 jobs:
   generate-readme:
     if: "!startsWith(github.event.head_commit.message, 'generateReadme:')"
@@ -15,6 +16,7 @@ jobs:
       with:
         python-version: '3.9'
         token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
+
     - run: "pip install MarkupSafe==2.0.1"
     - run: "pip install numpy==1.19.5"
     - run: "pip install notebook"
@@ -23,6 +25,11 @@ jobs:
     - run: "pip install Markdown==3.3.7"
     - run: "jupyter nbconvert --execute generate_readme.ipynb --inplace"
     - run: "jupyter nbconvert --clear-output --inplace generate_readme.ipynb"
+    - run: "jupyter nbconvert --execute .github/push_templates_to_algolia.ipynb --inplace"
+      env:
+        ALGOLIA_APP_ID: '${{ secrets.ALGOLIA_APP_ID }}' 
+        ALGOLIA_API_KEY: '${{ secrets.ALGOLIA_API_KEY }}'
+    - run: "jupyter nbconvert --clear-output --inplace .github/push_templates_to_algolia.ipynb"
     - uses: EndBug/add-and-commit@v7.2.1
       with:
         message: 'generateReadme: Refresh'

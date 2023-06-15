@@ -612,6 +612,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Configure Github with ssh](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Configure_Github_with_ssh.ipynb)
 * [Create Kernel](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Create_Kernel.ipynb)
 * [Create Pipeline](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Create_Pipeline.ipynb)
+* [Create onboarding plugin using OpenAI](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Create_onboarding_plugin_using_OpenAI.ipynb)
 * [Credits Get Balance](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Credits_Get_Balance.ipynb)
 * [Delete Asset](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Delete_Asset.ipynb)
 * [Delete Dependency](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Delete_Dependency.ipynb)

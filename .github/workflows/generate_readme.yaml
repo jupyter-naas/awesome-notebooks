@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - master
-      - 1934-naas-push-templatesjson-to-algolia-on-merge
+
 jobs:
   generate-readme:
     if: "!startsWith(github.event.head_commit.message, 'generateReadme:')"
@@ -34,3 +34,4 @@ jobs:
     - uses: EndBug/add-and-commit@v7.2.1
       with:
         message: 'generateReadme: Refresh'
+        add: 'templates.json'

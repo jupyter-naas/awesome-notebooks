@@ -916,6 +916,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get last file modified from directy](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Get_last_file_modified_from_directy.ipynb)
 * [Get next occurrences of a cron job](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Get_next_occurrences_of_a_cron_job.ipynb)
 * [Get random number](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Get_random_number.ipynb)
+* [Get a random word](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Get_random_word.ipynb)
 * [List specific files from directory and subdirectories](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_List_specific_files_from_directory_and_subdirectories.ipynb)
 * [Locate address on map](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Locate_address_on_map.ipynb)
 * [Locate city on map](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Locate_city_on_map.ipynb)

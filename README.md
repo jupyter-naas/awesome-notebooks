@@ -924,6 +924,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Looping_Over_Dataframe.ipynb)
 * [Manage code error with try except](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Manage_exception_with_try_except.ipynb)
 * [Organize Directories based on file types](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Organize_Directories_based_on_file_types.ipynb)
+* [Pseudonym generator](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Pseudonym_generator.ipynb)
 * [Read json file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Read_json_file.ipynb)
 * [Read pickle file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Read_pickle_file.ipynb)
 * [Remove all spaces on string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Remove_all_spaces_on_string.ipynb)

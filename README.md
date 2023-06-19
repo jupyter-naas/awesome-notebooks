@@ -395,6 +395,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create a website](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HTML/HTML_Create_a_website.ipynb)
 
 ## Harvest
+* [List all clients](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_List_all_clients.ipynb)
 * [List all time entries](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_List_all_time_entries.ipynb)
 
 ## Healthchecks
@@ -739,6 +740,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Act as a Software Engineer](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_Software_Engineer.ipynb)
 * [Act as a chef](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_chef.ipynb)
 * [Brainstorm ideas](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Brainstorm_ideas.ipynb)
+* [Count tokens with tiktoken](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Count_tokens_with_tiktoken.ipynb)
 * [Create Completion](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Create_Completion.ipynb)
 * [Create chat completion](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Create_chat_completion.ipynb)
 * [Create chatbot](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Create_chatbot.ipynb)
@@ -811,6 +813,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Rename columns](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Rename_columns.ipynb)
 * [Save dataframe to CSV](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Save_dataframe_to_CSV.ipynb)
 * [Save dataframe to Excel](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Save_dataframe_to_Excel.ipynb)
+* [Sort values by multiples columns](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Sort_values_by_multiples_columns.ipynb)
 * [Transform DataFrame to json file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Transform_DataFrame_to_json_file.ipynb)
 * [Transform Dataframe to dict](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Transform_Dataframe_to_dict.ipynb)
 
@@ -918,6 +921,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Locate city on map](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Locate_city_on_map.ipynb)
 * [Locate coordinates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Locate_coordinates.ipynb)
 * [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Looping_Over_Dataframe.ipynb)
+* [Manage code error with try except](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Manage_exception_with_try_except.ipynb)
 * [Organize Directories based on file types](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Organize_Directories_based_on_file_types.ipynb)
 * [Read json file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Read_json_file.ipynb)
 * [Read pickle file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Read_pickle_file.ipynb)
@@ -966,6 +970,10 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get jobs from categories](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Remotive/Remotive_Get_jobs_from_categories.ipynb)
 * [Post daily jobs on slack](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Remotive/Remotive_Post_daily_jobs_on_slack.ipynb)
 * [Send jobs to gsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Remotive/Remotive_Send_jobs_to_gsheet.ipynb)
+
+## Request
+* [Basic HTTP GET](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Request/Request_Basic_HTTP_GET_Request.ipynb)
+* [Sending POST s with Data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Request/Request_Sending_POST_Requests_with_Data.ipynb)
 
 ## SAP-HANA
 * [Query data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/SAP-HANA/SAP-HANA_Query_data.ipynb)

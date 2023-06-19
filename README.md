@@ -929,6 +929,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Save dict to pickle](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Save_dict_to_pickle.ipynb)
 * [Save json file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Save_json_file.ipynb)
 * [Split string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Split_string.ipynb)
+* [Transform String to Secure Hash Algorithm](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Transform_string_to_Secure_Hash_Algorithm.ipynb)
 * [Using datetime library](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Using_datetime_library.ipynb)
 * [Validate email and phone numbers](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Validate_email_and_phone_numbers.ipynb)
 

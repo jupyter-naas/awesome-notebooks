@@ -893,6 +893,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Convert PNG Images To JPG](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_PNG_Images_To_JPG.ipynb)
 * [Convert URL to string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_URL_to_string.ipynb)
 * [Convert audiofile from wav to mp3](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_audiofile_from_wav_to_mp3.ipynb)
+* [Convert currency](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_currency.ipynb)
 * [Convert relative time delta to months](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_relative_time_delta_to_months.ipynb)
 * [Convert string to URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_string_to_URL.ipynb)
 * [Convert time delta to months](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_time_delta_to_months.ipynb)

@@ -897,6 +897,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Convert relative time delta to months](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_relative_time_delta_to_months.ipynb)
 * [Convert string to URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_string_to_URL.ipynb)
 * [Convert time delta to months](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_time_delta_to_months.ipynb)
+* [Convert units](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_units.ipynb)
 * [Copy files and subdir from directory to another directory](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Copy_files_and_subdir_from_directory_to_another_directory.ipynb.ipynb)
 * [Create Email Combination with Firstname Lastname Domain address](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Create_Email_Combination_with_Firstname_Lastname_Domain_address.ipynb)
 * [Create Strong Random Password](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Create_Strong_Random_Password.ipynb)

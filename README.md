@@ -1074,6 +1074,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Add SMS to Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Twilio/Twilio_Add_SMS_to_Google_Sheets_spreadsheet.ipynb)
 * [Make Call](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Twilio/Twilio_Make_Call.ipynb)
 * [Send SMS](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Twilio/Twilio_Send_SMS.ipynb)
+* [Send  SMS messages for Google Calendar Events](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Twilio/Twilio_Send_SMS_Google_Calendar_Events.ipynb)
 
 ## Twitter
 * [Add member to list](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Twitter/Twitter_Add_member_to_list.ipynb)

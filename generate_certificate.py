@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw, ImageFont
 import requests
 
 def write_content(certificate_path: str, default_font_path: str, 
-                  content_font_path: str, logo_url: str, org_bio:str, changed_files:list):
+                  content_font_path: str, logo_url: str, org_bio:str, changed_files:str):
     
         # create a certificate only if .ipynb files have been modified
     if(changed_files):
@@ -98,12 +98,12 @@ def write_content(certificate_path: str, default_font_path: str,
                 fill="grey", font = default_font)
         
         draw.text((120, 910), "With following Files", fill="black", font=default_font)
-        draw.text((120, 940), ", ".join(changed_files), fill="black", font=default_font)
+        draw.text((120, 940), changed_files, fill="black", font=default_font)
         
-        draw.text((120, 1050), "Verify at:", fill="black",
+        draw.text((120, 1150), "Verify at:", fill="black",
                 font=default_font)
         
-        draw.text((220,1050), repo_url+ '/issues/' + issue_id, font= default_font,fill="black")
+        draw.text((220,1150), repo_url+ '/issues/' + issue_id, font= default_font,fill="black")
         
         # save image with contributor name in the working path
         img.save(f"{contributor_name}.png")
@@ -136,10 +136,11 @@ if __name__ == "__main__":
 #     logo_url ="https://avatars.githubusercontent.com/u/71603764?s=200&v=4"
 #     org_bio = "what to write"
 #     issue_id = "1010"
-#     changed_files = ["awesome.png", "templates.json", "temp.py", "sample.yaml", "shas.ipynb","shas.ipynb"]
+#     changed_files = '"awesome.png"\n, "templates.json", \n"temp.py", "sample.yaml", "shas.ipynb","shas.ipynb"'
     
     date_of_contribution = str(datetime.fromisoformat(date[:-1] + '+00:00').date())
 
+#     date_of_contribution = "12/06/2000"
     repo_url = org_profile_url + f'/{repo_name}'
     org_name = org_profile_url[19:].capitalize()
 

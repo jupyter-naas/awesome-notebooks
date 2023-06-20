@@ -37,7 +37,19 @@ jobs:
 
       - name: Get the modfied file names
         id: files
+        outputs:
+          fileNameString: ${{ steps.files.outputs.fileNames}}
+        with:
+          format:'json'
         uses: jitterbit/get-changed-files@v1
+        run: |
+            fileNames="\n"
+            readarray -t changed_files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.added_modified }}')"
+            for modifiedFile in ${changed_files[@]}; do
+              echo "fileNames+= ${modifiedFile}\n"
+            done
+            echo "::set-output name=fileNameString::$fileNames"
+
         continue-on-error: true
       
       - name: Get required variables And run script
@@ -51,7 +63,7 @@ jobs:
           date: ${{ github.event.pull_request.created_at }}
           logo_url: ${{ fromJson(steps.webhook.outputs.output).data.avatar_url }}
           org_bio: ${{ fromJson(steps.webhook.outputs.output).data.bio }}
-          changed_files: ${{ steps.files.outputs.added_modified }}
+          changed_files: ${{ steps.files.outputs.fileNameString }}
           
         run: |
             pip install bs4

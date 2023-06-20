@@ -1011,6 +1011,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [List folder](https://github.com/jupyter-naas/awesome-notebooks/blob/master/SharePoint/SharePoint_List_folder.ipynb)
 * [Upload file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/SharePoint/SharePoint_Upload_file.ipynb)
 
+## Shutterstock
+* [Search for images](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Shutterstock/Shutterstock_Search_for_images.ipynb)
+
 ## Slack
 * [Add new user to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Slack/Slack_Add_new_user_to_Google_Sheets.ipynb)
 * [Follow number of users in workspace](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Slack/Slack_Follow_number_of_users_in_workspace.ipynb)

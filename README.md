@@ -499,6 +499,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create command file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Knative/Knative_Create_command_file.ipynb)
 
 ## LangChain
+* [CSV Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_CSV_Agent.ipynb)
 * [Pandas Dataframe Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Pandas_Dataframe_Agent.ipynb)
 
 ## LeFigaro

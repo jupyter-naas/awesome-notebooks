@@ -1018,7 +1018,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Slack
 * [Add new user to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Slack/Slack_Add_new_user_to_Google_Sheets.ipynb)
 * [Follow number of users in workspace](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Slack/Slack_Follow_number_of_users_in_workspace.ipynb)
-* [Send message](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Slack/Slack_Send_message.ipynb)
+* [Send blocks to channel](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Slack/Slack_Send_blocks_to_channel.ipynb)
+* [Send message](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Slack/Slack_Send_message_to_channel.ipynb)
 
 ## Snowflake
 * [Basics and data querying](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Snowflake/Snowflake_Basics_and_data_querying.ipynb)

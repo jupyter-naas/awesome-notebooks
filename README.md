@@ -985,6 +985,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Request
 * [Basic HTTP GET](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Request/Request_Basic_HTTP_GET_Request.ipynb)
+* [Handling Errors and Exceptions](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Request/Request_Handling_Errors_and_Exceptions.ipynb)
 * [Sending POST s with Data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Request/Request_Sending_POST_Requests_with_Data.ipynb)
 
 ## SAP-HANA

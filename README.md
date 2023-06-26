@@ -719,6 +719,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Remove file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Remove_file.ipynb)
 * [Rename file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Rename_file.ipynb)
 
+## OWID
+* [Visualize oil consumption throughout the years](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_Oil_Consumption_through_the_Years.ipynb)
+
 ## OpenAI
 * [Act as a AI enthusiast](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_AI_enthusiast.ipynb)
 * [Act as a Business Analyst](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_Business_Analyst.ipynb)

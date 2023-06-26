@@ -310,6 +310,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get team membership for a user](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_team_membership_for_a_user.ipynb)
 * [Get weekly commits from repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_weekly_commits_from_repository.ipynb)
 * [List all pull requests](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_List_all_pull_requests.ipynb)
+* [List branches](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_List_branches.ipynb)
+* [List branches with open PR](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_List_branches_with_open_PR.ipynb)
 * [List closed pull requests](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_List_closed_pull_requests.ipynb)
 * [List issue comments](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_List_issue_comments.ipynb)
 * [List open pull requests](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_List_open_pull_requests.ipynb)

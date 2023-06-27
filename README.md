@@ -788,6 +788,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Pandas
 * [Check Columns type](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Check_Columns_type.ipynb)
+* [Check if column is in date format](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Check_if_column_is_in_date_format.ipynb)
 * [Concatenate dataframes](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Concatenate_dataframes.ipynb)
 * [Convert datetime series](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Convert_datetime_series.ipynb)
 * [Create Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Create_Pivot_Table.ipynb)

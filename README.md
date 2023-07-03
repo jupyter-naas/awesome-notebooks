@@ -299,6 +299,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get a repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_a_repository.ipynb)
 * [Get active projects](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_active_projects.ipynb)
 * [Get commits from repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_commits_from_repository.ipynb)
+* [List commits history from file path](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_commits_history_from_file_path.ipynb)
 * [Get commits ranking from repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_commits_ranking_from_repository.ipynb)
 * [Get files added on pull request](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_files_added_on_pull_request.ipynb)
 * [Get files changed on pull request](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_files_changed_on_pull_request.ipynb)
@@ -888,7 +889,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Analyze Pandas dataframe](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyGWalker/PyGWalker_Analyze_Pandas_dataframe.ipynb)
 
 ## PyPI
-* [- Get number of downloads any package](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyPI/PyPI%20-%20Get_number_of_downloads_any_package.ipynb)
+* [- Get number of downloads any package](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyPI/PyPI_Get_number_of_downloads_any_package.ipynb)
 
 ## Python
 * [Calculate relative time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Calculate_relative_time_delta_between_two_dates.ipynb)

@@ -504,6 +504,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## LangChain
 * [CSV Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_CSV_Agent.ipynb)
+* [JSON Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_JSON_Agent.ipynb)
 * [Pandas Dataframe Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Pandas_Dataframe_Agent.ipynb)
 
 ## LeFigaro

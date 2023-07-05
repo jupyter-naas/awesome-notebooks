@@ -721,6 +721,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create directory](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Create_directory.ipynb)
 * [Get access of environment variables](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Get_access_of_environment_variables.ipynb)
 * [Get current working directory](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Get_current_working_directory.ipynb)
+* [Get folder stats](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Get_folder_stats.ipynb)
 * [List entries in directory](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_List_entries_in_directory.ipynb)
 * [Remove file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Remove_file.ipynb)
 * [Rename file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Rename_file.ipynb)

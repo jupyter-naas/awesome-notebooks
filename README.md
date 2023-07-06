@@ -159,10 +159,6 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Calculate Support and Resistance](https://github.com/jupyter-naas/awesome-notebooks/blob/master/CCXT/CCXT_Calculate_Support_and_Resistance.ipynb)
 * [Predict Bitcoin from Binance](https://github.com/jupyter-naas/awesome-notebooks/blob/master/CCXT/CCXT_Predict_Bitcoin_from_Binance.ipynb)
 
-## CSV
-* [Read file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/CSV/CSV_Read_file.ipynb)
-* [Save file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/CSV/CSV_Save_file.ipynb)
-
 ## Canny
 * [Create](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Canny/Canny_Create.ipynb)
 * [Github issue update](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Canny/Canny_Github_issue_update.ipynb)
@@ -226,6 +222,15 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Data.gouv.fr
 * [COVID19 -  FR - Entrées et sorties par région pour 1 million d'hab.](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Data.gouv.fr/COVID19%20-%20%20FR%20-%20Entr%C3%A9es%20et%20sorties%20par%20r%C3%A9gion%20pour%201%20million%20d%27hab..ipynb)
 * [Récupération données légales entreprise](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Data.gouv.fr/Data.gouv.fr_R%C3%A9cup%C3%A9ration_donn%C3%A9es_l%C3%A9gales_entreprise.ipynb)
+
+## Datetime
+* [Calculate relative time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Calculate_relative_time_delta_between_two_dates.ipynb)
+* [Calculate time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Calculate_time_delta_between_two_dates.ipynb)
+* [Convert datetime object to a formatted date string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_datetime_object_to_string_date.ipynb)
+* [Convert  with Timezone to ISO 8601 date string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_datetime_with_timezone_to_ISO_8601_date_string.ipynb)
+* [Convert relative time delta to months](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_relative_time_delta_to_months.ipynb)
+* [Convert a string date to a datetime object](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_string_to_datetime_object.ipynb)
+* [Convert timestamp to a datetime object](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_timestamp_to_a_datetime_object.ipynb)
 
 ## Deepl
 * [Translated string to txt](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Deepl/Deepl_Translated_string_to_txt.ipynb)
@@ -873,7 +878,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Waterfall chart](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Plotly/Plotly_Create_Waterfall_chart.ipynb)
 
 ## Polars
+* [Create DataFrame](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Create_DataFrame.ipynb)
 * [Read CSV](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Read_CSV.ipynb)
+* [Select columns](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Select_Columns.ipynb)
+* [Select rows](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Select_Rows.ipynb)
+* [Select both rows and columns](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Select_Rows_and_Columns.ipynb)
 
 ## PostgresSQL
 * [Get data from database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PostgresSQL/PostgresSQL_Get_data_from_database.ipynb)
@@ -897,19 +906,15 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [- Get number of downloads any package](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyPI/PyPI_Get_number_of_downloads_any_package.ipynb)
 
 ## Python
-* [Calculate relative time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Calculate_relative_time_delta_between_two_dates.ipynb)
-* [Calculate time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Calculate_time_delta_between_two_dates.ipynb)
 * [Clean your download folder](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Clean_your_download_folder.ipynb)
 * [Compress images](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Compress_images.ipynb)
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Consolidate_Excel_files.ipynb)
 * [Convert CSV to Excel](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_CSV_to_Excel.ipynb)
-* [Convert Datetime with Timezone to ISO 8601 date string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_Datetime_with_Timezone_to_ISO_8601_date_string.ipynb)
 * [Convert PNG Images To JPG](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_PNG_Images_To_JPG.ipynb)
 * [Convert URL to string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_URL_to_string.ipynb)
 * [Convert audiofile from wav to mp3](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_audiofile_from_wav_to_mp3.ipynb)
 * [Convert currency](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_currency.ipynb)
 * [Convert length](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_length.ipynb)
-* [Convert relative time delta to months](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_relative_time_delta_to_months.ipynb)
 * [Convert speed](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_speed.ipynb)
 * [Convert string to URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_string_to_URL.ipynb)
 * [Convert temperature](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_temperature.ipynb)
@@ -955,7 +960,6 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Save json file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Save_json_file.ipynb)
 * [Split string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Split_string.ipynb)
 * [Transform String to Secure Hash Algorithm](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Transform_string_to_Secure_Hash_Algorithm.ipynb)
-* [Using datetime library](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Using_datetime_library.ipynb)
 * [Validate email and phone numbers](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Validate_email_and_phone_numbers.ipynb)
 
 ## Pyvis

@@ -342,6 +342,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create GitHub issue on specific email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Create_GitHub_issue_on_specific_email.ipynb)
 * [Create draft email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Create_draft_email.ipynb)
 * [Delete email from mailbox](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Delete_email_from_mailbox.ipynb)
+* [Get emails by date](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Get_emails_by_date.ipynb)
 * [Get emails stats by sender](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Get_emails_stats_by_sender.ipynb)
 * [Get seen emails](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Get_seen_emails.ipynb)
 * [Get unseen emails](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Get_unseen_emails.ipynb)

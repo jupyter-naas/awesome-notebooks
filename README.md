@@ -159,10 +159,6 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Calculate Support and Resistance](https://github.com/jupyter-naas/awesome-notebooks/blob/master/CCXT/CCXT_Calculate_Support_and_Resistance.ipynb)
 * [Predict Bitcoin from Binance](https://github.com/jupyter-naas/awesome-notebooks/blob/master/CCXT/CCXT_Predict_Bitcoin_from_Binance.ipynb)
 
-## CSV
-* [Read file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/CSV/CSV_Read_file.ipynb)
-* [Save file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/CSV/CSV_Save_file.ipynb)
-
 ## Canny
 * [Create](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Canny/Canny_Create.ipynb)
 * [Github issue update](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Canny/Canny_Github_issue_update.ipynb)
@@ -226,6 +222,15 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Data.gouv.fr
 * [COVID19 -  FR - Entrées et sorties par région pour 1 million d'hab.](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Data.gouv.fr/COVID19%20-%20%20FR%20-%20Entr%C3%A9es%20et%20sorties%20par%20r%C3%A9gion%20pour%201%20million%20d%27hab..ipynb)
 * [Récupération données légales entreprise](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Data.gouv.fr/Data.gouv.fr_R%C3%A9cup%C3%A9ration_donn%C3%A9es_l%C3%A9gales_entreprise.ipynb)
+
+## Datetime
+* [Calculate relative time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Calculate_relative_time_delta_between_two_dates.ipynb)
+* [Calculate time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Calculate_time_delta_between_two_dates.ipynb)
+* [Convert datetime object to a formatted date string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_datetime_object_to_string_date.ipynb)
+* [Convert  with Timezone to ISO 8601 date string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_datetime_with_timezone_to_ISO_8601_date_string.ipynb)
+* [Convert relative time delta to months](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_relative_time_delta_to_months.ipynb)
+* [Convert a string date to a datetime object](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_string_to_datetime_object.ipynb)
+* [Convert timestamp to a datetime object](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_timestamp_to_a_datetime_object.ipynb)
 
 ## Deepl
 * [Translated string to txt](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Deepl/Deepl_Translated_string_to_txt.ipynb)
@@ -299,6 +304,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get a repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_a_repository.ipynb)
 * [Get active projects](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_active_projects.ipynb)
 * [Get commits from repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_commits_from_repository.ipynb)
+* [List commits history from file path](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_commits_history_from_file_path.ipynb)
 * [Get commits ranking from repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_commits_ranking_from_repository.ipynb)
 * [Get files added on pull request](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_files_added_on_pull_request.ipynb)
 * [Get files changed on pull request](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_files_changed_on_pull_request.ipynb)
@@ -326,6 +332,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Reopen issue](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Reopen_issue.ipynb)
 * [Send contributor activity on slack](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Send_contributor_activity_on_slack.ipynb)
 * [Send stargazers to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Send_stargazers_to_Google_Sheets.ipynb)
+* [Send templates created on a notebooks to Slack channel](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Send_templates_created_on_a_notebooks_to_Slack_channel.ipynb)
 * [Track issues on projects](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Track_issues_on_projects.ipynb)
 * [Track notebooks created over time](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Track_notebooks_created_over_time.ipynb)
 * [Update issue](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Update_issue.ipynb)
@@ -336,6 +343,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create GitHub issue on specific email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Create_GitHub_issue_on_specific_email.ipynb)
 * [Create draft email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Create_draft_email.ipynb)
 * [Delete email from mailbox](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Delete_email_from_mailbox.ipynb)
+* [Get emails by date](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Get_emails_by_date.ipynb)
 * [Get emails stats by sender](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Get_emails_stats_by_sender.ipynb)
 * [Get seen emails](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Get_seen_emails.ipynb)
 * [Get unseen emails](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Get_unseen_emails.ipynb)
@@ -503,6 +511,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## LangChain
 * [CSV Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_CSV_Agent.ipynb)
+* [Gmail Toolkit](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Gmail_Toolkit.ipynb)
+* [JSON Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_JSON_Agent.ipynb)
 * [Pandas Dataframe Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Pandas_Dataframe_Agent.ipynb)
 
 ## LeFigaro
@@ -595,6 +605,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/MongoDB/MongoDB_Get_data.ipynb)
 * [Send data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/MongoDB/MongoDB_Send_data.ipynb)
 * [Send data to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/blob/master/MongoDB/MongoDB_Send_data_to_Google_Sheets.ipynb)
+
+## MoviePy
+* [Convert audio file M4A to MP3](https://github.com/jupyter-naas/awesome-notebooks/blob/master/MoviePy/MoviePy_Convert_audio_file_M4A_to_MP3.ipynb)
 
 ## MySQL
 * [Query database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/MySQL/MySQL_Query_database.ipynb)
@@ -716,6 +729,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create directory](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Create_directory.ipynb)
 * [Get access of environment variables](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Get_access_of_environment_variables.ipynb)
 * [Get current working directory](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Get_current_working_directory.ipynb)
+* [Get folder stats](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Get_folder_stats.ipynb)
 * [List entries in directory](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_List_entries_in_directory.ipynb)
 * [Remove file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Remove_file.ipynb)
 * [Rename file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Rename_file.ipynb)
@@ -867,7 +881,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Waterfall chart](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Plotly/Plotly_Create_Waterfall_chart.ipynb)
 
 ## Polars
+* [Create DataFrame](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Create_DataFrame.ipynb)
 * [Read CSV](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Read_CSV.ipynb)
+* [Select columns](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Select_Columns.ipynb)
+* [Select rows](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Select_Rows.ipynb)
+* [Select both rows and columns](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Select_Rows_and_Columns.ipynb)
 
 ## PostgresSQL
 * [Get data from database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PostgresSQL/PostgresSQL_Get_data_from_database.ipynb)
@@ -888,22 +906,18 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Analyze Pandas dataframe](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyGWalker/PyGWalker_Analyze_Pandas_dataframe.ipynb)
 
 ## PyPI
-* [- Get number of downloads any package](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyPI/PyPI%20-%20Get_number_of_downloads_any_package.ipynb)
+* [- Get number of downloads any package](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyPI/PyPI_Get_number_of_downloads_any_package.ipynb)
 
 ## Python
-* [Calculate relative time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Calculate_relative_time_delta_between_two_dates.ipynb)
-* [Calculate time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Calculate_time_delta_between_two_dates.ipynb)
 * [Clean your download folder](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Clean_your_download_folder.ipynb)
 * [Compress images](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Compress_images.ipynb)
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Consolidate_Excel_files.ipynb)
 * [Convert CSV to Excel](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_CSV_to_Excel.ipynb)
-* [Convert Datetime with Timezone to ISO 8601 date string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_Datetime_with_Timezone_to_ISO_8601_date_string.ipynb)
 * [Convert PNG Images To JPG](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_PNG_Images_To_JPG.ipynb)
 * [Convert URL to string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_URL_to_string.ipynb)
 * [Convert audiofile from wav to mp3](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_audiofile_from_wav_to_mp3.ipynb)
 * [Convert currency](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_currency.ipynb)
 * [Convert length](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_length.ipynb)
-* [Convert relative time delta to months](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_relative_time_delta_to_months.ipynb)
 * [Convert speed](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_speed.ipynb)
 * [Convert string to URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_string_to_URL.ipynb)
 * [Convert temperature](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_temperature.ipynb)
@@ -921,6 +935,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Download Image from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Download_Image_from_URL.ipynb)
 * [Download PDF from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Download_PDF_from_URL.ipynb)
 * [Download ZIP from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Download_ZIP_from_URL.ipynb)
+* [Download audio file from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Download_audio_file_from_URL.ipynb)
 * [Explore Dataset with Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Explore_Dataset_with_Pivot_Table.ipynb)
 * [Extract characters from string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Extract_characters_from_string.ipynb)
 * [Find Phone Number in string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Find_Phone_Number_in_string.ipynb)
@@ -948,7 +963,6 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Save json file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Save_json_file.ipynb)
 * [Split string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Split_string.ipynb)
 * [Transform String to Secure Hash Algorithm](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Transform_string_to_Secure_Hash_Algorithm.ipynb)
-* [Using datetime library](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Using_datetime_library.ipynb)
 * [Validate email and phone numbers](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Validate_email_and_phone_numbers.ipynb)
 
 ## Pyvis

@@ -736,6 +736,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## OWID
 * [Visualize oil consumption throughout the years](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_Oil_Consumption_through_the_Years.ipynb)
+* [Visualize Population of Different Age Groups](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_Population_of_Different_Age_Groups.ipynb)
 
 ## OpenAI
 * [Act as a AI enthusiast](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_AI_enthusiast.ipynb)

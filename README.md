@@ -96,6 +96,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Agicap
 * [Export treasury plan](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Agicap/Agicap_Export_treasury_plan.ipynb)
 * [Export treasury plan by account](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Agicap/Agicap_Export_treasury_plan_by_account.ipynb)
+* [Get banks accounts from company](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Agicap/Agicap_Get_banks_accounts_from_company.ipynb)
 * [List companies](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Agicap/Agicap_List_companies.ipynb)
 
 ## Airtable

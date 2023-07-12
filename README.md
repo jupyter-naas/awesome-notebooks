@@ -614,6 +614,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## NASA
 * [Artic sea ice](https://github.com/jupyter-naas/awesome-notebooks/blob/master/NASA/NASA_Artic_sea_ice.ipynb)
+* [Display Exoplanet by Light Curves](https://github.com/jupyter-naas/awesome-notebooks/blob/master/NASA/NASA_Classify_Exoplanet_by_light_curves.ipynb)
 * [Global temperature](https://github.com/jupyter-naas/awesome-notebooks/blob/master/NASA/NASA_Global_temperature.ipynb)
 * [Sea level](https://github.com/jupyter-naas/awesome-notebooks/blob/master/NASA/NASA_Sea_level.ipynb)
 

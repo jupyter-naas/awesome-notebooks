@@ -1102,6 +1102,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Trello
 * [Get board data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Get_board_data.ipynb)
+* [List Boards](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_List_Boards.ipynb)
 
 ## Twilio
 * [Add SMS to Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Twilio/Twilio_Add_SMS_to_Google_Sheets_spreadsheet.ipynb)

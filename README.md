@@ -1103,7 +1103,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get videos stats](https://github.com/jupyter-naas/awesome-notebooks/blob/master/TikTok/TikTok_Get_videos_stats.ipynb)
 
 ## Trello
+* [Create Card](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Create_Card.ipynb)
 * [Get Cards on a Board](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Get_Cards_on_a_Board.ipynb)
+* [Get Lists on a Board](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Get_Lists_on_a_Board.ipynb)
 * [Get board data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Get_board_data.ipynb)
 * [List Boards](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_List_Boards.ipynb)
 

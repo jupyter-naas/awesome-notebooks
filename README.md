@@ -125,6 +125,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [List blobs](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Azure%20Blob%20Storage/Azure_Blob_Storage_List_blobs.ipynb)
 * [Upload files](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Azure%20Blob%20Storage/Azure_Blob_Storage_Upload_files.ipynb)
 
+## Azure Machine Learning
+* [Univariate Timeseries Inference](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Azure%20Machine%20Learning/Azure_Machine_Learning_Univariate_Timeseries_Inference.ipynb)
+
 ## Bazimo
 * [Get export Actifs](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Bazimo/Bazimo_Get_export_Actifs.ipynb)
 * [Get export Baux](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Bazimo/Bazimo_Get_export_Baux.ipynb)

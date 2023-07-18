@@ -608,6 +608,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Microsoft Word
 * [Convert to HMTL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Microsoft%20Word/Microsoft_Word_Convert_to_HMTL.ipynb)
 
+## Mixpanel
+* [Get Profile Event Activity](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Mixpanel/Mixpanel_Get_Profile_Event_Activity.ipynb)
+
 ## MongoDB
 * [Get data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/MongoDB/MongoDB_Get_data.ipynb)
 * [Send data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/MongoDB/MongoDB_Send_data.ipynb)

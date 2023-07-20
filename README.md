@@ -89,7 +89,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Advertools
 * [Analyze website content using XML sitemap](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Analyze_website_content_using_XML_sitemap.ipynb)
 * [Audit robots txt and xml sitemap issues](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Audit_robots_txt_and_xml_sitemap_issues.ipynb)
+* [Check status code and Send report by email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Check_status_code_and_Send_notifications.ipynb)
+* [Check status code in bulk](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Check_status_code_in_bulk.ipynb)
 * [Crawling a website](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Crawl_a_website.ipynb)
+* [Visualize status codes OK and KO](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Visualize_status_codes_OK_KO.ipynb)
+* [Visualize status codes count](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Visualize_status_codes_count.ipynb)
 
 ## Affinity
 * [Sync with Notion database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Affinity/Affinity_Sync_with_Notion_database.ipynb)

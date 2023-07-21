@@ -605,6 +605,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Withdraw pending profile invitations](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Withdraw_pending_profile_invitations.ipynb)
 
 ## Matplotlib
+* [Create Barchart](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_Barchart.ipynb)
 * [Create Waterfall chart](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_Waterfall_chart.ipynb)
 
 ## Metrics Store

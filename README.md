@@ -361,6 +361,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get most important unseen emails](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Get_most_important_unseen_emails.ipynb)
 * [Get seen emails](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Get_seen_emails.ipynb)
 * [Get unseen emails](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Get_unseen_emails.ipynb)
+* [Mark emails as seen by dates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Mark_emails_as_seen_by_dates.ipynb)
 * [Read mailbox](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Read_mailbox.ipynb)
 * [Send email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Send_email.ipynb)
 * [Update email flag](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Update_email_flag.ipynb)

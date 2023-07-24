@@ -311,6 +311,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Download file from url](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Download_file_from_url.ipynb)
 * [Download repository from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Download_repository_from_URL.ipynb)
 * [Follow stargazers trend](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Follow_stargazers_trend.ipynb)
+* [Get DataFrame with issue estimate from project view](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_DataFrame_with_issue_estimate_from_project_view.ipynb)
 * [Get Traffic Clones on repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_Traffic_Clones_on_repository.ipynb)
 * [Get Traffic Views on repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_Traffic_Views_on_repository.ipynb)
 * [Get a repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_a_repository.ipynb)

@@ -839,6 +839,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Fill emtpy values](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Fill_emtpy_values.ipynb)
 * [Filter DataFrame](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Filter_DataFrame.ipynb)
 * [Flatten MultiIndex Columns](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Flatten_MultiIndex_Columns.ipynb)
+* [Format URL as clickable link on column](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Format_URL_as_clickable_link_on_column.ipynb)
 * [Format number to string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Format_number_to_string.ipynb)
 * [Get n largest](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Get_n_largest.ipynb)
 * [Get n smallest](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Get_n_smallest.ipynb)

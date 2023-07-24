@@ -607,6 +607,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Matplotlib
 * [Create Barchart](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_Barchart.ipynb)
+* [Create Stacked Barchart](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_Stacked_barchart.ipynb)
 * [Create Waterfall chart](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_Waterfall_chart.ipynb)
 
 ## Metrics Store

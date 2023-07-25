@@ -948,6 +948,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Convert currency](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_currency.ipynb)
 * [Convert length](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_length.ipynb)
 * [Convert speed](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_speed.ipynb)
+* [Convert string boolean to boolean](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_string_boolean_to_boolean.ipynb)
 * [Convert string to URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_string_to_URL.ipynb)
 * [Convert temperature](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_temperature.ipynb)
 * [Convert time](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_time.ipynb)

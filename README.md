@@ -908,6 +908,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Waterfall chart](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Plotly/Plotly_Create_Waterfall_chart.ipynb)
 
 ## Polars
+* [Concatenate DataFrames](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Concatenate_DataFrames.ipynb)
 * [Create DataFrame](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Create_DataFrame.ipynb)
 * [Read CSV](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Read_CSV.ipynb)
 * [Select columns](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Select_Columns.ipynb)

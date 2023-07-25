@@ -937,6 +937,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [- Get number of downloads any package](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyPI/PyPI_Get_number_of_downloads_any_package.ipynb)
 
 ## Python
+* [Check if string is number](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Check_if_string_is_number.ipynb)
 * [Clean your download folder](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Clean_your_download_folder.ipynb)
 * [Compress images](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Compress_images.ipynb)
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Consolidate_Excel_files.ipynb)

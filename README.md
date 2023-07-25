@@ -399,6 +399,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Google Drive
 * [Download file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Download_file.ipynb)
 
+## Google Maps
+* [Connect to Routes API](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Connect_to_Routes_API.ipynb)
+
 ## Google Search
 * [Get LinkedIn company url from name](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Search/Google_Search_Get_LinkedIn_company_url_from_name.ipynb)
 * [Get LinkedIn profile url from name](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Search/Google_Search_Get_LinkedIn_profile_url_from_name.ipynb)

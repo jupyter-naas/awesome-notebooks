@@ -828,6 +828,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Transform to MP3](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PDF/PDF_Transform_to_MP3.ipynb)
 
 ## Pandas
+* [Apply custom styles on column](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Apply_custom_styles_on_column.ipynb)
 * [Check Columns type](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Check_Columns_type.ipynb)
 * [Check if column is in date format](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Check_if_column_is_in_date_format.ipynb)
 * [Concatenate dataframes](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Concatenate_dataframes.ipynb)

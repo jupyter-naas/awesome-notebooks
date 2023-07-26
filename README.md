@@ -401,6 +401,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Google Maps
 * [Connect to Routes API](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Connect_to_Routes_API.ipynb)
+* [Get coordinates from address](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Get_coordinates_from_address.ipynb)
 
 ## Google Search
 * [Get LinkedIn company url from name](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Search/Google_Search_Get_LinkedIn_company_url_from_name.ipynb)

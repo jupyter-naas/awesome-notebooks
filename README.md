@@ -822,6 +822,15 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Write a social media post](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Write_a_social_media_post.ipynb)
 * [Write an outline](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Write_an_outline.ipynb)
 
+## OpenAlex
+* [Get lists of authors](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAlex/OpenAlex_Get_lists_of_authors.ipynb)
+* [Get lists of concepts](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAlex/OpenAlex_Get_lists_of_concepts.ipynb)
+* [Get lists of funders](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAlex/OpenAlex_Get_lists_of_funders.ipynb)
+* [Get lists of institutions](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAlex/OpenAlex_Get_lists_of_institutions.ipynb)
+* [Get lists of publishers](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAlex/OpenAlex_Get_lists_of_publishers.ipynb)
+* [Get lists of sources](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAlex/OpenAlex_Get_lists_of_sources.ipynb)
+* [Get lists of works](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAlex/OpenAlex_Get_lists_of_works.ipynb)
+
 ## OpenBB
 * [Create an  kernel on Naas](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenBB/OpenBB_Create_an_OpenBB_kernel_on_Naas.ipynb)
 

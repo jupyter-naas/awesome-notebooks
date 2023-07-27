@@ -185,6 +185,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Clockify
 * [Add a new client](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Add_a_new_client.ipynb)
 * [Add a new project](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Add_a_new_project.ipynb)
+* [Create time entries database on a workspace](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Create_time_entries_database_on_workspace.ipynb)
 * [Delete client](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Delete_client.ipynb)
 * [Delete project](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Delete_project.ipynb)
 * [Find all users on workspace](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Find_all_users_on_workspace.ipynb)

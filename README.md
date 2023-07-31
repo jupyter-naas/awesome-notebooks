@@ -961,6 +961,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## PyPI
 * [- Get number of downloads any package](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyPI/PyPI_Get_number_of_downloads_any_package.ipynb)
+* [Get release dates from package](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyPI/PyPI_Get_release_dates_from_package.ipynb)
 
 ## Python
 * [Check if string is number](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Check_if_string_is_number.ipynb)

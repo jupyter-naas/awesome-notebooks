@@ -520,6 +520,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Integromat/Integromat_Trigger_workflow.ipynb)
 
 ## JSON
+* [Convert Python Objects to](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Convert_Python_Objects_to_JSON.ipynb)
 * [Read local file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Read_local_file.ipynb)
 * [Save dataframe to  file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Save_dataframe_to_JSON_file.ipynb)
 * [Save dict to  file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Save_dict_to_JSON_file.ipynb)

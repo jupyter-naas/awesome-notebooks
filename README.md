@@ -868,7 +868,6 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Upload file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OwnCloud/OwnCloud_Upload_file.ipynb)
 
 ## PDF
-* [Extract Text from](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PDF/PDF_Extract_Text_from_PDF.ipynb)
 * [Extract Text from file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PDF/PDF_Extract_Text_from_file.ipynb)
 * [Merge multiple  documents](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PDF/PDF_Merge_multiple_PDF_documents.ipynb)
 * [Transform to MP3](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PDF/PDF_Transform_to_MP3.ipynb)

@@ -521,6 +521,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## JSON
 * [Convert Python Objects to](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Convert_Python_Objects_to_JSON.ipynb)
+* [Pretty print  data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Pretty_print_JSON_data.ipynb)
 * [Read local file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Read_local_file.ipynb)
 * [Save dataframe to  file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Save_dataframe_to_JSON_file.ipynb)
 * [Save dict to  file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Save_dict_to_JSON_file.ipynb)

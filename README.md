@@ -790,6 +790,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Visualize GDP per capita through the years](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_GDP_per_capita_through_the_years.ipynb)
 * [Visualize oil consumption throughout the years](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_Oil_Consumption_through_the_Years.ipynb)
 * [Visualize Population of Different Age Groups](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_Population_of_Different_Age_Groups.ipynb)
+* [Visualize Life expectancy at birth for both sexes throughout the years](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_life_expectancy_at_birth_for_both_sexes_through_out_the_years.ipynb)
 
 ## OpenAI
 * [Act as a AI enthusiast](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_AI_enthusiast.ipynb)

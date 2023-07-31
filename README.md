@@ -292,6 +292,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Folium
 * [Add markers on map](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Folium/Folium_Add_markers_on_map.ipynb)
+* [Build route maps](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Folium/Folium_Build_route_maps.ipynb)
 * [Create map](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Folium/Folium_Create_map.ipynb)
 
 ## Formant
@@ -517,6 +518,12 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Integromat
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Integromat/Integromat_Trigger_workflow.ipynb)
+
+## JSON
+* [Read local file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Read_local_file.ipynb)
+* [Save dataframe to  file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Save_dataframe_to_JSON_file.ipynb)
+* [Save dict to  file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Save_dict_to_JSON_file.ipynb)
+* [Send to Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Send_to_Google_Sheets_spreadsheet.ipynb)
 
 ## Johns Hopkins
 * [Covid19 Active Cases](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Johns%20Hopkins/Johns_Hopkins_Covid19_Active_Cases.ipynb)
@@ -862,6 +869,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## PDF
 * [Extract Text from](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PDF/PDF_Extract_Text_from_PDF.ipynb)
+* [Extract Text from file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PDF/PDF_Extract_Text_from_file.ipynb)
 * [Merge multiple  documents](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PDF/PDF_Merge_multiple_PDF_documents.ipynb)
 * [Transform to MP3](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PDF/PDF_Transform_to_MP3.ipynb)
 
@@ -1028,11 +1036,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Manage code error with try except](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Manage_exception_with_try_except.ipynb)
 * [Organize Directories based on file types](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Organize_Directories_based_on_file_types.ipynb)
 * [Pseudonym generator](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Pseudonym_generator.ipynb)
-* [Read json file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Read_json_file.ipynb)
 * [Read pickle file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Read_pickle_file.ipynb)
 * [Remove all spaces on string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Remove_all_spaces_on_string.ipynb)
 * [Save dict to pickle](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Save_dict_to_pickle.ipynb)
-* [Save json file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Save_json_file.ipynb)
 * [Split string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Split_string.ipynb)
 * [Transform String to Secure Hash Algorithm](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Transform_string_to_Secure_Hash_Algorithm.ipynb)
 * [Validate email and phone numbers](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Validate_email_and_phone_numbers.ipynb)

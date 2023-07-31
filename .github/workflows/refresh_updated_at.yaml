@@ -31,6 +31,9 @@ jobs:
         run: |
           papermill -p pull_number $issue_number Naas_Update_dates_on_PR_merged.ipynb ./Naas_Update_dates_on_PR_merged.out.ipynb
           rm ./Naas_Update_dates_on_PR_merged.out.ipynb
-      - uses: EndBug/add-and-commit@v7.2.1
-        with:
-          message: 'UpdatedAt: Refresh'
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m 'UpdatedAt: Refresh' -a
+          git push

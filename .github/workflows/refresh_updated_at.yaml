@@ -33,3 +33,4 @@ jobs:
       - uses: EndBug/add-and-commit@v7.2.1
         with:
           message: 'UpdatedAt: Refresh'
+          new_branch: master

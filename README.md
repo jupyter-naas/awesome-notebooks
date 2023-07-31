@@ -290,8 +290,20 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Anonymize Address from dataframe](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Faker/Faker_Anonymize_Address_from_dataframe.ipynb)
 * [Anonymize Personal Names from dataframe](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Faker/Faker_Anonymize_Personal_Names_from_dataframe.ipynb)
 
+## Folium
+* [Add markers on map](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Folium/Folium_Add_markers_on_map.ipynb)
+* [Create map](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Folium/Folium_Create_map.ipynb)
+
 ## Formant
 * [Query Device Network](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Formant/Formant_Query_Device_Network.ipynb)
+
+## Geopy
+* [Calculate distance between two locations in kilometers](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Geopy/Geopy_Calculate_distance_between_two_locations_in_km.ipynb)
+* [Calculate distance between two locations in miles](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Geopy/Geopy_Calculate_distance_between_two_locations_in_miles.ipynb)
+* [Display markers on map from addresses](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Geopy/Geopy_Display_markers_on_map.ipynb)
+* [Display route itinerary between two locations](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Geopy/Geopy_Display_route_itinerary_between_two_locations.ipynb)
+* [Get address from coordinates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Geopy/Geopy_Get_address_from_coordinates.ipynb)
+* [Get coordinates from address](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Geopy/Geopy_Get_coordinates_from_address.ipynb)
 
 ## GitHub
 * [Add new issues as page in Notion database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Add_new_issues_as_page_in_Notion_database.ipynb)
@@ -969,9 +981,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Compress images](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Compress_images.ipynb)
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Consolidate_Excel_files.ipynb)
 * [Convert CSV to Excel](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_CSV_to_Excel.ipynb)
+* [Convert degrees-minutes-seconds to decimal degrees](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_DMS_to_decimal_degrees.ipynb)
 * [Convert PNG Images To JPG](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_PNG_Images_To_JPG.ipynb)
 * [Convert URL to string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_URL_to_string.ipynb)
 * [Convert audiofile from wav to mp3](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_audiofile_from_wav_to_mp3.ipynb)
+* [Convert coordinates to degrees-minutes-seconds](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_coordinates_to_DMS.ipynb)
 * [Convert currency](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_currency.ipynb)
 * [Convert length](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_length.ipynb)
 * [Convert speed](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_speed.ipynb)

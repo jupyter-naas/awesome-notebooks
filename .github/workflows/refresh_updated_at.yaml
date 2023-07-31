@@ -1,0 +1,35 @@
+name: Refresh updated at
+on:
+  pull_request:
+    types:
+      - closed
+    branches:
+      - master
+
+jobs:
+  refresh_updated_at:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
+        
+      - run: "pip install papermill requests pandas ipykernel"
+
+      - name: Get required variables And run script
+        env: 
+          issue_number: ${{ github.event.pull_request.number }}
+          GITHUB_TOKEN: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
+          
+        run: |
+          papermill -p pull_number $issue_number Naas_Update_dates_on_PR_merged.ipynb ./Naas_Update_dates_on_PR_merged.out.ipynb
+          rm ./Naas_Update_dates_on_PR_merged.out.ipynb
+      - uses: EndBug/add-and-commit@v7.2.1
+        with:
+          message: 'UpdatedAt: Refresh'

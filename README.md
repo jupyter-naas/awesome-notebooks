@@ -197,6 +197,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get project by ID](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Get_project_by_ID.ipynb)
 * [Get time entries for a user on workspace](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Get_time_entries_for_a_user_on_workspace.ipynb)
 * [Remove user from workspace](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Remove_user_from_workspace.ipynb)
+* [Send time entries database to a Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Send_time_entries_database_to_Google_Sheets_spreadsheet.ipynb)
 * [Update client](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Update_client.ipynb)
 * [Update project](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Update_project.ipynb)
 

@@ -625,6 +625,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send invitation to profile](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_invitation_to_profile.ipynb)
 * [Send invitation to profile from post likes](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_invitation_to_profile_from_post_likes.ipynb)
 * [Send invitations to post commenters](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_invitations_to_post_commenters.ipynb)
+* [Send like to post](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_like_to_post.ipynb)
 * [Send likes from post to gsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_likes_from_post_to_gsheet.ipynb)
 * [Send message to new connections](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_message_to_new_connections.ipynb)
 * [Send message to profile](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_message_to_profile.ipynb)

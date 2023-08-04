@@ -449,6 +449,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get Filtered List of Time Entries](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_Filtered_time_entries.ipynb)
 * [List all clients](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_List_all_clients.ipynb)
 * [List all time entries](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_List_all_time_entries.ipynb)
+* [List all users](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_List_all_users.ipynb)
 
 ## Healthchecks
 * [Perfom basic actions](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Healthchecks/Healthchecks_Perfom_basic_actions.ipynb)

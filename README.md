@@ -445,6 +445,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create a website](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HTML/HTML_Create_a_website.ipynb)
 
 ## Harvest
+* [Get Filtered List of Time Entries](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_Filtered_time_entries.ipynb)
 * [List all clients](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_List_all_clients.ipynb)
 * [List all time entries](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_List_all_time_entries.ipynb)
 

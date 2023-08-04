@@ -91,6 +91,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Audit robots txt and xml sitemap issues](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Audit_robots_txt_and_xml_sitemap_issues.ipynb)
 * [Check status code and Send report by email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Check_status_code_and_Send_notifications.ipynb)
 * [Check status code in bulk](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Check_status_code_in_bulk.ipynb)
+* [Check website pages status code](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Check_website_pages_status_code.ipynb)
 * [Crawling a website](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Crawl_a_website.ipynb)
 * [Visualize status codes OK and KO](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Visualize_status_codes_OK_KO.ipynb)
 * [Visualize status codes count](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Visualize_status_codes_count.ipynb)

@@ -89,6 +89,12 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Advertools
 * [Analyze website content using XML sitemap](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Analyze_website_content_using_XML_sitemap.ipynb)
 * [Audit robots txt and xml sitemap issues](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Audit_robots_txt_and_xml_sitemap_issues.ipynb)
+* [Check status code and Send report by email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Check_status_code_and_Send_notifications.ipynb)
+* [Check status code in bulk](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Check_status_code_in_bulk.ipynb)
+* [Check website pages status code](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Check_website_pages_status_code.ipynb)
+* [Crawling a website](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Crawl_a_website.ipynb)
+* [Visualize status codes OK and KO](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Visualize_status_codes_OK_KO.ipynb)
+* [Visualize status codes count](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Visualize_status_codes_count.ipynb)
 
 ## Affinity
 * [Sync with Notion database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Affinity/Affinity_Sync_with_Notion_database.ipynb)
@@ -96,6 +102,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Agicap
 * [Export treasury plan](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Agicap/Agicap_Export_treasury_plan.ipynb)
 * [Export treasury plan by account](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Agicap/Agicap_Export_treasury_plan_by_account.ipynb)
+* [Get banks accounts from company](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Agicap/Agicap_Get_banks_accounts_from_company.ipynb)
+* [Get inflow categories from company](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Agicap/Agicap_Get_inflow_categories_from_company.ipynb)
+* [Get outflow categories from company](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Agicap/Agicap_Get_outflow_categories_from_company.ipynb)
 * [List companies](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Agicap/Agicap_List_companies.ipynb)
 
 ## Airtable
@@ -119,7 +128,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get income statement](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AlphaVantage/AlphaVantage_Get_income_statement.ipynb)
 
 ## Azure Blob Storage
+* [List blobs](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Azure%20Blob%20Storage/Azure_Blob_Storage_List_blobs.ipynb)
 * [Upload files](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Azure%20Blob%20Storage/Azure_Blob_Storage_Upload_files.ipynb)
+
+## Azure Machine Learning
+* [Univariate Timeseries Inference](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Azure%20Machine%20Learning/Azure_Machine_Learning_Univariate_Timeseries_Inference.ipynb)
 
 ## Bazimo
 * [Get export Actifs](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Bazimo/Bazimo_Get_export_Actifs.ipynb)
@@ -159,10 +172,6 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Calculate Support and Resistance](https://github.com/jupyter-naas/awesome-notebooks/blob/master/CCXT/CCXT_Calculate_Support_and_Resistance.ipynb)
 * [Predict Bitcoin from Binance](https://github.com/jupyter-naas/awesome-notebooks/blob/master/CCXT/CCXT_Predict_Bitcoin_from_Binance.ipynb)
 
-## CSV
-* [Read file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/CSV/CSV_Read_file.ipynb)
-* [Save file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/CSV/CSV_Save_file.ipynb)
-
 ## Canny
 * [Create](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Canny/Canny_Create.ipynb)
 * [Github issue update](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Canny/Canny_Github_issue_update.ipynb)
@@ -177,6 +186,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Clockify
 * [Add a new client](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Add_a_new_client.ipynb)
 * [Add a new project](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Add_a_new_project.ipynb)
+* [Create time entries database on a workspace](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Create_time_entries_database_on_workspace.ipynb)
 * [Delete client](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Delete_client.ipynb)
 * [Delete project](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Delete_project.ipynb)
 * [Find all users on workspace](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Find_all_users_on_workspace.ipynb)
@@ -188,6 +198,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get project by ID](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Get_project_by_ID.ipynb)
 * [Get time entries for a user on workspace](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Get_time_entries_for_a_user_on_workspace.ipynb)
 * [Remove user from workspace](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Remove_user_from_workspace.ipynb)
+* [Send time entries database to a Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Send_time_entries_database_to_Google_Sheets_spreadsheet.ipynb)
 * [Update client](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Update_client.ipynb)
 * [Update project](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Update_project.ipynb)
 
@@ -226,6 +237,15 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Data.gouv.fr
 * [COVID19 -  FR - Entrées et sorties par région pour 1 million d'hab.](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Data.gouv.fr/COVID19%20-%20%20FR%20-%20Entr%C3%A9es%20et%20sorties%20par%20r%C3%A9gion%20pour%201%20million%20d%27hab..ipynb)
 * [Récupération données légales entreprise](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Data.gouv.fr/Data.gouv.fr_R%C3%A9cup%C3%A9ration_donn%C3%A9es_l%C3%A9gales_entreprise.ipynb)
+
+## Datetime
+* [Calculate relative time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Calculate_relative_time_delta_between_two_dates.ipynb)
+* [Calculate time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Calculate_time_delta_between_two_dates.ipynb)
+* [Convert datetime object to a formatted date string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_datetime_object_to_string_date.ipynb)
+* [Convert  with Timezone to ISO 8601 date string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_datetime_with_timezone_to_ISO_8601_date_string.ipynb)
+* [Convert relative time delta to months](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_relative_time_delta_to_months.ipynb)
+* [Convert a string date to a datetime object](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_string_to_datetime_object.ipynb)
+* [Convert timestamp to a datetime object](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_timestamp_to_a_datetime_object.ipynb)
 
 ## Deepl
 * [Translated string to txt](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Deepl/Deepl_Translated_string_to_txt.ipynb)
@@ -272,13 +292,27 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Anonymize Address from dataframe](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Faker/Faker_Anonymize_Address_from_dataframe.ipynb)
 * [Anonymize Personal Names from dataframe](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Faker/Faker_Anonymize_Personal_Names_from_dataframe.ipynb)
 
+## Folium
+* [Add markers on map](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Folium/Folium_Add_markers_on_map.ipynb)
+* [Build route maps](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Folium/Folium_Build_route_maps.ipynb)
+* [Create map](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Folium/Folium_Create_map.ipynb)
+
 ## Formant
 * [Query Device Network](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Formant/Formant_Query_Device_Network.ipynb)
+
+## Geopy
+* [Calculate distance between two locations in kilometers](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Geopy/Geopy_Calculate_distance_between_two_locations_in_km.ipynb)
+* [Calculate distance between two locations in miles](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Geopy/Geopy_Calculate_distance_between_two_locations_in_miles.ipynb)
+* [Display markers on map from addresses](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Geopy/Geopy_Display_markers_on_map.ipynb)
+* [Display route itinerary between two locations](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Geopy/Geopy_Display_route_itinerary_between_two_locations.ipynb)
+* [Get address from coordinates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Geopy/Geopy_Get_address_from_coordinates.ipynb)
+* [Get coordinates from address](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Geopy/Geopy_Get_coordinates_from_address.ipynb)
 
 ## GitHub
 * [Add new issues as page in Notion database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Add_new_issues_as_page_in_Notion_database.ipynb)
 * [Add new member to team](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Add_new_member_to_team.ipynb)
 * [Add or update team membership for a user](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Add_or_update_team_membership_for_a_user.ipynb)
+* [Clone open branches from repository on my local](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Clone_open_branches_from_repository_on_my_local.ipynb)
 * [Clone repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Clone_repository.ipynb)
 * [Clone repository and switch branch](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Clone_repository_and_switch_branch.ipynb)
 * [Close issue](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Close_issue.ipynb)
@@ -294,11 +328,13 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Download file from url](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Download_file_from_url.ipynb)
 * [Download repository from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Download_repository_from_URL.ipynb)
 * [Follow stargazers trend](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Follow_stargazers_trend.ipynb)
+* [Get DataFrame with issue estimate from project view](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_DataFrame_with_issue_estimate_from_project_view.ipynb)
 * [Get Traffic Clones on repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_Traffic_Clones_on_repository.ipynb)
 * [Get Traffic Views on repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_Traffic_Views_on_repository.ipynb)
 * [Get a repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_a_repository.ipynb)
 * [Get active projects](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_active_projects.ipynb)
 * [Get commits from repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_commits_from_repository.ipynb)
+* [List commits history from file path](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_commits_history_from_file_path.ipynb)
 * [Get commits ranking from repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_commits_ranking_from_repository.ipynb)
 * [Get files added on pull request](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_files_added_on_pull_request.ipynb)
 * [Get files changed on pull request](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_files_changed_on_pull_request.ipynb)
@@ -310,6 +346,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get team membership for a user](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_team_membership_for_a_user.ipynb)
 * [Get weekly commits from repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_weekly_commits_from_repository.ipynb)
 * [List all pull requests](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_List_all_pull_requests.ipynb)
+* [List branches](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_List_branches.ipynb)
+* [List branches with open PR](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_List_branches_with_open_PR.ipynb)
 * [List closed pull requests](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_List_closed_pull_requests.ipynb)
 * [List issue comments](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_List_issue_comments.ipynb)
 * [List open pull requests](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_List_open_pull_requests.ipynb)
@@ -319,10 +357,13 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [List team members](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_List_team_members.ipynb)
 * [Peform basic actions](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Peform_basic_actions.ipynb)
 * [Read issue](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Read_issue.ipynb)
+* [Remove directories with branches closed on my local](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Remove_directories_with_branches_closed_on_my_local.ipynb)
 * [Remove member from team](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Remove_member_from_team.ipynb)
 * [Remove team membership for a user](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Remove_team_membership_for_a_user.ipynb)
 * [Reopen issue](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Reopen_issue.ipynb)
+* [Send contributor activity on slack](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Send_contributor_activity_on_slack.ipynb)
 * [Send stargazers to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Send_stargazers_to_Google_Sheets.ipynb)
+* [Send templates created on a notebooks to Slack channel](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Send_templates_created_on_a_notebooks_to_Slack_channel.ipynb)
 * [Track issues on projects](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Track_issues_on_projects.ipynb)
 * [Track notebooks created over time](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Track_notebooks_created_over_time.ipynb)
 * [Update issue](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Update_issue.ipynb)
@@ -333,9 +374,13 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create GitHub issue on specific email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Create_GitHub_issue_on_specific_email.ipynb)
 * [Create draft email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Create_draft_email.ipynb)
 * [Delete email from mailbox](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Delete_email_from_mailbox.ipynb)
+* [Get emails by date](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Get_emails_by_date.ipynb)
 * [Get emails stats by sender](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Get_emails_stats_by_sender.ipynb)
+* [Get most common senders](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Get_most_common_senders.ipynb)
+* [Get most important unseen emails](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Get_most_important_unseen_emails.ipynb)
 * [Get seen emails](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Get_seen_emails.ipynb)
 * [Get unseen emails](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Get_unseen_emails.ipynb)
+* [Mark emails as seen by dates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Mark_emails_as_seen_by_dates.ipynb)
 * [Read mailbox](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Read_mailbox.ipynb)
 * [Send email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Send_email.ipynb)
 * [Update email flag](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Gmail/Gmail_Update_email_flag.ipynb)
@@ -370,6 +415,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Google Drive
 * [Download file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Download_file.ipynb)
 
+## Google Maps
+* [Calculate travel costs between two addresses](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Calculate_travel_costs_between_two_addresses.ipynb)
+* [Connect to Routes API](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Connect_to_Routes_API.ipynb)
+* [Get coordinates from address](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Get_coordinates_from_address.ipynb)
+
 ## Google Search
 * [Get LinkedIn company url from name](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Search/Google_Search_Get_LinkedIn_company_url_from_name.ipynb)
 * [Get LinkedIn profile url from name](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Search/Google_Search_Get_LinkedIn_profile_url_from_name.ipynb)
@@ -378,6 +428,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Google Sheets
 * [Add items to Notion databases from new rows in](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Add_items_to_Notion_databases_from_new_rows_in_Google_Sheets.ipynb)
 * [Add new github member to team from spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Add_new_github_member_to_team_from_spreadsheet.ipynb)
+* [Calculate distance and price](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Calculate_Distance_and_Price.ipynb)
 * [Get data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Get_data.ipynb)
 * [Send LinkedIn invitations from spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Send_LinkedIn_invitations_from_spreadsheet.ipynb)
 * [Send data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Send_data.ipynb)
@@ -395,8 +446,10 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create a website](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HTML/HTML_Create_a_website.ipynb)
 
 ## Harvest
+* [Get Filtered List of Time Entries](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_Filtered_time_entries.ipynb)
 * [List all clients](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_List_all_clients.ipynb)
 * [List all time entries](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_List_all_time_entries.ipynb)
+* [List all users](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_List_all_users.ipynb)
 
 ## Healthchecks
 * [Perfom basic actions](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Healthchecks/Healthchecks_Perfom_basic_actions.ipynb)
@@ -470,6 +523,14 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Integromat
 * [Trigger workflow](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Integromat/Integromat_Trigger_workflow.ipynb)
 
+## JSON
+* [Convert Python Objects to](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Convert_Python_Objects_to_JSON.ipynb)
+* [Pretty print  data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Pretty_print_JSON_data.ipynb)
+* [Read local file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Read_local_file.ipynb)
+* [Save dataframe to  file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Save_dataframe_to_JSON_file.ipynb)
+* [Save dict to  file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Save_dict_to_JSON_file.ipynb)
+* [Send to Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/JSON/JSON_Send_to_Google_Sheets_spreadsheet.ipynb)
+
 ## Johns Hopkins
 * [Covid19 Active Cases](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Johns%20Hopkins/Johns_Hopkins_Covid19_Active_Cases.ipynb)
 * [Get Covid19 data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Johns%20Hopkins/Johns_Hopkins_Get_Covid19_data.ipynb)
@@ -500,6 +561,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## LangChain
 * [CSV Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_CSV_Agent.ipynb)
+* [Gmail Toolkit](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Gmail_Toolkit.ipynb)
+* [JSON Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_JSON_Agent.ipynb)
 * [Pandas Dataframe Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Pandas_Dataframe_Agent.ipynb)
 
 ## LeFigaro
@@ -512,6 +575,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## LinkedIn
 * [Accept all invitations and send first message](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Accept_all_invitations_and_send_first_message.ipynb)
 * [Accept invitation received](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Accept_invitation_received.ipynb)
+* [Chat about my latest profile posts](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Chat_about_my_latest_profile_posts.ipynb)
 * [Create Post](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Create_Post.ipynb)
 * [Create posts metrics dashboard](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Create_posts_metrics_dashboard.ipynb)
 * [Extract content world cloud](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Extract_content_world_cloud.ipynb)
@@ -565,6 +629,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send invitation to profile](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_invitation_to_profile.ipynb)
 * [Send invitation to profile from post likes](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_invitation_to_profile_from_post_likes.ipynb)
 * [Send invitations to post commenters](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_invitations_to_post_commenters.ipynb)
+* [Send like to post](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_like_to_post.ipynb)
 * [Send likes from post to gsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_likes_from_post_to_gsheet.ipynb)
 * [Send message to new connections](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_message_to_new_connections.ipynb)
 * [Send message to profile](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_message_to_profile.ipynb)
@@ -577,7 +642,17 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Withdraw pending profile invitations](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Withdraw_pending_profile_invitations.ipynb)
 
 ## Matplotlib
+* [Create Barchart](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_Barchart.ipynb)
+* [Create Horizontal Barchart](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_Horizontal_barchart.ipynb)
+* [Create Stacked Barchart](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_Stacked_barchart.ipynb)
+* [Create Stackplots](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_Stackplot.ipynb)
+* [Create Step Demo](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_Step_Demo.ipynb)
+* [Create Streamgraphs](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_Streamgraphs.ipynb)
 * [Create Waterfall chart](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_Waterfall_chart.ipynb)
+* [Creating a timeline with lines, dates, and text](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_timeline%20_with_lines_dates_and_text.ipynb)
+* [Errorbar Limit Selection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Errorbar_limit_selection.ipynb)
+* [Mapping marker properties to multivariate data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Map_marker_properties_to_plot_multivariate_data.ipynb)
+* [Plotting the Coherence of two signals](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Plotting_the_coherence_of_two_signals.ipynb)
 
 ## Metrics Store
 * [Content creation Track connections](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Metrics%20Store/Content_creation_Track_connections.ipynb)
@@ -588,16 +663,23 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Microsoft Word
 * [Convert to HMTL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Microsoft%20Word/Microsoft_Word_Convert_to_HMTL.ipynb)
 
+## Mixpanel
+* [Get Profile Event Activity](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Mixpanel/Mixpanel_Get_Profile_Event_Activity.ipynb)
+
 ## MongoDB
 * [Get data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/MongoDB/MongoDB_Get_data.ipynb)
 * [Send data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/MongoDB/MongoDB_Send_data.ipynb)
 * [Send data to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/blob/master/MongoDB/MongoDB_Send_data_to_Google_Sheets.ipynb)
+
+## MoviePy
+* [Convert audio file M4A to MP3](https://github.com/jupyter-naas/awesome-notebooks/blob/master/MoviePy/MoviePy_Convert_audio_file_M4A_to_MP3.ipynb)
 
 ## MySQL
 * [Query database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/MySQL/MySQL_Query_database.ipynb)
 
 ## NASA
 * [Artic sea ice](https://github.com/jupyter-naas/awesome-notebooks/blob/master/NASA/NASA_Artic_sea_ice.ipynb)
+* [Display Exoplanet by Light Curves](https://github.com/jupyter-naas/awesome-notebooks/blob/master/NASA/NASA_Classify_Exoplanet_by_light_curves.ipynb)
 * [Global temperature](https://github.com/jupyter-naas/awesome-notebooks/blob/master/NASA/NASA_Global_temperature.ipynb)
 * [Sea level](https://github.com/jupyter-naas/awesome-notebooks/blob/master/NASA/NASA_Sea_level.ipynb)
 
@@ -713,9 +795,19 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create directory](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Create_directory.ipynb)
 * [Get access of environment variables](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Get_access_of_environment_variables.ipynb)
 * [Get current working directory](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Get_current_working_directory.ipynb)
+* [Get folder stats](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Get_folder_stats.ipynb)
 * [List entries in directory](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_List_entries_in_directory.ipynb)
 * [Remove file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Remove_file.ipynb)
 * [Rename file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OS/OS_Rename_file.ipynb)
+
+## OWID
+* [Visualize GDP per capita through the years](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_GDP_per_capita_through_the_years.ipynb)
+* [Visualize oil consumption throughout the years](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_Oil_Consumption_through_the_Years.ipynb)
+* [Visualize Population of Different Age Groups](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_Population_of_Different_Age_Groups.ipynb)
+* [Visualize economic freedom through the years](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_economic_freedom_through_the_years.ipynb)
+* [Visualize greenhouse gas per capita](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_greenhouse_gas_per_capita.ipynb)
+* [Visualize Life expectancy at birth for both sexes throughout the years](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_life_expectancy_at_birth_for_both_sexes_through_out_the_years.ipynb)
+* [Visualize world population growth](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_world_population_growth.ipynb)
 
 ## OpenAI
 * [Act as a AI enthusiast](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_AI_enthusiast.ipynb)
@@ -761,6 +853,15 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Write a social media post](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Write_a_social_media_post.ipynb)
 * [Write an outline](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Write_an_outline.ipynb)
 
+## OpenAlex
+* [Get lists of authors](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAlex/OpenAlex_Get_lists_of_authors.ipynb)
+* [Get lists of concepts](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAlex/OpenAlex_Get_lists_of_concepts.ipynb)
+* [Get lists of funders](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAlex/OpenAlex_Get_lists_of_funders.ipynb)
+* [Get lists of institutions](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAlex/OpenAlex_Get_lists_of_institutions.ipynb)
+* [Get lists of publishers](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAlex/OpenAlex_Get_lists_of_publishers.ipynb)
+* [Get lists of sources](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAlex/OpenAlex_Get_lists_of_sources.ipynb)
+* [Get lists of works](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAlex/OpenAlex_Get_lists_of_works.ipynb)
+
 ## OpenBB
 * [Create an  kernel on Naas](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenBB/OpenBB_Create_an_OpenBB_kernel_on_Naas.ipynb)
 
@@ -777,12 +878,14 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Upload file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OwnCloud/OwnCloud_Upload_file.ipynb)
 
 ## PDF
-* [Extract Text from](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PDF/PDF_Extract_Text_from_PDF.ipynb)
+* [Extract Text from file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PDF/PDF_Extract_Text_from_file.ipynb)
 * [Merge multiple  documents](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PDF/PDF_Merge_multiple_PDF_documents.ipynb)
 * [Transform to MP3](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PDF/PDF_Transform_to_MP3.ipynb)
 
 ## Pandas
+* [Apply custom styles on column](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Apply_custom_styles_on_column.ipynb)
 * [Check Columns type](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Check_Columns_type.ipynb)
+* [Check if column is in date format](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Check_if_column_is_in_date_format.ipynb)
 * [Concatenate dataframes](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Concatenate_dataframes.ipynb)
 * [Convert datetime series](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Convert_datetime_series.ipynb)
 * [Create Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Create_Pivot_Table.ipynb)
@@ -796,6 +899,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Fill emtpy values](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Fill_emtpy_values.ipynb)
 * [Filter DataFrame](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Filter_DataFrame.ipynb)
 * [Flatten MultiIndex Columns](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Flatten_MultiIndex_Columns.ipynb)
+* [Format URL as clickable link on column](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Format_URL_as_clickable_link_on_column.ipynb)
 * [Format number to string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Format_number_to_string.ipynb)
 * [Get n largest](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Get_n_largest.ipynb)
 * [Get n smallest](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Get_n_smallest.ipynb)
@@ -860,7 +964,12 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Waterfall chart](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Plotly/Plotly_Create_Waterfall_chart.ipynb)
 
 ## Polars
+* [Concatenate DataFrames](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Concatenate_DataFrames.ipynb)
+* [Create DataFrame](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Create_DataFrame.ipynb)
 * [Read CSV](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Read_CSV.ipynb)
+* [Select columns](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Select_Columns.ipynb)
+* [Select rows](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Select_Rows.ipynb)
+* [Select both rows and columns](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Polars/Polars_Select_Rows_and_Columns.ipynb)
 
 ## PostgresSQL
 * [Get data from database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PostgresSQL/PostgresSQL_Get_data_from_database.ipynb)
@@ -881,24 +990,31 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Analyze Pandas dataframe](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyGWalker/PyGWalker_Analyze_Pandas_dataframe.ipynb)
 
 ## PyPI
-* [- Get number of downloads any package](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyPI/PyPI%20-%20Get_number_of_downloads_any_package.ipynb)
+* [- Get number of downloads any package](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyPI/PyPI_Get_number_of_downloads_any_package.ipynb)
+* [Get release dates from package](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyPI/PyPI_Get_release_dates_from_package.ipynb)
 
 ## Python
-* [Calculate relative time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Calculate_relative_time_delta_between_two_dates.ipynb)
-* [Calculate time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Calculate_time_delta_between_two_dates.ipynb)
+* [Check if string is number](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Check_if_string_is_number.ipynb)
 * [Clean your download folder](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Clean_your_download_folder.ipynb)
 * [Compress images](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Compress_images.ipynb)
 * [Consolidate Excel files](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Consolidate_Excel_files.ipynb)
 * [Convert CSV to Excel](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_CSV_to_Excel.ipynb)
-* [Convert Datetime with Timezone to ISO 8601 date string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_Datetime_with_Timezone_to_ISO_8601_date_string.ipynb)
+* [Convert degrees-minutes-seconds to decimal degrees](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_DMS_to_decimal_degrees.ipynb)
 * [Convert PNG Images To JPG](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_PNG_Images_To_JPG.ipynb)
 * [Convert URL to string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_URL_to_string.ipynb)
 * [Convert audiofile from wav to mp3](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_audiofile_from_wav_to_mp3.ipynb)
+* [Convert coordinates to degrees-minutes-seconds](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_coordinates_to_DMS.ipynb)
 * [Convert currency](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_currency.ipynb)
-* [Convert relative time delta to months](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_relative_time_delta_to_months.ipynb)
+* [Convert length](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_length.ipynb)
+* [Convert speed](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_speed.ipynb)
+* [Convert string boolean to boolean](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_string_boolean_to_boolean.ipynb)
 * [Convert string to URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_string_to_URL.ipynb)
+* [Convert temperature](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_temperature.ipynb)
+* [Convert time](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_time.ipynb)
 * [Convert time delta to months](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_time_delta_to_months.ipynb)
 * [Convert units](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_units.ipynb)
+* [Convert volume](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_volume.ipynb)
+* [Convert weight](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Convert_weight.ipynb)
 * [Copy files and subdir from directory to another directory](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Copy_files_and_subdir_from_directory_to_another_directory.ipynb.ipynb)
 * [Create Email Combination with Firstname Lastname Domain address](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Create_Email_Combination_with_Firstname_Lastname_Domain_address.ipynb)
 * [Create Strong Random Password](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Create_Strong_Random_Password.ipynb)
@@ -908,6 +1024,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Download Image from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Download_Image_from_URL.ipynb)
 * [Download PDF from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Download_PDF_from_URL.ipynb)
 * [Download ZIP from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Download_ZIP_from_URL.ipynb)
+* [Download audio file from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Download_audio_file_from_URL.ipynb)
 * [Explore Dataset with Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Explore_Dataset_with_Pivot_Table.ipynb)
 * [Extract characters from string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Extract_characters_from_string.ipynb)
 * [Find Phone Number in string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Find_Phone_Number_in_string.ipynb)
@@ -928,14 +1045,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Manage code error with try except](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Manage_exception_with_try_except.ipynb)
 * [Organize Directories based on file types](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Organize_Directories_based_on_file_types.ipynb)
 * [Pseudonym generator](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Pseudonym_generator.ipynb)
-* [Read json file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Read_json_file.ipynb)
 * [Read pickle file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Read_pickle_file.ipynb)
 * [Remove all spaces on string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Remove_all_spaces_on_string.ipynb)
 * [Save dict to pickle](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Save_dict_to_pickle.ipynb)
-* [Save json file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Save_json_file.ipynb)
 * [Split string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Split_string.ipynb)
 * [Transform String to Secure Hash Algorithm](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Transform_string_to_Secure_Hash_Algorithm.ipynb)
-* [Using datetime library](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Using_datetime_library.ipynb)
 * [Validate email and phone numbers](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Validate_email_and_phone_numbers.ipynb)
 
 ## Pyvis
@@ -979,6 +1093,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Request
 * [Basic HTTP GET](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Request/Request_Basic_HTTP_GET_Request.ipynb)
+* [Handling Errors and Exceptions](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Request/Request_Handling_Errors_and_Exceptions.ipynb)
 * [Sending POST s with Data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Request/Request_Sending_POST_Requests_with_Data.ipynb)
 
 ## SAP-HANA
@@ -1018,7 +1133,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Slack
 * [Add new user to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Slack/Slack_Add_new_user_to_Google_Sheets.ipynb)
 * [Follow number of users in workspace](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Slack/Slack_Follow_number_of_users_in_workspace.ipynb)
-* [Send message](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Slack/Slack_Send_message.ipynb)
+* [Send blocks to channel](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Slack/Slack_Send_blocks_to_channel.ipynb)
+* [Send message](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Slack/Slack_Send_message_to_channel.ipynb)
 
 ## Snowflake
 * [Basics and data querying](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Snowflake/Snowflake_Basics_and_data_querying.ipynb)
@@ -1069,7 +1185,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get videos stats](https://github.com/jupyter-naas/awesome-notebooks/blob/master/TikTok/TikTok_Get_videos_stats.ipynb)
 
 ## Trello
+* [Create Card](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Create_Card.ipynb)
+* [Get Cards on a Board](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Get_Cards_on_a_Board.ipynb)
+* [Get Lists on a Board](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Get_Lists_on_a_Board.ipynb)
 * [Get board data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Get_board_data.ipynb)
+* [List Boards](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_List_Boards.ipynb)
 
 ## Twilio
 * [Add SMS to Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Twilio/Twilio_Add_SMS_to_Google_Sheets_spreadsheet.ipynb)

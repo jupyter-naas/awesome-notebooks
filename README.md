@@ -807,6 +807,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Visualize economic freedom through the years](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_economic_freedom_through_the_years.ipynb)
 * [Visualize greenhouse gas per capita](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_greenhouse_gas_per_capita.ipynb)
 * [Visualize Life expectancy at birth for both sexes throughout the years](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_life_expectancy_at_birth_for_both_sexes_through_out_the_years.ipynb)
+* [Visualize world population growth](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_world_population_growth.ipynb)
 
 ## OpenAI
 * [Act as a AI enthusiast](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_AI_enthusiast.ipynb)

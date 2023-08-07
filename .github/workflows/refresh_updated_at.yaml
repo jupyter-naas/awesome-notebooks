@@ -35,5 +35,4 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m 'UpdatedAt: Refresh' -a
-          git push
+          (git commit -m 'UpdatedAt: Refresh' -a && git push) || echo "💡 It seems that there is nothing to commit."

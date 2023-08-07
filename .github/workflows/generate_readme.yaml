@@ -6,7 +6,7 @@ on:
 
 jobs:
   generate-readme:
-    if: "!startsWith(github.event.head_commit.message, 'generateReadme:')"
+    if: "!startsWith(github.event.head_commit.message, 'generateReadme:') && !startsWith(github.event.head_commit.message, 'UpdatedAt:')"
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -31,7 +31,13 @@ jobs:
         ALGOLIA_APP_ID: '${{ secrets.ALGOLIA_APP_ID }}' 
         ALGOLIA_API_KEY: '${{ secrets.ALGOLIA_API_KEY }}'
     - run: "jupyter nbconvert --clear-output --inplace .github/push_templates_to_algolia.ipynb"
-    - uses: EndBug/add-and-commit@v7.2.1
-      with:
-        message: 'generateReadme: Refresh'
-        add: 'templates.json'
+    # - uses: EndBug/add-and-commit@v7.2.1
+    #   with:
+    #     message: 'generateReadme: Refresh'
+    - name: Commit and push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git pull --no-edit
+        git commit -m 'generateReadme: Refresh' -a
+        git push

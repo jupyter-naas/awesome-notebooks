@@ -21,7 +21,7 @@ jobs:
           python-version: '3.9'
           token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
         
-      - run: "pip install papermill requests pandas ipykernel"
+      - run: "pip install papermill==2.4.0 requests pandas==1.5.3 ipykernel GitPython==3.1.32"
 
       - name: Get required variables And run script
         env: 

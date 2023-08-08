@@ -366,6 +366,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Reopen issue](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Reopen_issue.ipynb)
 * [Send contributor activity on slack](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Send_contributor_activity_on_slack.ipynb)
 * [Send stargazers to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Send_stargazers_to_Google_Sheets.ipynb)
+* [Send template maintainer monthly report](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Send_template_maintainer_monthly_report.ipynb)
 * [Send templates created on a notebooks to Slack channel](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Send_templates_created_on_a_notebooks_to_Slack_channel.ipynb)
 * [Track issues on projects](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Track_issues_on_projects.ipynb)
 * [Track notebooks created over time](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Track_notebooks_created_over_time.ipynb)

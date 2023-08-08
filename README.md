@@ -297,6 +297,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Build route maps](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Folium/Folium_Build_route_maps.ipynb)
 * [Create map](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Folium/Folium_Create_map.ipynb)
 
+## Forecast
+* [List all people](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Forecast/Forecast_List_all_people.ipynb)
+
 ## Formant
 * [Query Device Network](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Formant/Formant_Query_Device_Network.ipynb)
 

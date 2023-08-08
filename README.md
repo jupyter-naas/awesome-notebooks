@@ -421,6 +421,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Google Maps
 * [Calculate travel costs between two addresses](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Calculate_travel_costs_between_two_addresses.ipynb)
 * [Connect to Routes API](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Connect_to_Routes_API.ipynb)
+* [Create itinerary optimisation on differents waypoints](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Create_itinerary_optimisation_on_differents_waypoints.ipynb)
 * [Get coordinates from address](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Get_coordinates_from_address.ipynb)
 
 ## Google Search

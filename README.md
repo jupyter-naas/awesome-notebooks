@@ -298,6 +298,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create map](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Folium/Folium_Create_map.ipynb)
 
 ## Forecast
+* [List all clients](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Forecast/Forecast_List_all_clients.ipynb)
 * [List all people](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Forecast/Forecast_List_all_people.ipynb)
 
 ## Formant

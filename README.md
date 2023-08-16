@@ -725,6 +725,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Delete Scheduler](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Delete_Scheduler.ipynb)
 * [Delete Secret](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Delete_Secret.ipynb)
 * [Delete Webhook](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Delete_Webhook.ipynb)
+* [Delete all assets](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Delete_all_assets.ipynb)
+* [Delete all schedulers](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Delete_all_schedulers.ipynb)
 * [Dependency demo](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Dependency_demo.ipynb)
 * [Doc demo](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Doc_demo.ipynb)
 * [Download Content Engine](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Download_Content_Engine.ipynb)

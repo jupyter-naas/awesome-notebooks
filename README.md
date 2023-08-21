@@ -24,10 +24,12 @@ The repository is organized by source/tools for easy discovery. You can also use
 
 To ensure the quality of the templates, we have defined a framework. Each notebook shall be organized with the following sections:  
 - **Naas logo**
-- **# Title**: "Tool - Action of the notebook", as h1 (an "Open in Naas" button will be automatically added by the CI/CD when a notebook is merged to the master branch)
-- **Tags**: hastags of the topics the notebook is about, as text
-- **Author**: name and social profile link of the author(s), as text
-- **Description**: a one-liner explaining the benefits of the notebooks for the user, as text
+- **# Title**: "Tool - Action of the notebook", as h1. An "Open in Naas" button will be added automatically by the CI/CD when a notebook is merged to the master branch.
+- **Tags:**: hashtags relevant to the topics covered in the notebook, as text
+- **Author:**: name and social profile link of the author(s), as text
+- **Last update:** YYYY-MM-DD (Created: YYYY-MM-DD): The last update date refers to when the notebook was last edited, while the created date corresponds to when the notebook was initially merged.
+- **Description:**: a one-liner explaining the benefits of the notebooks for the user, as text
+- **References:**: list of references and websites utilized in the creation of this notebook
 - **## Input**: list of all the variables, credentials, that needs to be setup, as h2
 - **## Model**: list the functions applied to the data, as h2
 - **## Output**: list the assets to be used by the user and its distribution channels if any, as h2
@@ -480,19 +482,24 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Delete deal](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Delete_deal.ipynb)
 * [Delete note](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Delete_note.ipynb)
 * [Get Task](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_Task.ipynb)
+* [Get activities from contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_activities_from_contact.ipynb)
 * [Get all contacts](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_all_contacts.ipynb)
 * [Get all deals](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_all_deals.ipynb)
 * [Get all pipelines and dealstages](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_all_pipelines_and_dealstages.ipynb)
 * [Get communications associated to contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_communications_associated_to_contact.ipynb)
-* [Get contact from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_contact_from_URL.ipynb)
-* [Get contact from email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_contact_from_email.ipynb)
-* [Get contact from id](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_contact_from_id.ipynb)
+* [Get contact details from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_contact_details_from_URL.ipynb)
+* [Get contact details from email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_contact_details_from_email.ipynb)
+* [Get contact details from contact id](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_contact_details_from_id.ipynb)
 * [Get contacts associated to deal](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_contacts_associated_to_deal.ipynb)
 * [Get deal](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_deal.ipynb)
 * [Get meetings associated to contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_meetings_associated_to_contact.ipynb)
 * [Get notes from contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_notes_from_contact.ipynb)
+* [Get sales emails associated to contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_sales_emails_associated_to_contact.ipynb)
 * [List communication properties](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_List_communication_properties.ipynb)
+* [List contact properties](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_List_contact_properties.ipynb)
 * [List meeting properties](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_List_meeting_properties.ipynb)
+* [List notes properties](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_List_notes_properties.ipynb)
+* [List sales emails properties](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_List_sales_emails_properties.ipynb)
 * [Retrieve communication details](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Retrieve_communication_details.ipynb)
 * [Retrieve meetings](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Retrieve_meetings.ipynb)
 * [Send LinkedIn invitations from contacts](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Send_LinkedIn_invitations_from_contacts.ipynb)

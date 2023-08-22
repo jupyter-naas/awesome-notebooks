@@ -1,20 +1,20 @@
-# name: Refresh updated at
-# on:
-#   pull_request:
-#     types:
-#       - closed
-#     branches:
-#       - master
+name: Refresh updated at
+on:
+  pull_request:
+    types:
+      - closed
+    branches:
+      - master
 
-# jobs:
-#   refresh_updated_at:
-#     if: github.event.pull_request.merged == true
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v2
-#         with:
-#           token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
-#           ref: 'master'
+jobs:
+  refresh_updated_at:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
+          ref: 'master'
 
 #       - uses: actions/setup-python@v4
 #         with:

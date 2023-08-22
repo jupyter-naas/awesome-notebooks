@@ -24,10 +24,12 @@ The repository is organized by source/tools for easy discovery. You can also use
 
 To ensure the quality of the templates, we have defined a framework. Each notebook shall be organized with the following sections:  
 - **Naas logo**
-- **# Title**: "Tool - Action of the notebook", as h1 (an "Open in Naas" button will be automatically added by the CI/CD when a notebook is merged to the master branch)
-- **Tags**: hastags of the topics the notebook is about, as text
-- **Author**: name and social profile link of the author(s), as text
-- **Description**: a one-liner explaining the benefits of the notebooks for the user, as text
+- **# Title**: "Tool - Action of the notebook", as h1. An "Open in Naas" button will be added automatically by the CI/CD when a notebook is merged to the master branch.
+- **Tags:**: hashtags relevant to the topics covered in the notebook, as text
+- **Author:**: name and social profile link of the author(s), as text
+- **Last update:** YYYY-MM-DD (Created: YYYY-MM-DD): The last update date refers to when the notebook was last edited, while the created date corresponds to when the notebook was initially merged.
+- **Description:**: a one-liner explaining the benefits of the notebooks for the user, as text
+- **References:**: list of references and websites utilized in the creation of this notebook
 - **## Input**: list of all the variables, credentials, that needs to be setup, as h2
 - **## Model**: list the functions applied to the data, as h2
 - **## Output**: list the assets to be used by the user and its distribution channels if any, as h2
@@ -297,6 +299,12 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Build route maps](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Folium/Folium_Build_route_maps.ipynb)
 * [Create map](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Folium/Folium_Create_map.ipynb)
 
+## Forecast
+* [List all assignments](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Forecast/Forecast_List_all_assignments.ipynb)
+* [List all clients](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Forecast/Forecast_List_all_clients.ipynb)
+* [List all people](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Forecast/Forecast_List_all_people.ipynb)
+* [List all projects](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Forecast/Forecast_List_all_projects.ipynb)
+
 ## Formant
 * [Query Device Network](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Formant/Formant_Query_Device_Network.ipynb)
 
@@ -363,6 +371,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Reopen issue](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Reopen_issue.ipynb)
 * [Send contributor activity on slack](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Send_contributor_activity_on_slack.ipynb)
 * [Send stargazers to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Send_stargazers_to_Google_Sheets.ipynb)
+* [Send template maintainer monthly report](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Send_template_maintainer_monthly_report.ipynb)
 * [Send templates created on a notebooks to Slack channel](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Send_templates_created_on_a_notebooks_to_Slack_channel.ipynb)
 * [Track issues on projects](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Track_issues_on_projects.ipynb)
 * [Track notebooks created over time](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Track_notebooks_created_over_time.ipynb)
@@ -418,6 +427,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Google Maps
 * [Calculate travel costs between two addresses](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Calculate_travel_costs_between_two_addresses.ipynb)
 * [Connect to Routes API](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Connect_to_Routes_API.ipynb)
+* [Create and display distance matrix](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Create_and_display_distance_matrix.ipynb)
+* [Create itinerary optimisation on differents waypoints](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Create_itinerary_optimisation_on_differents_waypoints.ipynb)
 * [Get coordinates from address](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Get_coordinates_from_address.ipynb)
 
 ## Google Search
@@ -455,6 +466,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Perfom basic actions](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Healthchecks/Healthchecks_Perfom_basic_actions.ipynb)
 
 ## HubSpot
+* [Add LinkedIn message to contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Add_LinkedIn_message_to_contact.ipynb)
+* [Add SMS message to contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Add_SMS_message_to_contact.ipynb)
+* [Add WhatsApp message to contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Add_WhatsApp_message_to_contact.ipynb)
 * [Associate contact to deal](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Associate_contact_to_deal.ipynb)
 * [Create Task](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Create_Task.ipynb)
 * [Create contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Create_contact.ipynb)
@@ -463,19 +477,31 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create deal](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Create_deal.ipynb)
 * [Create note](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Create_note.ipynb)
 * [Delete Task](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Delete_Task.ipynb)
+* [Delete communication](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Delete_communication.ipynb)
 * [Delete contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Delete_contact.ipynb)
 * [Delete deal](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Delete_deal.ipynb)
 * [Delete note](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Delete_note.ipynb)
 * [Get Task](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_Task.ipynb)
+* [Get activities from contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_activities_from_contact.ipynb)
 * [Get all contacts](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_all_contacts.ipynb)
 * [Get all deals](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_all_deals.ipynb)
 * [Get all pipelines and dealstages](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_all_pipelines_and_dealstages.ipynb)
-* [Get contact from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_contact_from_URL.ipynb)
-* [Get contact from email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_contact_from_email.ipynb)
-* [Get contact from id](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_contact_from_id.ipynb)
+* [Get communications associated to contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_communications_associated_to_contact.ipynb)
+* [Get contact details from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_contact_details_from_URL.ipynb)
+* [Get contact details from email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_contact_details_from_email.ipynb)
+* [Get contact details from contact id](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_contact_details_from_id.ipynb)
 * [Get contacts associated to deal](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_contacts_associated_to_deal.ipynb)
 * [Get deal](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_deal.ipynb)
+* [Get meetings associated to contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_meetings_associated_to_contact.ipynb)
 * [Get notes from contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_notes_from_contact.ipynb)
+* [Get sales emails associated to contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Get_sales_emails_associated_to_contact.ipynb)
+* [List communication properties](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_List_communication_properties.ipynb)
+* [List contact properties](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_List_contact_properties.ipynb)
+* [List meeting properties](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_List_meeting_properties.ipynb)
+* [List notes properties](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_List_notes_properties.ipynb)
+* [List sales emails properties](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_List_sales_emails_properties.ipynb)
+* [Retrieve communication details](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Retrieve_communication_details.ipynb)
+* [Retrieve meetings](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Retrieve_meetings.ipynb)
 * [Send LinkedIn invitations from contacts](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Send_LinkedIn_invitations_from_contacts.ipynb)
 * [Send closed deals weekly](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Send_closed_deals_weekly.ipynb)
 * [Send contacts to gsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Send_contacts_to_gsheet.ipynb)
@@ -617,6 +643,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get profile information](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_profile_information.ipynb)
 * [Get profile posts stats](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_profile_posts_stats.ipynb)
 * [Get resume from profile](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_resume_from_profile.ipynb)
+* [Get sentiment analysis from post comments](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_sentiment_analysis_from_post_comments.ipynb)
 * [Get sentiment emotion irony offensiveness from comments](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_sentiment_emotion_irony_offensiveness_from_comments.ipynb)
 * [Get stats from post](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_stats_from_post.ipynb)
 * [Ignore invitation received](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Ignore_invitation_received.ipynb)
@@ -629,6 +656,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send invitation to profile](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_invitation_to_profile.ipynb)
 * [Send invitation to profile from post likes](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_invitation_to_profile_from_post_likes.ipynb)
 * [Send invitations to post commenters](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_invitations_to_post_commenters.ipynb)
+* [Send like to latest profile post](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_like_to_latest_profile_post.ipynb)
 * [Send like to post](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_like_to_post.ipynb)
 * [Send likes from post to gsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_likes_from_post_to_gsheet.ipynb)
 * [Send message to new connections](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_message_to_new_connections.ipynb)
@@ -711,6 +739,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Delete Scheduler](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Delete_Scheduler.ipynb)
 * [Delete Secret](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Delete_Secret.ipynb)
 * [Delete Webhook](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Delete_Webhook.ipynb)
+* [Delete all assets](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Delete_all_assets.ipynb)
+* [Delete all schedulers](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Delete_all_schedulers.ipynb)
 * [Dependency demo](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Dependency_demo.ipynb)
 * [Doc demo](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Doc_demo.ipynb)
 * [Download Content Engine](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Download_Content_Engine.ipynb)
@@ -808,6 +838,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Visualize economic freedom through the years](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_economic_freedom_through_the_years.ipynb)
 * [Visualize greenhouse gas per capita](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_greenhouse_gas_per_capita.ipynb)
 * [Visualize Life expectancy at birth for both sexes throughout the years](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_life_expectancy_at_birth_for_both_sexes_through_out_the_years.ipynb)
+* [Tourist depature per 1000](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_tourist_departures_per_1000.ipynb)
 * [Visualize wealth distribuition of certain major economic powers](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_wealth_distribution.ipynb)
 * [Visualize world population growth](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OWID/OWID_Visualize_world_population_growth.ipynb)
 

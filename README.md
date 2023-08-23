@@ -1066,6 +1066,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get Word Definition and Translation](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Get_Word_Definition_and_Translation.ipynb)
 * [Get all files from directory](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Get_all_files_from_directory.ipynb)
 * [Get coordinates from address](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Get_coordinates_from_address.ipynb)
+* [Get emojis from text](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Get_emojis_from_text.ipynb)
 * [Get last file modified from directy](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Get_last_file_modified_from_directy.ipynb)
 * [Get next occurrences of a cron job](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Get_next_occurrences_of_a_cron_job.ipynb)
 * [Get random number](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Get_random_number.ipynb)

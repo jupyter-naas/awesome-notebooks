@@ -1087,6 +1087,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Pseudonym generator](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Pseudonym_generator.ipynb)
 * [Read pickle file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Read_pickle_file.ipynb)
 * [Remove all spaces on string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Remove_all_spaces_on_string.ipynb)
+* [Remove duplicates from a list](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Remove_duplicates_from_a_list.ipynb)
 * [Save dict to pickle](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Save_dict_to_pickle.ipynb)
 * [Split string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Split_string.ipynb)
 * [Transform String to Secure Hash Algorithm](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Transform_string_to_Secure_Hash_Algorithm.ipynb)

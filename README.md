@@ -1033,6 +1033,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get release dates from package](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyPI/PyPI_Get_release_dates_from_package.ipynb)
 
 ## Python
+* [Calculate the percentage of similarity between two strings](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Calculate_the_percentage_of_similarity_between_two_strings.ipynb)
 * [Check if string is number](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Check_if_string_is_number.ipynb)
 * [Clean your download folder](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Clean_your_download_folder.ipynb)
 * [Compress images](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Compress_images.ipynb)

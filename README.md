@@ -107,6 +107,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get banks accounts from company](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Agicap/Agicap_Get_banks_accounts_from_company.ipynb)
 * [Get inflow categories from company](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Agicap/Agicap_Get_inflow_categories_from_company.ipynb)
 * [Get outflow categories from company](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Agicap/Agicap_Get_outflow_categories_from_company.ipynb)
+* [Get transactions by account](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Agicap/Agicap_Get_transactions_by_account.ipynb)
 * [List companies](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Agicap/Agicap_List_companies.ipynb)
 
 ## Airtable

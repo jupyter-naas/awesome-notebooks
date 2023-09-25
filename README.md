@@ -473,6 +473,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Add note to contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Add_note_to_contact.ipynb)
 * [Associate contact to deal](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Associate_contact_to_deal.ipynb)
 * [Chat about a contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Chat_about_a_contact.ipynb)
+* [Chat about a deal](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Chat_about_a_deal.ipynb)
 * [Create Task](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Create_Task.ipynb)
 * [Create company](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Create_company.ipynb)
 * [Create contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Create_contact.ipynb)

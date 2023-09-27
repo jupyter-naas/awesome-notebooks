@@ -551,6 +551,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create input text and submit button](https://github.com/jupyter-naas/awesome-notebooks/blob/master/IPyWidgets/IPyWidgets_Create_input_text_and_submit_button.ipynb)
 * [Setup naas secret](https://github.com/jupyter-naas/awesome-notebooks/blob/master/IPyWidgets/IPyWidgets_Setup_naas_secret.ipynb)
 
+## IPython
+* [Display dynamic link in Jupyter Lab](https://github.com/jupyter-naas/awesome-notebooks/blob/master/IPython/IPython_Display_dynamic_link_in_Jupyter_Lab.ipynb)
+
 ## IUCN
 * [Extinct species](https://github.com/jupyter-naas/awesome-notebooks/blob/master/IUCN/IUCN_Extinct_species.ipynb)
 

@@ -1,0 +1,38 @@
+name: Refresh updated at
+on:
+  pull_request:
+    types:
+      - closed
+    branches:
+      - master
+
+jobs:
+  refresh_updated_at:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
+          ref: 'master'
+
+#       - uses: actions/setup-python@v4
+#         with:
+#           python-version: '3.9'
+#           token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
+        
+#       - run: "pip install papermill==2.4.0 requests pandas==1.5.3 ipykernel GitPython==3.1.32"
+
+#       - name: Get required variables And run script
+#         env: 
+#           issue_number: ${{ github.event.pull_request.number }}
+#           GITHUB_TOKEN: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
+          
+#         run: |
+#           papermill -p pull_number $issue_number Naas_Update_dates_on_PR_merged.ipynb ./Naas_Update_dates_on_PR_merged.out.ipynb
+#           rm ./Naas_Update_dates_on_PR_merged.out.ipynb
+#       - name: Commit and push
+#         run: |
+#           git config --local user.email "action@github.com"
+#           git config --local user.name "GitHub Action"
+#           (git commit -m 'UpdatedAt: Refresh' -a && git push) || echo "💡 It seems that there is nothing to commit."

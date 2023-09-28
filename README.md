@@ -551,6 +551,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create input text and submit button](https://github.com/jupyter-naas/awesome-notebooks/blob/master/IPyWidgets/IPyWidgets_Create_input_text_and_submit_button.ipynb)
 * [Setup naas secret](https://github.com/jupyter-naas/awesome-notebooks/blob/master/IPyWidgets/IPyWidgets_Setup_naas_secret.ipynb)
 
+## IPython
+* [Display dynamic link in Jupyter Lab](https://github.com/jupyter-naas/awesome-notebooks/blob/master/IPython/IPython_Display_dynamic_link_in_Jupyter_Lab.ipynb)
+
 ## IUCN
 * [Extinct species](https://github.com/jupyter-naas/awesome-notebooks/blob/master/IUCN/IUCN_Extinct_species.ipynb)
 
@@ -605,6 +608,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Gmail Toolkit](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Gmail_Toolkit.ipynb)
 * [JSON Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_JSON_Agent.ipynb)
 * [Pandas Dataframe Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Pandas_Dataframe_Agent.ipynb)
+* [Vector Search on PDF](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Vector_Search_on_PDF.ipynb)
 
 ## LeFigaro
 * [House Price analysis](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LeFigaro/LeFigaro_House_Price_analysis.ipynb)
@@ -736,6 +740,12 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Bearer validate](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Auth/Naas_Auth_bearer_validate.ipynb)
 * [Connect](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Auth/Naas_Auth_connect.ipynb)
 * [Users me](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Auth/Naas_Auth_users_me.ipynb)
+
+## Naas Chat Plugin
+* [Check prompt tokens](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Chat%20Plugin/Naas_Chat_Plugin_Check_prompt_tokens.ipynb)
+* [Count prompt tokens](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Chat%20Plugin/Naas_Chat_Plugin_Count_prompt_tokens.ipynb)
+* [Create prompt plugin](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Chat%20Plugin/Naas_Chat_Plugin_Create_prompt_plugin.ipynb)
+* [Create prompt plugin with command](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Chat%20Plugin/Naas_Chat_Plugin_Create_prompt_plugin_with_command.ipynb)
 
 ## Naas Dashboard
 * [Financial Consolidation](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Dashboard/Naas_Dashboard_Financial_Consolidation.ipynb)
@@ -883,11 +893,13 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Act as a Project Manager](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_Project_Manager.ipynb)
 * [Act as a Retiree](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_Retiree.ipynb)
 * [Act as a Sales Professional](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_Sales_Professional.ipynb)
+* [Act as a School Teacher](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_School_Teacher.ipynb)
 * [Act as a Software Developer](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_Software_Developer.ipynb)
 * [Act as a Software Engineer](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_Software_Engineer.ipynb)
 * [Act as a chef](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_chef.ipynb)
 * [Brainstorm ideas](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Brainstorm_ideas.ipynb)
 * [Count tokens with tiktoken](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Count_tokens_with_tiktoken.ipynb)
+* [Create "Act as" plugin](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Create_Act_as_plugin.ipynb)
 * [Create Completion](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Create_Completion.ipynb)
 * [Create chat completion](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Create_chat_completion.ipynb)
 * [Create chatbot](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Create_chatbot.ipynb)

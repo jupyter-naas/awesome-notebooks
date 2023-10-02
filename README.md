@@ -423,7 +423,15 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [List events from calendar](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Calendar/Google_Calendar_List_events_from_calendar.ipynb)
 
 ## Google Drive
-* [Download file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Download_file.ipynb)
+* [Add properties to file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Add_properties_to_file.ipynb)
+* [Create folder](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Create_folder.ipynb)
+* [Download video file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Download_video_file.ipynb)
+* [List folder](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_List_folder.ipynb)
+* [Move file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Move_file.ipynb)
+* [Remove object](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Remove_file.ipynb)
+* [Retrieve file meta](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Retrieve_file_meta.ipynb)
+* [Retrieve file properties](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Retrieve_file_properties.ipynb)
+* [Upload file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Upload_file.ipynb)
 
 ## Google Maps
 * [Calculate travel costs between two addresses](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Calculate_travel_costs_between_two_addresses.ipynb)

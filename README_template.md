@@ -1,4 +1,5 @@
-# Naas Templates
+# [Naas Templates](https://site.naas.ai/docs/developers/templates) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+(aka the "awesome-notebooks") 
 
 ## About our templates
 

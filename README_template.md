@@ -56,9 +56,9 @@ Since all our templates are open-source, errors may occasionally occur. We apolo
 ## [How to contribute?](https://site.naas.ai/docs/developers/templates#how-to-contribute)
 
 ### [Pre-requisites](https://site.naas.ai/docs/developers/templates#pre-requisites)
-- Open a [free account on Naas Cloud](https://app.naas.ai/) so we can test the templates in a similar environment.
-- Register for the Contributor Program so we can add you to the team of contributors in the Naas GitHub organization. To start working on our repository, you must be a part of our [open-source contributors team](https://github.com/orgs/jupyter-naas/teams/opensource-contributors). Please check your email and validate the invitation before you begin working on a new issue.
+- Register for the [Open Source Contributor Program](https://forms.gle/bfCBi8jRFFpapxNP6) so we can add you to the team of contributors in the Naas GitHub organization. To start working on our repository, you must be a part of our [open-source contributors team](https://github.com/orgs/jupyter-naas/teams/opensource-contributors). Please check your email and validate the invitation before you begin working on a new issue.
 - Create your [GitHub personal access token](https://github.com/settings/tokens). Select “No expiration” and tick only the first section repository and keep your token safe as you won’t be able to generate it again.
+- Open a [free account on Naas Cloud](https://app.naas.ai/) so we can test the templates in a similar environment.
 
 ### [Step 1: Create or Select an Issue](https://site.naas.ai/docs/developers/templates#step-1-create-or-select-an-issue)
 

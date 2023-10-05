@@ -8,13 +8,13 @@ Each of these templates adheres to a consistent framework, designed to expedite 
 
 All templates are readily accessible on [GitHub](https://github.com/jupyter-naas/awesome-notebooks) or via [Naas Search](https://naas.ai/search).
 
-https://site.naas.ai/assets/images/NaasSearch-1a3b28f814a61bfcbb1511997970a62d.gif
+![](https://site.naas.ai/assets/images/NaasSearch-1a3b28f814a61bfcbb1511997970a62d.gif)
 
 ## [How is organized a template?](https://site.naas.ai/docs/developers/templates#how-is-organized-a-template)
 
 To ensure the quality of the templates, we have defined a framework. Each notebook shall be organized as follow.
 
-### [Header](https://site.naas.ai/docs/developers/templates#header)**
+### [Header](https://site.naas.ai/docs/developers/templates#header)
 
 - **Naas logo**
 - **# Title**: "Tool - Action of the notebook", as h1. An "Open in Naas" button will be added automatically by the CI/CD when a notebook is merged to the master branch.
@@ -24,7 +24,7 @@ To ensure the quality of the templates, we have defined a framework. Each notebo
 - **Description:** a one-liner explaining the benefits of the notebooks for the user, as text
 - **References:** list of references and websites utilized in the creation of this notebook
 
-!https://site.naas.ai/assets/images/Templates_Header-891c53c6f58b031412f54f2c47f3bf6b.PNG
+![](https://site.naas.ai/assets/images/Templates_Header-891c53c6f58b031412f54f2c47f3bf6b.PNG)
 
 ### [Outline](https://site.naas.ai/docs/developers/templates#outline)
 
@@ -32,7 +32,7 @@ To ensure the quality of the templates, we have defined a framework. Each notebo
 - **## Model**: list the functions applied to the data, as h2
 - **## Output**: list the assets to be used by the user and its distribution channels if any, as h2
 
-!https://site.naas.ai/assets/images/Templates_Outline-60c612f83174a61f9bd9d3d912dccc2b.PNG
+![](https://site.naas.ai/assets/images/Templates_Outline-60c612f83174a61f9bd9d3d912dccc2b.PNG)
 
 ## [Providing Feedback](https://site.naas.ai/docs/developers/templates#providing-feedback)
 
@@ -45,13 +45,13 @@ At the top of the notebook, you'll find a link for providing feedback on the not
 
 Upon clicking this link, you'll be redirected to a Google form where you can provide more information. We will endeavor to contact the notebook creator for improvements or seek community assistance during our bi-monthly community calls that aim to create new templates or enhance existing ones.
 
-!https://site.naas.ai/assets/images/Templates_GiveFeedback-0b6357200a2e2ffb4dfd6d4d451b2f57.PNG
+![](https://site.naas.ai/assets/images/Templates_GiveFeedback-0b6357200a2e2ffb4dfd6d4d451b2f57.PNG)
 
 ## [Reporting A Bug](https://site.naas.ai/docs/developers/templates#reporting-a-bug)
 
 Since all our templates are open-source, errors may occasionally occur. We apologize for any inconvenience that may cause and request your support in reporting these issues to help us rectify them. To report a bug, click on the link at the top of the notebook. You will be redirected to GitHub to create an issue. Please attach screenshots to help us understand the bug, and provide any other information that could assist us in reproducing the issue. We will strive to respond as quickly as possible to resolve the issue.
 
-!https://site.naas.ai/assets/images/Templates_BugReport-9005de95d2490678d263e65ed41b59e7.PNG
+![](https://site.naas.ai/assets/images/Templates_BugReport-9005de95d2490678d263e65ed41b59e7.PNG)
 
 ## [How to contribute?](https://site.naas.ai/docs/developers/templates#how-to-contribute)
 

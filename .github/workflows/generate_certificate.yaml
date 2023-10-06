@@ -40,7 +40,7 @@ jobs:
           pr_name: ${{ github.event.pull_request.title }}
           org_profile_url: ${{ fromJson(steps.webhook.outputs.output).data.html_url }}
           repo_name: ${{ github.event.repository.name }}
-          contributor_name: ${{ github.actor }} 
+          contributor_name: ${{ github.event.pull_request.user.login }} 
           issue_title: ${{ github.event.pull_request.head.ref }}
           issue_number: ${{ github.event.pull_request.number }}
           date: ${{ github.event.pull_request.created_at }}
@@ -74,7 +74,7 @@ jobs:
         run: |
           RESPONSE=$(curl -s --location \
                     --request POST "https://api.imgbb.com/1/upload?key=$API" \
-                    --form "image=@${{ github.actor }}.png")
+                    --form "image=@${{ github.event.pull_request.user.login }}.png")
           URL=$(echo $RESPONSE | sed 's/^.*"display_url":"//' | sed 's/",.*$//')
           echo "URL=$(echo $URL | sed 's#\\/#/#g')" >> $GITHUB_OUTPUT
         # echo $URL 
@@ -85,7 +85,7 @@ jobs:
             Here is the contribution certificate you can share on social media so everybody knows how awesome you are :call_me_hand::earth_americas:.
             Spread the #opensource love  :green_heart:
             
-            ![${{ github.actor }}.png](${{ steps.imgbb.outputs.URL }})" > output/results.md
+            ![${{ github.event.pull_request.user.login }}.png](${{ steps.imgbb.outputs.URL }})" > output/results.md
 
       - uses: actions/upload-artifact@v1
         with:

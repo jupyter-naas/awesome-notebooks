@@ -38,7 +38,7 @@ Start working on your notebook. Commit your work every time you make significant
 
 ### Step 4: Open a Pull Request
 
-Open a Pull Request and add a core team member as Reviewer (Florent, Maxime, or Jeremy).
+Open a Pull Request and add a Templates Maintainer as Reviewer: Florent (FlorentLvr), Srini (srini047) or Jérémy (jravenel).
 
 - Change the status of this Issue to “Review” in the Projects section and comment on the Pull Request with a brief summary of what you've done.
 - You will now discuss your work on the PR. If any changes are made, ensure you pull the branch before working on it again by clicking on the button at the top.

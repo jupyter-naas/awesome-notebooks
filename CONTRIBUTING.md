@@ -1,7 +1,7 @@
 ## How to contribute?
 
 ### Pre-requisites
-- Register for the [Open Source Contributor Program](https://forms.gle/bfCBi8jRFFpapxNP6) so we can add you to the team of contributors in the Naas GitHub organization. To start working on our repository, you must be a part of our [open-source contributors team](https://github.com/orgs/jupyter-naas/teams/opensource-contributors). Please check your email and validate the invitation before you begin working on a new issue.
+- Register for the [Open Source Contributor Program](https://bit.ly/3F8Jsjr) so we can add you to the team of contributors in the Naas GitHub organization. To start working on our repository, you must be a part of our [open-source contributors team](https://github.com/orgs/jupyter-naas/teams/opensource-contributors). Please check your email and validate the invitation before you begin working on a new issue.
 - Create your [GitHub personal access token](https://github.com/settings/tokens). Select “No expiration” and tick only the first section repository and keep your token safe as you won’t be able to generate it again.
 - Open a [free account on Naas Lab](https://app.naas.ai/) so we can test the templates in a similar environment.
 

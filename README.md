@@ -93,7 +93,7 @@ Start working on your notebook. Commit your work every time you make significant
 
 ### Step 4: Open a Pull Request
 
-Open a Pull Request and add a core team member as Reviewer (Florent, Maxime, or Jeremy).
+Open a Pull Request and add a Templates Maintainer as Reviewer: Florent (FlorentLvr), Srini (srini047) or Jérémy (jravenel).
 
 - Change the status of this Issue to “Review” in the Projects section and comment on the Pull Request with a brief summary of what you've done.
 - You will now discuss your work on the PR. If any changes are made, ensure you pull the branch before working on it again by clicking on the button at the top.
@@ -952,6 +952,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Act as a School Teacher](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_School_Teacher.ipynb)
 * [Act as a Software Developer](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_Software_Developer.ipynb)
 * [Act as a Software Engineer](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_Software_Engineer.ipynb)
+* [Act as a World-class Business Coach](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_World-class_Business_Coach.ipynb)
 * [Act as a chef](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_chef.ipynb)
 * [Brainstorm ideas](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Brainstorm_ideas.ipynb)
 * [Count tokens with tiktoken](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Count_tokens_with_tiktoken.ipynb)

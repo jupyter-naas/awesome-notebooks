@@ -21,7 +21,8 @@ If a draft of a template (generated with our AI system) has been already created
 
 Otherwise, you kick start manually:
 - Create a folder named with the source tool (if it's not already created).
-- Copy and paste template.ipynb at the root of the repository and start working on your notebook.
+- Copy/Paste template.ipynb at the root of the repository.
+- Rename the template following this format: `Toolname_Function.ipynb`.
 
 ### Step 3: Work on Your Notebook
 

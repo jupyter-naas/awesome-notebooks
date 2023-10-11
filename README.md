@@ -1204,6 +1204,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Reddit
 * [Get Hot Posts From Subreddit](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Reddit/Reddit_Get_Hot_Posts_From_Subreddit.ipynb)
+* [Search](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Reddit/Reddit_Search.ipynb)
 
 ## Redshift
 * [Connect with SQL Magic and IAM Credentials](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Redshift/Redshift_Connect_with_SQL_Magic_and_IAM_Credentials.ipynb)

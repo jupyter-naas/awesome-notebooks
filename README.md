@@ -216,6 +216,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Bubble
 * [Send data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Bubble/Bubble_Send_data.ipynb)
 
+## Buffer
+* [Create draft](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Buffer/Buffer_Create_draft.ipynb)
+
 ## CCXT
 * [Calculate Support and Resistance](https://github.com/jupyter-naas/awesome-notebooks/blob/master/CCXT/CCXT_Calculate_Support_and_Resistance.ipynb)
 * [Predict Bitcoin from Binance](https://github.com/jupyter-naas/awesome-notebooks/blob/master/CCXT/CCXT_Predict_Bitcoin_from_Binance.ipynb)

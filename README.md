@@ -218,6 +218,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Buffer
 * [Create draft](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Buffer/Buffer_Create_draft.ipynb)
+* [Send text to Idea](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Buffer/Buffer_Send_text_to_Idea.ipynb)
 
 ## CCXT
 * [Calculate Support and Resistance](https://github.com/jupyter-naas/awesome-notebooks/blob/master/CCXT/CCXT_Calculate_Support_and_Resistance.ipynb)

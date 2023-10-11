@@ -941,6 +941,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Act as a COO](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_COO.ipynb)
 * [Act as a CTO](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_CTO.ipynb)
 * [Act as a Creative Writer or Artist](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_Creative_Writer_or_Artist.ipynb)
+* [Act as a Customer](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_Customer.ipynb)
 * [Act as a Data Analyst](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_Data_Analyst.ipynb)
 * [Act as a Data Scientist](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_Data_Scientist.ipynb)
 * [Act as a Educator or student](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_Educator_or_student.ipynb)

@@ -175,6 +175,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get company overview](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AlphaVantage/AlphaVantage_Get_company_overview.ipynb)
 * [Get income statement](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AlphaVantage/AlphaVantage_Get_income_statement.ipynb)
 
+## Appwrite
+* [User Authentication](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Appwrite/Appwrite_User_Authentication.ipynb)
+
 ## Azure Blob Storage
 * [List blobs](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Azure%20Blob%20Storage/Azure_Blob_Storage_List_blobs.ipynb)
 * [Upload files](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Azure%20Blob%20Storage/Azure_Blob_Storage_Upload_files.ipynb)

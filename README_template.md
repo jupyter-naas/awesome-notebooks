@@ -62,12 +62,15 @@ Since all our templates are open-source, errors may occasionally occur. We apolo
 
 ### Step 1: Create or Select an Issue
 
-Identify or propose an issue you wish to work on. It could be a snippet of Python code, an API integration with a tool you are using, or an automation leveraging existing templates with our scheduler, asset, or webhook features. Before you begin working on it, prepare the issue:
+Identify or propose an issue you wish to work on. It could be a snippet of Python code, an API integration with a tool you are using, or an automation leveraging existing templates with our scheduler, asset, or webhook features. Before you start working on a task, it's important to properly prepare the issue:
 
-- Ensure the description is clear.
+- Make sure the description is clear and concise.
 - Tag yourself in the Assignees section.
-- Change the status to 'In Progress' in the Projects section/Community Roadmap.
-- Create a branch in the Development section.
+- Create a new branch from the Issue in the Development section.
+
+If the Issue is already created, mentionned @FlorentLvr or @srini047 in a comment to be assign to the Issue.
+
+If it's your first contribution, we will review your application (Pre-requisites) and you will receive an email inviting you to join our team!
 
 ### Step 2: Technical Setup
 
@@ -93,9 +96,9 @@ Start working on your notebook. Commit your work every time you make significant
 
 ### Step 4: Open a Pull Request
 
-Open a Pull Request and add a Templates Maintainer as Reviewer: Florent (FlorentLvr), Srini (srini047) or Jérémy (jravenel).
+Open a Pull Request and add a Templates Maintainer as Reviewer: Florent (@FlorentLvr) or Srini (@srini047).
 
-- Change the status of this Issue to “Review” in the Projects section and comment on the Pull Request with a brief summary of what you've done.
+- Comment on the Pull Request with a brief summary of what you've done.
 - You will now discuss your work on the PR. If any changes are made, ensure you pull the branch before working on it again by clicking on the button at the top.
 - Expect feedback and merge within the next 48-72 hours.
 

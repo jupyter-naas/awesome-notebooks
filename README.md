@@ -1324,6 +1324,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Trello
 * [Create Card](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Create_Card.ipynb)
+* [Delete cards](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Delete_Cards.ipynb)
 * [Get Cards on a Board](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Get_Cards_on_a_Board.ipynb)
 * [Get Lists on a Board](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Get_Lists_on_a_Board.ipynb)
 * [Get board data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Get_board_data.ipynb)

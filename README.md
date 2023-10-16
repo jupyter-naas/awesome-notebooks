@@ -1157,6 +1157,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Delete entire directory tree](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Delete_entire_directory_tree.ipynb)
 * [Download Image from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Download_Image_from_URL.ipynb)
 * [Download PDF from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Download_PDF_from_URL.ipynb)
+* [Download Webpage as PDF](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Download_Webpage_as_PDF.ipynb)
 * [Download ZIP from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Download_ZIP_from_URL.ipynb)
 * [Download audio file from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Download_audio_file_from_URL.ipynb)
 * [Explore Dataset with Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Explore_Dataset_with_Pivot_Table.ipynb)

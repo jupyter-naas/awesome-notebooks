@@ -2,29 +2,32 @@
 
 ### Pre-requisites
 - Register for the [Open Source Contributor Program](https://bit.ly/3F8Jsjr) so we can add you to the team of contributors in the Naas GitHub organization. To start working on our repository, you must be a part of our [open-source contributors team](https://github.com/orgs/jupyter-naas/teams/opensource-contributors). Please check your email and validate the invitation before you begin working on a new issue.
-- Create your [GitHub personal access token](https://github.com/settings/tokens). Select “No expiration” and tick only the first section repository and keep your token safe as you won’t be able to generate it again.
 - Open a [free account on Naas Lab](https://app.naas.ai/) so we can test the templates in a similar environment.
 
 ### Step 1: Create or Select an Issue
 
-Identify or propose an issue you wish to work on. It could be a snippet of Python code, an API integration with a tool you are using, or an automation leveraging existing templates with our scheduler, asset, or webhook features. Before you begin working on it, prepare the issue:
+Identify or propose an issue you wish to work on. It could be a snippet of Python code, an API integration with a tool you are using, or an automation leveraging existing templates with our scheduler, asset, or webhook features. Before you start working on a task, it's important to properly prepare the issue:
 
-- Ensure the description is clear.
+- Make sure the description is clear and concise.
 - Tag yourself in the Assignees section.
-- Change the status to 'In Progress' in the Projects section/Community Roadmap.
-- Create a branch in the Development section.
+- Create a new branch from the Issue in the Development section.
+
+If the Issue is already created, mentionned @FlorentLvr or @srini047 in a comment to be assign to the Issue.
+
+If it's your first contribution, we will review your application (Pre-requisites) and you will receive an email inviting you to join our team!
 
 ### Step 2: Technical Setup
 
+Create your [GitHub personal access token](https://github.com/settings/tokens). Select “No expiration” and tick only the first section repository and keep your token safe as you won’t be able to generate it again. This token will allow you to commit, push and pull directly on our repository.
 Clone the awesome-notebooks repository on your Naas Cloud account and switch to the branch you created.
-If a draft of a template (generated with our AI system) has been already created, you can directly start working on it.
-
-Otherwise, you kick start manually:
-- Create a folder named with the source tool (if it's not already created).
-- Copy/Paste template.ipynb at the root of the repository.
-- Rename the template following this format: `Toolname_Function.ipynb`.
 
 ### Step 3: Work on Your Notebook
+
+If a draft of a template (generated with our AI system) has been already created, you can directly start working on it.
+Otherwise, you kick start manually:
+- Create a folder named with the source tool (if it's not already created).
+- Copy/Paste template.ipynb at the root of the repository
+- Rename the template following this format: `Toolname_Function.ipynb`.
 
 Start working on your notebook. Commit your work every time you make significant progress. You can use the UI interface inside your Naas Lab server to do this.
 
@@ -38,9 +41,9 @@ Start working on your notebook. Commit your work every time you make significant
 
 ### Step 4: Open a Pull Request
 
-Open a Pull Request and add a Templates Maintainer as Reviewer: Florent (FlorentLvr), Srini (srini047) or Jérémy (jravenel).
+Open a Pull Request and add a Templates Maintainer as Reviewer: Florent (@FlorentLvr) or Srini (@srini047).
 
-- Change the status of this Issue to “Review” in the Projects section and comment on the Pull Request with a brief summary of what you've done.
+- Comment on the Pull Request with a brief summary of what you've done.
 - You will now discuss your work on the PR. If any changes are made, ensure you pull the branch before working on it again by clicking on the button at the top.
 - Expect feedback and merge within the next 48-72 hours.
 

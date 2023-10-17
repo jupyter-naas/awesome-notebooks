@@ -773,6 +773,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Creating a timeline with lines, dates, and text](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_timeline%20_with_lines_dates_and_text.ipynb)
 * [Errorbar Limit Selection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Errorbar_limit_selection.ipynb)
 * [Mapping marker properties to multivariate data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Map_marker_properties_to_plot_multivariate_data.ipynb)
+* [Plot Wireframe](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Plot_Wireframe.ipynb)
 * [Plotting the Coherence of two signals](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Plotting_the_coherence_of_two_signals.ipynb)
 
 ## Medium

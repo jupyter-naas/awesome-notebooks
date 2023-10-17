@@ -57,7 +57,6 @@ Since all our templates are open-source, errors may occasionally occur. We apolo
 
 ### Pre-requisites
 - Register for the [Open Source Contributor Program](https://bit.ly/3F8Jsjr) so we can add you to the team of contributors in the Naas GitHub organization. To start working on our repository, you must be a part of our [open-source contributors team](https://github.com/orgs/jupyter-naas/teams/opensource-contributors). Please check your email and validate the invitation before you begin working on a new issue.
-- Create your [GitHub personal access token](https://github.com/settings/tokens). Select “No expiration” and tick only the first section repository and keep your token safe as you won’t be able to generate it again.
 - Open a [free account on Naas Lab](https://app.naas.ai/) so we can test the templates in a similar environment.
 
 ### Step 1: Create or Select an Issue
@@ -74,15 +73,16 @@ If it's your first contribution, we will review your application (Pre-requisites
 
 ### Step 2: Technical Setup
 
+Create your [GitHub personal access token](https://github.com/settings/tokens). Select “No expiration” and tick only the first section repository and keep your token safe as you won’t be able to generate it again. This token will allow you to commit, push and pull directly on our repository.
 Clone the awesome-notebooks repository on your Naas Cloud account and switch to the branch you created.
-If a draft of a template (generated with our AI system) has been already created, you can directly start working on it.
 
+### Step 3: Work on Your Notebook
+
+If a draft of a template (generated with our AI system) has been already created, you can directly start working on it.
 Otherwise, you kick start manually:
 - Create a folder named with the source tool (if it's not already created).
 - Copy/Paste template.ipynb at the root of the repository
 - Rename the template following this format: `Toolname_Function.ipynb`.
-
-### Step 3: Work on Your Notebook
 
 Start working on your notebook. Commit your work every time you make significant progress. You can use the UI interface inside your Naas Lab server to do this.
 

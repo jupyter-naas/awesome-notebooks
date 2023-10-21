@@ -140,6 +140,7 @@ dmypy.json
 
 # template data files
 YahooFinance/STOCK_CLUSTERS.csv
+*.xz
 
 # template outputs
 YahooFinance/STOCK_CLUSTERS.png

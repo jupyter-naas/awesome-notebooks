@@ -675,6 +675,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Gmail Toolkit](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Gmail_Toolkit.ipynb)
 * [JSON Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_JSON_Agent.ipynb)
 * [Pandas Dataframe Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Pandas_Dataframe_Agent.ipynb)
+* [QA on SQL Database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Perform_QA_on_SQL_Databases.ipynb)
 * [Vector Search on PDF](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Vector_Search_on_PDF.ipynb)
 
 ## LeFigaro

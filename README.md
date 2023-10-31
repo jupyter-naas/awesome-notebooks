@@ -739,7 +739,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Maintain profile posts stats database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Maintain_profile_posts_stats_database.ipynb)
 * [Send comments from post to gsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_comments_from_post_to_gsheet.ipynb)
 * [Send company followers to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_company_followers_to_Google_Sheets.ipynb)
-* [Send connections from network to gsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_connections_from_network_to_gsheet.ipynb)
+* [Send connections to a Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_connections_to_Google_Sheets_spreadsheet.ipynb)
 * [Send conversation to HubSpot communication](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_conversation_to_HubSpot_communication.ipynb)
 * [Send event invitations post engagements](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_event_invitations_post_engagements.ipynb)
 * [Send followers demographic data to a Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_followers_demographic_data_to_a_Google_Sheets_spreadsheet.ipynb)

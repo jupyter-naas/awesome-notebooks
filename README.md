@@ -483,6 +483,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Google Drive
 * [Add properties to file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Add_properties_to_file.ipynb)
 * [Create folder](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Create_folder.ipynb)
+* [Create shareable public link](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Create_shareable_public_link.ipynb)
 * [Download video file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Download_video_file.ipynb)
 * [List folder](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_List_folder.ipynb)
 * [Move file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Move_file.ipynb)

@@ -763,6 +763,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Update metrics from posts in Notion content calendar](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Update_metrics_from_profile_posts_in_Notion_content_calendar.ipynb)
 * [Withdraw pending profile invitations](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Withdraw_pending_profile_invitations.ipynb)
 
+## LlamaIndex
+* [Integrate with Neo4j](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LlamaIndex/LlamaIndex_Integrate_with_Neo4j.ipynb)
+
 ## Matplotlib
 * [Create Barchart](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_Barchart.ipynb)
 * [Create Horizontal Barchart](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_Horizontal_barchart.ipynb)

@@ -624,6 +624,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## IUCN
 * [Extinct species](https://github.com/jupyter-naas/awesome-notebooks/blob/master/IUCN/IUCN_Extinct_species.ipynb)
 
+## ImagineAPI.dev
+* [Generate and Display Image](https://github.com/jupyter-naas/awesome-notebooks/blob/master/ImagineAPI.dev/ImagineAPI.dev_Create_Image.ipynb)
+* [Get Image](https://github.com/jupyter-naas/awesome-notebooks/blob/master/ImagineAPI.dev/ImagineAPI.dev_Get_Image.ipynb)
+* [List Images](https://github.com/jupyter-naas/awesome-notebooks/blob/master/ImagineAPI.dev/ImagineAPI.dev_List_Images.ipynb)
+
 ## Insee
 * [Download PDF recap](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Insee/Insee_Download_PDF_recap.ipynb)
 

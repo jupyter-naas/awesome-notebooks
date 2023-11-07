@@ -1291,7 +1291,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Analyze Pandas dataframe](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyGWalker/PyGWalker_Analyze_Pandas_dataframe.ipynb)
 
 ## PyPI
-* [- Get number of downloads any package](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyPI/PyPI_Get_number_of_downloads_any_package.ipynb)
+* [Get number of downloads any package](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyPI/PyPI_Get_number_of_downloads_any_package.ipynb)
 * [Get release dates from package](https://github.com/jupyter-naas/awesome-notebooks/blob/master/PyPI/PyPI_Get_release_dates_from_package.ipynb)
 
 ## Python

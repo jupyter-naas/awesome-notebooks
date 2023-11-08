@@ -511,6 +511,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Calculate distance and price](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Calculate_Distance_and_Price.ipynb)
 * [Create new sheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Create_new_sheet.ipynb)
 * [Get data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Get_data.ipynb)
+* [List sheets from spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_List_sheets_from_spreadsheet.ipynb)
 * [Send LinkedIn invitations from spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Send_LinkedIn_invitations_from_spreadsheet.ipynb)
 * [Send data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Send_data.ipynb)
 * [Send data to MongoDB](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Send_data_to_MongoDB.ipynb)

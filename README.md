@@ -305,6 +305,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Convert relative time delta to months](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_relative_time_delta_to_months.ipynb)
 * [Convert a string date to a datetime object](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_string_to_datetime_object.ipynb)
 * [Convert timestamp to a datetime object](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_timestamp_to_a_datetime_object.ipynb)
+* [Get first and last day of last week](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Get_first_and_last_day_of_last_week.ipynb)
 * [Get first and last day of the current week](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Get_first_and_last_day_of_the_current_week.ipynb)
 
 ## Deepl

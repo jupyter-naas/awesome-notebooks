@@ -307,6 +307,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Convert timestamp to a datetime object](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_timestamp_to_a_datetime_object.ipynb)
 * [Get first and last day of last week](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Get_first_and_last_day_of_last_week.ipynb)
 * [Get first and last day of the current week](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Get_first_and_last_day_of_the_current_week.ipynb)
+* [Get the weekday of the current date](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Get_the_weekday_of_the_current_date.ipynb)
 
 ## Deepl
 * [Translated string to txt](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Deepl/Deepl_Translated_string_to_txt.ipynb)
@@ -483,6 +484,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [List calendars](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Calendar/Google_Calendar_List_calendars.ipynb)
 * [List events from calendar](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Calendar/Google_Calendar_List_events_from_calendar.ipynb)
 
+## Google Docs
+* [Replace Placeholders in Document](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Docs/Google_Docs_Replace_placeholders_in_document.ipynb)
+
 ## Google Drive
 * [Add properties to file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Add_properties_to_file.ipynb)
 * [Create folder](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Create_folder.ipynb)
@@ -608,6 +612,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Hugging Face
 * [Ask boolean question to T5](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Hugging%20Face/Hugging_Face_Ask_boolean_question_to_T5.ipynb)
+* [Few Shot Learning with Inference API](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Hugging%20Face/Hugging_Face_Few_Shot_Learning_with_Inference_API.ipynb)
 * [Naas drivers integration](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Hugging%20Face/Hugging_Face_Naas_drivers_integration.ipynb)
 * [Question Answering from PDF](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Hugging%20Face/Hugging_Face_Question_Answering_from_PDF.ipynb)
 

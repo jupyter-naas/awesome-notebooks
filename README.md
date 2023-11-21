@@ -126,10 +126,13 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 
 ## AWS
-* [Daily biling notification to slack](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AWS/AWS_Daily_biling_notification_to_slack.ipynb)
-* [Get files from S3 bucket](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AWS/AWS_Get_files_from_S3_bucket.ipynb)
+* [Get cost and usage by service and type](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AWS/AWS_Get_cost_and_usage_by_service_and_type.ipynb)
+* [Get cost forecast](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AWS/AWS_Get_cost_forecast.ipynb)
+* [List objects from S3 bucket](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AWS/AWS_Get_files_from_S3_bucket.ipynb)
 * [Read dataframe from S3](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AWS/AWS_Read_dataframe_from_S3.ipynb)
+* [Send daily biling notification to Slack](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AWS/AWS_Send_daily_biling_notification_to_Slack.ipynb)
 * [Send dataframe to S3](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AWS/AWS_Send_dataframe_to_S3.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AWS/AWS_Setup_connection.ipynb)
 * [Upload file to S3 bucket](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AWS/AWS_Upload_file_to_S3_bucket.ipynb)
 
 ## Abstract API
@@ -171,6 +174,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Delete a single object](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Algolia/Algolia_Delete_single_object.ipynb)
 * [Get all records from an index](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Algolia/Algolia_Get_all_records_from_an_index.ipynb)
 * [List indices](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Algolia/Algolia_List%20indices.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Algolia/Algolia_Setup_connection.ipynb)
 
 ## AlphaVantage
 * [Get balance sheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AlphaVantage/AlphaVantage_Get_balance_sheet.ipynb)
@@ -213,6 +217,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get Metrics for a Bitlink by Referrers](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Bitly/Bitly_Get_Metrics_for_a_Bitlink_by_Referrers.ipynb)
 * [Get a Clicks Summary for a Bitlink](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Bitly/Bitly_Get_a_Clicks_Summary_for_a_Bitlink.ipynb)
 * [Retrieve Bitlink](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Bitly/Bitly_Retrieve_Bitlink.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Bitly/Bitly_Setup_connection.ipynb)
 * [Update a Bitlink](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Bitly/Bitly_Update_a_Bitlink.ipynb)
 
 ## Boursorama
@@ -225,6 +230,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Buffer
 * [Create draft](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Buffer/Buffer_Create_draft.ipynb)
 * [Send text to Idea](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Buffer/Buffer_Send_text_to_Idea.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Buffer/Buffer_Setup_connection.ipynb)
 
 ## CCXT
 * [Calculate Support and Resistance](https://github.com/jupyter-naas/awesome-notebooks/blob/master/CCXT/CCXT_Calculate_Support_and_Resistance.ipynb)
@@ -258,6 +264,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Remove user from workspace](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Remove_user_from_workspace.ipynb)
 * [Send activity brief to Slack](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Send_activity_brief_to_Slack.ipynb)
 * [Send time entries database to a Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Send_time_entries_database_to_Google_Sheets_spreadsheet.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Setup_connection.ipynb)
 * [Update client](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Update_client.ipynb)
 * [Update project](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Update_project.ipynb)
 
@@ -307,6 +314,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Convert timestamp to a datetime object](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Convert_timestamp_to_a_datetime_object.ipynb)
 * [Get first and last day of last week](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Get_first_and_last_day_of_last_week.ipynb)
 * [Get first and last day of the current week](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Get_first_and_last_day_of_the_current_week.ipynb)
+* [Get the weekday of the current date](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Get_the_weekday_of_the_current_date.ipynb)
 
 ## Deepl
 * [Translated string to txt](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Deepl/Deepl_Translated_string_to_txt.ipynb)
@@ -435,6 +443,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send stargazers to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Send_stargazers_to_Google_Sheets.ipynb)
 * [Send template maintainer monthly report](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Send_template_maintainer_monthly_report.ipynb)
 * [Send templates created on a notebooks to Slack channel](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Send_templates_created_on_a_notebooks_to_Slack_channel.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Setup_connection.ipynb)
 * [Track issues on projects](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Track_issues_on_projects.ipynb)
 * [Track notebooks created over time](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Track_notebooks_created_over_time.ipynb)
 * [Update issue](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Update_issue.ipynb)
@@ -482,6 +491,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get calendar](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Calendar/Google_Calendar_Get_calendar.ipynb)
 * [List calendars](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Calendar/Google_Calendar_List_calendars.ipynb)
 * [List events from calendar](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Calendar/Google_Calendar_List_events_from_calendar.ipynb)
+
+## Google Docs
+* [Replace Placeholders in Document](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Docs/Google_Docs_Replace_placeholders_in_document.ipynb)
 
 ## Google Drive
 * [Add properties to file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Add_properties_to_file.ipynb)
@@ -537,6 +549,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [List all clients](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_List_all_clients.ipynb)
 * [List all time entries](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_List_all_time_entries.ipynb)
 * [List all users](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_List_all_users.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_Setup_connection.ipynb)
 
 ## Healthchecks
 * [Perfom basic actions](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Healthchecks/Healthchecks_Perfom_basic_actions.ipynb)
@@ -597,6 +610,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send new deals created weekly](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Send_new_deals_created_weekly.ipynb)
 * [Send sales brief](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Send_sales_brief.ipynb)
 * [Send sales pipeline to Notion](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Send_sales_pipeline_to_Notion.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Setup_connection.ipynb)
 * [Update Task](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Update_Task.ipynb)
 * [Update a company using custom properties](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Update_company.ipynb)
 * [Update contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/HubSpot/HubSpot_Update_contact.ipynb)
@@ -608,6 +622,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Hugging Face
 * [Ask boolean question to T5](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Hugging%20Face/Hugging_Face_Ask_boolean_question_to_T5.ipynb)
+* [Few Shot Learning with Inference API](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Hugging%20Face/Hugging_Face_Few_Shot_Learning_with_Inference_API.ipynb)
 * [Naas drivers integration](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Hugging%20Face/Hugging_Face_Naas_drivers_integration.ipynb)
 * [Question Answering from PDF](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Hugging%20Face/Hugging_Face_Question_Answering_from_PDF.ipynb)
 
@@ -772,6 +787,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send posts feed to gsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_posts_feed_to_gsheet.ipynb)
 * [Send profile followers by email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_profile_followers_by_email.ipynb)
 * [Send weekly post engagement metrics by email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_weekly_post_engagement_metrics_by_email.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Setup_connection.ipynb)
 * [Update metrics from company posts in Notion content calendar](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Update_metrics_from_company_posts_in_Notion_content_calendar.ipynb)
 * [Update metrics from posts in Notion content calendar](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Update_metrics_from_profile_posts_in_Notion_content_calendar.ipynb)
 * [Withdraw pending profile invitations](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Withdraw_pending_profile_invitations.ipynb)
@@ -929,6 +945,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send LinkedIn invitations from database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Notion/Notion_Send_LinkedIn_invitations_from_database.ipynb)
 * [Send Slack Messages For New  Database Items](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Notion/Notion_Send_Slack_Messages_For_New_Notion_Database_Items.ipynb)
 * [Sent Gmail On New Item](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Notion/Notion_Sent_Gmail_On_New_Item.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Notion/Notion_Setup_connection.ipynb)
 * [Update database with GitHub repositories info](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Notion/Notion_Update_database_with_GitHub_repositories_info.ipynb)
 * [Update database with LinkedIn company info](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Notion/Notion_Update_database_with_LinkedIn_company_info.ipynb)
 * [Update database with LinkedIn profile info](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Notion/Notion_Update_database_with_LinkedIn_profile_info.ipynb)
@@ -1154,6 +1171,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Generate text based prediction](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Generate_text_based_prediction.ipynb)
 * [Generate text replacements](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Generate_text_replacements.ipynb)
 * [Generate text summaries](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Generate_text_summaries.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Setup_connection.ipynb)
 * [Write a blog post](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Write_a_blog_post.ipynb)
 * [Write a job description](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Write_a_job_description.ipynb)
 * [Write a press release](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Write_a_press_release.ipynb)
@@ -1505,6 +1523,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get Lists on a Board](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Get_Lists_on_a_Board.ipynb)
 * [Get board data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Get_board_data.ipynb)
 * [List Boards](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_List_Boards.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Setup_connection.ipynb)
 * [Update Cards](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Update_Cards.ipynb)
 
 ## Twilio

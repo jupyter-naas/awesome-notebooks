@@ -174,6 +174,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Delete a single object](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Algolia/Algolia_Delete_single_object.ipynb)
 * [Get all records from an index](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Algolia/Algolia_Get_all_records_from_an_index.ipynb)
 * [List indices](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Algolia/Algolia_List%20indices.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Algolia/Algolia_Setup_connection.ipynb)
 
 ## AlphaVantage
 * [Get balance sheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AlphaVantage/AlphaVantage_Get_balance_sheet.ipynb)
@@ -216,6 +217,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get Metrics for a Bitlink by Referrers](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Bitly/Bitly_Get_Metrics_for_a_Bitlink_by_Referrers.ipynb)
 * [Get a Clicks Summary for a Bitlink](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Bitly/Bitly_Get_a_Clicks_Summary_for_a_Bitlink.ipynb)
 * [Retrieve Bitlink](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Bitly/Bitly_Retrieve_Bitlink.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Bitly/Bitly_Setup_connection.ipynb)
 * [Update a Bitlink](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Bitly/Bitly_Update_a_Bitlink.ipynb)
 
 ## Boursorama
@@ -262,6 +264,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Remove user from workspace](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Remove_user_from_workspace.ipynb)
 * [Send activity brief to Slack](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Send_activity_brief_to_Slack.ipynb)
 * [Send time entries database to a Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Send_time_entries_database_to_Google_Sheets_spreadsheet.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Setup_connection.ipynb)
 * [Update client](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Update_client.ipynb)
 * [Update project](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Clockify/Clockify_Update_project.ipynb)
 
@@ -546,6 +549,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [List all clients](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_List_all_clients.ipynb)
 * [List all time entries](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_List_all_time_entries.ipynb)
 * [List all users](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_List_all_users.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Harvest/Harvest_Setup_connection.ipynb)
 
 ## Healthchecks
 * [Perfom basic actions](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Healthchecks/Healthchecks_Perfom_basic_actions.ipynb)
@@ -1519,6 +1523,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get Lists on a Board](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Get_Lists_on_a_Board.ipynb)
 * [Get board data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Get_board_data.ipynb)
 * [List Boards](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_List_Boards.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Setup_connection.ipynb)
 * [Update Cards](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Trello/Trello_Update_Cards.ipynb)
 
 ## Twilio

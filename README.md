@@ -1384,6 +1384,13 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Pyvis
 * [Create a network visualization](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pyvis/Pyvis_Create_a_network_visualization.ipynb)
 
+## Qdrant
+* [Connect to cloud](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Qdrant/Qdrant_Connect_to_cloud.ipynb)
+* [Delete collection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Qdrant/Qdrant_Delete_collection.ipynb)
+* [Get collection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Qdrant/Qdrant_Get_collection.ipynb)
+* [Get collections](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Qdrant/Qdrant_Get_collections.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Qdrant/Qdrant_Setup_connection.ipynb)
+
 ## Qonto
 * [Get cash position trend](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Qonto/Qonto_Get_cash_position_trend.ipynb)
 * [Get organizations](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Qonto/Qonto_Get_organizations.ipynb)

@@ -1497,6 +1497,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Spotify
 * [Create Radar Chart to analyze Playlist](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Create_Radar_Chart_to_analyze_Playlist.ipynb)
+* [Get Recently Played Tracks](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Get_Recently_Played_Tracks.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Setup_connection.ipynb)
 
 ## Stabilty AI
 * [Generate Image from text](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Stabilty%20AI/Stabilty_AI_Generate_Image_from_text.ipynb)

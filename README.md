@@ -813,6 +813,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Medium
 * [Publish article from Mardown file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Medium/Medium_Publish_article_from_Mardown_file.ipynb)
 
+## Meta
+* [Use Llama2](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Meta/Meta_Use_Llama2.ipynb)
+
 ## Metrics Store
 * [Content creation Track connections](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Metrics%20Store/Content_creation_Track_connections.ipynb)
 
@@ -1172,6 +1175,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Generate text replacements](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Generate_text_replacements.ipynb)
 * [Generate text summaries](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Generate_text_summaries.ipynb)
 * [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Setup_connection.ipynb)
+* [Use ChatGPT-3.5 turbo](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Use_ChatGPT3.5_turbo.ipynb)
+* [Use ChatGPT-3.5 turbo 16k](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Use_ChatGPT3.5_turbo_16k.ipynb)
+* [Use ChatGPT-4](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Use_ChatGPT4.ipynb)
 * [Write a blog post](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Write_a_blog_post.ipynb)
 * [Write a job description](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Write_a_job_description.ipynb)
 * [Write a press release](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Write_a_press_release.ipynb)

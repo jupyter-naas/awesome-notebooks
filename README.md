@@ -813,6 +813,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Medium
 * [Publish article from Mardown file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Medium/Medium_Publish_article_from_Mardown_file.ipynb)
 
+## Mercury
+* [Get accounts](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Mercury/Mercury_Get_accounts.ipynb)
+* [Get transactions](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Mercury/Mercury_Get_transactions.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Mercury/Mercury_Setup_connection.ipynb)
+
 ## Meta
 * [Use Llama2](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Meta/Meta_Use_Llama2.ipynb)
 

@@ -625,6 +625,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Few Shot Learning with Inference API](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Hugging%20Face/Hugging_Face_Few_Shot_Learning_with_Inference_API.ipynb)
 * [Naas drivers integration](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Hugging%20Face/Hugging_Face_Naas_drivers_integration.ipynb)
 * [Question Answering from PDF](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Hugging%20Face/Hugging_Face_Question_Answering_from_PDF.ipynb)
+* [Token Classification for Sequence Labelling Tasks using Inference API](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Hugging%20Face/Hugging_Face_Token_Classification_for_Sequence_Labelling_Tasks_using_Inference_API.ipynb)
 
 ## IFTTT
 * [Post on Twitter](https://github.com/jupyter-naas/awesome-notebooks/blob/master/IFTTT/IFTTT_Post_on_Twitter.ipynb)

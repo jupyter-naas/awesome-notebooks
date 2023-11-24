@@ -823,7 +823,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Mercury/Mercury_Setup_connection.ipynb)
 
 ## Meta
-* [Use Llama2](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Meta/Meta_Use_Llama2.ipynb)
+* [Chat with Llama2](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Meta/Meta_Chat_with_Llama2.ipynb)
 
 ## Metrics Store
 * [Content creation Track connections](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Metrics%20Store/Content_creation_Track_connections.ipynb)
@@ -1167,6 +1167,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Act as a World-class Business Coach](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_World-class_Business_Coach.ipynb)
 * [Act as a chef](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Act_as_a_chef.ipynb)
 * [Brainstorm ideas](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Brainstorm_ideas.ipynb)
+* [Chat with ChatGPT-3.5 turbo](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Chat_with_ChatGPT3.5_turbo.ipynb)
+* [Chat with ChatGPT-3.5 turbo 16k](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Chat_with_ChatGPT3.5_turbo_16k.ipynb)
+* [Chat with ChatGPT-4](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Chat_with_ChatGPT4.ipynb)
 * [Count tokens with tiktoken](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Count_tokens_with_tiktoken.ipynb)
 * [Create "Act as" plugin](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Create_Act_as_plugin.ipynb)
 * [Create Completion](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Create_Completion.ipynb)
@@ -1184,9 +1187,6 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Generate text replacements](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Generate_text_replacements.ipynb)
 * [Generate text summaries](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Generate_text_summaries.ipynb)
 * [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Setup_connection.ipynb)
-* [Use ChatGPT-3.5 turbo](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Use_ChatGPT3.5_turbo.ipynb)
-* [Use ChatGPT-3.5 turbo 16k](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Use_ChatGPT3.5_turbo_16k.ipynb)
-* [Use ChatGPT-4](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Use_ChatGPT4.ipynb)
 * [Write a blog post](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Write_a_blog_post.ipynb)
 * [Write a job description](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Write_a_job_description.ipynb)
 * [Write a press release](https://github.com/jupyter-naas/awesome-notebooks/blob/master/OpenAI/OpenAI_Write_a_press_release.ipynb)
@@ -1746,7 +1746,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Save Text to Speech to MP3](https://github.com/jupyter-naas/awesome-notebooks/blob/master/gTTS/gTTS_Save_Text_to_Speech_to_MP3.ipynb)
 
 ## spaCy
-* [SpaCy Build a sentiment analysis model using Twitter](https://github.com/jupyter-naas/awesome-notebooks/blob/master/spaCy/SpaCy_Build_a_sentiment_analysis_model_using_Twitter.ipynb)
+* [Build a sentiment analysis model using Twitter](https://github.com/jupyter-naas/awesome-notebooks/blob/master/spaCy/SpaCy_Build_a_sentiment_analysis_model_using_Twitter.ipynb)
 
 
 

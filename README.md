@@ -1252,6 +1252,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Looping Over Dataframe](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Looping_Over_Dataframe.ipynb)
 * [Map column with values in dict](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Map_column_with_values_in_dict.ipynb)
 * [Merge Dataframes](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Merge_Dataframes.ipynb)
+* [Performing mathematical operations on dataframe](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Performing_mathematical_operations_on_dataframe.ipynb)
 * [Pivot rows to columns](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Pivot_rows_to_columns.ipynb)
 * [Read CSV](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Read_CSV.ipynb)
 * [Read Excel](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pandas/Pandas_Read_Excel.ipynb)

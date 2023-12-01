@@ -1398,6 +1398,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Pyvis
 * [Create a network visualization](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pyvis/Pyvis_Create_a_network_visualization.ipynb)
+* [Visualize awesome notebooks graph network](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pyvis/Pyvis_Visualize_awesome_notebooks_network.ipynb)
 
 ## Qdrant
 * [Connect to cloud](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Qdrant/Qdrant_Connect_to_cloud.ipynb)

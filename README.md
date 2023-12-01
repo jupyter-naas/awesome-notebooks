@@ -1367,6 +1367,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Download Webpage as PDF](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Download_Webpage_as_PDF.ipynb)
 * [Download ZIP from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Download_ZIP_from_URL.ipynb)
 * [Download audio file from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Download_audio_file_from_URL.ipynb)
+* [Download video from URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Download_video_from_URL.ipynb)
 * [Explore Dataset with Pivot Table](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Explore_Dataset_with_Pivot_Table.ipynb)
 * [Extract characters from string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Extract_characters_from_string.ipynb)
 * [Find Phone Number in string](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Python/Python_Find_Phone_Number_in_string.ipynb)

@@ -528,11 +528,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create new sheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Create_new_sheet.ipynb)
 * [Delete sheet from spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Delete_sheet_from_spreadsheet.ipynb)
 * [Generate and Download Image from spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Generate_and_Download_Image_from_spreadsheet.ipynb)
-* [Get data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Get_data.ipynb)
+* [Get data from sheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Get_data_from_sheet.ipynb)
 * [List sheets from spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_List_sheets_from_spreadsheet.ipynb)
 * [Send LinkedIn invitations from spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Send_LinkedIn_invitations_from_spreadsheet.ipynb)
-* [Send data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Send_data.ipynb)
 * [Send data to MongoDB](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Send_data_to_MongoDB.ipynb)
+* [Send data to sheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Send_data_to_sheet.ipynb)
 * [Send emails from sheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Sheets/Google_Sheets_Send_emails_from_sheet.ipynb)
 
 ## Google Slides
@@ -789,7 +789,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send message to new connections](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_message_to_new_connections.ipynb)
 * [Send message to profile](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_message_to_profile.ipynb)
 * [Send message to profile from post likes](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_message_to_profile_from_post_likes.ipynb)
-* [Send posts feed to gsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_posts_feed_to_gsheet.ipynb)
+* [Send posts stats to a Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_posts_stats_to_Google_Sheets.ipynb)
 * [Send profile followers by email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_profile_followers_by_email.ipynb)
 * [Send weekly post engagement metrics by email](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_weekly_post_engagement_metrics_by_email.ipynb)
 * [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Setup_connection.ipynb)
@@ -1505,6 +1505,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Radar Chart to analyze Playlist](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Create_Radar_Chart_to_analyze_Playlist.ipynb)
 * [Get Artist](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Get_Artist.ipynb)
 * [Get Recently Played Tracks](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Get_Recently_Played_Tracks.ipynb)
+* [Search for Item](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Search_for_Item.ipynb)
 * [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Setup_connection.ipynb)
 
 ## Stabilty AI

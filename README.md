@@ -516,6 +516,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Google Search
 * [Search and Download LinkedIn logo from company names](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Search/Google_Search_Download_LinkedIn_logo_from_company_name.ipynb)
+* [Find Images link](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Search/Google_Search_Find_Images_link.ipynb)
 * [Get LinkedIn company url from name](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Search/Google_Search_Get_LinkedIn_company_url_from_name.ipynb)
 * [Get LinkedIn profile url from name](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Search/Google_Search_Get_LinkedIn_profile_url_from_name.ipynb)
 * [Perform search](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Search/Google_Search_Perform_search.ipynb)

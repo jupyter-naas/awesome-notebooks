@@ -1434,6 +1434,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Check email validity](https://github.com/jupyter-naas/awesome-notebooks/blob/master/RegEx/RegEx_Check_email_validity.ipynb)
 * [Match pattern](https://github.com/jupyter-naas/awesome-notebooks/blob/master/RegEx/RegEx_Match_pattern.ipynb)
 * [Remove HTML tags from text](https://github.com/jupyter-naas/awesome-notebooks/blob/master/RegEx/RegEx_Remove_HTML_tags_from_text.ipynb)
+* [Remove emojis from text](https://github.com/jupyter-naas/awesome-notebooks/blob/master/RegEx/RegEx_Remove_emojis_from_text.ipynb)
 * [Replace value in text in a specific paragraph](https://github.com/jupyter-naas/awesome-notebooks/blob/master/RegEx/RegEx_Replace_value_in_text_in_a_specific_paragraph.ipynb)
 
 ## Remoteok

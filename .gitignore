@@ -144,3 +144,5 @@ YahooFinance/STOCK_CLUSTERS.csv
 
 # template outputs
 YahooFinance/STOCK_CLUSTERS.png
+Pyvis/templates.json
+Pyvis/pyvis_example.html

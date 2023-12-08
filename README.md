@@ -1505,7 +1505,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Spotify
 * [Create Radar Chart to analyze Playlist](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Create_Radar_Chart_to_analyze_Playlist.ipynb)
 * [Get Album](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Get_Album.ipynb)
+* [Get Album Tracks](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Get_Album_Tracks.ipynb)
 * [Get Artist](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Get_Artist.ipynb)
+* [Get New Releases](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Get_New_Releases.ipynb)
 * [Get Recently Played Tracks](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Get_Recently_Played_Tracks.ipynb)
 * [Search for Item](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Search_for_Item.ipynb)
 * [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Setup_connection.ipynb)

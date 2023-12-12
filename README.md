@@ -3524,6 +3524,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get invitations sent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_invitations_sent.ipynb)
 * [Get messages from conversation](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_messages_from_conversation.ipynb)
 * [Get post comments profiles](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_post_comments_profiles.ipynb)
+* [Get post interactions](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_post_interactions.ipynb)
 * [Get post likes profiles](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_post_likes_profiles.ipynb)
 * [Get polls from post](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_post_poll_results.ipynb)
 * [Get post stats](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_post_stats.ipynb)

@@ -2947,6 +2947,10 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get company overview](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AlphaVantage/AlphaVantage_Get_company_overview.ipynb)
 * [Get income statement](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AlphaVantage/AlphaVantage_Get_income_statement.ipynb)
 
+## Anthropic
+* [Chat with Claude v2.1](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Anthropic/Anthropic_Chat_with_Claude_v2.1.ipynb)
+* [Chat with Claude v2](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Anthropic/Anthropic_Chat_with_Claude_v2.ipynb)
+
 ## Appwrite
 * [User Authentication](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Appwrite/Appwrite_User_Authentication.ipynb)
 
@@ -3590,7 +3594,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Mercury/Mercury_Setup_connection.ipynb)
 
 ## Meta
-* [Chat with Llama2](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Meta/Meta_Chat_with_Llama2.ipynb)
+* [Chat with Llama2-13b](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Meta/Meta_Chat_with_Llama2-13b.ipynb)
+* [Chat with Llama2-70b](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Meta/Meta_Chat_with_Llama2-70b.ipynb)
 
 ## Metrics Store
 * [Content creation Track connections](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Metrics%20Store/Content_creation_Track_connections.ipynb)

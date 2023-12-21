@@ -3638,6 +3638,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create prompt plugin](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Chat%20Plugin/Naas_Chat_Plugin_Create_prompt_plugin.ipynb)
 * [Create prompt plugin with command](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Chat%20Plugin/Naas_Chat_Plugin_Create_prompt_plugin_with_command.ipynb)
 
+## Naas Credits
+* [Export current transactions to Excel](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Credits/Naas_Credits_Export_current_transactions_to_Excel.ipynb)
+* [Get Balance](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Credits/Naas_Credits_Get_Balance.ipynb)
+* [Get Transactions](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Credits/Naas_Credits_Get_current_transactions.ipynb)
+
 ## Naas Dashboard
 * [Financial Consolidation](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Dashboard/Naas_Dashboard_Financial_Consolidation.ipynb)
 * [Revenue Cogs by Segment](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Dashboard/Naas_Dashboard_Revenue_Cogs_by_Segment.ipynb)
@@ -3655,7 +3660,6 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Kernel](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Create_Kernel.ipynb)
 * [Create Pipeline](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Create_Pipeline.ipynb)
 * [Create onboarding plugin using OpenAI](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Create_onboarding_plugin_using_OpenAI.ipynb)
-* [Credits Get Balance](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Credits_Get_Balance.ipynb)
 * [Delete Asset](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Delete_Asset.ipynb)
 * [Delete Dependency](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Delete_Dependency.ipynb)
 * [Delete Scheduler](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Delete_Scheduler.ipynb)
@@ -3668,7 +3672,6 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Download Content Engine](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Download_Content_Engine.ipynb)
 * [Emailbuilder demo](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Emailbuilder_demo.ipynb)
 * [Find Asset link from path](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Find_Asset_link_from_path.ipynb)
-* [Get Transactions](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Get_Transactions.ipynb)
 * [Get help](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Get_help.ipynb)
 * [Get number of downloads naas drivers package](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Get_number_of_downloads_naas_drivers_package.ipynb)
 * [Get number of downloads naas package](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas/Naas_Get_number_of_downloads_naas_package.ipynb)

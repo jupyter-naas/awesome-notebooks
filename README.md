@@ -4287,6 +4287,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get Artist Top Tracks](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Get_Artists_Top_Tracks.ipynb)
 * [Get New Releases](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Get_New_Releases.ipynb)
 * [Get Recently Played Tracks](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Get_Recently_Played_Tracks.ipynb)
+* [Get User Top Items](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Get_User_Top_Items.ipynb)
 * [Search for Item](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Search_for_Item.ipynb)
 * [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Spotify/Spotify_Setup_connection.ipynb)
 

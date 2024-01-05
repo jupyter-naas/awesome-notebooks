@@ -4061,7 +4061,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Delete a person](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Delete_a_person.ipynb)
 * [Delete an organization](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Delete_an_organization.ipynb)
 * [Get details of a deal](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Get_a_deal.ipynb)
+* [Get details of a note](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Get_a_note.ipynb)
 * [Get details of a person](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Get_a_person.ipynb)
+* [Get all notes](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Get_all_notes.ipynb)
 * [Get all organizations](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Get_all_organizations.ipynb)
 * [Get all organizations fields](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Get_all_organizations_fields.ipynb)
 * [Get all persons](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Get_all_persons.ipynb)
@@ -4072,7 +4074,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send all organizations to a Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Send_all_organizations_to_Google_Sheets_spreadsheet.ipynb)
 * [Send all persons to a Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Send_all_persons_to_Google_Sheets_spreadsheet.ipynb)
 * [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Setup_connection.ipynb)
-* [Update an person](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Update_a_person.ipynb)
+* [Update a deal](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Update_a_deal.ipynb)
+* [Update a note](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Update_a_note.ipynb)
+* [Update a person](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Update_a_person.ipynb)
 * [Update an organization](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Update_an_organization.ipynb)
 
 ## Plaid

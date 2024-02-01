@@ -3276,6 +3276,10 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Retrieve file properties](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Retrieve_file_properties.ipynb)
 * [Upload file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Upload_file.ipynb)
 
+## Google Gemini
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Gemini/Google_Gemini_Setup_connection.ipynb)
+* [Write a social media post](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Gemini/Google_Gemini_Write_a_social_media_post.ipynb)
+
 ## Google Maps
 * [Calculate travel costs between two addresses](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Calculate_travel_costs_between_two_addresses.ipynb)
 * [Connect to Routes API](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Maps/Google_Maps_Connect_to_Routes_API.ipynb)

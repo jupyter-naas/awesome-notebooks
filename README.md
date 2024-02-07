@@ -4053,6 +4053,13 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Panel
 * [Create a  kernel on Naas](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Panel/Panel_Create_a_Panel_kernel_on_Naas.ipynb)
 
+## Pappers
+* [Get association](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pappers/Pappers_Get_association.ipynb)
+* [Get company](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pappers/Pappers_Get_company.ipynb)
+* [Get financial statements](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pappers/Pappers_Get_financial_statements.ipynb)
+* [Search companies from keywords](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pappers/Pappers_Search_companies_from_keywords.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pappers/Pappers_Setup_connection.ipynb)
+
 ## Pillow
 * [Add data to image](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pillow/Pillow_Add_data_to_image.ipynb)
 * [Create indicator](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pillow/Pillow_Create_indicator.ipynb)

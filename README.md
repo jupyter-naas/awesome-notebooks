@@ -4334,6 +4334,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Stripe
 * [Create a customer](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Stripe/Stripe_Create_a_customer.ipynb)
+* [Create a payment link](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Stripe/Stripe_Create_a_payment_link.ipynb)
 * [Delete a customer](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Stripe/Stripe_Delete_a_customer.ipynb)
 * [Get balances](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Stripe/Stripe_Get_balances.ipynb)
 * [Get charges](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Stripe/Stripe_Get_charges.ipynb)

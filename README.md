@@ -3705,10 +3705,14 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Neo
 * [Get currencies live prices](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Neo/Neo_Get_currencies_live_prices.ipynb)
 
-## Newsapi
-* [Get data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Newsapi/Newsapi_Get_data.ipynb)
-* [Run sentiment analysis](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Newsapi/Newsapi_Run_sentiment_analysis.ipynb)
-* [Send emails briefs](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Newsapi/Newsapi_Send_emails_briefs.ipynb)
+## News API
+* [Get data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/News%20API/News_API_Get_data.ipynb)
+* [Get everything](https://github.com/jupyter-naas/awesome-notebooks/blob/master/News%20API/News_API_Get_everything.ipynb)
+* [Get sources](https://github.com/jupyter-naas/awesome-notebooks/blob/master/News%20API/News_API_Get_sources.ipynb)
+* [Get top headlines](https://github.com/jupyter-naas/awesome-notebooks/blob/master/News%20API/News_API_Get_top_headlines.ipynb)
+* [Run sentiment analysis](https://github.com/jupyter-naas/awesome-notebooks/blob/master/News%20API/News_API_Run_sentiment_analysis.ipynb)
+* [Send latest news](https://github.com/jupyter-naas/awesome-notebooks/blob/master/News%20API/News_API_Send_latest_news.ipynb)
+* [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/News%20API/News_API_Setup_connection.ipynb)
 
 ## Notion
 * [Add bulleted list in page](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Notion/Notion_Add_bulleted_list_in_page.ipynb)

@@ -25,7 +25,7 @@ DefaultData();
 app.use(bodyParser.json({ extended: true }));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cors({
-    origin:["https://flp-frontend-8ouedsdd1-knshkp.vercel.app/"],
+    origin:["https://flp-frontend-8ouedsdd1-knshkp.vercel.app"],
     methods:["POST","GET"],
     credentials:true
 }));

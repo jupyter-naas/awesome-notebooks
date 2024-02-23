@@ -6,7 +6,7 @@ import { authenticateLogin, authenticateSignup } from '../../service/api';
 
 const Component = styled(DialogContent)`
     height: 70vh;
-    width: 90vh;
+    width: 40vh;
     padding: 0;
     padding-top: 0;
 `;
@@ -120,12 +120,16 @@ const LoginDialog = ({ open, setOpen, setAccount }) => {
 
     const loginUser = async() => {
         let response = await authenticateLogin(login);
-        if(!response) 
+        console.log(`>>>>>>>>>>${JSON.stringify(response)}`)
+        if(!response){ 
+            alert('Invalid Details for userId and Password')
             showError(true);
+        }
         else {
+            alert("successful LoggedIn User")
             showError(false);
             handleClose();
-            setAccount(login.username);
+            setAccount(login.phone);
         }
     }
 
@@ -133,7 +137,7 @@ const LoginDialog = ({ open, setOpen, setAccount }) => {
         let response = await authenticateSignup(signup);
         if(!response) return;
         handleClose();
-        setAccount(signup.username);
+        setAccount(signup.phone);
     }
     
     const toggleSignup = () => {
@@ -146,23 +150,23 @@ const LoginDialog = ({ open, setOpen, setAccount }) => {
     }
 
     return (
-        <Dialog open={open} onClose={handleClose} PaperProps={{ sx: { maxWidth: 'unset' } }}>
+        <Dialog open={open} onClose={handleClose} PaperProps={{ sx: { maxWidth: '100%' } }}>
             <Component>
                 <Box style={{display: 'flex', height: '100%'}}>
-                    <Image>
+                    {/* <Image>
                         <Typography variant="h5">{account.heading}</Typography>
                         <Typography style={{marginTop: 20}}>{account.subHeading}</Typography>
-                    </Image>
+                    </Image> */}
                     {
                         account.view === 'login' ? 
                         <Wrapper>
-                            <TextField variant="standard" onChange={(e) => onValueChange(e)} name='username' label='Enter Email/Mobile number' />
-                            { error && <Error>Please enter valid Email ID/Mobile number</Error> }
+                            <TextField variant="standard" onChange={(e) => onValueChange(e)} name='phone' label='Enter Mobile Number' />
                             <TextField variant="standard" onChange={(e) => onValueChange(e)} name='password' label='Enter Password' />
                             <Text>By continuing, you agree to Flipkart's Terms of Use and Privacy Policy.</Text>
                             <LoginButton onClick={() => loginUser()} >Login</LoginButton>
+                            { error && <Error>Please enter Correct Email Adress/Phone Number or Password</Error> }
                             <Text style={{textAlign:'center'}}>OR</Text>
-                            <RequestOTP>Request OTP</RequestOTP>
+                            {/* <RequestOTP>Request OTP</RequestOTP> */}
                             <CreateAccount onClick={() => toggleSignup()}>New to Flipkart? Create an account</CreateAccount>
                         </Wrapper> : 
                         <Wrapper>

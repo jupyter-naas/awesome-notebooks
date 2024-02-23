@@ -1,4 +1,4 @@
-import { useEffect,useState,state } from 'react';
+import { useEffect,useState,state,useContext } from 'react';
 
 import { Box, Typography, Button, Grid, styled } from '@mui/material';
 import { useParams } from 'react-router-dom';
@@ -10,10 +10,8 @@ import TotalView from './TotalView';
 import EmptyCart from './EmptyCart';
 import CartItem from './CartItem';
 import axios from 'axios';
-
-import { post } from '../../utils/paytm';
-import { payUsingPaytm } from '../../service/api';
-
+import LoginDialog from '../Login/LoginDialog';
+import { LoginContext } from '../../context/ContextProvider';
 const Component = styled(Grid)(({ theme }) => ({
     padding: '30px 135px',
     display: 'flex',
@@ -56,6 +54,8 @@ const Cart = () => {
     const { cartItems } = cartDetails;
     const [totalPrice,setTotalPrice]=useState();
     const { id } = useParams();
+    const { account, setAccount } = useContext(LoginContext);
+    const [openLoginDialog, setOpenLoginDialog] = useState(false); 
 
     const dispatch = useDispatch();
     var price=0;
@@ -63,7 +63,7 @@ const Cart = () => {
         if(cartItems && id !== cartItems.id)   
             dispatch(addToCart(id));
         cartItems.forEach(item => { // Changed from map to forEach
-            price += item.price.mrp;
+            price += item.price.cost;
         });
 
         setTotalPrice(price); // Fix 2
@@ -75,6 +75,11 @@ const Cart = () => {
 
 	const buyNow = async () => {
 		try {
+            if (!account) {
+                // Open the login dialog
+                setOpenLoginDialog(true);
+                return; // Don't proceed with the order
+            }
 			const orderUrl = "http://localhost:8000/orders";
 			const { data } = await axios.post(orderUrl, { amount: totalPrice*100});
 			console.log(`>>>>>>`,data);
@@ -137,6 +142,13 @@ const Cart = () => {
                 </Grid>
             </Component> : <EmptyCart />
         }
+        {openLoginDialog && (
+            <LoginDialog
+                open={openLoginDialog}
+                setOpen={setOpenLoginDialog}
+                setAccount={setAccount}
+            />
+        )}
         </>
 
     )

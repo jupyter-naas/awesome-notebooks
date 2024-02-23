@@ -50,7 +50,7 @@ const ActionItem = ({ product }) => {
                 setOpenLoginDialog(true);
                 return; // Don't proceed with the order
             }
-			const orderUrl = "http://localhost:8000/orders";
+			const orderUrl = "https://flp-acuhg89nh-knshkp.vercel.app/orders";
 			const { data } = await axios.post(orderUrl, { amount: cost*100});
 			console.log(`>>>>>>`,data);
 			initPayment(data.data);
@@ -74,7 +74,7 @@ const ActionItem = ({ product }) => {
 			handler: async (response) => {
 				try {
                     console.log(`>>>>>ress>>>`,response)
-					const verifyUrl = "http://localhost:8000/verify";
+					const verifyUrl = "https://flp-acuhg89nh-knshkp.vercel.app/verify";
 					const { data } = await axios.post(verifyUrl, response);
 					console.log(data);
 				} catch (error) {

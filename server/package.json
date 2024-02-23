@@ -17,7 +17,7 @@
     "express": "^4.18.1",
     "formidable": "^1.2.2",
     "https": "^1.0.0",
-    "mongoose": "^4.1.12",
+    "mongoose": "^5.1.12",
     "mongoose-auto-increment": "^5.0.1",
     "nodemon": "^2.0.16",
     "paytmchecksum": "^1.5.0",

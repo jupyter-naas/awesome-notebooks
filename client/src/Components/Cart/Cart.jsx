@@ -80,7 +80,7 @@ const Cart = () => {
                 setOpenLoginDialog(true);
                 return; // Don't proceed with the order
             }
-			const orderUrl = "https://flp-acuhg89nh-knshkp.vercel.app/orders";
+			const orderUrl = "https://flp-1.onrender.com/orders";
 			const { data } = await axios.post(orderUrl, { amount: totalPrice*100});
 			console.log(`>>>>>>`,data);
 			initPayment(data.data);
@@ -104,7 +104,7 @@ const Cart = () => {
 			handler: async (response) => {
 				try {
                     console.log(`>>>>>ress>>>`,response)
-					const verifyUrl = "https://flp-acuhg89nh-knshkp.vercel.app/verify";
+					const verifyUrl = "https://flp-1.onrender.com/verify";
 					const { data } = await axios.post(verifyUrl, response);
 					console.log(data);
 				} catch (error) {

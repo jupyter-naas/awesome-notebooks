@@ -1,9 +1,17 @@
 {
-    "version":2,
-    "builds":[
-        {"src":"*.js","use":"@vercel/node"}
+    "version": 2,
+    "builds": [
+      { "src": "*.js", "use": "@vercel/node" }
     ],
-    "routes":[
-        {"src":"/(.*)","dest":"/"}
-    ]
-}
+    "routes": [
+      { "src": "/(.*)", "dest": "/" }
+    ],
+    "functions": {
+      "package": {
+        "scripts": {
+          "vercel-build": "npm run vercel-build"
+        }
+      }
+    }
+  }
+  

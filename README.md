@@ -3543,6 +3543,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get profile posts stats](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_profile_posts_stats.ipynb)
 * [Get profile resume](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_profile_resume.ipynb)
 * [Get profile top card](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_profile_top_card.ipynb)
+* [Get saved posts URL](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_saved_posts_URL.ipynb)
 * [Get sentiment analysis from post comments](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_sentiment_analysis_from_post_comments.ipynb)
 * [Get sentiment emotion irony offensiveness from comments](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Get_sentiment_emotion_irony_offensiveness_from_comments.ipynb)
 * [Ignore invitation received](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Ignore_invitation_received.ipynb)

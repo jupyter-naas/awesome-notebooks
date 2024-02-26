@@ -3589,6 +3589,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create Streamgraphs](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_Streamgraphs.ipynb)
 * [Create Waterfall chart](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_Waterfall_chart.ipynb)
 * [Creating a timeline with lines, dates, and text](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_timeline%20_with_lines_dates_and_text.ipynb)
+* [Create word cloud](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_word_cloud.ipynb)
 * [Errorbar Limit Selection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Errorbar_limit_selection.ipynb)
 * [Mapping marker properties to multivariate data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Map_marker_properties_to_plot_multivariate_data.ipynb)
 * [Plot Wireframe](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Plot_Wireframe.ipynb)

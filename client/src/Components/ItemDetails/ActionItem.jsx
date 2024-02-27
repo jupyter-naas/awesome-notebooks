@@ -35,7 +35,7 @@ const StyledButton = styled(Button)`
 
 const ActionItem = ({ product }) => {
     const navigate = useNavigate();
-    const { id } = product;
+    const { _id } = product;
     console.log(`>>>>>>>>>>${JSON.stringify(product.price.cost)}`,)
     const cost=product.price.cost;
     const [quantity, setQuantity] = useState(1);
@@ -70,7 +70,7 @@ const ActionItem = ({ product }) => {
             description:"kfmwek",
 
 		
-			order_id: data.id,
+			order_id: data._id,
 			handler: async (response) => {
 				try {
                     console.log(`>>>>>ress>>>`,response)
@@ -91,7 +91,7 @@ const ActionItem = ({ product }) => {
 	};
 
     const addItemToCart = () => {
-        dispatch(addToCart(id, quantity));
+        dispatch(addToCart(_id, quantity));
         navigate('/cart');
     }
 

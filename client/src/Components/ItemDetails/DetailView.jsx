@@ -33,16 +33,16 @@ const RightContainer = styled(Grid)`
 const DetailView = () => {
     const fassured = 'https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/fa_62673a.png'
     
-    const { id } = useParams();
+    const { _id } = useParams();
 
     const { loading, product } = useSelector(state => state.getProductDetails);
 
     const dispatch = useDispatch();
     
     useEffect(() => {
-        if(product && id !== product.id)   
-            dispatch(getProductDetails(id));
-    }, [dispatch, product, id, loading]);
+        if(product && _id !== product._id)   
+            dispatch(getProductDetails(_id));
+    }, [dispatch, product, _id, loading]);
 
     return (
         <Component>

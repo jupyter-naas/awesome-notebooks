@@ -3,7 +3,7 @@ import axios from 'axios';
 
 export const addToCart = (id, quantity) => async (dispatch) => {
     try { 
-        const { data } = await axios.get(`https://flp-1.onrender.com/product/${id}`);
+        const { data } = await axios.get(`https://flpcss-production.up.railway.app/product/${id}`);
 
         dispatch({ type: actionTypes.ADD_TO_CART, payload: { ...data, quantity } });
 

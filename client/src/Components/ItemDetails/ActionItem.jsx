@@ -50,7 +50,7 @@ const ActionItem = ({ product }) => {
                 setOpenLoginDialog(true);
                 return; // Don't proceed with the order
             }
-			const orderUrl = "https://flp-1.onrender.com/orders";
+			const orderUrl = "https://flpcss-production.up.railway.app/orders";
 			const { data } = await axios.post(orderUrl, { amount: cost*100});
 			console.log(`>>>>>>`,data);
 			initPayment(data.data);
@@ -74,7 +74,7 @@ const ActionItem = ({ product }) => {
 			handler: async (response) => {
 				try {
                     console.log(`>>>>>ress>>>`,response)
-					const verifyUrl = "https://flp-1.onrender.com/verify";
+					const verifyUrl = "https://flpcss-production.up.railway.app/verify";
 					const { data } = await axios.post(verifyUrl, response);
 					console.log(data);
 				} catch (error) {

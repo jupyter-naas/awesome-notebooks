@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = 'https://flp-1.onrender.com';
+const url = 'https://flpcss-production.up.railway.app';
 
 export const authenticateLogin = async (user) => {
     try {

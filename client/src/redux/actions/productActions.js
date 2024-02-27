@@ -3,7 +3,7 @@ import axios from 'axios';
 
 export const getProducts = () => async (dispatch) => {
     try {
-        const { data } = await axios.get(`https://flpcss-production.up.railway.app/products`);
+        const { data } = await axios.get(`https://famous-bear-gear.cyclic.app/products`);
         dispatch({ type: actionTypes.GET_PRODUCTS_SUCCESS, payload: data });
 
     } catch (error) {
@@ -14,7 +14,7 @@ export const getProducts = () => async (dispatch) => {
 export const getProductDetails = (id) => async (dispatch) => {
     try {
         dispatch({ type: actionTypes.GET_PRODUCT_DETAILS_REQUEST });
-        const { data } = await axios.get(`https://flpcss-production.up.railway.app/product/${id}`);
+        const { data } = await axios.get(`https://famous-bear-gear.cyclic.app/product/${id}`);
         
         dispatch({ type: actionTypes.GET_PRODUCT_DETAILS_SUCCESS, payload: data });
 

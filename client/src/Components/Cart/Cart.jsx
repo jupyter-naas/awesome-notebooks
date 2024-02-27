@@ -80,7 +80,7 @@ const Cart = () => {
                 setOpenLoginDialog(true);
                 return; // Don't proceed with the order
             }
-			const orderUrl = "https://flpcss-production.up.railway.app/orders";
+			const orderUrl = "https://famous-bear-gear.cyclic.app/orders";
 			const { data } = await axios.post(orderUrl, { amount: totalPrice*100});
 			console.log(`>>>>>>`,data);
 			initPayment(data.data);
@@ -104,7 +104,7 @@ const Cart = () => {
 			handler: async (response) => {
 				try {
                     console.log(`>>>>>ress>>>`,response)
-					const verifyUrl = "https://flpcss-production.up.railway.app/verify";
+					const verifyUrl = "https://famous-bear-gear.cyclic.app/verify";
 					const { data } = await axios.post(verifyUrl, response);
 					console.log(data);
 				} catch (error) {

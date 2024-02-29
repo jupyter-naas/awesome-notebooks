@@ -3636,7 +3636,20 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Global temperature](https://github.com/jupyter-naas/awesome-notebooks/blob/master/NASA/NASA_Global_temperature.ipynb)
 * [Sea level](https://github.com/jupyter-naas/awesome-notebooks/blob/master/NASA/NASA_Sea_level.ipynb)
 
+## Naas API
+* [Create Chat](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Create_Chat.ipynb)
+* [Create Chat Completion](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Create_Chat_Completion.ipynb)
+* [Create Chat Plugin](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Create_Chat_Plugin.ipynb)
+* [Create Model Completion](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Create_Model_Completion.ipynb)
+* [Delete Chat](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Delete_Chat.ipynb)
+* [Get Chat Messages](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Get_Chat_Messages.ipynb)
+* [Get long lived token from Naas Lab](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Get_long_lived_token_from_Naas_Lab.ipynb)
+* [List AI Models](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_List_AI_Models.ipynb)
+* [List Chats](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_List_Chats.ipynb)
+* [Stop Chat Completion](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Stop_Chat_Completion.ipynb)
+
 ## Naas Auth
+* [Get long lived token](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Auth/Naas_Auth_Get_long_lived_token.ipynb)
 * [Bearer validate](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Auth/Naas_Auth_bearer_validate.ipynb)
 * [Connect](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Auth/Naas_Auth_connect.ipynb)
 * [Users me](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20Auth/Naas_Auth_users_me.ipynb)

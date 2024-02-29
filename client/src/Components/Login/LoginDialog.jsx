@@ -158,17 +158,16 @@ const LoginDialog = ({ open, setOpen, setAccount }) => {
                         <Typography style={{marginTop: 20}}>{account.subHeading}</Typography>
                     </Image> */}
                     {
-                        account.view === 'login' ? 
-                        <Wrapper>
-                            <TextField variant="standard" onChange={(e) => onValueChange(e)} name='phone' label='Enter Mobile Number' />
-                            <TextField variant="standard" onChange={(e) => onValueChange(e)} name='password' label='Enter Password' />
-                            <Text>By continuing, you agree to Flipkart's Terms of Use and Privacy Policy.</Text>
-                            <LoginButton onClick={() => loginUser()} >Login</LoginButton>
-                            { error && <Error>Please enter Correct Email Adress/Phone Number or Password</Error> }
-                            <Text style={{textAlign:'center'}}>OR</Text>
-                            {/* <RequestOTP>Request OTP</RequestOTP> */}
-                            <CreateAccount onClick={() => toggleSignup()}>New to Flipkart? Create an account</CreateAccount>
-                        </Wrapper> : 
+                        // <Wrapper>
+                        //     <TextField variant="standard" onChange={(e) => onValueChange(e)} name='phone' label='Enter Mobile Number' />
+                        //     <TextField variant="standard" onChange={(e) => onValueChange(e)} name='password' label='Enter Password' />
+                        //     <Text>By continuing, you agree to Flipkart's Terms of Use and Privacy Policy.</Text>
+                        //     <LoginButton onClick={() => toggleSignup()} >Login</LoginButton>
+                        //     { error && <Error>Please enter Correct Email Adress/Phone Number or Password</Error> }
+                        //     <Text style={{textAlign:'center'}}>OR</Text>
+                        //     {/* <RequestOTP>Request OTP</RequestOTP> */}
+                        //     <CreateAccount onClick={() => toggleSignup()}>New to Flipkart? Create an account</CreateAccount>
+                        // </Wrapper> : 
                         <Wrapper>
                             <TextField variant="standard" onChange={(e) => onInputChange(e)} name='firstname' label='Enter Firstname' />
                             <TextField variant="standard" onChange={(e) => onInputChange(e)} name='lastname' label='Enter Lastname' />

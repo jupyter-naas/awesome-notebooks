@@ -3,7 +3,7 @@ import axios from 'axios';
 
 export const addToCart = (id, quantity) => async (dispatch) => {
     try { 
-        const { data } = await axios.get(`http://localhost:8000/product/${id}`);
+        const { data } = await axios.get(`https://famous-bear-gear.cyclic.app/product/${id}`);
 
         dispatch({ type: actionTypes.ADD_TO_CART, payload: { ...data, quantity } });
 

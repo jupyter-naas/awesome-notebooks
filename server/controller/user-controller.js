@@ -18,10 +18,10 @@ export const userLogIn = async (request, response) => {
 
 export const userSignUp = async (request, response) => {
     try {
-        const exist = await User.findOne({ phone: request.body.phone });
-        if(exist) {
-            return response.status(401).json({ message: 'User already exist'});
-        }
+        // const exist = await User.findOne({ phone: request.body.phone });
+        // if(exist) {
+        //     return response.status(401).json({ message: 'User already exist'});
+        // }
         const user = request.body;
         const newUser = new User(user);
         await newUser.save();

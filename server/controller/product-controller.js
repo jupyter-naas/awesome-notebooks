@@ -1,3 +1,4 @@
+import productData from '../model/productDataModel.js';
 import Product from '../model/productSchema.js';
 
 
@@ -16,6 +17,25 @@ export const getProductById = async (request, response) => {
         const products = await Product.findOne({ '_id': request.params.id });
         response.json(products);
     }catch (error) {
+
+    }
+}
+export const getProductsData = async (request, response) => {
+    try {
+        const products = await productData.find({});
+
+        response.json(products);
+    }catch (error) {
+        response.json(error).status(500)
+    }
+}
+
+export const getProductDataById = async (request, response) => {
+    try {
+        const products = await productData.findOne({ '_id': request.params.id });
+        response.json(products);
+    }catch (error) {
+        response.json(error).status(500)
 
     }
 }

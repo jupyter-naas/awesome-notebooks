@@ -16,7 +16,7 @@ export const getProductDetails = (id) => async (dispatch) => {
       console.log(id)
         dispatch({ type: actionTypes.GET_PRODUCT_DETAILS_REQUEST });
         console.log(`>>>>>`,id)
-        const { data } = await axios.get(`https://famous-bear-gear.cyclic.app/${id}`);
+        const { data } = await axios.get(`https://famous-bear-gear.cyclic.app/product/${id}`);
         
         
         dispatch({ type: actionTypes.GET_PRODUCT_DETAILS_SUCCESS, payload: data });

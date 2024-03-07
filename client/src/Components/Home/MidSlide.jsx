@@ -34,7 +34,7 @@ const MidSlide = ({ products }) => {
             <LeftComponent>
                 <Slide 
                     data={products} 
-                    title='Deals of the Day'
+                    title='Latest Products'
                     timer={true} 
                     multi={true} 
                 />

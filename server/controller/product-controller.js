@@ -14,7 +14,9 @@ export const getProducts = async (request, response) => {
 
 export const getProductById = async (request, response) => {
     try {
+        cobnsole.log(`>>>>>>>>s`)
         const products = await Product.findOne({ '_id': request.params.id });
+        console.log(`>>>>>>>>`,products)
         response.json(products);
     }catch (error) {
 

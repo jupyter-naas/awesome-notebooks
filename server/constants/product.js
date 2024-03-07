@@ -124,5 +124,267 @@ export const products = [
         description: 'Let music brighten up your mood anytime, anywhere with the boAt 235v2 Fast Charging Bluetooth Headset. This Bluetooth headset features a Call Vibration Alert, a Fast Charging Technology, and Easy Access Controls to listen to and manage your favorite music with ease.',
         discount: 'Minimum 50% Off', 
         tagline: 'Grab Now!' 
-    }
+    },
+    {
+        id: 'product8',
+        title: "Apple Iphone 14 plus",
+        discount: "99% Off",
+        price: {
+          mrp: 43909,
+          cost: 435,
+          discount: '99%'
+      },
+        url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
+        detailUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
+        title: {
+          shortTitle: 'Iphone 14',
+          longTitle: 'IPhone 14Plus '
+      },
+      quantity:5,
+      discounnt:"50% off",
+      tagline:"Grab Now",
+        link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+      },
+      {
+        id: 'product9',
+        title: "Apple Iphone 14 plus",
+        discount: "99% Off",
+        price: {
+          mrp: 43909,
+          cost: 435,
+          discount: '99%'
+      },
+        url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
+        detailUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
+        title: {
+          shortTitle: 'Iphone 14',
+          longTitle: 'IPhone 14Plus '
+      },
+      quantity:5,
+      discounnt:"50% off",
+      tagline:"Grab Now",
+        link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+      },
+      {
+        id: 'product10',
+        title: "Apple Iphone 14 plus",
+        discount: "99% Off",
+        price: {
+          mrp: 43909,
+          cost: 435,
+          discount: '99%'
+      },
+        url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
+        detailUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
+        title: {
+          shortTitle: 'Iphone 14',
+          longTitle: 'IPhone 14Plus '
+      },
+      quantity:5,
+      discounnt:"50% off",
+      tagline:"Grab Now",
+        link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+      },
+      {
+        id: 'product11',
+        title: "Apple Iphone 14 plus",
+        discount: "99% Off",
+        price: {
+          mrp: 43909,
+          cost: 435,
+          discount: '99%'
+      },
+        url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
+        detailUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
+        title: {
+          shortTitle: 'Iphone 14',
+          longTitle: 'IPhone 14Plus '
+      },
+      quantity:5,
+      discounnt:"50% off",
+      tagline:"Grab Now",
+        link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+      },
+      {
+        id: 'product12',
+        title: "Apple Iphone 14 plus",
+        discount: "99% Off",
+        price: {
+          mrp: 43909,
+          cost: 435,
+          discount: '99%'
+      },
+        url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
+        detailUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
+        title: {
+          shortTitle: 'Iphone 14',
+          longTitle: 'IPhone 14Plus '
+      },
+      quantity:5,
+      discounnt:"50% off",
+      tagline:"Grab Now",
+        link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+      },
+      {
+        id: 'product13',
+        title: "Apple Iphone 14 plus",
+        discount: "99% Off",
+        price: {
+          mrp: 43909,
+          cost: 435,
+          discount: '99%'
+      },
+        url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
+        detailUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
+        title: {
+          shortTitle: 'Iphone 14',
+          longTitle: 'IPhone 14Plus '
+      },
+      quantity:5,
+      discounnt:"50% off",
+      tagline:"Grab Now",
+        link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+      },
 ];
+// const productsData = [
+//     {
+//       id: 1,
+//       title: "Apple Iphone 14 plus",
+//       discount: "99% Off",
+//       price: {
+//         mrp: 43909,
+//         cost: 435,
+//         discount: '99%'
+//     },
+//       url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
+//       detailUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
+//       title: {
+//         shortTitle: 'Iphone 14',
+//         longTitle: 'IPhone 14Plus '
+//     },
+//     quantity:5,
+//     discounnt:"50% off",
+//     tagline:"Grab Now",
+//       link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+//     },
+//     {
+//       id: 2,
+//       title: "Apple Iphone 14 plus",
+//       discount: "99% Off",
+//       price: "₹ 179,000.00",
+//       imageUrl: "https://static.toiimg.com/thumb/imgsize-123456,msid-103633121,width-200,resizemode-4/103633121.jpg",
+//       link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+//     },
+//     {
+//       id: 3,
+//       title: "Apple Iphone 14 plus",
+//       discount: "99% Off",
+//       price: "₹ 179,000.00",
+//       imageUrl: "https://static.toiimg.com/thumb/imgsize-123456,msid-103633121,width-200,resizemode-4/103633121.jpg",
+//       link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+//     },
+//     {
+//       id: 4,
+//       title: "Apple Iphone 14 plus",
+//       discount: "99% Off",
+//       price: "₹ 179,000.00",
+//       imageUrl: "https://static.toiimg.com/thumb/imgsize-123456,msid-103633121,width-200,resizemode-4/103633121.jpg",
+//       link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+//     },
+//     {
+//       id: 5,
+//       title: "Apple Iphone 14 plus",
+//       discount: "99% Off",
+//       price: "₹ 179,000.00",
+//       imageUrl: "https://static.toiimg.com/thumb/imgsize-123456,msid-103633121,width-200,resizemode-4/103633121.jpg",
+//       link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+//     },
+//     {
+//       id: 6,
+//       title: "Apple Iphone 14 plus",
+//       discount: "99% Off",
+//       price: "₹ 179,000.00",
+//       imageUrl: "https://m.media-amazon.com/images/I/61VuVU94RnL._SX679_.jpg",
+//       link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+//     },
+//     {
+//       id: 7,
+//       title: "Apple Iphone 14 plus",
+//       discount: "99% Off",
+//       price: "₹ 179,000.00",
+//       imageUrl: "https://m.media-amazon.com/images/I/71657TiFeHL._SX679_.jpg",
+//       link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+//     },
+//     {
+//       id: 8,
+//       title: "Apple Iphone 14 plus",
+//       discount: "99% Off",
+//       price: "₹ 179,000.00",
+//       imageUrl: "https://m.media-amazon.com/images/I/31Q14qzdoZL._SY445_SX342_QL70_FMwebp_.jpg",
+//       link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+//     },
+//     {
+//       id: 9,
+//       title: "Apple Iphone 14 plus",
+//       discount: "99% Off",
+//       price: "₹ 179,000.00",
+//       imageUrl: "https://m.media-amazon.com/images/I/81CgtwSII3L._SX679_.jpg",
+//       link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+//     },
+//     {
+//       id: 10,
+//       title: "Apple Iphone 14 plus",
+//       discount: "99% Off",
+//       price: "₹ 179,000.00",
+//       imageUrl: "https://m.media-amazon.com/images/I/31vz6yNQ6+L._SX342_SY445_.jpg",
+//       link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+//     },
+//     {
+//       id: 11,
+//       title: "Apple Iphone 14 plus",
+//       discount: "99% Off",
+//       price: "₹ 179,000.00",
+//       imageUrl: "https://m.media-amazon.com/images/I/31vz6yNQ6+L._SX342_SY445_.jpg",
+//       link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+//     },
+//     {
+//       id: 12,
+//       title: "Apple Iphone 14 plus",
+//       discount: "99% Off",
+//       price: "₹ 179,000.00",
+//       imageUrl: "https://m.media-amazon.com/images/I/31vz6yNQ6+L._SX342_SY445_.jpg",
+//       link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+//     },
+//     {
+//       id: 13,
+//       title: "Apple Iphone 14 plus",
+//       discount: "99% Off",
+//       price: "₹ 179,000.00",
+//       imageUrl: "https://m.media-amazon.com/images/I/31vz6yNQ6+L._SX342_SY445_.jpg",
+//       link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+//     },
+//     {
+//       id: 14,
+//       title: "Apple Iphone 14 plus",
+//       discount: "99% Off",
+//       price: "₹ 179,000.00",
+//       imageUrl: "https://m.media-amazon.com/images/I/31vz6yNQ6+L._SX342_SY445_.jpg",
+//       link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+//     },
+//     {
+//       id: 15,
+//       title: "Apple Iphone 14 plus",
+//       discount: "99% Off",
+//       price: "₹ 179,000.00",
+//       imageUrl: "https://m.media-amazon.com/images/I/31vz6yNQ6+L._SX342_SY445_.jpg",
+//       link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+//     },
+//     {
+//       id: 16,
+//       title: "Apple Iphone 14 plus",
+//       discount: "99% Off",
+//       price: "₹ 179,000.00",
+//       imageUrl: "https://m.media-amazon.com/images/I/31vz6yNQ6+L._SX342_SY445_.jpg",
+//       link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
+//     }
+//   ];

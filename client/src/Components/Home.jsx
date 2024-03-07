@@ -10,12 +10,18 @@ import Slide from './Home/Slide';
 import ProductCard from './Home/ProductCard';
 import { useSelector, useDispatch } from 'react-redux'; // hooks
 import { getProducts as listProducts } from '../redux/actions/productActions';
-
+import Countdown from 'react-countdown';
 
 const Component = styled(Box)`
     padding: 20px 10px;
     background: #F2F2F2;
 `;
+const Componenta = styled('p')({
+  marginTop: 30,
+  padding: '15px 20px',
+  textAlign: 'center',
+  fontWeight: 'bold',
+});
 
 const Home = () => {
     const productsData = [
@@ -152,6 +158,21 @@ const Home = () => {
       // Now you can use the 'productsData' array as your data field in your application.
       
     const getProducts = useSelector(state => state.getProducts);
+    const AllBox = styled(Box)({
+      textAlign: 'center',
+      padding: 10,
+      display: 'flex',
+      flexDirection: 'column',
+      alignItems: 'center',
+    });
+    
+    const TimerImage = styled('img')({
+      marginBottom: 10,
+    });
+    const timerURL = 'https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/timer_a73398.svg';
+    const renderer = ({ hours, minutes, seconds, completed }) => {
+          return <span>{minutes}:{seconds} left</span>;
+      };
     const { products, error } = getProducts;
 
     const dispatch = useDispatch();
@@ -159,8 +180,7 @@ const Home = () => {
     useEffect(() => {
         dispatch(listProducts())
     }, [dispatch])
-
-    return (
+      return (
         <>
             <NavBar />
             <Component>
@@ -175,9 +195,16 @@ const Home = () => {
                 /> */}
 
             </Component>
+            <Box>
+        <Componenta>Deal of the Day </Componenta>
+        <AllBox>
+          <TimerImage src={timerURL} alt="timer" />
+          <Countdown date={Date.now()+5.04e+7 } renderer={renderer}/>
+        </AllBox>
+        </Box>
         <div className="product-list">
-            {productsData.map(product => (
-            <ProductCard key={product.productId} {...product} />
+            {products.map(product => (
+            <ProductCard key={product._id} {...product} />
             ))}
         </div>
         </>

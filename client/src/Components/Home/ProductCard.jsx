@@ -3,7 +3,7 @@ import { styled } from '@mui/system';
 import {Link} from 'react-router-dom'
 const CardContainer = styled('div')({
   border: '1px solid #ccc',
-  padding: 10,
+  padding: 20,
   margin: 8,
   width: 'calc(50% - 24px)', // Adjust the width based on your design
   boxSizing: 'border-box',
@@ -50,17 +50,17 @@ const Pr = styled('span')({
   color: 'black',
 });
 
-const ProductCard = ({ title, price, discount, imageUrl, pr,id }) => {
+const ProductCard = ({ title, price, discount, url, pr,_id }) => {
   return (
     <>
-    <Link to={`product/${id}`}>
+    <Link to={`product/${_id}`}>
     <CardContainer>
-      <ProductImage src={imageUrl} alt={title} />
-      <Title>{title}</Title>
-      <Discount>{discount}</Discount>
-      <Pr><del>{pr}</del></Pr>
+      <ProductImage src={url} alt={title} />
+      <Title>{title.shortTitle}</Title>
+      <Discount>{price.discount}</Discount>
+      <Pr><del>₹ {price.mrp}</del></Pr>
       <br/>
-      <Price>{price}</Price>
+      <Price>₹ {price.cost}</Price>
       <br />
       <br />
       <Pric>Free Delivery in 2 Days</Pric>

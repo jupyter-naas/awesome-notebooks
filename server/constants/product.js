@@ -127,23 +127,22 @@ export const products = [
     },
     {
         id: 'product8',
-        title: "Apple Iphone 14 plus",
-        discount: "99% Off",
+        url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
+        detailUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
+        
+        title: {
+          shortTitle: 'Iphone 14',
+          longTitle: 'IPhone 14Plus '
+        },
         price: {
           mrp: 43909,
           cost: 435,
           discount: '99%'
       },
-        url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
-        detailUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAm1n7hOfhsDmTij1RjW-zv4l0t9HqYR9HQ&usqp=CAU",
-        title: {
-          shortTitle: 'Iphone 14',
-          longTitle: 'IPhone 14Plus '
-      },
       quantity:5,
-      discounnt:"50% off",
+      description: 'Let music brighten up your mood anytime, anywhere with the boAt 235v2 Fast Charging Bluetooth Headset. This Bluetooth headset features a Call Vibration Alert, a Fast Charging Technology, and Easy Access Controls to listen to and manage your favorite music with ease.',
+      discount: "99% Off",
       tagline:"Grab Now",
-        link: "https://flip2.big-selling.shop/product/apple-iphone-14-pro-max"
       },
       {
         id: 'product9',

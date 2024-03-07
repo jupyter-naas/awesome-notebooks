@@ -14,7 +14,7 @@ export const getProducts = async (request, response) => {
 
 export const getProductById = async (request, response) => {
     try {
-        cobnsole.log(`>>>>>>>>s`)
+        
         const products = await Product.findOne({ '_id': request.params.id });
         console.log(`>>>>>>>>`,products)
         response.json(products);
@@ -34,6 +34,7 @@ export const getProductsData = async (request, response) => {
 
 export const getProductDataById = async (request, response) => {
     try {
+        console.log(`>>>>>>>>>`,request.params.id)
         const products = await productData.findOne({ '_id': request.params.id });
         response.json(products);
     }catch (error) {

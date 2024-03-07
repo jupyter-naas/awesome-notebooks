@@ -25,11 +25,10 @@ DefaultData();
 app.use(bodyParser.json({ extended: true }));
 app.use(bodyParser.urlencoded({ extended: true }));
 
-// app.use(cors({
-//     origin:'https://localhost:3000',
-//     methods:["POST","GET"],
-//     credentials:true
-// }));
-app.use(cors())
+app.use(cors({
+    origin:'*',
+    methods:["POST","GET"],
+    credentials:true
+}));
 app.use('/', Routes);
 

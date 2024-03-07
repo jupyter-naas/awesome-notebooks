@@ -3,7 +3,7 @@ import { styled } from '@mui/system';
 import {Link} from 'react-router-dom'
 const CardContainer = styled('div')({
   border: '1px solid #ccc',
-  padding: 20,
+  padding: 10,
   margin: 8,
   width: 'calc(50% - 24px)', // Adjust the width based on your design
   boxSizing: 'border-box',

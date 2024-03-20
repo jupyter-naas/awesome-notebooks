@@ -3070,8 +3070,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Parallelize operations on multiple csvs](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Dask/Dask_parallelize_operations_on_multiple_csvs.ipynb)
 
 ## Data.gouv.fr
-* [COVID19 -  FR - Entrées et sorties par région pour 1 million d'hab.](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Data.gouv.fr/COVID19%20-%20%20FR%20-%20Entr%C3%A9es%20et%20sorties%20par%20r%C3%A9gion%20pour%201%20million%20d%27hab..ipynb)
+* [COVID19 -  FR - Entrées et sorties par région pour 1 million d'hab.](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Data.gouv.fr/Data.gouv.fr_COVID19_FR%20_Entr%C3%A9es_sorties_par_r%C3%A9gion_pour_1_million_hab.ipynb)
 * [Récupération données légales entreprise](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Data.gouv.fr/Data.gouv.fr_R%C3%A9cup%C3%A9ration_donn%C3%A9es_l%C3%A9gales_entreprise.ipynb)
+* [Visualisation de la carte de France des établissements éducatifs](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Data.gouv.fr/Data.gouv.fr_Visualisation_carte_de_France_%C3%A9ducation.ipynb)
 
 ## Datetime
 * [Calculate relative time delta between two dates](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Datetime/Datetime_Calculate_relative_time_delta_between_two_dates.ipynb)

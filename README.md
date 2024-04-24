@@ -4096,6 +4096,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Add a deal](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Add_a_deal.ipynb)
 * [Add a note](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Add_a_note.ipynb)
 * [Add a person](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Add_a_person.ipynb)
+* [Add an activity](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Add_an_activity.ipynb)
 * [Add an organization](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Add_an_organization.ipynb)
 * [Delete a deal](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Delete_a_deal.ipynb)
 * [Delete a note](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pipedrive/Pipedrive_Delete_a_note.ipynb)

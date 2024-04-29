@@ -3483,10 +3483,12 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## LangChain
 * [CSV Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_CSV_Agent.ipynb)
+* [Create Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Create_Agent.ipynb)
 * [Gmail Toolkit](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Gmail_Toolkit.ipynb)
 * [JSON Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_JSON_Agent.ipynb)
 * [Pandas Dataframe Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Pandas_Dataframe_Agent.ipynb)
 * [QA on SQL Database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Perform_QA_on_SQL_Databases.ipynb)
+* [Use Graph Cypher QA Chain from Neo4j](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Use_GraphCypherQAChain_Neo4j.ipynb)
 * [Vector Search on PDF](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Vector_Search_on_PDF.ipynb)
 
 ## LeFigaro

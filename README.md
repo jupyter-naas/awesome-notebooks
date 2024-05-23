@@ -3485,6 +3485,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [CSV Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_CSV_Agent.ipynb)
 * [Create Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Create_Agent.ipynb)
 * [Gmail Toolkit](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Gmail_Toolkit.ipynb)
+* [Import Cypher Query and Use GraphCypherQAChain](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Import_Cypher_Query_and_Use_GraphCypherQAChain.ipynb)
+* [Import Cypher Query from Text File](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Import_Cypher_Query_from_Text_File.ipynb)
 * [JSON Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_JSON_Agent.ipynb)
 * [Pandas Dataframe Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Pandas_Dataframe_Agent.ipynb)
 * [QA on SQL Database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LangChain/LangChain_Perform_QA_on_SQL_Databases.ipynb)
@@ -3735,6 +3737,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Neo
 * [Get currencies live prices](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Neo/Neo_Get_currencies_live_prices.ipynb)
+
+## Neo4j
+* [Create Node](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Neo4j/Neo4j_Create_Node.ipynb)
+* [Create Relationship](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Neo4j/Neo4j_Create_Relationship.ipynb)
+* [Get Properties Types from Node](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Neo4j/Neo4j_Get_Properties_Types_from_Node.ipynb)
 
 ## News API
 * [Get data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/News%20API/News_API_Get_data.ipynb)

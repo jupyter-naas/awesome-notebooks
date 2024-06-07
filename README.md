@@ -2993,6 +2993,14 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get CDS](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Boursorama/Boursorama_Get_CDS.ipynb)
 * [Get EURIBOR 3 MOIS](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Boursorama/Boursorama_Get_EURIBOR_3_MOIS.ipynb)
 
+## Brevo
+* [Add contacts to list](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Brevo/Brevo_Add_contacts_to_list.ipynb)
+* [Create a contact](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Brevo/Brevo_Create_contact.ipynb)
+* [Get all the lists](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Brevo/Brevo_Get_all_the_lists.ipynb)
+* [Get a contact's details](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Brevo/Brevo_Get_contact.ipynb)
+* [Get all the contacts](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Brevo/Brevo_Get_contacts.ipynb)
+* [Get contacts from list](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Brevo/Brevo_Get_contacts_list.ipynb)
+
 ## Bubble
 * [Send data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Bubble/Bubble_Send_data.ipynb)
 

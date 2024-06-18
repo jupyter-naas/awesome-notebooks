@@ -139,7 +139,7 @@ dmypy.json
 .github/documentation/documentation_update.py
 
 # template data files
-YahooFinance/STOCK_CLUSTERS.csv
+.csv
 *.xz
 
 # template outputs

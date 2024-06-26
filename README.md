@@ -3595,6 +3595,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Ignore invitation received](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Ignore_invitation_received.ipynb)
 * [Maintain company posts stats database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Maintain_company_posts_stats_database.ipynb)
 * [Maintain profile posts stats database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Maintain_profile_posts_stats_database.ipynb)
+* [Rank Direct Conversations by Messages Count](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Rank_Direct_Conversations_by_Messages_Count.ipynb)
 * [Send comments from post to gsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_comments_from_post_to_gsheet.ipynb)
 * [Send company followers to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_company_followers_to_Google_Sheets.ipynb)
 * [Send connections to a Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_connections_to_Google_Sheets_spreadsheet.ipynb)

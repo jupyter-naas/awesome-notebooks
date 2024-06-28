@@ -4457,6 +4457,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send users](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Thinkific/Thinkific_Send_users.ipynb)
 
 ## TikTok
+* [Get trending songs by keyword](https://github.com/jupyter-naas/awesome-notebooks/blob/master/TikTok/TikTok_Get_keyword_trending_songs.ipynb)
 * [Get user stats](https://github.com/jupyter-naas/awesome-notebooks/blob/master/TikTok/TikTok_Get_user_stats.ipynb)
 * [Get videos stats](https://github.com/jupyter-naas/awesome-notebooks/blob/master/TikTok/TikTok_Get_videos_stats.ipynb)
 

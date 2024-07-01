@@ -56,25 +56,38 @@ Since all our templates are open-source, errors may occasionally occur. We apolo
 ## How to contribute?
 
 ### Pre-requisites
-- Register for the [Open Source Contributor Program](https://bit.ly/3F8Jsjr) so we can add you to the team of contributors in the Naas GitHub organization. To start working on our repository, you must be a part of our [open-source contributors team](https://github.com/orgs/jupyter-naas/teams/opensource-contributors). Please check your email and validate the invitation before you begin working on a new issue.
-- Open a [free account on Naas Lab](https://app.naas.ai/) so we can test the templates in a similar environment.
+Register for the [Open Source Contributor Program](https://bit.ly/3F8Jsjr) so we can add you to the team of contributors in the Naas GitHub organization.
+
+To start working on our repository, you **MUST** be a part of our [open-source contributors team](https://github.com/orgs/jupyter-naas/teams/opensource-contributors). 
+
+Please check your email and validate the invitation before you begin working on a new issue.
 
 ### Step 1: Create or Select an Issue
 
-Identify or propose an issue you wish to work on. It could be a snippet of Python code, an API integration with a tool you are using, or an automation leveraging existing templates with our scheduler, asset, or webhook features. Before you start working on a task, it's important to properly prepare the issue:
-
+- Identify or propose an issue you wish to work on. It could be a snippet of Python code, an API integration with a tool you are using, or an automation leveraging existing templates with our scheduler, asset, or webhook features. 
 - Make sure the description is clear and concise.
 - Tag yourself in the Assignees section.
-- Create a new branch from the Issue in the Development section.
-
-If the Issue is already created, mentionned @FlorentLvr or @srini047 in a comment to be assign to the Issue.
-
-If it's your first contribution, we will review your application (Pre-requisites) and you will receive an email inviting you to join our team!
+- Click on "Create a new branch" on the Development section on the right side.
+- Mentionned @FlorentLvr in a comment to let us you started working on it.
 
 ### Step 2: Technical Setup
 
-Create your [GitHub personal access token](https://github.com/settings/tokens). Select “No expiration” and tick only the first section repository and keep your token safe as you won’t be able to generate it again. This token will allow you to commit, push and pull directly on our repository.
-Clone the awesome-notebooks repository on your Naas Cloud account and switch to the branch you created.
+- Create your [GitHub personal access token](https://github.com/settings/tokens). Select “No expiration” and tick only the first section repository and keep your token safe as you won’t be able to generate it again. This token will allow you to commit, push and pull directly on our repository.
+- Clone the awesome-notebooks repository and switch to the branch you created.
+
+```bash
+# First, clone the repository
+git clone https://github.com/jupyter-naas/awesome-notebooks.git
+
+# Navigate into the cloned directory
+cd awesome-notebooks
+
+# Fetch all branches from the repository
+git fetch
+
+# Checkout to the specific branch you want
+git checkout branch_name
+```
 
 ### Step 3: Work on Your Notebook
 
@@ -91,12 +104,25 @@ Start working on your notebook. Commit your work every time you make significant
     - feat: update tags, author, and description
     - feat: developing function in model to…
     - fix: adding try except to manage error on…
-- Once you're satisfied with the result, push to the branch by clicking on the icon on top (make sure you use a GitHub personal access token and not a password, otherwise, it won’t work).
-- Ensure the notebook respects the framework.
+- Once you're satisfied with the result, push to the branch.
+
+```bash
+# Navigate into the cloned directory
+cd awesome-notebooks
+
+# Add new template
+git add Tool/Tool_Your_template.ipynb
+
+# Commit with message
+git commit -m "feat: xxxx"
+
+# Push your work
+git push
+```
 
 ### Step 4: Open a Pull Request
 
-Open a Pull Request and add a Templates Maintainer as Reviewer: Florent (@FlorentLvr) or Srini (@srini047).
+Open a Pull Request and add a Templates Maintainer as Reviewer: Florent (@FlorentLvr).
 
 - Comment on the Pull Request with a brief summary of what you've done.
 - You will now discuss your work on the PR. If any changes are made, ensure you pull the branch before working on it again by clicking on the button at the top.
@@ -3189,16 +3215,22 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get Traffic Views on repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_Traffic_Views_on_repository.ipynb)
 * [Get a repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_a_repository.ipynb)
 * [Get active projects](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_active_projects.ipynb)
+* [Get comments and reactions from issue](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_comments_and_reactions_from_issue.ipynb)
+* [Get comments from issue](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_comments_from_issue.ipynb)
 * [Get commits from repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_commits_from_repository.ipynb)
 * [List commits history from file path](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_commits_history_from_file_path.ipynb)
 * [Get commits ranking from repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_commits_ranking_from_repository.ipynb)
 * [Get files added on pull request](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_files_added_on_pull_request.ipynb)
 * [Get files changed on pull request](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_files_changed_on_pull_request.ipynb)
+* [Get interactions from closed issues](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_interactions_from_closed_issues.ipynb)
+* [Get interactions from open issues](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_interactions_from_open_issues.ipynb)
+* [Get interactions from repository url](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_interactions_from_repository_url.ipynb)
 * [Get issues from repo](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_issues_from_repo.ipynb)
 * [Get most starred repos](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_most_starred_repos.ipynb)
 * [Get open pull requests](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_open_pull_requests.ipynb)
 * [Get profile from user](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_profile_from_user.ipynb)
 * [Get profiles from teams](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_profiles_from_teams.ipynb)
+* [Get reactions from comment](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_reactions_from_comment.ipynb)
 * [Get team membership for a user](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_team_membership_for_a_user.ipynb)
 * [Get weekly commits from repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Get_weekly_commits_from_repository.ipynb)
 * [List all pull requests](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_List_all_pull_requests.ipynb)
@@ -3212,6 +3244,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [List stargazers from repository](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_List_stargazers_from_repository.ipynb)
 * [List team members](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_List_team_members.ipynb)
 * [Peform basic actions](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Peform_basic_actions.ipynb)
+* [Rank interactions by contributors](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Rank_interactions_by_contributors.ipynb)
 * [Read issue](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Read_issue.ipynb)
 * [Remove directories with branches closed on my local](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Remove_directories_with_branches_closed_on_my_local.ipynb)
 * [Remove member from team](https://github.com/jupyter-naas/awesome-notebooks/blob/master/GitHub/GitHub_Remove_member_from_team.ipynb)
@@ -3562,6 +3595,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Ignore invitation received](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Ignore_invitation_received.ipynb)
 * [Maintain company posts stats database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Maintain_company_posts_stats_database.ipynb)
 * [Maintain profile posts stats database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Maintain_profile_posts_stats_database.ipynb)
+* [Rank Direct Conversations by Messages Count](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Rank_Direct_Conversations_by_Messages_Count.ipynb)
 * [Send comments from post to gsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_comments_from_post_to_gsheet.ipynb)
 * [Send company followers to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_company_followers_to_Google_Sheets.ipynb)
 * [Send connections to a Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_connections_to_Google_Sheets_spreadsheet.ipynb)
@@ -3650,16 +3684,21 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Sea level](https://github.com/jupyter-naas/awesome-notebooks/blob/master/NASA/NASA_Sea_level.ipynb)
 
 ## Naas API
+* [Create Asset](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Create_Asset.ipynb)
 * [Create Chat](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Create_Chat.ipynb)
 * [Create Chat Completion](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Create_Chat_Completion.ipynb)
 * [Create Chat Plugin](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Create_Chat_Plugin.ipynb)
 * [Create Model Completion](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Create_Model_Completion.ipynb)
 * [Create Workspace](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Create_Workspace.ipynb)
 * [Create Workspace Plugin](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Create_Workspace_Plugin.ipynb)
+* [Create Workspace Storage Credentials](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Create_Workspace_Storage_Credentials.ipynb)
+* [Delete Asset](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Delete_Asset.ipynb)
 * [Delete Chat](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Delete_Chat.ipynb)
 * [Delete Workspace](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Delete_Workspace.ipynb)
 * [Delete Workspace Plugin](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Delete_Workspace_Plugin.ipynb)
+* [Get Asset](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Get_Asset.ipynb)
 * [Get Chat Messages](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Get_Chat_Messages.ipynb)
+* [Get Personal Workspace](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Get_Personal_Workspace.ipynb)
 * [Get long lived token from Naas Lab](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Get_long_lived_token_from_Naas_Lab.ipynb)
 * [List AI Models](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_List_AI_Models.ipynb)
 * [List Chats](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_List_Chats.ipynb)
@@ -3668,6 +3707,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [List Workspace Users](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_List_Workspace_Users.ipynb)
 * [List Workspaces](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_List_Workspaces.ipynb)
 * [Stop Chat Completion](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Stop_Chat_Completion.ipynb)
+* [Update Asset](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Update_Asset.ipynb)
 * [Update Workspace](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Update_Workspace.ipynb)
 * [Update Workspace Users](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Naas%20API/Naas_API_Update_Workspace_Users.ipynb)
 
@@ -4417,6 +4457,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Send users](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Thinkific/Thinkific_Send_users.ipynb)
 
 ## TikTok
+* [Get trending songs by keyword](https://github.com/jupyter-naas/awesome-notebooks/blob/master/TikTok/TikTok_Get_keyword_trending_songs.ipynb)
 * [Get user stats](https://github.com/jupyter-naas/awesome-notebooks/blob/master/TikTok/TikTok_Get_user_stats.ipynb)
 * [Get videos stats](https://github.com/jupyter-naas/awesome-notebooks/blob/master/TikTok/TikTok_Get_videos_stats.ipynb)
 

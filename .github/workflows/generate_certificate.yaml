@@ -1,0 +1,104 @@
+name: Generate Certificate
+on:
+  pull_request:
+    types:
+      - closed
+    branches:
+      - master
+
+jobs:
+  generate_certificate:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.4
+
+      - name: Setup Python
+        uses: actions/setup-python@v2.2.2
+        with:
+          python-version: 3.8
+        
+      - name: Make request to get details
+        uses: satak/webrequest-action@master
+        id: webhook
+        # replace url with your organization's name if needed
+        with:
+          url: https://api.github.com/users/jupyter-naas
+          method: GET
+        
+      - name: Show request result
+        run: |
+          echo ${{ fromJson(steps.webhook.outputs.output).bio }}
+
+      - name: Create Temporary Output folder
+        run: | 
+            mkdir -p output/
+      
+      - name: Get required variables And run script
+        env: 
+          pr_name: ${{ github.event.pull_request.title }}
+          org_profile_url: ${{ fromJson(steps.webhook.outputs.output).html_url }}
+          repo_name: ${{ github.event.repository.name }}
+          contributor_name: ${{ github.event.pull_request.user.login }} 
+          issue_title: ${{ github.event.pull_request.head.ref }}
+          issue_number: ${{ github.event.pull_request.number }}
+          date: ${{ github.event.pull_request.created_at }}
+          logo_url: ${{ fromJson(steps.webhook.outputs.output).avatar_url }}
+          org_bio: ${{ fromJson(steps.webhook.outputs.output).bio }}
+          
+        run: |
+            pip install bs4
+            pip install requests
+            pip install pillow
+            echo "##########################"
+            
+            echo "pr_name: $pr_name"
+            echo "Org URL: $org_profile_url"
+            echo "repo_name: $repo_name"
+            echo "contributor: $contributor_name"
+            echo "user_name: $user_name"
+            echo "issue_title: $issue_title"
+            echo "date: $date"
+            echo "logo_url: $logo_url"
+            
+            echo "##########################"
+            python3 generate_certificate.py
+
+            cp $contributor_name.png output/
+
+      - name: Upload certificate to IMGBB with contributor name
+        env:
+          API: ${{ secrets.IMGBB_API }}
+        id: imgbb
+        run: |
+          RESPONSE=$(curl -s --location \
+                    --request POST "https://api.imgbb.com/1/upload?key=$API" \
+                    --form "image=@${{ github.event.pull_request.user.login }}.png")
+          URL=$(echo $RESPONSE | sed 's/^.*"display_url":"//' | sed 's/",.*$//')
+          echo "URL=$(echo $URL | sed 's#\\/#/#g')" >> $GITHUB_OUTPUT
+        # echo $URL 
+
+      - run: |
+            echo ${{ steps.imgbb.outputs.URL }}
+            echo "Thank you for your contribution @${{ github.event.pull_request.user.login }}, your PR has been merged into the master branch of awesome-notebook.
+            Here is the contribution certificate you can share on social media so everybody knows how awesome you are :call_me_hand::earth_americas:.
+            Spread the #opensource love  :green_heart:
+            
+            ![${{ github.event.pull_request.user.login }}.png](${{ steps.imgbb.outputs.URL }})" > output/results.md
+
+      - uses: actions/upload-artifact@v1
+        with:
+          name: results
+          path: output
+
+      - uses: actions/download-artifact@v1
+        with:
+          name: results
+
+      - name: comment PR
+        uses: machine-learning-apps/pr-comment@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          path: results/results.md

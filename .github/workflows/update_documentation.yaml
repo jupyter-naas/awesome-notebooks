@@ -1,0 +1,19 @@
+name: Update documentation
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  update-documentation:
+    if: "startsWith(github.event.head_commit.message, 'generateReadme:')"
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
+    - run: 'git config --global user.email "devops@cashstory.com"'
+    - run: 'git config --global user.name "Github Action"'
+    - run: "make interactive='' push-documentation"
+      env:
+        PERSONAL_ACCESS_TOKEN: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'

@@ -4458,6 +4458,8 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## TikTok
 * [Get trending songs by keyword](https://github.com/jupyter-naas/awesome-notebooks/blob/master/TikTok/TikTok_Get_keyword_trending_songs.ipynb)
+* [Get liked videos by profile](https://github.com/jupyter-naas/awesome-notebooks/blob/master/TikTok/TikTok_Get_liked_videos.ipynb)
+* [Get liked videos by profile](https://github.com/jupyter-naas/awesome-notebooks/blob/master/TikTok/TikTok_Get_liked_videos_transcripts.ipynb)
 * [Get user stats](https://github.com/jupyter-naas/awesome-notebooks/blob/master/TikTok/TikTok_Get_user_stats.ipynb)
 * [Get videos stats](https://github.com/jupyter-naas/awesome-notebooks/blob/master/TikTok/TikTok_Get_videos_stats.ipynb)
 

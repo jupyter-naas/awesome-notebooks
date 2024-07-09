@@ -3485,6 +3485,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Download PDF recap](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Insee/Insee_Download_PDF_recap.ipynb)
 
 ## Instagram
+* [Extract details from account](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Instagram/Instagram_Extract_details_from_account.ipynb)
 * [Get stats from posts](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Instagram/Instagram_Get_stats_from_posts.ipynb)
 * [Post image and caption](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Instagram/Instagram_Post_image_and_caption.ipynb)
 

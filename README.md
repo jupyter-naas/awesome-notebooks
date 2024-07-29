@@ -3486,6 +3486,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 
 ## Instagram
 * [Extract details from account](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Instagram/Instagram_Extract_details_from_account.ipynb)
+* [Get comments from post](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Instagram/Instagram_Get_comments_from_post.ipynb)
 * [Get stats from posts](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Instagram/Instagram_Get_stats_from_posts.ipynb)
 * [Post image and caption](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Instagram/Instagram_Post_image_and_caption.ipynb)
 
@@ -4498,6 +4499,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Get followers list](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Twitter/Twitter_Get_followers_list.ipynb)
 * [Get members of list](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Twitter/Twitter_Get_members_of%20list.ipynb)
 * [Get posts stats](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Twitter/Twitter_Get_posts_stats.ipynb)
+* [Get tweets by username](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Twitter/Twitter_Get_tweets_by_username.ipynb)
 * [Get tweets from search](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Twitter/Twitter_Get_tweets_from_search.ipynb)
 * [Get tweets stats from profile](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Twitter/Twitter_Get_tweets_stats_from_profile.ipynb)
 * [Get user data](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Twitter/Twitter_Get_user_data.ipynb)

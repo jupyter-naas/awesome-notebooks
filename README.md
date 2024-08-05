@@ -4388,6 +4388,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Create MT940 XML file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/SWIFT/SWIFT_Create_MT940_XML_file.ipynb)
 
 ## SendGrid
+* [Add or Update Contacts](https://github.com/jupyter-naas/awesome-notebooks/blob/master/SendGrid/SendGrid_Add_or_Update_Contacts.ipynb)
+* [Get Contacts](https://github.com/jupyter-naas/awesome-notebooks/blob/master/SendGrid/SendGrid_Get_Contacts.ipynb)
+* [Get Lists](https://github.com/jupyter-naas/awesome-notebooks/blob/master/SendGrid/SendGrid_Get_Lists.ipynb)
+* [Get Single Sends](https://github.com/jupyter-naas/awesome-notebooks/blob/master/SendGrid/SendGrid_Get_Single_Sends.ipynb)
+* [Get Unsubscribes](https://github.com/jupyter-naas/awesome-notebooks/blob/master/SendGrid/SendGrid_Get_Unsubscribes.ipynb)
 * [Get all messages](https://github.com/jupyter-naas/awesome-notebooks/blob/master/SendGrid/SendGrid_Get_all_messages.ipynb)
 * [Send message](https://github.com/jupyter-naas/awesome-notebooks/blob/master/SendGrid/SendGrid_Send_message.ipynb)
 

@@ -4161,6 +4161,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Search companies from keywords](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pappers/Pappers_Search_companies_from_keywords.ipynb)
 * [Setup connection](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pappers/Pappers_Setup_connection.ipynb)
 
+## Pennylane
+* [List all categories](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pennylane/Pennylane_List_all_categories.ipynb)
+* [List all customers](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pennylane/Pennylane_List_all_customers.ipynb)
+* [List customer invoices](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pennylane/Pennylane_List_customer_invoices.ipynb)
+
 ## Pillow
 * [Add data to image](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pillow/Pillow_Add_data_to_image.ipynb)
 * [Create indicator](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Pillow/Pillow_Create_indicator.ipynb)

@@ -2939,6 +2939,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Crawling a website](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Crawl_a_website.ipynb)
 * [Visualize status codes OK and KO](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Visualize_status_codes_OK_KO.ipynb)
 * [Visualize status codes count](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Advertools/Advertools_Visualize_status_codes_count.ipynb)
+- [skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) - Structured taxonomy for AI agent skills: discovery, classification and routing across multi-agent workflows.
 
 ## Affinity
 * [Sync with Notion database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Affinity/Affinity_Sync_with_Notion_database.ipynb)

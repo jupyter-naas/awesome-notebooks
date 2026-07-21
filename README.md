@@ -195,6 +195,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [📈 Consult an Expert: CMO](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AI%20for%20Work/AI_for_Work_Consult_an_Expert%3A_CMO.ipynb)
 * [🌐 Consult an Expert: COO](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AI%20for%20Work/AI_for_Work_Consult_an_Expert%3A_COO.ipynb)
 * [💻 Consult an Expert: CTO](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AI%20for%20Work/AI_for_Work_Consult_an_Expert%3A_CTO.ipynb)
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - GPL-3.0 autonomous penetration testing platform: per-technology agents, 80+ tools, proof-based findings, and a privacy gateway that keeps target data from the model.
 * [🎧 Consult an Expert: Call Center Agent](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AI%20for%20Work/AI_for_Work_Consult_an_Expert%3A_Call_Center_Agent.ipynb)
 * [🌱 Consult an Expert: Career Coach](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AI%20for%20Work/AI_for_Work_Consult_an_Expert%3A_Career_Coach.ipynb)
 * [👑 Consult an Expert: Chief Executive Officer (CEO)](https://github.com/jupyter-naas/awesome-notebooks/blob/master/AI%20for%20Work/AI_for_Work_Consult_an_Expert%3A_Chief_Executive_Officer_%28CEO%29.ipynb)
